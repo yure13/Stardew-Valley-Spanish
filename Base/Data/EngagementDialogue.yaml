@@ -16,24 +16,24 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Maru0: "I'm really excited.$h#$b#I'm going to be your wife. Hehe.$l" #!String
-    Maru1: "I need to get mentally prepared for being a farmer's wife." #!String
-    Leah0: "...$l#$e#I'm a little nervous. But happy.$h" #!String
-    Leah1: "I've always dreamed of living on a farm.$h#$e#I'm going to be so happy." #!String
-    Haley0: "I'm so happy!$h#$e#It's just like I always dreamed.$l" #!String
-    Haley1: "It's okay. I know we can't have a honeymoon, since your farm needs to be taken care of.#$e#I'm a farmer now, too!" #!String
-    Penny0: "@.. I'm a little scared. This is such a big change!#$e#Don't worry, I'm really happy, too.$h" #!String
-    Penny1: "We're going to have a little farm family, soon.$l#$e#I'm so glad you feel this way about me.$h" #!String
-    Abigail0: "Hehe. Me? Married? I never thought this would happen.$h#$e#We're going to have a lot of fun together.$h" #!String
-    Abigail1: "I'm engaged to a farmer. Wow!$h#$e#Our lives are going to be a lot different from now on.$l" #!String
-    Sam0: "I'm going to be really happy as your husband, @.$l#$e#I'm excited." #!String
-    Sam1: "I never dreamed this would happen. I'm so lucky.$l#$e#I can't wait till the wedding.$h" #!String
-    Sebastian0: "In a couple days I'm going to be living on a farm. I can't believe it.$h#$e#I'm happy, though.$l" #!String
-    Sebastian1: "When you showed up in town, I never thought I'd be marrying you some day.$l#$e#Life is strange, huh?$h" #!String
-    Harvey0: "Oh my goodness! I have so much to prepare before the wedding! I'm nervous.$l#$e#I'll be relieved after we're all settled in on your farm.$h" #!String
-    Harvey1: "I'm really happy.$h#$e#This was always my secret wish.$l" #!String
-    Elliott0: "The farm will be such a lovely place to write. I'm really looking forward to this.$h#$e#We're going to make a great pair.$l" #!String
-    Elliott1: "This is going to be such an adventure! I'm really excited. Aren't you?$h#$e#We can use my cottage as a beach house.$l" #!String
-    Alex0: "@, this is the greatest thing that could have happened.$l#$e#I can't wait.$h" #!String
-    Alex1: "I'm going to love being a farmer.$h" #!String
+    Maru0: "Estoy muy emocionada.$h#$b#Voy a ser tu esposa. Hehe$l" #!String
+    Maru1: "Necesito estar mentalmente preparada para ser la esposa de alguien que tiene una granja." #!String
+    Leah0: "...$l#$e#Estoy un poco nerviosa. Pero feliz.$h" #!String
+    Leah1: "Siempre soñé con vivir en una granja.$h#$e#Voy a ser tan feliz." #!String
+    Haley0: "¡Estoy tan feliz!$h#$e#Es como siempre lo soñé.$l" #!String
+    Haley1: "Está bien. Sé que no podremos tener una luna de miel, ya que tu granja necesita ser atendida.#$e#¡Ahora yo también soy granjera!" #!String
+    Penny0: "@.. Estoy un poco asustada. ¡Este es un gran cambio!#$e#No te preocupes, yo también estoy feliz.$h" #!String
+    Penny1: "Pronto tendremos una pequeñaa familia granjera.$l#$e#Estoy encantada de que sientas esto por mi.$h" #!String
+    Abigail0: "Hehe. ¿Yo? ¿Casada? Nunca pense que esto pasaría.$h#$e#Nos vamos a divertir mucho juntos.$h" #!String
+    Abigail1: "¡Estoy casada! ¡Y vivo en una granja! ¡Wow!$h#$e#Nuestra vidas van a ser muy diferentes a partir de ahora.$l" #!String
+    Sam0: "Seré muy feliz como tu esposo, @.$l#$e#Estoy emocionado." #!String
+    Sam1: "Nunca soñé que esto pasaría. Soy tan afortunado.$l#$e#No puedo esperar hasta la boda.$h" #!String
+    Sebastian0: "En un par de días voy a estar viviendo en una granja. No me lo puedo creer.$h#$e#Estoy tan feliz.$l" #!String
+    Sebastian1: "Cuando llegaste a la ciudad, nunca pensé que nos casaríamos algún día. $l#$e#La vida es extraña, ¿eh?$h" #!String
+    Harvey0: "¡Oh Dios mío! ¡Tengo tanto que preparar antes de la boda! Estoy tan nervioso.$l#$e#Estaré más tranquilo una vez nos mudemos a tu granja.$h" #!String
+    Harvey1: "Estoy muy feliz.$h#$e#Este siempre ha sido mi deseo secreto.$l" #!String
+    Elliott0: "La granja será un lugar encantador para escribir. Tengo muchas ganas de hacer esto.$h#$e#Haremos una gran pareja.$l" #!String
+    Elliott1: "¡Esto será toda una aventura! Estoy muy emocionado. ¿No lo estás tú?$h#$e#Podemos usar mi cabaña como casa de la playa.$l" #!String
+    Alex0: "@, esto es lo mejor que me ha ocurrido.$l#$e#No puedo esperar.$h" #!String
+    Alex1: "Me va a encantar ser granjero.$h" #!String
 
