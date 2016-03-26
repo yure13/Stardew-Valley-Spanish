@@ -1,0 +1,39 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Winter is kind of lame. There's too much snow to do anything fun.#$e#I guess some people like it." #!String
+    Mon: "I'm just looking forward to spring." #!String
+    Tue: "Hey, can you go find Haley and tell her I said 'hi'?" #!String
+    Wed: "People stay indoors a lot during the winter.#$e#If I read a book maybe I'd be less bored... nah." #!String
+    Thu: "When I turn pro, I'll be so rich that I'll get a vacation home in the tropics.#$e#Then I won't have to deal with these boring winters." #!String
+    Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
+    Sat: "There's some weird people living in this town.#$e#...like that girl Abigail. Is she a 'goth' or something?#$e#I don't understand it." #!String
+    Sun: "Hey, the football game is on today!#e#This might be my favorite day of the week." #!String
+    Fri4: "You came all the way through the snow to see me?#$e#That's nice of you.$h" #!String
+    Sat6: "The world is full of different kinds of people. It's interesting.#$e#Sometimes I don't understand why others act the way they do, but that's fine." #!String
+    Tue4: "Hey, @. Could you do me a favor?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks." #!String
+    Wed8: "People stay indoors a lot during the winter.#$e#You know what? I'm going to start reading a book!" #!String
+    Thu6: "I wish I could control the weather." #!String
+    Thu10: "If I ever make a lot of money, I'll make sure all my friends and family are taken care of.#$e#That means you, too.$h" #!String
+    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
+    Event_books2: "Yeah, I guess you're right...$s" #!String
+    Event_books3: "You were supposed to disagree with me.$a" #!String
+    Event_parents1: "That's an interesting thought..." #!String
+    Event_parents2: "They would never do that!$a" #!String
+    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+

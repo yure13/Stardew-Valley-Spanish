@@ -1,0 +1,43 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    7: "I wonder if any alien civilizations have built balloon cities on gaseous planets?#$e#Sorry, I get carried away sometimes." #!String
+    Mon2: "Hey, how's it going?#$e#I'm hungry.#$e#See you later." #!String
+    Mon6: "Have you been to the desert yet?#$e#You can find some interesting things there." #!String
+    Mon: "If I had a kite I would be flying it today.#$e#But I don't have a kite.$s#$e#Whatever." #!String
+    Tue: "Oh, hi! It's good to see you again.#$e#Goodbye for now." #!String
+    Tue4: "Hi, @. Do you want to hang out or something?#$e#I'm so energized during summer I hardly have to sleep!" #!String
+    Wed: "Hi. So, um... what do you do for fun?#$e#Sounds interesting." #!String
+    Wed2: "I saw a spider on my celing last night.#$e#I hope he doesn't crawl into my mouth.$s#$e#I bet your house is crawling with spiders, huh?$h" #!String
+    Wed6: "I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town." #!String
+    Wed10: "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$l" #!String
+    Thu6_1: "I think my Dad might be coming back next year.#$e#It's going to be weird. I haven't seen him in a while." #!String
+    Thu_1: "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He'll come back someday.#$e#I've heard a lot of terrible things about the Gotoro Empire...$s" #!String
+    Thu: "Dad was telling me about our enemy, the Gotoro Empire... They sound like a ruthless bunch.#$e#Have you heard about the super-elite agents the Gotoro Empire trains? Some of them even work as undercover spies in our land.#$e#You aren't a Gotoro spy, are you, @?$s" #!String
+    Thu6: "Sometimes I can hear my Dad pacing down the hallway at night.$s#$b#...But he won't talk to us about what's troubling him." #!String
+    Fri: "Well, I used to live in the city. I have to admit that this place is much nicer in the summer.$h#$e#The city is so hot with all that concrete." #!String
+    Fri10: "I think I've grown to really love this place.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    Sat4: "I just remembered I need to replace a string on my guitar. Okay, I'm going to put this rubber band on my wrist so I remember after you go.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h" #!String
+    Sat: "Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    Sun8: "I really wish we could see a flying saucer someday.#$e#It would be fun to fly up in a hot air balloon and go inside a cloud.$h#$e#I think the future is going to be full of great surprises.$h" #!String
+    Sun: "So... I'm also interested in hot air balloons.#$e#I like how simple they are." #!String
+    Event_band1: "That actually sounds like a really good idea!$h" #!String
+    event_snack1: "He's telling the truth, mom.$s^She's telling the truth, mom.$s" #!String
+    event_snack2: "Yeah... That's what happened!" #!String
+    event_snack3: "What!? He's lying!$a^What!? She's lying!$a" #!String
+

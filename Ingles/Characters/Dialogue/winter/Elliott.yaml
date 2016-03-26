@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "You've come to visit me in the cold?#$e#I could do with a respite from my lonely labors." #!String
+    Mon4: "@, you've trudged through the snow to visit me?#$e#I'm honored!$h" #!String
+    Tue: "People have scraped a living off the sea for thousands of years.#$e#I just go to the grocery store.$s" #!String
+    Tue10: "@, I hade a feeling that you would show up.#$e#Perhaps we're connected by an other-worldly thread.$l" #!String
+    Wed: "A day can never be boring when you follow the whims of your imagination.$u#$e#Sorry, am I babbling on about nonsense?#$e#I have a habit of spouting lofty nonsense, don't I?" #!String
+    Thu: "Breathe deeply. Do you notice it? That's the smell of the sea.#$e#How does it make you feel?" #!String
+    Thu6: "Breathe deeply. Do you notice it? That's the smell of the sea.#$e#Whenever I smell the sea, it reminds me of being a child. The ocean really impressed me as a child." #!String
+    Fri: "I have to brush my hair daily, or else it'll clump up into messy knots.#$e#It's a lot of work.#$e#I'm surprised I haven't just shaved it off in a fit of passion.$h#$e#I suppose I am too vain." #!String
+    Sat: "I've been doing little indoor exercises, since it's often too cold to go out.#$e#Sorry if it's a little humid in the cabin.$s" #!String
+    Sun: "I really should scrub my floorboards today. I think an algae is starting to form.$s#$e#Do you make time for cleaning?" #!String
+    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
+    event_toast1: "Well...okay.#$b#Here's to @!" #!String
+    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
+    event_toast3: "Hmmph...forget it.$a" #!String
+

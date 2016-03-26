@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I feel more energetic in this wonderful weather.$u" #!String
+    Tue: "Don't mind my husband, George. He isn't very friendly to strangers.#$e#If you get to know him better he'll warm up to you.#$e#I know you two will become good friends one day!$h#$e#Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year." #!String
+    Wed: "The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for months, so don't step on them!" #!String
+    Thu: "Today I'm baking cookies. They're coconut wonders shaped like little palm trees! Heehee.$h#$e#Maybe I'll tell you my recipe one of these days." #!String
+    Fri: "George spends the whole day in front of that darned television set.#$e#I wish he'd go outside more. Some fresh air would do him good." #!String
+    Sat: "Be careful out there, dear. You could get sunburnt!" #!String
+    Sun: "Sweet peas are in bloom right now.#$e#They have such a wonderful fragrance." #!String
+    Tue6: "It's nice of you to take the time to visit George and I.#$e#Without young people around, we'd age much faster.$h" #!String
+    Thu4: "It seems like we always have more visitors when I start baking cookies.#$e#My mother taught me the recipe." #!String
+    Event_cookies1: "Thank you!$h" #!String
+    Event_cookies2: "Oh dear... I must've left them in the oven too long.$s" #!String
+

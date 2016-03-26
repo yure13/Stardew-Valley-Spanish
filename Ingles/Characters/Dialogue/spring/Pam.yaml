@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine." #!String
+    Mon: "You know, I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
+    Tue: "Hey, you! Don't be snoopin' around the trailer when I'm out. Got it?$u#$e#Sorry, but I gotta be cautious with strangers." #!String
+    Tue2: "I was reading the newspaper this morning but then I got depressed.#$e#Keep your head screwed on right and you'll make it through in one piece.#$e#That's what my Pappy always used to say. Heh heh heh.$h" #!String
+    Wed: "Times have been tough lately. I got laid off from my job as a bus driver.$s#$e#If I got my job back I could drive you to the desert." #!String
+    Thu: "My house ain't pretty but at least it's by the river.#$e#Penny's my daughter. Be nice to her or leave her alone." #!String
+    Thu4: "My house ain't pretty but at least it's by the river.#$e#Penny's my daughter. Be nice to her or leave her alone.#$e#Penny says I spend too much time at the saloon...$s" #!String
+    Fri2: "I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#Scrapbooking? What's that?#$e#...Ehh. Maybe I'll play checkers against myself." #!String
+    Fri: "The last farmer who lived here was very popular with everyone in town.#$e#You've got some pretty big shoes to fill, kid." #!String
+    Sat: "Make sure your boots are clean before you go stompin' around in my house.$u#$e#It's annoying to clean a mess. You should know that by now." #!String
+    Sat4: "I wish a team of elves would come during the night and tidy up my house. Hahahaha.$h#$e#I could sure go for some parsnips.#$e#If my legs weren't so stiff I'd visit the mountains every now and then." #!String
+    Sun: "Are you friends with Gus? He's a pretty good guy." #!String
+    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
+    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+

@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
+    Tue: "Hi, stranger." #!String
+    Tue2: "Oh, it's Mr. @.^Oh it's Miss @.#$e#Do you need my help or something?" #!String
+    Tue6: "I had hopes and dreams like you, once... But look at me now.$s#$e#Life doesn't always turn out like you expect.#$e#Ah well. There's no sense dwellin' on what you don't have." #!String
+    Wed: "Havin' a local farm is good for our town." #!String
+    Wed4: "Maybe if you do real well on your farm it'll boost the local economy.#$e#Then everyone will have a job and we'll all be happy, right?" #!String
+    Thu: "Oh, hi there, farmer.#$e#I don't often chit-chat with strangers." #!String
+    Thu4: "I always seem to end up at the saloon at some point.#$e#It's too close to my house. It ain't healthy." #!String
+    Fri: "...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What 're you wastin' your time talkin' to someone like me for?" #!String
+    Sat2: "Don't mind that ol' dog next to the house.#$b#He might look at you cross, but he'll never get up from that box in a hunderd years." #!String
+    Sat: "Someone's been complainin' about the mess in my yard. Was it you?$u#$e#Hmmm..." #!String
+    Sun: "Are you friends with Gus? He's a pretty good guy." #!String
+    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
+    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+

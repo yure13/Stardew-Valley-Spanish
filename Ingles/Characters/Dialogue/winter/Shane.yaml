@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Tomorrow I go back to the city again, to work at the stadium.#$e#I've got to surround myself with sports if I hope to break into the industry!$u#$e#Plus, I get to eat all the jalapeno chips I want!$h" #!String
+    Mon4: "Hey, buddy.^Hey, @.#$e#I wish you could grow jalapenos on that farm of yours." #!String
+    Mon10: "Hi @! It's been a while! How are you doing?$h#$e#I've been doing well at my new job, but I always look forward to coming home on Mondays" #!String
+    Tue: "Me Shane." #!String
+    Wed: "Me Shane." #!String
+    Thu: "Me Shane." #!String
+    Fri: "Hey, I'm back. I just spent the last three days working at the stadium!#$e#We played some team from %place. It was a fun game!$h#$e#What? Oh. Yeah, our team lost.$s#$e#Alright, I'm gonna go put a frozen pizza in the oven or something." #!String
+    Sat: "*Sigh*... I was just daydreaming about sports again.$s#$e#I really really want to become a sports analyst. If I don't make it I'm going to be crushed.#$e#That reminds me, I need to update my sports website today." #!String
+    Sat4: "Oh, do you know that guy Josh? He thinks he's going to become a sports pro.#$e#At least my goals are a little bit more realistic." #!String
+    Sat8: "I'd like to start a small chicken farm someday.#$e#Well, I guess I'd like to have a large supply of jalapeno chips and pizza, too...#$e#Oh, sorry. I was getting carried away!" #!String
+    Sun: "I like living here because I get to be around chickens.#$e#I like how excitable chickens are. Each one has a different personality, just like people!#$e#Maybe if I don't make it as a sports analyst I will become a chicken man. Whatever that means.$h" #!String
+    Sun6: "I do like chickens, but I don't want to live with my aunt forever...$s#$e#Oh well..." #!String
+    event_room1: "Yea... maybe you're right... maybe I should focus on something more practical, like chicken farming.$s" #!String
+    event_room2: "Really? It makes me so nervous... but I want to do it." #!String
+

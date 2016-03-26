@@ -1,0 +1,25 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    5_2: "Whew, a whole year gone already! Well, I can safely say I exceeded my expectations for profits this past year...#$b#Did you break even at least?#$e#Maybe I'll go on a fishing trip this year... give you some time to catch up. Hehe.^Maybe I'll do a luxury spa getaway this year... " #!String
+    19_2: "$q 846/847 19_2_old#I swear, some of these townsfolk are so stupid... Don't you think?#$r 846 0 19_2_1#Yes...#$r 847 0 19_2_2#No. They are my friends!" #!String
+    19_2_old: "..." #!String
+    19_2_1: "...Man, the things you have to do to get this Stardew Hero trophy...^I'll have to remember and tell the Mayor you said that.#$e#...$h" #!String
+    19_2_2: "...Heh. Birds of a feather...#$e#Why don't you go chat with your country pals?^Why don't you go talk to some of your country pals, honey?" #!String
+    Fri: "Hey, since I'm so generous I'll give you a little tip, even though we're opponents: Don't forget to water your crops." #!String
+

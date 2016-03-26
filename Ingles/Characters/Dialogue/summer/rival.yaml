@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    5: "So you're my competition for Stardew Valley Hero, huh? *Snort*... Looks like I'll be winning the trophy without much effort.#$b#You'd do well to learn my name, @. My farm is already producing the tastiest Parsnips this side of the Gem Sea.^My farm is already producing the sweetest Yellow Peppers this side of the Gem Sea... If we weren't competing for Stardew Hero maybe I'd give you some lessons on farming. Sorry! *heehee*$h#$e#Good luck.$h" #!String
+    19: "I've got some big plans for my farm, @. But first I have to figure out how to get my old hens to lay eggs faster.^Oh... you still wear overalls? *Snort*..." #!String
+    5_2: "By now this old fool of a Mayor should love me.^I always wear farming gloves so my hands stay nice. Here, let me see your han...#$b#...I made a significant contribution to his re-election campaign. Well, significant for him, not for me Heheh.$s^Oh. ...Ew.$s#$e#Bye." #!String
+    19_2: "Feelin' pretty good, @... I just purchased my twelfth chicken. Say, have you repaired your coop yet? Last time I walked by it looked pretty filthy...^You know, if you plan your day well you can put aside some time to at least run a brush through your hair." #!String
+    Fri: "Good Evening, @. I'm just taking a day off to win the hearts of the local population.#$b#*whisper* Just between you and me... These people seem like a bunch of ridiculous clowns! *sigh* ...But I'll need to win them over to get my Stardew Hero Trophy.#$e#So, have you grown any crops yet?" #!String
+    12_2: "Hi @. Wow, you look tired." #!String
+    26_2: "Hi @. How long have you had those boots?" #!String
+

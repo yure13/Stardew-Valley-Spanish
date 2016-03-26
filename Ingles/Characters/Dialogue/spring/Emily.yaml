@@ -1,0 +1,36 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Welcome to Stardew Valley! My name is Emily.#$e#I think you're going to fit right in here." #!String
+    Mon: "Haley is my sister.#$b#She's quite a bit different than me, but I still love her.$h#$e#Then again, I love everyone!$h#$e#Hey, we're all just colorful little feathers on the great eagle of life. We gotta have love for each other if we want to soar!#$b#Sorry if that was a little cheesy.$u#$e#See you later." #!String
+    Mon6: "I wish Haley would get a job or at least contribute to cooking and cleaning.$s#$e#I think she's hoping to marry some rich guy." #!String
+    Tue: "I work part-time at Gus' saloon.#$e#But I'm also trying to start my own tailoring business!" #!String
+    Wed: "I think this town might be located near a powerful energy vortex.#$e#Let me know if you feel any unusual energy fluctuations.#$e#I hope you don't think I'm crazy. I'm not.$u" #!String
+    Thu: "$q 10/11 Thu_old#Your produce is organic, right?$u#$r 10 5 Thu_10#Of course! And it's also non-GMO.#$r 11 -5 Thu_11#Nope. Organic is for hippies.#$r 11 0 Thu_neutral#I don't even know what that means." #!String
+    Thu_old: "#$p 10#Hey, how's your organic farm coming along? I can't wait to try some of your produce.|Hi. How is your farm doing? I hope you aren't using too much pesticide." #!String
+    Thu_10: "Perfect! I knew you were a friend of the Earth!$h" #!String
+    Thu_11: "It makes me sad that you think that.$s" #!String
+    Thu_neutral: "Oh! Well then, nevermind.$s" #!String
+    Fri: "Another beautiful spring day.#$e#I bet Elliott could describe those clouds beautifully with a poem.#$e#Have you met Elliott? He lives in that old shack on the beach." #!String
+    Sat: "I like making my own clothes, but it's not easy to get cloth.#$e#And it's such a long trip to the city." #!String
+    Sun: "Hi @!#$e#Do you raise sheep in your barn? You can turn their wool into beautiful bolts of cloth!#$e#You'll need a loom, though. You can make them yourself!" #!String
+    Sun4: "This house was left in Haley's and my care by my parents. They've been travelling the world for the last two years.#$e#We have no idea when they'll be back.#$e#I enjoy living here, though. It's a beautiful area and the town is nice." #!String
+    event_dance1: "Thank you!" #!String
+    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
+    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+

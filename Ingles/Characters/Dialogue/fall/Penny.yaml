@@ -1,0 +1,44 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hi... Um, are you doing okay?" #!String
+    Mon4: "I don't exactly love being the only girl in town who lives in a trailer.#$e#I wish I could live in a nice house, someday.$s" #!String
+    Tue: "I walk by your farm on most days. It's a really nice area.#$e#I always feel best when I'm outside." #!String
+    Tue4: "Your farm looks really pretty right now.$h#$e#I always admire it when I walk by." #!String
+    Tue10: "A farm seems like a good place for children, don't you think?$l#$e#It was just a thought I had.$l" #!String
+    Wed: "Hi.#$e#I don't really know what to talk about today, sorry.$u" #!String
+    Wed4: "I really like to cook. I've invented a few dishes of my own.#$e#You'll have to taste them sometime.$h" #!String
+    Wed8: "It must be hard, cooking meals for yourself every day.#$e#Don't you wish you had someone to cook with?$l" #!String
+    Thu: "Have you been to the archaeological office? It's also a library.#$e#Reading is one of my favorite hobbies." #!String
+    Thu6: "Mom doesn't take very good care of herself...#$e#I worry about her." #!String
+    Fri: "If you dig in the dirt you cand find some interesting things.#$e#One time I found some old glass at the beach.#$e#I made a necklace out of the pieces, see?" #!String
+    Sun: "So, do you like to decorate your farm house?#$e#It must be nice having your own place to decorate." #!String
+    Sun6: "Would you like someone to decorate your house for you?#$e#I think it would be fun to come up with designs." #!String
+    Sun10: "@! I was just thinking about the future...#$e#Where do you picture yourself in ten years?$l#$e#I have a few ideas for myself...$u" #!String
+    Sat: "Hello. Ummm...#$b#The mountains look nice today, don't they?$u" #!String
+    Sat4: "I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself." #!String
+    Sat8: "Hi @.$h#$e#Your farmhouse must be pretty easy to clean, huh?" #!String
+    event_mail1: "Oh! You saw...?$l" #!String
+    event_mail2: "Oh...#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s" #!String
+    event_mail3: "I see." #!String
+    event_cook1: "Thank you! I'm proud of this dish." #!String
+    event_cook2: "...I'm sorry.$s" #!String
+    event_family1: "Me too.$h" #!String
+    event_family2: "...sorry.$s" #!String
+    event_family3: "I see.$s" #!String
+

@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hey there! I'm Robin, the town's carpenter.#$e#Have you met everyone in town yet? That sounds exhausting." #!String
+    Mon: "I built our house." #!String
+    Tue: "If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h" #!String
+    Wed: "Hey there, @.#$e#I'm just thinking about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?" #!String
+    Thu: "You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains." #!String
+    Fri: "You've met my son Sebastian, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him." #!String
+    Sat: "Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains.#$e#If you clean up the fields around here, there'll be more places for leeks and tulips to grow!" #!String
+    Sun: "I hope my husband doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants." #!String
+    Sun6: "Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?" #!String
+    event_wood1: "Great, then this blueprint should be a piece of cake for you!$h" #!String
+    event_wood2: "Well then I have the perfect blueprint for you to get started with!" #!String
+

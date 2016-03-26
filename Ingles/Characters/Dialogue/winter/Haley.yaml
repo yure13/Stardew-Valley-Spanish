@@ -1,0 +1,46 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    9: "Hmm. What brand is your shirt?#$e#Oh. Um, nevermind." #!String
+    Mon: "I want to move somewhere warmer." #!String
+    Tue: "Hi. Do you need something from me?#$e#..." #!String
+    Wed: "I wish someone would bring me a peppermint coffee.#$e#Don't even bother, I know you won't be able to make one." #!String
+    Thu: "I'm going to start writing a list of all the clothes I need for next spring." #!String
+    Fri: "Do you have a pony on your farm?$h#$e#Oh. That's disappointing...$s" #!String
+    Sat: "The only good thing about winter is I get to sleep more.#$e#I like at least 10 hours of sleep every night." #!String
+    Sun: "Will you say hi to Josh for me?#$e#Thanks." #!String
+    Tue2: "Your name is @, right?#$e#I keep forgetting." #!String
+    Tue4: "Hi @.#$e#Is anything exciting happening on your farm?" #!String
+    Wed6: "I think I'm starting to realize that how you look isn't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?" #!String
+    Thu6: "Maybe I'll donate some of my skirts to a charity this spring.#$e#I mean, I do have over 1,000 skirts.$h#$e#...what?" #!String
+    Sun6: "Um, if you see Josh could you tell him I'm busy today?#$e#Thanks." #!String
+    Mon8: "I wish it were warmer here in Stardew Valley.#$e#I could move somewhere else, but..." #!String
+    Fri8: "Do you think you'll ever have a pony on your farm?" #!String
+    Sat8: "I'm glad you have less work to do in the winter.#$e#It must be nice to have a break, huh?" #!String
+    Sun10: "@, you look rugged today. I like it.^@, you look pretty today.#$e#...$h" #!String
+    Event_clean1: "Hmmmmm... #$b#Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it." #!String
+    Event_clean2: "NO!! I'm not going to do it!$a#$b#You guys are both stupid!$a" #!String
+    Event_clean3: "She should take the 'high road'? What's that supposed to mean?#$b#You think I'm being a baby, huh?" #!String
+    Event_jar1: "Great, then you shouldn't have any problem opening this jar for me!$h" #!String
+    Event_jar2: "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?" #!String
+    Event_beach1: "No, you won't! This bracelet was passed down to me by my great-grandmother!$a" #!String
+    Event_beach2: "...Maybe someone across the sea will find it.$s" #!String
+    Event_room1: "Him? No!#$b#...Well, I guess I used to like Josh. But not anymore! He's immature." #!String
+    Event_room2: "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..." #!String
+    Event_room3: "Huh? What's an android?" #!String
+

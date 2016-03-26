@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I've explored deep into the caves.#$e#They hold some hidden secrets.#$e#Just be cautious if you go in there." #!String
+    Tue: "...Have you come to ridicule me?#$e#I'm just minding my own business." #!String
+    Wed: "I don't know you well enough to trust you. Sorry." #!String
+    Thu: "...Hmm?#$e#Do you want something from me?" #!String
+    Fri: "Please don't destroy my tent.#$e#It's happened before.$s" #!String
+    Sat: "I'm happy by myself.#$e#I don't need new friends." #!String
+    Sun4: "I wish people the townspeople could accept me for who I am.$s" #!String
+    Tue4: "I need to start gathering lumber for the winter.#$e#Do you have enough lumber to keep your house warm?" #!String
+    Wed4: "I don't have many responsiblities, so I spend my time thinking.#$e#You have to understand your thoughts before you can control them." #!String
+    Thu4: "The people here seem nice, but they avoid me.#$e#People are afraid of the unknown.$u" #!String
+    Fri4: "You can learn a lot from trees.#$e#Spend time with them and they will tell you their secrets.#$e#Go in peace, young one." #!String
+    Sat4: "I have everything I need to survive.#$e#Nature and books could keep me busy for ten thousand years.#$e#Unfortunately, I can't stick around for that long.$s" #!String
+    Sun: "I don't like to stay in one place for too long. There's just too much to experience in the world." #!String
+

@@ -1,0 +1,45 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hi... Um, do you want something?" #!String
+    Mon4: "My mom goes to the saloon too much.$s#$q 7/8 Mon_old#But it's best not to dwell on bad things, right?#$r 7 50 Mon_7#Right. It's best to be positive!#$r 8 10 Mon_8#I dunno, I think it's good to be realistic." #!String
+    Mon_old: "#$p 7#But if I keep trying I think I can get her to change.|I guess it makes sense. There's not much I can do to change it, anyway." #!String
+    Mon_7: "That's how I feel. I'm just going to focus on making the future better." #!String
+    Mon_8: "Maybe you're right. It's better to face reality.$u" #!String
+    Mon8: "I'm eager to move out. It's a burden to be worrying about mom all the time.#$e#I want her to be happy, but I can't stay here forever.$s" #!String
+    Tue: "I walk by your farm on most days. It's a really nice area.#$e#I always feel best when I'm outside, don't you?" #!String
+    Tue4: "Your farm looks really pretty right now.$h#$e#I always admire it when I walk by. The spring flowers make me feel alive." #!String
+    Tue10: "Um, @? A farm seems like a good place for children, don't you think?$l#$e#It was just a thought I had.$l" #!String
+    Wed: "Hi...#$e#I don't really know what to talk about today, sorry.$u#$e#..." #!String
+    Wed4: "I really like to cook. I've even invented a few dishes of my own.#$e#You'll have to taste them sometime.$h#$e#...If you're the adventurous type." #!String
+    Wed8: "It must be hard, cooking meals for yourself every day.#$e#Don't you wish you had someone to cook with?$l" #!String
+    Thu: "Have you been to the archaeological office? It's also a library.#$e#Reading can transport you to exciting new worlds.$h#$e#...But then you realize how dull your real life is.$s#$e#...Sorry. I got carried away." #!String
+    Thu6: "I wish I could keep a garden, but our yard is a mess.$u#$e#Oh well. Someday I'll live in a place where I can have a garden.#$e#Maybe I'll live on a farm! *giggle*$h" #!String
+    Fri: "If you dig in the dirt you cand find some interesting things.#$e#One time I found a really old piece of pottery. It had writing on it that I couldn't read.#$e#I wonder what other treasures are hiding under our feet?" #!String
+    Sat: "This is such a small town. You can't avoid meeting everyone.#$e#I wonder what it's like to live in the city?" #!String
+    Sun: "Hello. Ummm...#$b#The weather's interesting today, don't you think?#$e#Sorry..." #!String
+    Sun4: "I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself." #!String
+    event_mail1: "Oh! You saw...?$l" #!String
+    event_mail2: "Oh...#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s" #!String
+    event_mail3: "I see." #!String
+    event_cook1: "Thank you! I'm proud of this dish." #!String
+    event_cook2: "...I'm sorry.$s" #!String
+    event_family1: "Me too.$h" #!String
+    event_family2: "...sorry.$s" #!String
+    event_family3: "I see.$s" #!String
+

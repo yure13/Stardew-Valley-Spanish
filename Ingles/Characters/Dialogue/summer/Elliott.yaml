@@ -1,0 +1,34 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "This morning I awoke to the sun's gentle embrace.$u#$e#I'm sorry if that isn't very interesting to you." #!String
+    Mon4: "I know that I am kind of an 'oddball'.#$e#I hope you don't mind.$h" #!String
+    Mon6: "@, I know you have faith in my abilities as a writer. That means a lot to me.$h" #!String
+    Tue: "I've encountered some beautiful shells in front of my house.#$e#I would imagine the rarer varieties to be quite valuable." #!String
+    Tue6: "I write in hopes of connecting with others through time and space.$u#$e#*sigh*...times are changing, though. People don't read anymore.$s" #!String
+    Wed: "It must be satisfying to follow your crop from seed to harvest.#$e#It's as if your essence is infused into the fruit.$u" #!String
+    Thu: "Oh dear! My shoes are filled with sand.$s#$e#That's the trouble with living on the beach." #!String
+    Fri: "@? You look puzzled.#$b#I guess the hot summer air can make us a little dizzy." #!String
+    Sat: "Ugh... I hope I don't get sunburnt." #!String
+    Sun: "You came all the way here just to talk to me? How kind.$h" #!String
+    Sun4: "Visit my cabin whenever you like. I could use the company.$h" #!String
+    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
+    event_toast1: "Well...okay.#$b#Here's to @!" #!String
+    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
+    event_toast3: "Hmmph...forget it.$a" #!String
+

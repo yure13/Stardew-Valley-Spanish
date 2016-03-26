@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "It's a good season to experiment with some new wallpapers or floors, don't you think?$h#$e#Sorry if Pierre and I are promoting those wallpapers too much." #!String
+    Tue: "Winter is harsh, but you can dig up some roots if you're lucky.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food." #!String
+    Wed: "Hi there. Do you have everything you need for the farm?#$e#If not, we might be able to help you out.#$e#We carry a variety of useful items." #!String
+    Thu: "Everyone has their own little routine they follow.#$e#It's not a very exciting place, but you always know what to expect." #!String
+    Fri: "Even though it's cold, I still check on the public garden beds every now and then.#$e#I just want to make sure they aren't damaged too much before spring returns." #!String
+    Sat: "Don't you think Abby would look better with her natural hair color?#$e#She used to have light chestnut-colored hair." #!String
+    Sun: "Today I'm just going to relax and think positively.#$e#Do you ever take a day off?" #!String
+    Wed6: "Are you excited for the new year?#$e#I predict that you'll be super-successful on your farm.$h" #!String
+

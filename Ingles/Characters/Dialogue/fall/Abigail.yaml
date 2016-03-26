@@ -1,0 +1,49 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Ah... Fall's here!$h#$e#I was getting so tired of summer." #!String
+    16: "I wish we had a museum here." #!String
+    Mon: "Do you have any scarecrows on your farm?" #!String
+    Tue: "My Dad might be annoying but he does sell some cool wallpapers." #!String
+    Wed: "I can't wait to see some pumpkins this year.#$e#Pumpkins are so fun." #!String
+    Thu: "Last night I dreamt that my left hand had turned into a gigantic %noun.#$e#Does that mean anything?" #!String
+    Fri: "I've been talking to this girl online, her username is %name33.#$e#She's in this band called %adj %noun %noun. They sound pretty experimental." #!String
+    Sat: "What's it like to be @?#$e#Interesting." #!String
+    Sun: "I'm getting bored again.#$q 27/28 Sun_old#Hey, should I dye my hair black or crimson?#$r 27 10 Sun_27#Black#$r 27 10 Sun_27#Crimson#$r 27 20 Sun_WildColor#Sunshine yellow with baby blue stripes#$r 28 0 Sun_28#I like your hair just the way it is!" #!String
+    Sun_old: "$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?" #!String
+    Sun_27: "I guess that's a pretty safe choice, huh?#$e#I'll think about it." #!String
+    Sun_28: "Of course that's what you'd say.$u" #!String
+    Sun_WildColor: "You're always good for a laugh.$h" #!String
+    Wed2: "Are you growing pumpkins on your farm this year?#$e#Save one for me!$h" #!String
+    Tue4: "I might fight with my Dad, but deep down I still love him.$s#$e#Sorry, I just wanted to say that to you. Don't tell anyone." #!String
+    Sat6: "Hi.$h#$e#I like your hair." #!String
+    Mon8: "You know, I could actually see myself becoming a farmer some day...#$e#I wonder if that might ever happen?" #!String
+    Thu10: "I had an interesting dream last night, with you in it.#$e#It was a good dream.$h" #!String
+    Fri6: "Fall is such a beautiful time of year.#$e#It makes me feel like a little kid again." #!String
+    Fri10: "I usually feel lonely this time of year, but not anymore.#$e#@, what are your plans for the future?" #!String
+    Event_VideoGame_Yes: "Great! I'm sure you'll be able to beat this level with ease.$h" #!String
+    Event_VideoGame_No: "Oh? *sigh*... I guess I'll never get past this level, then...$s" #!String
+    Event_Rain_1: "I see..." #!String
+    Event_Rain_2: "Yes, you're the kind of person who would appreciate the somber beauty of rain." #!String
+    Event_Tragic_1: "Yeah... I guess my own life is okay...$s" #!String
+    Event_Tragic_2: "...!$h" #!String
+    Event_Tragic_3: "I would feel better if I could believe that...#$b#But I don't.$s" #!String
+    Event_Cave_1: "...Yeah." #!String
+    Event_Cave_2: "I guess when you have something to lose, it's normal to be afraid..." #!String
+    Event_Cave_3: "...Um, okay. Sorry." #!String
+

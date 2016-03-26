@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon4: "The Dwarves would have you believe that my people are the \"bad guys\". We see it differently.#$e#The Dwarves droves us out of our homes many years ago... Many of us died. We've been working to reclaim our land ever since.$s" #!String
+    Tue6: "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?" #!String
+    Wed4: "I'm not upset at you for slaying our king. Most of my people considered him a tyrant. He was too quick to suspect people of being dwarvish spies.#$e#I'm sure the dwarves were happy to hear it." #!String
+    Thu2: "The dwarves have scavenger parties that come to the surface at night. They sneak into your homes and take what they need.#$e#I live here so I can keep track of their movements." #!String
+    Fri: "..." #!String
+    Wed: "You're the one who defeated the \"shadow king\", correct?#$e#..." #!String
+    Thu: "Please don't tell anyone about me.#$e#Humans tend to destroy things they can't understand." #!String
+    Tue: "I am too sensitive to sunlight to go out during the day.#$e#The conditions in here are perfect." #!String
+    Mon: "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans." #!String
+    Sat: "On Fridays we stay silent as a sign of devotion to Yoba." #!String
+    Sun: "...Sorry, I'm still a little wary of humans." #!String
+

@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hey, it's a perfect time of year to gather wood.#$e#Maybe you can collect enough to upgrade your house!" #!String
+    Tue: "If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h" #!String
+    Wed: "Hey there, @.#$e#I'm just thinking about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?" #!String
+    Thu: "You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains." #!String
+    Fri: "My parents were bewildered when I told them I wanted to be a carpenter.#$e#They were pretty old-fashioned." #!String
+    Sat: "Our house is in such a beautiful area, don't you think?#$e#Everything looks still after a fresh snow." #!String
+    Sun: "I hope my husband doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants." #!String
+    Sun6: "Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?" #!String
+    event_wood1: "Great, then this blueprint should be a piece of cake for you!$h" #!String
+    event_wood2: "Well then I have the perfect blueprint for you to get started with!" #!String
+

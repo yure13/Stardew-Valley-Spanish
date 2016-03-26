@@ -1,0 +1,28 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Gardening is a hobby of mine, so I'm excited for this warm weather." #!String
+    Tue: "How did I become Mayor in the first place? It's a long story.#$e#We're both too busy for stories right now." #!String
+    Wed: "I've just started learning how to use these newfangled cell-~BRIINNNG~#$b#Hello? Yes! Can I put you on hold for a second? (Sorry @, I've got to take this call!)$u#$e#Uh huh... yes... Ok, that sounds perfect!$u" #!String
+    Thu: "The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti." #!String
+    Fri: "If you dig around on the beach you can find glass shards. Gunther trades complete glass panes for those shards.#$e#I guess some of the glass is really old.$h" #!String
+    Sat: "Everyone seems a little happier on the weekends, don't you think?#$e#I guess it's pretty obvious why!$h#$e#I'm on the job seven days a week, though." #!String
+    Sun: "Say, are you growing any blueberries on your farm?#$e#I do enjoy a fresh blueberry." #!String
+    event_secret1: "Thank you @. I won't forget this." #!String
+    event_secret2: "*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s" #!String
+

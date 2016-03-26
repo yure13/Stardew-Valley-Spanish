@@ -1,0 +1,35 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hello @.#$e#Make sure and take breaks from your work now and then." #!String
+    Mon4: "Come visit me if you need a break from your labors.$h#$e#I'm usually at my house." #!String
+    Tue: "It's been said that a pirate's ship, full of plundered gold, shipwrecked here a long time ago.#$e#That might explain the gold coin I found buried in the sand." #!String
+    Tue8: "@, I was just thinking about you.$l#$e#Maybe you sensed it.$h#$e#So! Tell me about your day." #!String
+    Wed: "It must be satisfying to follow your crop from seed to harvest.#$e#It's as if your essence is infused into the fruit." #!String
+    Wed8: "I wouldn't mind trying my hand at farming.#$e#Living on a farm might be good source of literary inspiration, nay?$h" #!String
+    Thu: "Oh dear! A tiny crab appears to have made his home in my shirt pocket.$l#$e#That's the trouble with living on the beach." #!String
+    Fri4: "My legs are stiff from sitting at my writing desk all night.$s#$e#Sometimes I envy you, @." #!String
+    Fri: "My legs are stiff from sitting at my writing desk all morning.$s" #!String
+    Fri10: "@, when you're around...I feel unusually creative.$l#$e#I'm sorry, but it's true." #!String
+    Sat: "It gets windy this time of year. I love it!$h" #!String
+    Sun: "I have to remember to water my plants today. And not with sea water this time!" #!String
+    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
+    event_toast1: "Well...okay.#$b#Here's to @!" #!String
+    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
+    event_toast3: "Hmmph...forget it.$a" #!String
+

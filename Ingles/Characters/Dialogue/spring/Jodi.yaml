@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hiya! I'm Jodi. Welcome to my humble little home.#$e#Sam is my son." #!String
+    2: "My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?" #!String
+    7: "Last night I visited Yoba's Altar to ask for my husband's safe return.#$e#The house seems so dreary without him.$s#$e#Sorry, I was rambling again...$s" #!String
+    Mon: "Maintaining a household is difficult work.$s#$e#But somebody's gotta do it!#$e#Yes?" #!String
+    Tue: "What? It's %time already? My goodness!#$e#I still have tons of work to do!$s" #!String
+    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!" #!String
+    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
+    Thu6: "Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?" #!String
+    Thu: "So you're a farmer, huh? Interesting.#$e#I've never met a farmer before." #!String
+    Fri: "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
+    Sat: "Hi.#$e#Need something?" #!String
+    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
+    Sun: "*yawn*... I could really go for a nap." #!String
+

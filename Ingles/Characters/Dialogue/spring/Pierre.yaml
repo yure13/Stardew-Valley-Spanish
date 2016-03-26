@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Check out that table with the seed packets on it. You'll need seed to grow crops.#$e#I sell different kinds every season." #!String
+    Tue: "Eventually I'll have new items to sell, so make sure you check in now and then!#$e#It's a lot of work to run a shop.$h" #!String
+    Wed: "It's my day off today." #!String
+    Thu: "Make sure and take a look at the daily wallpaper and flooring selection.#$e#You might find a design you really love.$h" #!String
+    Fri: "Hi there. Is your farm doing well?#$e#Maybe a few of my seeds will spruce things up." #!String
+    Sat: "Remember, you reap what you sow.$u#$e#So make sure to sow only Pierre's select seeds!$h#$e#Maybe that's a little too corny for a new slogan..." #!String
+    Sun: "If I didn't have this shop to run I would be outside right now.#$e#The flowers are in bloom and the air smells great." #!String
+    Wed6: "Hi @! It's nice to have a friend in town." #!String
+    Thu4: "Hey, @. You're my number one customer!#$e#A nice new wallpaper would probably make your job more cheerful, don't you think?" #!String
+    Event_naga1: "Thanks, I appreciate that. Just forget this ever happened, okay?" #!String
+    Event_naga2: "You would really do that to me? You're terrible.$s" #!String
+

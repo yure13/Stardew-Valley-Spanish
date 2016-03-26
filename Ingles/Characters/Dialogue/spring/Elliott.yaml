@@ -1,0 +1,45 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Ah, the new farmer we've all been expecting. I'm Elliott.#$e#It's a pleasure to meet you." #!String
+    Mon: "I'm kind of new to this town myself, but I really feel at home!$h#$e#I moved here only a year before you." #!String
+    Mon4: "I hope you've come to think of this place as 'home'." #!String
+    Tue: "I suggest you spend some time studying the clouds and the waves. You might discover something new.#$e#Well, I really must get back to my work." #!String
+    Tue6: "The sweet friction of pen and paper is the music of my soul.$u#$e#That's why I chose this beach as my home, so that I could have peace and quiet to do my work." #!String
+    Wed: "The forest is a wondrous place. Have you been there?" #!String
+    Wed8: "Sorry, I'm feeling morose today.$s#$e#I wish there was more certainty about the future.$s#$e#I don't want to grow old as a lonely hermit on this beach...$s" #!String
+    Thu2: "Lately I've been thinking about writing a novel...#$e#I want to accomplish something great before it's too late.$h" #!String
+    Thu6: "Sometimes I wonder if I might just have an inflated self-image and no real skills...$s#$e#No, I'm not fishing for compliments." #!String
+    Thu8: "The other day, when it was raining, I thought I saw a strange man standing on the beach.#$e#When I blinked, he was gone.$s" #!String
+    Thu: "Hello, @.#$e#Are you well?" #!String
+    Fri: "Sorry, I know this might be a little strange for me to talk to you about, but sometimes I wonder if I'm doing the right thing with my life...#$q 23/24 Fri_old#Just based off my looks, what would you think I am?#$r 23 5 Fri_23#A pirate.#$r 24 -5 Fri_24#A short-order cook. #$r 24 -5 Fri_24#An old goat.#$r 23 5 Fri_model#A model.#$r 24 -10 Fri_rude#A silly boy trying too hard to be cool." #!String
+    Fri_old: "$p 23#But with encouragement from nice people like you, I feel better.$h|I guess it's impossible to know, hmm?$s" #!String
+    Fri_23: "A life of adventure on the high seas? I think I could live with that.$h" #!String
+    Fri_24: "Goodness... that isnt' what I'd hoped to hear...$s" #!String
+    Fri_rude: "For goodness' sake... you must be the rudest person I've ever met...$s" #!String
+    Fri_model: "A model...? Oh! Well, um... thanks. That's very nice of you to say...$h" #!String
+    Sat: "Be careful in my cabin... there might be spiders lurking about." #!String
+    Sat6: "Some people are shy. Keep showing interest in them and they'll get comfortable around you.#$e#Everyone likes to have friends, even that grumpy blacksmith." #!String
+    Sun: "Hello. I trust everything is panning out as you'd hoped?" #!String
+    Sun4: "Feel free to visit my cabin any time you like.$h" #!String
+    Sun6: "Oh, @! I was hoping you'd show up.#$e#It's always a pleasure to see you.$h" #!String
+    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
+    event_toast1: "Well...okay.#$b#Here's to @!" #!String
+    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
+    event_toast3: "Hmmph...forget it.$a" #!String
+

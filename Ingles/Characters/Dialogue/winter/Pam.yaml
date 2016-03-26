@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "You got any hogs on that farm?" #!String
+    Tue: "Do you want somethin' from me, kid? Best look somewhere else." #!String
+    Tue4: "I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My skin feels like old parchment." #!String
+    Wed: "Hey kid. What're you up to?#$e#I'm just passin' time, same as always." #!String
+    Thu: "It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.#$e#Why don't you swing by the saloon later for a taste of the Oh-Be-Joyful?" #!String
+    Fri: "Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.#$e#I'm glad." #!String
+    Sat: "I oughta take up fishin', seein' as how close the river is." #!String
+    Sun: "My front yard's a mess.$s" #!String
+    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
+    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+
