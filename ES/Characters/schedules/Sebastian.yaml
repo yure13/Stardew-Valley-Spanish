@@ -1,0 +1,27 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  11: 1000 SebastianRoom 9 4 3 sebastian_computer/1200 SebastianRoom 6 5 3/1710 ScienceHouse 27 9 0/1800 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1
+  15: GOTO 11
+  rain: '1030 Beach 12 39 2 "El océano se disfruta mejor en soledad... ¿No crees?"/1700 SebastianRoom 11 9 1'
+  rain2: 1030 SebastianRoom 9 4 3 sebastian_computer/1500 Saloon 43 20 3/2110 SebastianRoom 11 9 1
+  fall: 1030 SebastianRoom 9 4 3 sebastian_computer/1200 Mountain 57 33 1/1400 Mountain 64 14 2/1500 Mountain 42 13 1 sebastian_smoking/1600 ScienceHouse 27 9 0/1730 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1
+  summer_4: '900 SebastianRoom 10 7 1 "Maldita sea... Casi olvido que hoy tenía cita con el doctor Harvey"/1000 Hospital 15 16 3 sebastian_cardsLeft/1330 Hospital 4 6 1 "¿Qué haces ahí? ¡Podría haber estado desnudo!$a"/1600 SebastianRoom 11 9 1'
+  11_6: GOTO spring
+  25_6: GOTO spring
+  Sat: 900 Town 18 95 0/1230 SamHouse 19 18 0 sebastian_keyboard_up/1500 SamHouse 17 14 0/1800 Town 10 94 1 sebastian_smoking/1930 SebastianRoom 11 9 1
+  Thu: 1030 SebastianRoom 9 4 3 sebastian_computer/1400 Railroad 32 47 1 sebastian_smoking/1800 Railroad 64 45 3/1930 Railroad 5 45 1/2130 SebastianRoom 11 9 1
+  Fri: '1030 SebastianRoom 9 4 3 sebastian_computer/1500 Saloon 42 21 3 "¿Debería dejar ganar a Sam alguna vez? ...Nah.$h"/2110 SebastianRoom 11 9 1'
+  spring: 1030 SebastianRoom 9 4 3 sebastian_computer/1500 ScienceHouse 27 9 0/1530 SebastianRoom 9 4 3 sebastian_computer/1830 Mountain 58 35 1 sebastian_smoking/2130 SebastianRoom 11 9 1
+  default: GOTO spring

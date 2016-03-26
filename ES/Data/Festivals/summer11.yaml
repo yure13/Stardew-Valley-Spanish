@@ -1,0 +1,58 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  name: Luau
+  conditions: Beach/900 1400
+  set-up: event2/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Luau/loadActors Set-Up/addTemporaryActor Governor 16 32 32 4 2/advancedMove Vincent true 3 0 3 3000 -3 0 3 3000/advancedMove Jas true 3 0 1 3000 -3 0 1 3000/advancedMove Pam true 4 25000 -5 0 4 20000 5 0/advancedMove Gus True 0 -1 3 4000 0 1 3 4000/advancedMove Shane true 1 10000 0 1 1 10000 0 -1/advancedMove Clint true 4 15000 -3 0 4 15000 6 0 4 10000 -3 0/animate Emily false true 250 16 17 16 17 20 21 20 21 18 19 18 19 22 23 22 23/animate Robin false true 500 20 21 20 22/animate Demetrius false true 500 24 25 24 26/animate Marnie false true 200 17 18 17 19/positionOffset Marnie 0 16/viewport 38 2 clamp true/pause 1000/playerControl luau
+  mainEvent: 'pause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis "Bueno, es hora de la ceremonia de la olla.#$b#Confío en que este año todos hayáis puesto ingredientes de buena calidad en la olla. ¡No queremos que el Gobernador se arrepienta de haber visitado el valle!"/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis "¿Y bien... Gobernador? ¿Nos haría el honor de probar la sopa?"/pause 500/speak Governor "¡Por supuesto! He esperado este momento todo el año."/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor "...$h"/pause 300/cutscene governorTaste/null'
+  governorReaction5: 'emote Governor 40/pause 400/speak Governor "Hmmm... Bueno, no está mal, pero le falta algo...$s#$b#¿Han contribuido todos los ciudadanos con un ingrediente? Siento como si faltase el de alguien."/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis "Tiene razón... Le falta sabor.$s"/pause 1000/speak Lewis "Bueno, gracias por acompañarnos este año, Gobernador. Siento que la sopa no fuese nada especial."/pause 500/faceDirection Lewis 2/speak Lewis "Bien... ¿Quién más quiere probar la sopa?"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message "A la sopa le faltaba sabor, ¡pero el Luau fué divertido!"/pause 500/message "Hora de volver a casa."/end'
+  governorReaction4: 'emote Governor 16/pause 600/shake Governor 1000/jump Governor/pause 800/playMusic SettlingIn/speak Governor "Oh Dios... ¡esta es la mejor sopa que he probado nunca!$h"/shake Governor 5000/animate Governor false true 100 9 10 11 11 10/pause 800/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis "Tienes razón... ¡está deliciosa!$h"/pause 500/faceDirection Lewis 2/speak Lewis "¡Buen trabajo a todo el mundo! Ahora... ¿quién más quiere probarla?$h"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message "El Gobernador no estaba de broma... ¡la sopa está buenísima!"/pause 500/message "Hora de volver a casa."/end'
+  governorReaction3: 'emote Governor 32/pause 400/playMusic jaunty/speak Governor "Ah... Esta sopa está muy buena. ¡Los productos de este valle nunca decepcionan!"/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis "Mmm... sabrosa. Todos lo habéis hecho muy bien hoy."/pause 500/faceDirection Lewis 2/speak Lewis "Ahora... ¿quién más quiere sopa?"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message "¡El Luau ha sido un éxito! Menos mal que traje algo delicioso para la sopa."/pause 500/message "Hora de volver a casa."/end'
+  governorReaction2: 'pause 400/playMusic ocean/speak Governor "Mmm... no tengo mucho que decir sobre esta sopa. Es una sopa normal."/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis "Tiene razón... No es nada especial. Aunque no está mala."/pause 500/faceDirection Lewis 2/speak Lewis "Bueno... ¿quién más quiere sopa?"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message "La sopa estaba normal, pero por lo demás, ¡El Luau ha sido un éxito!"/pause 500/message "Hora de volver a casa."/end'
+  governorReaction1: 'emote Governor 28/pause 400/playMusic ocean/speak Governor "Um... la verdad es que está un poco mala. Creo que voy a pasar de la sopa este año.$s"/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis "Puaj. Alguien debe haberla arruinado con un ingrediente de mala calidad.$s"/pause 500/faceDirection Lewis 2/speak Lewis "Bueno... ¿alguien quiere un poco?"/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message "La sopa no estaba muy buena, ¡pero por lo demás la Luau ha sido un éxito!"/pause 500/message "Hora de volver a casa."/end'
+  governorReaction0: 'pause 500/showFrame Governor 13/pause 500/shake Governor 2000/emote Governor 12/pause 500/speak Governor "¡Puaj! ¡Esto es repugnante! Creo que me estoy poniendo malo... $u"/showFrame Governor 13/jump Lewis/pause 800/speak Governor "Necesito tumbarme...$u"/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis "Bien hecho, gente... ¡El que la haya liado parda con la sopa ha dejado al Gobernador echo polvo! Que vergüenza.$4"/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis "Todo el mundo a su casa, el festival se ha terminado.$s"/pause 500/globalFade/viewport -1000 -1000/message "Que desastre..."/pause 500/message "Hora de ir a casa."/end'
+  Governor: 'Qué momento más encantador... Siempre es un placer visitar Stardew Valley.#$e#He de hablar con mi mujer para comprar una casa de vacaciones aquí.'
+  Abigail: Es agotador hablar con todo el mundo... Preferiría contemplar el mar.
+  Emily: '%Ella es insensible.'
+  Robin: Ouch... Me has pisado el pie.
+  Demetrius: 'Esto es agotador, cariño. ¿Estás preparado para visitar el buffet pronto?*resoplido*'
+  Maru: 'Sea lo que sea lo que Linus está asando, huele extremadamente bien... *sorbe*'
+  Sebastian: 'Un año, Sam puso medio kilo de anchoas en la sopa.#$e#¿No te has preguntado nunca por qué Sam hace tantas horas de servicios comunitarios?$h'
+  Linus: Darle la vuelta de forma lenta y continua es la clave para conseguir el tostado ideal.
+  Pierre: 'Hmm... Tal vez si pillo al gobernador de buen humor me haga un descuento en los impuestos de mi negocio...#$b#Me pregunto si le gustará el whisky añejo.#$e#Ahora sólo queda que el alcalde pare de hablar con él toda la tarde.'
+  Caroline: He puesto las verduras de mi huerto en la sopa.
+  Alex: Un día perfecto para una fiesta en la playa, ¿eh?
+  George: '¡Esa música es demasiado ruidosa!#$b#¿No puedo tener un poco de paz y tranquilidad para disfrutar el océano?'
+  Evelyn: Ahh... El olor del océano me transporta muchos años atrás. Mucho antes de que tú nacieras.
+  Lewis: '¡Atento! El El gobernador está aquí para su visita anual.#$b#Si has comprado algo para el guiso asegúrate de añadirlo a la olla.'
+  Clint: Estoy lleno, pero... ¿qué más se puede hacer aparte de comer?
+  Penny: 'Hacemos este festival todos los años para que el gobernador pruebe todo lo que el valle puede ofrecer.#$e#El alcalde Lewis espera que el gobernador esté de buen humor. Por eso está tan obsesionado con el sabor de la sopa.'
+  Pam: Je... comida gratis. Una de las ventajas de vivir aquí. ¡Disfruta de ella!
+  Haley: Me gustaría bailar, pero no quiero sudar.
+  Jodi: Espero que este año la sopa esté buena.
+  Kent: Hola, me alegro de verte.
+  Marlon: Volveré a los árboles... Allí no hace tanto calor.
+  Sam: '¿El gobernador? A quién le importa...#$e#¿Por que debería tener cuidado con ese viejo sin importancia?'
+  Leah: ¿Cómo van las cosechas? Debes de haber trabajado mucho esta temporada.
+  Shane: Wow... No se consigue un chutney picante como este en la gran ciudad...
+  Marnie: Si has traído algo para la sopa, sube las escaleras del otro lado y échaselo.
+  Elliott: 'Me desperté tarde, salí por la puerta... ¡y me encontré en medio de todo este barullo!#$E#Me olvidé de que hoy era el Luau.$H'
+  Gus: ¡Estas malditas moscas no paran de posarse en la comida!
+  Dwarf: '¿Dices que está lloviendo por allí arriba? *traga saliva*#$e#Lluvia... Algo casi mítico para nosotros. Algunos pasamos toda la vida sin verla.'
+  Wizard: 'A las sirenas le parecen curiosas vuestras fiestas.#$E#Pero no les gusta que se tire basura en el océano.'
+  Harvey: 'Lo bueno es que vine con protector solar.#$E# Me pregunto si Maru podría utilizar un poco de protector solar en los hombros...'
+  Sandy: 'He oido que la lluvia ha vuelto. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia... $s'
+  Jas: Vincent no es un buen bailarín.
+  Vincent: Estoy aburrido...
+  Willy: 'Hola, @. ¿Descansando?#$E#Si te digo la verdad, preferiría estar pescando.'

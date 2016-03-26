@@ -1,0 +1,46 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    9: "I ordered a new pair of shoes online. I hope they fit." #!String
+    14: "Hi @.#$e#Hmm.. I wonder if I could grow a cactus in my room?" #!String
+    16: "I ordered some shoes online more than a week ago! Man, they're really taking a long time.#$e#I guess we must really live in the middle of nowhere." #!String
+    21: "Hi @.#$e#For some reason I was thinking about bonsai trees when you showed up." #!String
+    23: "Hey, my new shoes came in the mail! They fit pretty good.#$e#They're a little stiff, but I think they'll break in." #!String
+    28: "Hi @.#$e#Today I saw a cloud shaped like a duck.$h" #!String
+    Mon2: "I like when the wind blows in fall. All the leaves flutter around like a flock of sun parrots.#$e#...$h" #!String
+    Mon: "Oh, hi. Are you making friends with anyone in town?#$e#Bye." #!String
+    Tue: "Blah. I hate shopping for new clothes.#$e#My shoes have big holes in them, though.$s" #!String
+    Tue4: "Hi, @. Do you want to hang out or something?#$e#Just stop by whenever you want." #!String
+    Wed: "Something smells good, like pizza.#$e#Do you smell that? Maybe my mom is cooking something." #!String
+    Wed6: "I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town." #!String
+    Wed10: "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$l" #!String
+    Thu6_1: "I think my Dad might be coming back next year.#$e#I guess that's kind of soon. Weird." #!String
+    Thu_1: "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He'll come back someday.#$e#I've heard a lot of terrible things about the Gotoro Empire...$s" #!String
+    Thu6: "I guess I should start thinking about moving out soon...$s#$e#...But I would miss my Mom's fish casserole, so I dunno...$s" #!String
+    Thu: "Did you ever notice all the spider webs that appear during the fall?#$e#If you get up early you'll see them covered in dew... like little stars." #!String
+    Fri: "I used to live in the city, you know. It's a lot busier.#$e#There's way more people around you, always.#$e#I guess which one you like depends on your personality." #!String
+    Fri10: "I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    Sat4: "I'm lucky to have the biggest room in the house to myself.#$e#I guess there's advantages to not having siblings." #!String
+    Sat: "Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    Sun8: "The first week of fall is already over. Man, that went by fast.$s#$e#Whatever. I'm just happy that you came to visit me!#$e#So do you have anything new to tell me?" #!String
+    Sun: "Hi @.#$e#Hmm.. I wonder if a gecko makes a good pet?" #!String
+    Event_band1: "That actually sounds like a really good idea!$h" #!String
+    event_snack1: "He's telling the truth, mom.$s^She's telling the truth, mom.$s" #!String
+    event_snack2: "Yeah... That's what happened!" #!String
+    event_snack3: "What!? He's lying!$a^What!? She's lying!$a" #!String
+

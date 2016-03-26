@@ -1,0 +1,58 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: '¡Ooh!... Puedo verlo en tu cara. Te va a encantar estar aquí en Pueblo Pelícano.#$b#Si alguna vez buscas algo que hacer por la noche, pásate por el salón. ¡Ahí es donde trabajo!'
+  Mon: ¿Te dicho que Haley y yo somos hermanas? Extraño, ¿no?
+  Mon6: 'Me gustaria que Haley encontrara un trabajo o, al menos, que ayudara a cocinar y limpiar.$s#$e#Creo que esta esperando a casarse con algún ricachón.'
+  Tue: Trabajo a tiempo parcial en el salón de Gus. Eso paga las facturas.
+  Tue4: 'Estoy trabajando con Gus para llegar a fin de mes... pero mi verdadera pasión es la sastrería.#$e#He hecho esta ropa desde cero.'
+  Wed: He escuchado rumores sobre extraños y poderosos anillos mágicos, forjados hace mucho tiempo por civilizaciones olvidadas. No estoy segura de si es verdad o solo un cuento de hadas.
+  Thu: 'Espero que estés cultivando de forma ecológica. ¡El ecosistema del valle es frágil!#$e#¿Que cómo lo sé? ¡Tengo un sexto sentido!'
+  Fri: 'Ah, primavera. La estación de los tonos pastel. Aunque personalmente prefiero los tonos joya.#$b#Oh, perdón! Estaba hablando de moda otra vez, ¿verdad?'
+  Sat: 'Me gusta fabricarme mi propia ropa, pero no es fácil conseguir tela.#$e#Hace falta ir a la ciudad y es un largo viaje.'
+  Sun: 'Hola @!#$e#¿Crías ovejas en tu establo? ¡Puedes convertir su lana en preciosas madejas de tela!#$e#Aunque para ello necesitarás un telar. Puedes construirlo tu mismo si conoces la receta.^Aunque para ello necesitarás un telar. Puedes construirlo tu misma si conoces la receta.'
+  Sun4: 'Mis padres nos dejaron al cuidado de esta casa a mi y a Haley. Han estado viajando por todo el mundo los últimos dos años.#$e#No tenemos ni idea de cuando volverán.#$e#Aunque, me gusta vivir aquí. Es una zona preciosa y el pueblo es bonito.'
+  event_dance1: ¡Gracias!
+  event_dance2: Um... Vale. Perdón si no te gustó. Supongo que estos tres meses de práctica han sido en vano...$s
+  event_dance3: '¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado.'
+  summer_Mon: Haley es muy delicada comiendo. Es muy difícil cocinar para ella.
+  summer_Tue: 'Hola, @.#$e#me siento perezosa hoy. $h'
+  summer_Sun6: '¡Hola, @! Nos hemos vuelto buenos amigos, ¿verdad?^¡Hola, @! Nos hemos vuelto buenas amigas, ¿verdad?$h#$e#Eso esta perfecto por mi. Eres guay.^Me alegra.$h'
+  summer_Wed: 'No llueve mucho en verano, ¿No?#$e#Eso significa para ti más trabajo regando, ¿Eh?#$e#¿O te gusta que esté soleado?'
+  summer_Thu: ¡Considero a las abejas y a las mariposas como mis amigas especiales!
+  summer_Fri: '¡Si no estubiera tan ocupada iría a ayudarte en la granja!#$e#Pero Gus se molestaría si tuviera otro trabajo...$s'
+  summer_Sat: ¡No trabajes en exceso o podrías acabar en la clínica de Harvey!
+  summer_Sun: ¡Hola @!
+  fall_1: Bien, el otoño ya está aquí. Es hora de plantar una nueva cosecha, ¿no?
+  fall_Mon: Hace un buen día para un picnic, ¿verdad?
+  fall_Mon8: ¡Si no tuviera que trabajar propondría un buen picnic!
+  fall_Tue: Hola. ¿Disfrutaste del verano?
+  fall_Tue4: '¡Hola @! Apuesto a que te fue genial en la granja este verano.#$e#Eres un granjero excelente.^Eres una granjera excelente.$h'
+  fall_Wed: 'Mi amiga tiene una tienda en el desierto. Si alguna vez pasas por allí, salúdala de mi parte.#$e#Creo que vende algunos productos raros.'
+  fall_Thu: '¿Eres amigo de Clint? Es un buen tipo si lo conoces bien.^¿Eres amiga de Clint? Es un buen tipo si lo conoces bien.#$e#Trabaja solo en su tienda todo el día. Pero es tan tímido que tiene problemas para hacer nuevos amigos.'
+  fall_Fri: 'Otro hermoso día de otoño.#$e#Es una lástima que pronto se acabe.'
+  fall_Sat: 'Mantén tu mente abierta y algunas cosas interesantes pueden florecer.#$e#¿Cómo te va el día?'
+  fall_Sat6: No tengo grandes planes. Prefiero no estresarme mucho pensando en el futuro.
+  fall_Sun: ¡No hay nada como un domingo soleado para levantar los ánimos!
+  fall_Sun10: ¡Eres una buena persona, @! Gracias por ser mi amigo.^¡Eres una buena persona, @! Gracias por ser mi amiga.$h
+  winter_Mon: ¡Ten cuidado de que un témpano no te caiga en la cabeza!
+  winter_Mon10: ¡Ten cuidado que no te caiga un témpano de hielo en la cabeza! ¡No querría que mi mejor amigo se hiciera daño!^¡Ten cuidado que no te caiga un témpano de hielo en la cabeza! ¡No querría que mi mejor amiga se hiciera daño!
+  winter_Tue: 'Oh, Hola @!$h#$e#Debes de estar muy bien en la granja, ¿Eh?'
+  winter_Tue4: ¡Apuesto a que te has convertido en un granjero excelente!^¡Apuesto a que te has convertido en una granjera excelente!
+  winter_Wed: 'Haley y yo no estamos hechas para vivir en una casa grande. Es un lio mantenerla limpia.#$e#Bueno. No debería quejarme.#$e#Tu casa parece agradable y acogedora.$h'
+  winter_Thu: 'Debe de hacer mucho frío para los pobres peces.$s#$e#Me pregunto si algún pez hibernará... Quizás debería preguntarle a Demetrius.'
+  winter_Fri: 'Si no estuviera tan ocupada te ayudaría a excavar en la cueva que hay junto al lago.#$e#Apostaría que hay cristales poderosos ahí dentro.'
+  winter_Sat: "¿Sabes como preparar 'estofado de judías'?#$e#Me gusta un montón ese plato.$h#$e#Pero es difícil conseguir ingredientes frescos en invierno, ¿verdad?"
+  winter_Sun: '¡Hola!#$e#... ¿Sí?'
+  winter_Sun6: 'Mi hermana y yo peleamos a veces, pero la echaría de menos si se fuera.#$e#Creo que se convertirá en una jovencita muy agradable algún día... No le digas que he dicho esto.$h#$e#Bueno, ¿Hay algo de lo que quieras hablar?'

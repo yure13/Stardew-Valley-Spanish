@@ -1,0 +1,25 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Algunos vecinos son recelosos de los extraños. Tendrás que ganarte su confianza.#$e#Se persistente y lo conseguirás.$h'
+  Tue: 'Era esta época del año cuando me convertí en alcalde, hace más de veinte años.#$e#Eso me hace sentir muy viejo.$s'
+  Wed: Si tienes alguna sugerencia para la ciudad solo tienes que dejar una nota en mi buzón de sugerencias.
+  Wed_2: '¿Recuerdas cuando te hablé de mi buzón de sugerencias?#$b#...Bueno, en realidad no tengo ninguno.$s#$b#Perdona por la mentirijilla. A veces no soy el mejor modelo a seguir.'
+  Thu: 'Por la noche el bar se anima bastante.#$e#Me gusta ir una vez a la semana para ponerme al día.'
+  Fri: Espero que las cosas te estén yendo bien en la granja.
+  Fri_4: 'Entonces... ¿Has probado la salsa secreta de Gus para espaguetis?$s#$b#... Quizá los ingredientes sean un secreto, pero el olor no lo es.#$b#Nos vemos.'
+  Sat: 'Todos parecen un poco más feliz los fines de semana, ¿no crees?#$e#¡Creo que es bastante obvio el porqué!$h#$e#Yo, sin embargo, trabajo toda la semana.'
+  Sun: ¿Te estás esforzando con la granja, @? Deberás hacer de todo si quieres convertirte en una leyenda de Stardew.
+  event_secret1: Gracias @. Nunca lo olvidaré.
+  event_secret2: '*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres terrible.$s'

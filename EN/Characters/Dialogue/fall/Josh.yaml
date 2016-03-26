@@ -1,0 +1,43 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Sure, it's getting colder... But it's still warm enough for sports!#$e#That's all I care about." #!String
+    Mon: "My Grandma told me I should spend more time studying.#$e#I was like, 'PSHHHAWW... Grams, don't fret. I'm turning pro!'$h#$e#Studying is for nerds, anyway." #!String
+    Tue: "Hey I saw they have this cool sports wallpaper at Pierre's shop.#$e#I would get it if I had money to waste." #!String
+    Wed: "$q 54/55 Wed_01_old#Hey man, do you think the girls dig my hair?^Hey, how do you like my new hairstyle?#$r 54 30 Wed_01_01#It looks very fashionable.#$r 55 -30 Wed_01_02#It looks like some kind of fungal growth." #!String
+    Wed_01_old: "I put too much gel in my hair today. It kind of hurts.#$e#Don't touch it!#$e#...what?" #!String
+    Wed_01_01: "Yeah, I know. That's why I have it like this." #!String
+    Wed_01_02: "Yeah right. You're just jealous that I look so good." #!String
+    Thu: "What's up?#$e#Isn't your name, like, %firstnameletter%name, or something?#$e#Oh. It's @? Okay. Sorry." #!String
+    Fri: "I'm going to do a ton of sit-ups tonight.#$e#I'm pretty dedicated, aren't I?#$e#Need anything else?" #!String
+    Sat: "I think you can find salmon in the river this time of year.#$e#At least that's what I heard." #!String
+    Sun: "Hey, the football game is on today!#e#Sundays are pretty awesome in the fall.$u" #!String
+    Thu2: "What's up, @?" #!String
+    Fri6: "I'm going to do a ton of sit-ups tonight.#$e#You have to work really hard if you want to achieve your maximum potential." #!String
+    Mon4: "My Grandma told me I should spend more time studying.#$e#Maybe she's right...$s" #!String
+    Wed8: "I've decided to stop putting gel in my hair.#$e#I wouldn't want to be friends with someone who only liked my because I have gel in my hair." #!String
+    Thu10: "@! Um... Hi.$l" #!String
+    Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
+    Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
+    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
+    Event_books2: "Yeah, I guess you're right...$s" #!String
+    Event_books3: "You were supposed to disagree with me.$a" #!String
+    Event_parents1: "That's an interesting thought..." #!String
+    Event_parents2: "They would never do that!$a" #!String
+    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+

@@ -1,0 +1,26 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Ten cuidado de no resbalar en el hielo, cariño.
+  Tue: 'No hagas caso a mi marido, George. No es muy amigable con desconocidos.#$e#Si llegas a conocerle mejor se abrirá más a ti. ¡#$e#Sé que vosotros dos os haréis buenos amigos algún día!$h#$e#Ya que muestras tanto interés en mi marido te contaré un pequeño secreto: ¡le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año.'
+  Wed: 'Normalmente cuido los jardines, pero están cubiertos de nieve.#$e#Aun así me gusta echarles un vistazo de vez en cuando.'
+  Thu: 'Hoy estoy horneando galletas. $h #$e #tal vez te diga mi receta uno de estos días.'
+  Fri: 'George se pasa el día entero delante de esa condenada televisión.#$e# Me gustaría que saliera más. Un poco de aire fresco le vendría bien.'
+  Sat: 'Hemos vivido aquí más de 30 años.#$e#Hemos visto a mucha gente ir y venir.'
+  Sun: 'Deberías hacer algo de sopa caliente para calentarte.¡#$e#Y asegúrate de ponerte una chaqueta!'
+  Tue6: 'Que amable por tu parte tomarte el tiempo para visitarnos a George y a mí.#$e#Sin gente joven alrededor, envejeceríamos mucho más deprisa.$h'
+  Thu4: 'Parece que siempre tenemos más visitas cuando empiezo a hornear galletas.#$e#Mi madre me enseñó la receta.'
+  Sat8: '@, ¿te he dicho que Geroge y yo hemos vivido aquí durante 30 años?#$e#Espero que te quedes por aquí un tiempo.$h'
+  Event_cookies1: ¡Gracias!$h
+  Event_cookies2: Oh cielos... he debido de dejarlos en el horno demasiado tiempo.$s

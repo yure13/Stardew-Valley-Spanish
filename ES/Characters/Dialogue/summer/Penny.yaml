@@ -1,0 +1,43 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Hola... Um, hace buen tiempo, ¿verdad?
+  Mon4: 'Hola, @. Me alegra ver que te va bien.#$e#¿Puedo ayudarte en algo?'
+  Mon6: '$q 69/70 Mon_old#Me gustaría ser talentosa y guapa como las otras chicas del pueblo...$s#$r 69 10 Mon_7#Lo que cuenta es lo que hay dentro.#$r 69 50 Mon_9#Te prefiero tal como eres!#$r 70 10 Mon_8#A mi también me gustaría.'
+  Mon_old: '#$p 69#Algunas personas no tienen comida ni refugio. Deberiamos estar agradecidos.|Siento no ser tan linda como Haley.'
+  Mon_7: Si, pero aun asi...$s
+  Mon_8: De verdad?$l
+  Mon_9: ...$s
+  Mon8: 'Estoy impaciente por mudarme. Es una carga preocuparme por mi madre todo el tiempo.#$e#Quiero que sea feliz, pero no puedo quedarme aqui para siempre.'
+  Tue: 'Paso por tu granja casi todos los dias. Es una zona muy agradable.#$e#Siempre me siento mejor cuando estoy fuera.'
+  Tue4: 'Tu granja se ve muy bonita ahora.$h#$e#Siempre la admiro cuando paso.'
+  Tue10: 'Una granja parece un buen lugar para los niños, no crees?$l#$e#Solo estaba pensando en ello.$l'
+  Wed: 'Hola.#$e#La verdad es que no se de que hablar hoy, lo siento.$u'
+  Wed4: 'Me encanta cocinar. He inventado unos cuantos platos yo misma.#$e#Tendras que probarlos alguna vez.$h'
+  Wed8: 'Debe ser duro, cocinar para ti cada dia.#$e#¿No desearias tener a alguien con quien cocinar?$l'
+  Thu: '¿Has estado en la oficina arqueologica? Es tambien una biblioteca.#$e#Leer es una de mis aficiones favoritas.'
+  Thu6: 'Ojala pudiera mantener un jardin, pero nuestro patio esta hecho un asco.$u#$e#En fin. Algun dia vivire en un lugar donde pueda tener uno.#$e#Quiza viva en una granja! *risita*$h'
+  Fri: 'Si cavas en la tierra puedes encontrar cosas interesantes.#$e#Una vez encontre una vieja ancla oxidada en la playa.#$e#Quiza pertenecio a los piratas, una vez.$h'
+  Sun: 'Asi que, te gusta decorar tu granja?#$e#Debe ser agradable tener tu propio lugar para decorar.'
+  Sun6: 'Te gustaria que alguien decorase tu casa por ti?#$e#Creo que seria divertido inventar diseños.'
+  Sat: 'Hola. Umm...#$b#Hoy las montanas se ven bonitas, verdad?$u'
+  Sat4: 'He intentado mantener nuestra hogar limpio, pero siempre se ensucia de nuevo.$s#$e#Es duro llevar una casa tu sola.'
+  event_mail1: Oh! Lo viste...?$l
+  event_mail2: 'Oh...#$b#Lo siento, Sr. Mullner. Lo que hice, fue grosero.$s'
+  event_mail3: Ya veo.
+  event_cook1: Gracias! Me siento orgullosa de este plato.
+  event_cook2: ...Lo siento.$s
+  event_family1: Yo tambien.$h
+  event_family2: ...lo siento.$s
+  event_family3: Ya veo.$s

@@ -1,0 +1,73 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: |
+        Text for Translation
+        Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.Int32Reader
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: Location/Meet The Wizard/Recibiste una carta del mago local. Dice tener información sobre el viejo centro comunitario./Entra en la torre del mago./WizardHouse/-1/0/-1/false
+  2: 'Basic/The Mysterious Qi/Dentro de la caja fuerte, encontraste una nota con instrucciones extrañas. Está firmada por "Sr. Qi"./Deja una concha arcoíris en la caja que está en el andén./null/-1/0/-1/false'
+  3: 'Basic/The Mysterious Qi/Has encontrado otra carta del "Sr. Qi". Lo que pide es más raro esta vez./Coloca 10 remolachas dentro de la nevera del alcalde Lewis./null/-1/0/-1/false'
+  4: 'Basic/The Mysterious Qi/Encontraste otra nota extraña en la nevera del alcalde. Esta vez, las instrucciones son mas crípticas./"Dale al dragón de arena su última comida."/null/-1/0/-1/false'
+  5: Basic/The Mysterious Qi/Encontraste otra nota en el ojo del dragón. Parece que la búsqueda del señor Qi ha llegado a su fin./Inspecciona la pila de madera al lado de tu casa./null/-1/0/-1/false
+  6: ItemHarvest/Getting Started/Si quieres tener éxito con tu granja debes empezar por lo básico. Usa tu azada para labrar la tierra, después usa un paquete de semillas para sembrar. Riega todos los días hasta que se pueda cosechar el cultivo./Cultiva y cosecha una chirivía./24/7 8/100/-1/true
+  7: Building/Raising Animals/Robin, la carpintera local, vive al norte del pueblo. A cambio de materiales y dinero construirá nuevos edificios en tu granja. La necesitarás para construir un gallinero o un establo./Construye un gallinero./Coop/-1/100/-1/true
+  8: Crafting/Advancement/Mientras ganes experiencia, descubrirás nuevas recetas para aumentar ganancias y así hacer tu vida más fácil. Un espantapájaros, por ejemplo, evitará que los cuervos merodeen en tus preciosos cultivos./Alcanza agricultura de nivel 1 y crea un espantapájaros./8 true/-1/100/1/true
+  9: Social/Introductions/Sería un bonito gesto presentarte en el pueblo, algunas personas podrían estar deseando conocerte././null/25/0/-1/true
+  10: Basic/Copper Ore/Has encontrado un mineral de cobre. No estás seguro de para qué lo puedes usar, pero el herrero local debería de saberlo./Entrégale un mineral de cobre a Clint en su herrería././-1/0/-1/false
+  11: Crafting/Forning Ahead/Si vas a seguir minando, deberías construir un horno./Crea un horno./13 true/12/0/-1/true
+  12: |
+    Item Harvest/Smelting/Ya que has creado un horno, puedes fundir algo de metal.
+    Según las instrucciones de Clint, si colocas 5 piezas de cobre y una pieza de carbón en el horno, podrás producir una barra de cobre.../Usa el horno para fabricar una barra de cobre./334 1/-1/0/-1/true
+  13: Basic/To The Beach/Alguien llamado Willy te ha invitado a visitar la playa al sur del pueblo. Dice que tiene algo que darte./Visita la playa al sur del pueblo antes de las 5:00pm./-1/-1/0/-1/true
+  14: Basic/Explore The Mine/Hay una vieja galería minera en las montañas al norte del pueblo. Podría haber valiosos minerales dentro, pero Marlon insinuó que podría ser peligroso/Llega al nivel 5 de la mina./17/17/0/-1/false
+  15: Monster/Initiation/Si logras matar a 10 slimes, te habrás ganado un lugar en el Gremio de Aventureros./0 de 10 slimes matados./Green_Slime 10/16/0/-1/false
+  16: Location/Initiation/Has derrotado a 10 slimes. Ahora puedes entrar al Gremio de Aventureros./Entra al Gremio de Aventureros./AdventureGuild/-1/0/-1/false
+  17: Basic/Deeper In The Mine/Parece ser que el ascensor de la mina sigue en funcionamiento. Te permitirá regresar rápidamente a cualquier otro ascensor que hayas descubierto. Sería conveniente hacer una profunda expedición en la mina./Alcanza el nivel 40 en la mina./18/18/0/-1/false
+  18: Basic/To The Bottom/Hasta ahora no hay señal del fondo. ¿Hasta dónde bajará?/Llega hasta lo más profundo de la mina./-1/-1/0/-1/false
+  19: Basic/The Skull Key/Has encontrado una extraña llave en lo profundo de la mina./Descubre para qué sirve laLlave Calavera./-1/-1/0/-1/false
+  20: "Basic/Qi's Challenge/Has sido desafiado a alcanzar el nivel 25 en la cueva calavera. Te han prometido una sustancial recompensa si lo logras./Llega al nivel 25 en la Cueva Calavera./-1/-1/0/-1/false"
+  21: "Basic/Marnie's Request/Marnie vino a la granja y preguntó si podrías traerle una zanahoria de cueva. Está intentando entrenar a sus cabras para que hablen, y las zanahorias de cueva son de sus favoritas./Lleva una zanahoria de cueva hasta la tienda de Marnie./-1/-1/0/-1/true"
+  22: Basic/Fish Casserole/Jodi se dirigió a la granja para invitarte a cenar a las 7:00 PM. Su única petición fue que tú llevaras una perca americana para su guiso de pescado./Lleva una perca americana a casa de Jodi a las 7:00PM./-1/-1/0/-1/true
+  23: Location/Archaeology/Has encontrado un objeto que parece antiguo. ¿Podría ser algún tipo de antiguo artefacto? Quizá Gunther, el conservador del museo local, tenga la respuesta./Visita a Gunther en el museo./ArhchaeologyHouse/-1/0/-1/true
+  24: Basic/Archaeology/Gunther se pregunta si considerarías donar, algún otro artefacto o mineral que encuentres, al museo. Dice que te compensará con ocasionales mercancías raras./Dona un artefacto o mineral al museo./-1/-1/250/-1/true
+  25: Basic/How To Win Friends/Dar regalos es una gran manera de fortalecer una amistad. Aprende de los gustos individuales de cada persona y serás popular en un abrir y cerrar de ojos./Dale un regalo a alguien./-1/-1/100/-1/true
+  26: "Basic/\\\"Rat Problem\\\"/Pasa algo raro en el Centro Comunitario.../Investiga el Centro Comunitario/-1/-1/0/-1/true"
+  100: "LostItem/Robin's Lost Axe/Robin perdió su hacha favorita. La ultima vez que la usó fue a cortar madera al sur del Rancho de Marnie./Encuentra el hacha de Robin./Robin 788 Forest 110 81/-1/250/-1/true/¡Ey, encontraste mi hacha! Qué alivio... Casi me corto el dedo del pie con la otra. ¡Gracias!"
+  101: "ItemDelivery/Jodi's Request/Jodi necesita una coliflor fresca para una receta que está haciendo. Te pide que le lleves una./Llévale a Jodi una coliflor./Jodi 190/-1/350/-1/true/Oh, ¡qué buena pinta! Gracias, es justo lo que quería. Me vendrá fenomenal para el curry."
+  102: "LostItem/Mayor's \\\"Shorts\\\"/Lewis ha perdido sus \\\"shorts\\\" morados. Te pide que los encuentres... discretamente./Encuentra y devuelve sus \"shorts\" a Lewis./Lewis 789 AnimalShop 13 7/ -1/750/ -1/true/Los encontraste... ¿dónde? ...¡Ah!...Uhmm... je.#$b#¿Allí? No tengo ni idea de cómo han llegado hasta allí... *tos*#$b#Esto se queda entre tú y yo. ¿De acuerdo?$u"
+  103: 'ItemDelivery/Pam Is Thirsty/Pam anhela una cerveza clara. La normal no le quitará la sed. Puedes hacerla por tu cuenta si tienes lúpulos y un barril./Llévale una cerveza clara a Pam./Pam 303/-1/350/-1/true/Dámela. *slurp*...Ahh, esta es la buena.#$b#Sabe realmente bien... notas el cítrico y el pino, pero con un cuerpo robusto.#$b#Te lo agradezco. Significa mucho para mí. Sabía que podía contar contigo.$h'
+  104: ItemDelivery/Crop Research/Demetrius necesita un melón para su investigación./Llévale un melón a Demetrius./Demetrius 254/-1/550/-1/true/¡Perfecto! Justo lo que necesitaba. ¡Me costará no comérmelo! Muchas gracias.
+  105: ItemDelivery/Knee Therapy/George necesita chile para calmar el dolor de su rodilla./Llévale chile a George./George 260/-1/200/-1/true/Tardaste bastante... umm... Está bien, al menos es picante. Gracias.
+  106: "ItemDelivery/Cow's Delight/Marnie quiere darle a sus vacas un trato especial. Sólo pide un poco de amaranto./Llévale un poco de amaranto a Marnie./Marnie 300/-1/500/-1/true/Oh, ¡el amaranto que pedí! Muchas gracias... ¡a mis vacas les encantará!$h"
+  107: LostItem/Blackberry Basket/Es temporada de zarzamoras, pero, ¡Linus no encuentra su cesta! Te pide que la ayudes. No sabe donde estará./Encuentra la cesta de Linus y dásela./Linus 790 Backwoods 27 27/-1/0/-1/true/¡Mi cesta! Gracias. Es muy importante para mí.$h
+  108: ItemDelivery/Carving Pumpkins/Caroline quiere tallar una calabaza con su hija. Pide que le traigas una de tu granja./Lleva a Caroline una calabaza./Caroline 276/-1/500/-1/true/¡Oh, la calabaza! Es bastante buena... Abigail se pondrá muy contenta cuando la vea. Gracias, @!$h
+  109: 'ItemDelivery/Catch A Squid/Willy te reta a pescar un calamar. Dice que puedes pescarlos en el océano en las noches de invierno./Llévale un calamar a Willy./Willy 151/-1/800/-1/true/¡Eh! ¡Lo conseguiste! No está mal, nada mal. Estoy impresionado.#$b#El invierno está bien para sacar la caña, ¿verdad?'
+  110: "ItemDelivery/Clint's Attempt/Clint quiere que le des una amatista a Emily. Quiere que le digas que es de su parte./Llévale una amatista a Emily./¡Oh, mi piedra favorita! ¡Eres tan dulce!$h#$b#¿Eh? ¿Es de quién?$u#$b#Oh, ¿es de parte de Clint? Bueno, no me importa de donde haya salido, ¡es preciosa! ¡Gracias! *abrazo*$h"
+  111: ItemDelivery/A Dark Reagent/El mago quiere que bajes a la mina y extraigas una esencia de vacío. Necesita algún tipo de magia oscura./Lleva una esencia de vacío al mago./Wizard 769/-1/1000/-1/true/Vaya, la has traído. Te has ganado mi gratitud y una recompensa de 1000g. Ahora vete.
+  112: 'ItemDelivery/A Favor For Clint/Clint tiene un martillo nuevo y quiere probarlo con varios metales./Llévale a Clint un lingote de hierro./Clint 335/-1/500/-1/true/Anda, es el lingote que te había pedido. Parece fuerte... perfecto.#$b#Gracias, @. Lo aprecio.'
+  113: "ItemDelivery/Robin's Request/Robin te escribió pidiéndote madera dura./Llévale a Robin 10 piezas de madera dura./Robin 709 10/-1/500/-1/true/¡Oh, lo has traído! Siempre puedo contar contigo, @.$h#$b#Mhm... Esta madera es perfecta. Es justo lo que necesito. ¡Gracias!"
+  114: 'ItemDelivery/Fish Stew/Gus quiere hacer guiso de pescado, pero necesita atún blanco./Llévale atún blanco a Gus./705/-1/400/-1/true/*sniff*...*sniff*... ¿Qué es eso? ¡Huele a atún blanco!#$b#¡Ajá! ¡Lo has traído! ¡Un millón de gracias!'
+  115: ItemDelivery/Fresh Fruit/Emily quiere un sabor primaveral. Quiere un albaricoque./Traerle a Emily un albaricoque./Emily 634/-1/600/-1/true/¡Oh... lo has encontrado! ¡Gracias, parece delicioso!$h
+  116: "ItemDelivery/Granny's Gift/Evelyn quiere sorprender a su marido con un regalo./Llévale un puerro a Evelyn./Evelyn 20/-1/500/-1/true/Oh, gracias, corazón. Parece delicioso. Se pondrá tan contento.#$b#Le encanta cuando le preparo huevos con puerro para el desayuno."
+  117: "ItemDelivery/Pierre's Notice/Pierre pagará una buena cantidad a quien le lleve un plato de sashimi. Parece que se le ha antojado./Llévale algo de sashimi a Pierre./Pierre 227/-1/1000/-1/true/¡Ya era hora! Estaba empezando a ponerme nervioso, tengo tantas ganas de sashimi. *comer*... Mmm, ¡que bueno está!.#$b#Gracias, @.$h"
+  118: ItemDelivery/Aquatic Research/Demetrius está estudiando los nieveles de toxina del pez globo local. Le gustaría que le lleves uno./Llévale un pez globo a Demetrius./Demetrius 128/-1/750/-1/true/Vaya, parece perfecto. Voy a congelarlo inmediatamente. ¡Gracias, @!
+  119: "ItemDelivery/A Soldier's Star/Kent quiere darle a su esposa una fruta estrella por su aniversario./Llévale una fruta estrella a Kent./Kent 268/-1/500/-1/true/Shh... No dejes que Jodi la vea.#$b#Parece deliciosa, le encantará. Muchas gracias.$h"
+  120: "ItemDelivery/Mayor's Need/El alcalde Lewis necesita aceite de trufa. No explicará para qué es. Quizá no sea de tu incumbencia./Llévale aceite de trufa a Lewis./Lewis 432/-1/750/-1/true/¿Lo tienes? Déjame ver...#$b#Es de alta calidad... bastante resbaladizo. Genial, gracias."
+  121: 'ItemDelivery/Wanted: Lobster/Gus solicitó en el anuncio una langosta fresca./Llévale una langosta a Gus./Gus 715/-1/500/-1/true/Huele a langosta fresca. Oh, es estupendo.$h$#b#Cuídate.'
+  122: ItemDelivery/Pam Needs Juice/El mando de Pam se ha quedado sin pilas. Lo está pasando mal cambiando la televisión sin mando./Llévale un pack de baterías a Pam./Pam 787/-1/400/-1/true/¡Ey, me has sacado de un apuro! Gracias, encanto... ¡Me has salvado!$h
+  123: ItemDelivery/Staff Of Power/El mago está creando un bastón de un poder increíble. Quién sabe para qué sirve. Necesita una barra de iridio para finalizarlo./Llévale una barra de iridio al mago./Wizard 337/-1/5000/-1/true/Oh, iridio. Bien hecho, @. Tienes mi gratitud. Ahora, vete.
+  124: ItemDelivery/Catch a Lingcod/Willy te reta a capturar un bacalao largo./Llévale un bacalao largo a Willy./Willy 707/-1/550/-1/true/¡Oh, sí que es largo! Tienes que tener sangre de pescador.$h
+  125: 'ItemDelivery/Exotic Spirits/Gus quiere preparar un Coco-no-no y le falta el ingrediente principal./Llévale un coco a Gus./Gus 88/-1/600/-1/true/¡Un coco! Ya tengo una vista relajante para el invierno.$h#$b#Será perfecto para mi coco-no-no. ¡Gracias!'

@@ -1,0 +1,38 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hey.#$e#So, do you like, milk cows and stuff?" #!String
+    Mon4: "You're probably making a lot of money on your farm, huh?#$e#I guess I should get a job soon...$s" #!String
+    Tue: "Uh, hi.#$e#People are like leaves.#$b#Eventually we're going to fall in the dirt." #!String
+    Tue6: "The more I learn about computers the more powerful I'll become.#$e#I want to use my powers for good, of course." #!String
+    Wed: "Hi, I'm bored." #!String
+    Wed8: "I'm glad you showed up. I was starting to get bored.#$e#Now I feel a lot more energetic." #!String
+    Thu: "I kind of wish I had a window in my room." #!String
+    Fri: "I've been reading a new book lately.#$q 62/63 Fri_old#What kind of books do you read?#$r 62 -30 Fri_bad#Classics#$r 63 30 Fri_good#Sci-fi and Fantasy#$r 62 0 Fri_bad#Romance#$r 63 -30 Fri_bad#I don't read books" #!String
+    Fri_old: "$p 62#You probably wouldn't like it.$s|I think you would like it. It's an epic sci-fi novel set 300 years in the future." #!String
+    Fri_good: "Those are my favorites, too. I'm actually about to start reading a new sci-fi book.$h" #!String
+    Fri_bad: "Huh. Sounds boring." #!String
+    Fri6: "I've been reading a book about a farmer.#$e#Sorry if that creeps you out.$h" #!String
+    Sat: "If you ever want to watch the complete first season of 'Cave Saga 2X' in one sitting, just let me know.#$e#...what?" #!String
+    Sun: "What kind of stuff do you grow on your farm?" #!String
+    Event_game1: "Okay, that'll work." #!String
+    Event_game2: "Good choice. That works well with my role." #!String
+    Event_cave1: "Not so fast! I want to know what it is." #!String
+    Event_cave2: "Really? It was making a lot of noise!" #!String
+    Event_cave3: "It's too dangerous without a sword. But I like your sense of adventure.$h" #!String
+

@@ -1,0 +1,50 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  name: Fiesta de la Estrella Invernal
+  conditions: Town/900 1400
+  shop: BO 113 5000 1 O 746 750 5 BL 746 2000 1
+  set-up: christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas
+  secretSanta: 'none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta "dialogue1"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta "dialogue2"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2'
+  Abigail: Nada como estar calentita en un día de frio invernal0, ¿eh?$h
+  Robin: ¡Ey, @! Si necesitas compañía, únete a nosotros.$h
+  Demetrius: 'Probablemente consiga otro set de herramientas este año... *suspiro*'
+  Maru: Hola, @.$h
+  Sebastian: A veces, pasar tiempo con la familia es agotador.
+  Pierre: 'Últimamente mis cifras de ventas han sido geniales... ¡Gracias a la Fiesta de la Estrella Invernal!$h#$e#Las vacaciones son buenas para los negocios. Me pregunto si podría inventar algunas nuevas...'
+  Caroline: Oooh... He comido demasiado.$h
+  Linus: Me gustaría unirme pero... no creo que sea bienvenido.$s
+  Alex: Oh, hola.$s
+  George: ¿Una fiesta para unas estúpidas estrellas? ¡Vaya tontería!
+  Evelyn: ¡Oh, Dios! ¿No tienes frío? ¡Estoy helada!
+  Lewis: Hoy es el momento de agradecer la buena fortuna de este año. ¡Olvida tus preocupaciones por un día y relájate!
+  Clint: '*Suspiro*... Todas estas familias felices... Menos yo. Otro año más solo.'
+  Emily: $y ¡@! ¿Qué esperas encontrar bajo el árbol espiritual?_Una nueva regadera._¿Todo trabajo y nada de diversión? No es muy divertido.$s_Una jarra llena de aguamiel._Ooh... Suena genial. ¡Asegúrate de dejarme probarlo!$h_Un par de botas con estilo._Ya veo... ¡Eso sería un regalo fantástico!
+  Penny: Qué árbol tan bonito.$h
+  Pam: Hmpf... Aún estoy enfadada... No gané la competición de pesca en hielo.$4
+  Haley: ¡Espero que haya una nueva cámara para mí bajo el árbol!
+  Jodi: No es un buen día para estar a dieta...$s
+  Kent: Buenos días, @. Felices fiestas.
+  Sam: Doy gracias por mi guitarra y mi tabla de skate. Oh, y por mi familia, supongo.
+  Leah: 'Gus me estaba hablando sobre sus bastones de caramelo artesanal. *bostezo* $u #$e #Creo que les ha puesto demasiada canela.'
+  Marnie: ¡Bienvenido/a a la Fiesta de la Estrella Invernal!$h
+  Elliott: Hola, @. Hace algo de frío, ¿no?
+  Gus: 'Hacer bastoncillos de caramelo es un arte. En realidad tienes que buscar por todos lados para conseguir los mejores ingredientes. ¡No son nada fáciles de encontrar!$h#$e#Normalmente uso helechos de la Isla Ringfruit para mis bastoncillos más importantes, ¿sabes? No puedes superar ese colo rojo brillante... ¡Y todo natural!#$e#Oh, ¿quieres conocer el secreto de mis bastoncillos dobles deluxe? Está bien, pero prométeme que guardarás el secreto. *susurro* Una gota de vainilla en el caramelo blanco para complementar el sabor a cereza.$h#$e#Por supuesto, los bastoncillos de menta son los normales, y además siempre hago un lote de bastoncillos saludables.#$e#Oye, ¿te estás durmiendo? ¿Te encuentras bien?$s'
+  Willy: "$y '¿Quieres escuchar la leyenda de la Estrella Invernal?_Sí_En el cielo nocturno del invierno, hay una estrella brillante solamente visible desde este valle. Nadie sabe por qué... pero hace mucho tiempo venían desde todas partes a verla.*Se creía que aquellos que mirasen la Estrella Invernal serían bendecidos con buena fortuna. Algunos, incluso pedían esa fruta misteriosa conocida como =Stardrop que está conectada con la Estrella Invernal del alguna forma._No, gracias_Como quieras.'"
+  Wizard: Ah, la misteriosa Estrella Invernal. Una de las razones por las que elegí este valle para llevar a cabo mi... investigación.
+  Harvey: ¡Estoy feliz de que este año no haya habido ninguna emergencia médica!
+  Sandy: 'He oído que está lloviendo de nuevo en casa. ¿Has venido por eso?$h#$e#A decir verdad, echo de menos la lluvia...$s'
+  Jas: ¡Oh, regalos!$h
+  Vincent: ¡¿Podemos abrir los regalos ahora?!
+  Marlon: Hola, buenas tardes.

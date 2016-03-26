@@ -1,0 +1,24 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Me encantaba jugar en la nieve cuando era un niño.$h
+  Tue: Hola. ¿No te cansas de que siempre pregunten por tu granja? A mi me molestaría.
+  Wed2: ¿Qué hago para divertirme? Hmm... Es una buena pregunta. Me gusta dormir
+  Wed: Um, sí. Hace buen tiempo, ¿eh? Lo siento, no sé de que hablar.
+  Wed4_2: Kent ya ha estado un tiempo largo en casa, pero creo que se siente como un desconocido
+  Thu: Sam hace demasiado ruido con su música. Espero que no moleste a los vecinos. Ok, nos vemos luego.
+  Fri: Estaria bien tomar unas vacaciones de vez en cuando...$s
+  Sat: 'Hola.#$e#¿Necesitas algo?'
+  Sat4: 'Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós.'
+  Sun: 'Si fuera rico contrataria una sirvienta y un chef.#$e#¡Sería genial!$h'

@@ -1,0 +1,29 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Hola granjero.#$e#Hace mucho que no venía, me siento como si fuera un extraño.'
+  Mon4: 'No se si me acostumbrare a estar devuelta en casa. #$e #la tranquilidad de la ciudad se siente como una máscara.'
+  Tue: 'Las cosas no han cambiado mucho desde que me fui. #$e#Bueno, excepto que ahora estas aquí.'
+  Tue2: 'Las cosas no han cambiado mucho desde que me fui. #$e#Excepto que tenemos un nuevo granjero en la ciudad.$h'
+  Wed6: 'Oh. Hola, @#$e#...Perdí muchos amigos en la batalla$s#$e#No puedo sacar sus rostros de mi cabeza.#$e#...'
+  Wed: Ya llevas un tiempo aquí, ¿no? Debe irte bien en tu granja.
+  Thu6: 'Sam ha crecido mucho desde que me fui. Ahora es un hombrecito.#$e#Ojala yo hubiera estado aqui para el.$s'
+  Thu: '¿Eres amigo de mi hijo?#$e#Probablemente lo conozcas mejor que yo...$s'
+  Fri: Parece un buen día para pescar, ¿no crees?
+  Sat: 'Hola, @.#$e#Jodi me ha contado que te has convertido en una parte importante de esta comunidad. Me agrada oírlo.'
+  Sat8: 'Tengo problemas para dormir, por favor, disculpa si parezco cansado.#$e#Estoy seguro de que puedes entenderlo.'
+  Sun: 'No se que hacer conmigo mismo ahora que he regresado#$e#Solía tener mi día mas organizado.'
+  event_popcorn1: ¡Calla! Deja de intentar poner a mi esposa en mi contra.$u
+  event_popcorn2: '...$s#$b#Tienes toda la razon, @.$s'
+  event_popcorn3: ¡No me mientas! ¡Odio las mentiras mas que a cualquier cosa!$u

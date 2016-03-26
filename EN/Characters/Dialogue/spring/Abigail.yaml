@@ -1,0 +1,48 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hello...?#$e#I'm Abigail.#$e#You're the new farmer, huh? Interesting." #!String
+    4: "Last night I was sitting on the roof and I saw a barge out in the distance.#$e#If I was a pirate I would've seized that barrrrrrge, matey.#$b#Hahahahahahaha.$h#$e#That was really corny. Sorry." #!String
+    Mon: "Oh, hey.#$e#Erm... I like to hang out at the cemetery. Nobody bothers me there.#$b#It's a peaceful place to read, or think about... existence.#$e#And I guess I'm also hoping to see a ghost.#$b#Hehehehe...$h#$e#What?" #!String
+    Tue: "*sigh* ...I was just fighting with my parents again...$s#$e#Sorry, I hardly even know you." #!String
+    Wed: "Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.#$e#Sometimes I just can't sleep, it's like my mind is out of control.#$e#What do you want?" #!String
+    Thu: "I don't feel like doing anything today...$u#$e#Maybe I'll just curl up under a blanket and play some video games." #!String
+    Fri: "Today I got a letter written by my pen pal %name from %place.#$e#He's just some kid who has nothing better to do, I guess.#$e#He wrote that he's working at a place called The %adj %noun. Weird name, huh?" #!String
+    Sat: "I like to walk alone in the mountains every now and then. Sometimes I pretend I'm an orc.$h#$e#Hey, I gotta keep using my imagination or else I'll get dull." #!String
+    Sun: "I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#What do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist." #!String
+    Sun_old: "$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!" #!String
+    Sun_17: "Hmm, interesting..." #!String
+    Sun_18: "Haha! That would be interesting, wouldn't it?$h" #!String
+    Sun_nothing: "That wouldn't be so bad, I guess. I don't want to be conscious for the rest of all time, you know?" #!String
+    Wed2: "Oh, hi @. Taking a break from your work?#$e#Me too. My schoolwork, that is. I'm taking classes on the computer." #!String
+    Tue4: "Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while." #!String
+    Sat6: "You came all this way to visit me? That's nice.$h#$e#So have you been discovering any dark secrets of the mines lately?#$e#Oooh! Interesting.$l" #!String
+    Mon8: "...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *giggle* $h" #!String
+    Thu10: "Hi.$l#$e#Do you feel like everything seems unreal lately?$l#$b#In a good way.$h" #!String
+    Fri6: "The birds were chirping today. They don't understand the future.#$e#It's better to be like them, isn't it?" #!String
+    Event_VideoGame_Yes: "Great! I'm sure you'll be able to beat this level with ease.$h" #!String
+    Event_VideoGame_No: "Oh? *sigh*... I guess I'll never get past this level, then...$s" #!String
+    Event_Rain_1: "I see..." #!String
+    Event_Rain_2: "Yes, you're the kind of person who would appreciate the somber beauty of rain." #!String
+    Event_Tragic_1: "Yeah... I guess my own life is okay...$s" #!String
+    Event_Tragic_2: "...!$h" #!String
+    Event_Tragic_3: "I would feel better if I could believe that...#$b#But I don't.$s" #!String
+    Event_Cave_1: "...Yeah." #!String
+    Event_Cave_2: "I guess when you have something to lose, it's normal to be afraid..." #!String
+    Event_Cave_3: "...Um, okay. Sorry." #!String
+

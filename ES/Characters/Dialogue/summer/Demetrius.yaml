@@ -1,0 +1,24 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Perdona, estoy muy ocupado.#$e#Hay muchas plantas que estudiar ahora mismo.'
+  Tue: 'Asegúrate de regar tus cultivos cada día.#$e#Admás, si usas fertilizante resistente a la sequía no tienes por qué preocuparte.#$e$Es bastante práctico.'
+  Wed: 'Seguro que estás cultivando un montón de plantas interesantes en tu granja, ¿no?#$e#Quizá me pase por ahí un día a verlo.'
+  Thu: '¿Qué tal va la granja? Es la temporada del tomate, ¿no?#$e#Me imagino que debe ser tranquilo trabajar fuera con las plantas todo el día.'
+  Fri: '$p 40#Escuché a Maru decir que habías estado mirando por el telescopio. | Si os haceís buenos amigos, estoy seguro de que te dirá cómo usar ese telescopio de ahí fuera.#$e#Qué emocionante, ¿no?'
+  Sat: 'Hmm... Si los niveles de estrigolactona aumenaran, ¿tendría un efecto proporcional en la incubación de micorriza?$u#$b#¡Oh! Disculpa. Estaba analizando información y no me di cuenta de que estabas ahí.#$e#¿Necesitas algo?'
+  Sun: 'Es bueno descansar del trabajo de vez en cuando.#$e#Aunque imagino que es complicado cuando vives en una granja.#$e#Por lo menos en invierno no tienes que preocuparte por los cultivos.'
+  Mon6: 'Me hice científico porque quería ayudar a la evolución de nuestras especies.#$e#Por supuesto nada sería posible sin granjeros como tú.$h'
+  Event_tomato1: ¿En serio? Pensaba que un granjero sabría la respuesta correcta...$s
+  Event_tomato2: ¿Ves? @ coincide conmigo.

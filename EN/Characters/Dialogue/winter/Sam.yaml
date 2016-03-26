@@ -1,0 +1,41 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon2: "Everyone's indoors during the winter, so I can play guitar as loud as I want.$h" #!String
+    Mon: "Hi... Cold, isn't it?" #!String
+    Tue: "Oh, hi! It's good to see you again.#$e#Take it easy." #!String
+    Tue4: "Hi, @. Do you want to hang out or something?#$e#Well, it's a good time of year to catch up on all the sleep I've missed.$h" #!String
+    Wed: "Hello.#$e#I actually don't feel like doing anything today.$s" #!String
+    Wed6: "I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town." #!String
+    Wed10: "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$l" #!String
+    Thu6_1: "I think my Dad is coming back really soon.#$e#Tt's been 3 years since I've seen him. This is going to be strange." #!String
+    Thu6_2: "Hey, do you think you have a shot at winning the Stardew Hero competition? It's happening soon.#$e#I'll be rooting for you!" #!String
+    Thu6: "Well, my Dad has been back for a while now. I guess I'm finally getting used to having him back." #!String
+    Thu: "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though." #!String
+    Thu_2: "One thing that's nice about winter... all the mosquitos are gone." #!String
+    Fri: "I found out the new shoes I bought aren't waterproof...$s#$b#My feet are soaked.$s" #!String
+    Fri10: "I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    Sat4: "I just remembered my guitar's out of tune. Okay, I'm going to put this rubber band on my wrist so I remember to tune it after you go.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h" #!String
+    Sat: "Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    Sun8: "It would be fun if we could go sledding, wouldn't it?#$e#I don't think there are any good hills nearby.$s#$e#Plus, I don't have a sled.#$e#So, how have you been doing lately?" #!String
+    Sun: "Try not to make a mess in the house or my mom will flip." #!String
+    Event_band1: "That actually sounds like a really good idea!$h" #!String
+    event_snack1: "He's telling the truth, mom.$s^She's telling the truth, mom.$s" #!String
+    event_snack2: "Yeah... That's what happened!" #!String
+    event_snack3: "What!? He's lying!$a^What!? She's lying!$a" #!String
+

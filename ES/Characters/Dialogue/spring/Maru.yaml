@@ -1,0 +1,41 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: '¡Hola! Debes ser la persona de la que todo el mundo habla. Soy Maru.#$e#Es un placer conocerte.'
+  Mon: 'Todo parece tan fresco en la primavera...#$e#¡Es como vivir en un gran delicioso cuenco de ensalada!$h#$e#¿si...?'
+  Tue: ¿Has conocido a mi mamá? Ella es la carpintera del pueblo.
+  Wed: 'Los viernes trabajo en la clínica de Harvey.#$b#¡Él dice que le gusta tenerme cerca cuando su equipo médico se vuelve loco!$h#$e#Ser granjero debe ser bastante fácil, ¿eh?'
+  Thu: '¡Mi plan es pasar mucho tiempo con mi telescopio este verano!#$q 0/1/2 Thu_01_old#¿Cómo se sentira el espacio?#$r 0 0 Thu_0#Está bien, supongo.#$r 1 30 Thu_01_01#¡Es tan interesante!#$r 2 -30 Thu_01_02#Es deprimente.'
+  Thu_01_old: '$p 1#Eh, ya que te gusta el espacio podriamos hacer una pequeña fiesta para mirar las estrellas este verano.$h|Lo siento, probablemente te estoy deprimiendo con mi charla sobre el espacio.'
+  Thu_0: Supongo que no todo el mundo se emociona tanto sobre esto como yo. Está bien.
+  Thu_01_01: ¿También piensas así? ¡Eso es genial!$h
+  Thu_01_02: ¿Deprimido? Hmm... Supongo que cada uno tiene sus propios intereses. $s
+  Fri: ¿Conoces a mi papa, Demetrius? Es científico. Es muy divertido ayudarle en el laboratorio.
+  Sat: Eh, lo siento si parezco malhumorada... Estoy un poco dolida por el trabajo de ayer. ¡Tenia que cargar diez cajas de archivos médicos hasta el ático!
+  Sun: 'Hola! $q # 3/4 Sun_01_old #¿Se divierte trabajando en la granja? #$r 3 0 Sun_01_01 #Si. $r # 4 0 Sun_01_02 #No.'
+  Sun_01_old: '$p 1#Hey, ¡has conseguido otra semana de avances en la granja! Parece que las cosas te van bien.$h|Otra agotadora semana en la granja, ¿eh? Debe haber mucho trabajo... $s'
+  Sun_01_01: ¡Impresionante! Me alegro de que esté pasando un buen rato. $h
+  Sun_01_02: ¡Huy! Lo siento. ¿Alguna vez has pensado en hacer algo diferente a la agricultura?$s
+  Tue2: 'Pase por nuestra casa cuando necesite mejorar sus construcciones. #$e #Siempre es bueno tener visitantes.'
+  Fri4: Mi madre es carpintero y mi padre científico. Supongo que tiene sentido que yo sea inventor.
+  Mon6: 'Me gusta como huele el aire hoy. #$e #¿Es eso extraño?'
+  Wed8: 'Trabajo en la clínica de Harvey los viernes. #$e #Es bonito pero realmente no es mi tipo...'
+  Thu10: 'Oh, @! ¿Hay algo que de lo que quieras hablar conmigo? #l'
+  Event_Hospital_1: ¡Por supuesto yo sabía la diferencia! ¡Esta es la muestra y está completamente arruinada!
+  Event_Hospital_2: Vale. Te culparé a ti entonces.
+  Event_Hospital_3: Tienes razón. Le debería decir la verdad.
+  Event_Space1: Es increible, ¿Verdad?
+  Event_Space2: 'Supongo que puedes verlo de esa manera...#$b#Pero sigue siendo magnífico, ¿no?'
+  Event_Cut1: ¿Oh, no? Bien, eso me hace sentir un poco mejor.
+  Event_Cut2: ¡Oh, no! Lo siento, de verdad, perdona.$s

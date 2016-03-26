@@ -1,0 +1,98 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  10: '¿viste el juego de anoche?#$B# O espera, aún tienes un televisor...?'
+  14: Ugh, pisé algo asqueroso hace un rato... y acabó de comprar estos zapatos.$s
+  Introduction: Hola, yo soy Sam. Encantado de conocerte
+  danceRejection: hmm... no sé. capaz el proximo año
+  Mon2: 'Oye, cómo te va?#$e#Anoche practiqué con mi guitarra por 4 horas seguidas. Mis dedos duelen mucho.$s#$e#Adios, tengo algo que hacer...'
+  Mon: Oye, granjero.
+  Mon8: "Te diré un secreto... mi nombre, 'Sam' es la abreviatura de 'Samson'.$l#$e#La mayoría de la gente no lo sabe, así que no lo digas."
+  Tue: 'Oh, Hola! Es bueno verte otra vez. #$e #Relájate.'
+  Tue4: 'Hola, @. ¿Te gustaría dar un paseo o algo así?#$e#Dormir está muy bien pero a veces desearía no hacerlo... es una pérdida de tiempo.'
+  Wed: 'Estoy intentado sacar una nueva canción para mi grupo, pero estoy en blanco...#$q 19/20 Wed_old#Oye.. ¿Sobre que crees que debe de tratar mi nueva canción?#$r 20 30 Wed_20#Cultivar, minar, y talar madera.#$r 8820 30 Wed_20#Una ciudad en el mar.#$r 8821 30 Wed_20#Trenes.#$r 19 -50 Wed_19#Elige lo que quieras. Seguirá siendo una canción horrible.'
+  Wed_old: '$p 19 #Pero si ya sé lo que piensas sobre ella$ s| Gracias por tu ayuda, justo he terminado ya con la letra! $h'
+  Wed_19: Oye... ¿Pero cuál es tu maldito problema? Perdón por preguntar.$a
+  Wed_20: Oye, ¿sabes qué? Eso suena perfecto. ¡Gracias!$h
+  Wed6: 'He sido amigo de Sebastian por un tiempo. Es un tipo genial.#$e#Si ustedes dos no estuvieran, no tendría ningún amigo en la ciudad.'
+  Wed10: Hey camarada. ¡Parece que hoy estás lleno de energía!^@. Um... Solo quería decirte... Hoy se te ve genial.$l
+  Thu6_1: 'Creo que mi papá podría regresar en un año más o menos.$e # #Supongo que podrías conocerlo, claro, si aún vives aquí#$e #No creo que fueras capaz de abandonar la granja después de tanto esfuerzo que le has dedicado!'
+  Thu6_2: '...Tengo sentimientos encontrados... Mi padre está de regreso. Se siente raro.$s #$b #Pero supongo que es por que no lo he visto en 3 años... Eso puede explicarlo.'
+  Thu_3: '*suspiro*... ¿qué sigo haciendo aquí?'
+  Thu: Las nubes lucen genial en esta época del año, ¿no crees? Como si fueran cucharadas de helado de vainilla flotando en salsa de frambuesa... O quizá es que sólo tengo hambre.
+  Thu2: 'Mi padre es militar, y está luchando contra el Impero de Gotoro. Por eso no está aquí...#$e#Algún día volverá.#$e#...He escuchado cosas horribles sobre el Impero de Gotoro...$s'
+  Thu_2: 'Bueno, mi papá está de regreso. ¿Lo has conocido ya? #$b #Sólo me alegra que él esté bien.'
+  Thu2_2: 'Bueno, mi papá ha regresado. ¿Lo has conocido ya? #$b #Me alegra que esté bien.'
+  Fri: ¿Te había dicho alguna vez que vivíamos en la ciudad? Hay un ritmo de vida más activo, pero también es un poco ruidoso y frenético... Es difícil decir cuál es mejor.
+  Fri4: Papa solía trabajar de basurero en la ciudad. No querrías saber las cosas que llegó a encontrar en la basura de la gente.
+  Fri10: 'Cuanto más mayor me hago más unido al valle me siento#$b#Aunque por alguna razón podría estar predispuesto.$l#$e#Bueno, ¿Como lo llevas hoy?$h'
+  Sat4: 'Ay va! Acabo de recordar que debería de llamar a mi abuela. Vale, voy a ponerme esta pulsera en la muñeca para que no se me olvide.#$e#Tengo que hacer este tipo de cosas porque tengo muy mala memoria.$h'
+  Sat: 'Hmm. Acabo de recordar que esto quiere decir algo... pero lo he olvidado.#$e#Me pasa constantemente.'
+  Sun8: A veces me pregunto si mi madre es realmente feliz con su vida. Le pregunté una vez y tuve la sensación de que escondía cierto dolor interior.
+  Sun: Oh, es un buen día... ¿no?
+  spring_21: 'A veces esos pétalos de primavera que flotan en el aire me dan alergia. $s #$e #Me encanta el verano, por mi mismo.'
+  Event_band1: Oye, ¿sabes qué? Es exactamente el tipo de estilo que he estado pensando... de la banda.
+  event_room1: Entiendo.
+  spring_12: Mi hermano pequeño se emociona mucho con los festivales. Ha estado hablando todo el día de la Caza del Huevo de mañana.
+  spring_23: ¿Por qué no puede ser hoy el baile de las flores? Así no tendría que trabajar.$s
+  winter_7: 'Una vez, Gus se cayó al rió en el Festival del Hielo. Tuvimos que hacer una gran fogata en el salón para secarle.#$e#Estábamos preocupados por si no volvíamos a probar sus famosos espaguetis otra vez.#$e#'
+  fall_26: Esta noche, después de que todo el mundo se duerma, ese extraño hombre viejo que vive en el bosque preparará el laberinto embrujado. Así se asegura de que nadie lo ve trabajando.
+  summer_10: ¡No tengo que trabajar mañana! Nunca he estado tan feliz.$h
+  winter_24: 'El banquete de La Estrella Invernal se supone que es un momento para dar las gracias por todas las cosas buenas de la vida.#$b#¿Yo? Estoy más interesado en la comida. Jeje.$h'
+  event_room2: Sí... ¡Eso es lo que pasó!
+  event_snack1: Él tiene razón.... Eso es lo que ha pasado.$s^Ella tiene razón.... Eso es lo que ha pasado.$s
+  event_snack2: Sí... ¡Eso es lo que pasó!
+  event_snack3: ¿¡Qué!? ¡Está mintiendo!$a^¿¡Qué!? ¡Está mintiendo!$a
+  summer_Mon2: 'Hey, ¿qué tal?#$e#Estoy hambriento.#$e#Nos vemos luego.'
+  summer_Mon6: '¿Has estado ya en el desierto?#$e#Puedes encontrar cosas interesantes ahí. Mi padre me llevó un par de veces cuando era más joven.'
+  summer_Mon: Hay un poquito menos de polen en verano... mi nariz lo agradece.
+  summer_Tue: 'Oh, ¡hola! Es un placer volver a verte.#$e#Adiós por ahora.'
+  summer_Tue4: 'Hola, @. ¿Te apetece pasar un rato fuera o algo?#$e#¡Tengo tanta energía durante el verano que apenas duermo!'
+  summer_Wed: 'Hola. ¿Pasando el día?#$e#Suena interesante.'
+  summer_Wed2: 'Vi una araña en el techo anoche. Seguro que les gusta el calor.#$e#Espero que no se metiera en mi boca mientras dormía.$s'
+  summer_Thu: Papá me habló sobre nuestro enemigo nacional, el Impero Gotoro... Son un grupo despiadado.
+  summer_Thu6_1: 'A veces oigo a mi padre por la noche andando por el pasillo.$s#$b#...Pero no nos cuenta que le preocupa.'
+  summer_Fri: 'Ya sabes... Solía vivir en la ciudad y tengo que reconocerlo, este sitio es mucho mejor en verano.$h#$e#En la ciudad hace demasiado calor con tanto hormigón.'
+  summer_Sun: Cuando veas los globos aerostáticos volando sobre el mar, sabrás que el verano está en pleno apogeo.
+  fall_Mon2: 'Me gusta pasear por el bosque en esta época del año. La temperatura es muy agradable#$e#...$h'
+  fall_Mon: 'Oh, hola. ¿Estás haciendo amigos con alguien del pueblo?#$e#Adiós.'
+  fall_Tue: 'Mis zapatos parece que se quieren despedir de esta época del año. ¡Mira, mis dedos asomando por la punta!$h#$e#Esto es lo que pasa si haces demasiado skateboard.'
+  fall_9: He pedido unos nuevos zapatos online. Son del mismo estilo, así que se que me vendrán bien.
+  fall_16: '¡Pedí unos zapatos por Internet hace ya más de una semana! colega, están tardando mucho en llegar.#$e#Supongo que es porque vivimos en el medio de la nada.$s'
+  fall_23: Ah, mis pies se sienten a gusto en estos nuevos zapatos. Están un poco tiesos, pero ensancharán. Sobre todo después de haber estado corriendo a través del laberinto encantado este finde.$h
+  fall_Tue4: 'Hola, @. ¿Te apetece dar una vuelta o algo?#$e#Cuando te apetezca paramos.'
+  fall_Wed: 'Hey... que bien huele, como a pizza.#$e#¿Lo hueles? Quizás mamá esté cocinando algo.'
+  fall_Thu6_1: 'Creo que mi padre podría volver el año que viene.#$e#Se supone que eso es pronto. Extraño.'
+  fall_Thu6: 'Creo que debería empezar a plantearme mudarme pronto...$s#$e#...Pero creo que echaría de menos el guiso de pescado de mamá, así que, no se...$s#$e#Odio tomar decisiones.'
+  fall_Thu: '¿Te has dado cuenta de que todas las telas de araña aparecen durante el otoño?#$e#Si te levantas temprano las puedes ver cubiertas por el rocío... como estrellitas.'
+  fall_Fri: 'Solía vivir en la ciudad de Zuzu, ¿sabes?. La gran diferencia es el ruido. Nunca hay silencio en la ciudad.#$e#Hay mucha más gente por todos los sitios. Y hay mucha claridad con las luces de la ciudad, incluso por la noche.#$e#Creo que la elección depende de tu personalidad.'
+  fall_Fri10: 'Creo que me he criado para que me guste al campo más que la ciudad.$h#$b#Aunque por alguna razón podría estar predispuesto a ello.$l#$e#Bueno, ¿Cómo estás hoy?$h'
+  fall_Sat4: 'Tengo mucha suerte de tener la habitación más grade de la casa para mi.#$e#Alguna ventaja tiene que tener ser el mayor.'
+  fall_Sat: 'Hmm. Creo que tenía que hacer algo... Pero se me ha olvidado.#$e#Me pasa constantemente.'
+  fall_Sun8: 'La primera semana del otoño ya se ha acabado. Vaya, se ha pasado muy rápida.$s#$e#Da igual. El caso es que estoy muy feliz de que hayas venido a visitarme!#$e#¿Tienes algo nuevo que contarme?'
+  fall_Sun: Es complicado divertirse un domingo... Sigo pensando en que mañana hay que trabajar.$s
+  fall_14: 'Hola @.#$e#Hmm.. Me pregunto ¿podría hacer crecer un cactus en mi habitación?'
+  winter_Mon2: Todo el mundo se queda en casa en invierno, Asi que puedo tocar la guitarra tan fuerte como quiera.$h
+  winter_Mon: Hola... Que frío, ¿no?
+  winter_Tue: 'Oh, ¡hola! Es un placer volver a verte.#$e#Tómatelo con calma.'
+  winter_Tue4: 'Hola, @. ¿Te apetece salir a dar una vuelta o algo?#$e#Bueno, es una buena época del año para recuperar horas de sueño.$h'
+  winter_Wed: '$d Joja# Odio trabajar en jojaMart, pero ¿Como voy a conseguir dinero en esta ciudad? | Me alegro de trabajar en el museo. Es mas entretenido que el deprimente jojaMarkt.'
+  winter_Thu6_1: 'Creo que mi papá volverá esta primavera. #$e# Han pasado 3 años desde la ultima vez que lo vi. Va a ser muy extraño.'
+  winter_Thu6: Papa volvera en un rato. Creo, uno se acostumbra a el.
+  winter_Thu: 'Mi padre está en el ejército, luchando contra el imperio de Gotoro. Esa es la razón por la que no está.#$e#Volverá pronto, supongo.'
+  winter_Thu_2: Una cosa buena del invierno... todos los mosquitos se han ido.
+  winter_Fri: Lo peor de la nieve es empaparte los pie. Tienes suerte de llevar botas gruesas.
+  winter_Sat4: 'Recordé que tengo que cambiar las cuerdas de mi guitarra.#$b# Vale, voya escribirme una nota en la muñeca, por lo que me acordaré de hacerlo esta noche.#$e#Tengo que hacer pequeños recordatorios para que no se me olviden hacer cosas.$h'
+  winter_Sun8: 'Sería divertido si pudiésemos montar en trineo, ¿no?#$#No creo que haya alguna buena colina cerca.$s#$e#Además, no tengo trineo.#$e#Así que, ¿qué has estado haciendo últimamente?'
+  winter_Sun: Trata de no desordenar demasiado la casa o mi madre nos lanzará por los aires.

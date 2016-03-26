@@ -1,0 +1,196 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: 'Esta lloviendo fuera. Asegúrate de no coger un resfriado, cariño.#$e#Quédate todo lo posible bajo techo.$h#$e#¡A veces me preocupo por ti!'
+  Rainy_Day_1: '¡Está lloviendo! Eso significa que hoy no hay que regar los cultivos.$h#$e#A veces la naturaleza puede ser de gran ayuda.#$e#¿Has alimentado ya a los animales, cariño?'
+  Rainy_Day_2: '¡Buenos días! Me he despertado temprano por el sonido de la lluvia, y te he hecho el desayuno. [194 195 210 211 216]  #$e#Mantente caliente y no trabajes muy duro. No quiero que te resfríes.'
+  Rainy_Day_3: '¿Qué vas a hacer hoy, cariño?#$e#No quiero salir con este tiempo... Haré algunas cosas por casa.#$e#Quizás haga algo caliente para cenar.'
+  Rainy_Day_4: ¿Alguna petición para la cena de hoy?
+  Rainy_Day_Maru: A pesar de toda la tecnología que tenemos, un día lluvioso sigue siendo la mejor herramienta para regar los cultivos.
+  Rainy_Day_Abigail: El campo parece más interesante en un día como este, ¿no crees?
+  Rainy_Day_Penny: Creo que hoy cocinaré algo.$h
+  Rainy_Day_Leah: Quizás hoy quieras ir de pesca, o a las minas. ¿Qué te parece?
+  Rainy_Day_Haley: Ufff. Si el tiempo sigue así me voy a poner muy pálida.$s
+  Rainy_Day_Harvey: Intenta no mojarte, cariño. No quiero que te de una hipotermia.
+  Rainy_Day_Sebastian: Me he levantado antes del amanecer y he dado un paseo por la granja. Está muy tranquila a esa hora.
+  Rainy_Day_Alex: Mmm... Supongo que hoy tendré que hacer flexiones y abdominales aquí dentro.
+  Rainy_Day_Elliott: 'La lluvia me hace pesar en mi vieja vida junto al océano.#$e#Los cambios son parte de la vida. Eso es bueno.'
+  Rainy_Day_Sam: Puede que hoy me dedique a arreglar las ventanas, o las goteras del tejado.
+  Rainy_Night_0: 'La lluvia me hace sentir que todos estamos un poco solos.$l#$e#Tengo frio... ¿No te apetece meterte en la cama?$l'
+  Rainy_Night_1: 'Asegúrate de cambiarte en algún lugar seco. No quiero que enfermes.#$e#¿Puedes oír el agua golpeando el tejado, @?'
+  Rainy_Night_2: Ah...El relajante sonido de la lluvia cayendo... Esta noche voy a dormir bien.$h
+  Rainy_Night_3: La lluvia hace que nuestra casa parezca aún más cómoda.$h^En noches como esta me alegro de tener un buen tejado.
+  Rainy_Night_4: 'He hecho algo de sopa para cenar. [199 218 219 727 730]$h#$e#¡Necesitas algo caliente en un día como este!$h'
+  Rainy_Night_5: Me alegro de que ya hayas llegado... Es una buena noche para quedarse en casa.
+  Rainy_Night_Maru: '¿Has podido hacer algo hoy, cariño?#$e#Intenté arreglar algunas cosas por la casa... ya sabes, cosas pequeñas.'
+  Rainy_Night_Abigail: Estoy lista para ir a la cama cando quieras. El sonido de la lluvia nos dará sueño.
+  Rainy_Night_Penny: Oh... ¿El olor? Intenté hornear algo... No salió muy bien.$s
+  Rainy_Night_Leah: ¿Cómo te ha ido el día, cariño? ¿Mucho barro?
+  Rainy_Night_Haley: Hola, cariño. Me alegro de que estés en casa. Empezaba a sentirme algo sola.$l
+  Rainy_Night_Harvey: 'Hola. Me alegro de verte.$h#$e#Me he pasado el día hojeando algunas revistas medicas.'
+  Rainy_Night_Sebastian: Nunca me cansaré de la lluvia... Especialmente aquí, en el campo.
+  Rainy_Night_Alex: La abuela solía hacer estofado caliente en noches como esta.$h
+  Rainy_Night_Elliott: ¡Siéntate y relájate! Tienes que descansar después de estar todo el día trabajando en el barro.
+  Rainy_Night_Sam: Vincent llamó. Me dijo que me echa de menos, y también te manda saludos.$h
+  Indoor_Day_0: 'Buenos días ~<$h#$e#¿Hoy te apetece trabajar duro? A mi sí.$h'
+  Indoor_Day_1: '¡Hola, cariño! Huele bien, ¿verdad? ¡Te he hecho el desayuno! [194 195 210 211 216]#$e#Necesitas comida para tener energía durante todo el día.'
+  Indoor_Day_2: '¿Has dormido bien?#$e#Tengo algunas cosas que hacer por aquí.'
+  Indoor_Day_3: '¿Has tenido algún sueño raro esta noche?#$e#Yo sí, pero solo recuerdo que tenia algo que ver con un %adj %noun. Raro.$s#$e#Jeje. Los sueños no significan nada... ¿O sí, cariño?$l#$e#Bueno, no podemos pasarnos todo el día hablando. ¡Tienes trabajo por hacer!'
+  Indoor_Day_4: 'Buenos días, cariño. Otro día de trabajo en la granja, ¿eh?#$e#Estaré animándote. <$h'
+  Indoor_Day_Maru: Si alguna vez quieres hablar sobre como maximizar el rendimiento de tus cultivos o lo que sea... ¡Estoy aquí!
+  Indoor_Day_Abigail: Siempre está pasando algo nuevo en nuestra granja... Me encanta.
+  Indoor_Day_Penny: Este lugar es tan grande comparado con la caravana que me siento abrumada... ¡En el buen sentido!
+  Indoor_Day_Leah: ¿Te importa si añado un poco de estilo arquitectónico a la madera de por aquí? ¡La mano del cincel me pica!
+  Indoor_Day_Haley: Siempre me siento feliz cuando hace sol.$h
+  Indoor_Day_Harvey: 'Hoy el cielo está genial...¡Tan despejado!#$e#De ahora, solo voy a ir a la clínica cuando tenga citas. Por lo demás, ¡puedo trabajar desde casa!'
+  Indoor_Day_Sebastian: Bueno, este lugar es mejor que mi vieja habitación en el sótano, ¿verdad?$h
+  Indoor_Day_Alex: ¡El sol brilla y yo estoy cargado de energía! ¡Mejor andate con ojo! Jej jej.$h
+  Indoor_Day_Elliott: 'He estado guardando un diario desde que nos mudamos juntos. Ahora que tengo una vida de verdad, tengo montones de cosas sobre las que escribir.$h#$e#Quiero asegurarme de que siempre recuerdo estos años.'
+  Indoor_Day_Sam: Hoy quiero hacer muchas cosas... Pero seguramente veré la tele.
+  Indoor_Night_0: '¿Lo has hecho ya todo, @?#$e#He hecho algunas cosas en casa... ¡Qué cansancio!#$e#Cuando quieras nos vamos a la cama.$h'
+  Indoor_Night_1: 'Guau, parece que hoy has trabajado mucho.#$e#Esta noche deberías relajarte y descansar.$h'
+  Indoor_Night_2: 'Me alegro de que estés en casa.#$e#Me asusto un poco si solo estoy yo por la noche.$s^No me gusta que no estés por la noche...$s#$e#...$h'
+  Indoor_Night_3: '¿Has acabado con el trabajo por hoy? Ahora toca divertirse un poco.$h#$e#Pero si no quieres lo entiendo, has trabajado mucho.'
+  Indoor_Night_4: '¡Uff! Acabo de terminar mis tareas. Ahora podemos pasar más tiempo juntos.$h#$e#Bueno, cuéntame cómo te ha ido el día.$l#$e#...$h'
+  Indoor_Night_Maru: '¿Tienes sueño, @? ¿Debería dormirte con los detalles técnicos de mi ultimo proyecto?$h#$e#*bostezo*... Para ser sincera, yo también tengo sueño.'
+  Indoor_Night_Abigail: ¿Nos vamos a la cama pronto? He encendido la manta eléctrica para nosotros...$l
+  Indoor_Night_Penny: Hola, cariño. ¿Te apetece pasar una noche tranquila en casa?
+  Indoor_Night_Leah: La noche esta muy silenciosa y tranquila. Hay que disfrutar del momento.
+  Indoor_Night_Haley: Parece que has estado trabajando muy duro, cariño. Deja que te ayude a desestresarte.$l
+  Indoor_Night_Harvey: 'Parece que podrías necesitar un buen masaje esta noche.$l#$e#Órdenes del doctor... ¡Es bueno para la circulación!'
+  Indoor_Night_Sebastian: '#$c .5#Puede que sea un chico solitario, pero siempre estoy feliz cuando estas aquí.$h#$e#Hola, @. Me alegra verte. Me gusta tenerte por aquí.$h'
+  Indoor_Night_Alex: Me noto los brazos cansados... ¿Qué tal un buen masaje?$l^Estoy cansado... ¡Eso es buena señal! Significa que hoy he trabajado duro.$h
+  Indoor_Night_Elliott: '#$c .5#Siempre hueles tan bien después de un duro día de trabajo... ¡Es tu perfume natural!^Hueles genial, cariño. Como un panal flotando en una piscina de té.#$e#Ven aquí, deja que te de un masaje. Tienes tensión acumulada.$l^Hueles bien, cariño. Como una hoja de canela flotando en una brisa de verano.'
+  Indoor_Night_Sam: '#$c .5#Me pregunto si la luna se verá esta noche.#$e#Bueno, ¿has hecho hoy todo en la granja? ¡Si no lo has hecho no me enfadaré!'
+  Outdoor_0: 'Hace un día precioso, ¿verdad?$h#$e#Días como este hacen el trabajo mas placentero.'
+  Outdoor_1: '< Hoy voy a relajarme y explorar la granja, ¿vale?#$e#Es un lugar tan bonito...$h'
+  Outdoor_2: '¡Hola, cariño! Si supiera más sobre el trabajo de la granja te ayudaría. ¡Lo siento!#$e#Pensaré en ti.$h'
+  Outdoor_3: 'Voy a quitar el polvo por aquí. Eso debería ayudarte, ¿verdad?#$e#*uff*... Qué calor hace aquí fuera.'
+  Outdoor_4: 'No trabajes demasiado, cariño.#$e#Asegúrate de descansar de vez en cuando, o llévate algo para comer.$h'
+  Outdoor_Maru: 'Estaré aquí fuera. Es un buen lugar para pensar en nuevos inventos.$h#$e#Aún espero que se me ocurra algo con lo que ayudarte en tu trabajo.'
+  Outdoor_Abigail: 'Voy a estar por aquí fuera, ¿vale?#$e#Hay un montón de bichos y cosas interesantes. *risita*$h'
+  Outdoor_Haley: 'Parece un buen día para tomar el sol, ¿no crees, cariño?#$e#< ...*risita*$h'
+  Outdoor_Leah: '¡Guau, esto es genial! Estoy empezando a disfrutar de la vida en la granja, @.$h#$e#Esta es la vida que siempre soñé.$l'
+  Outdoor_Penny: Estoy muy contenta en nuestra pequeña granja, @.$h
+  Outdoor_Sebastian: 'Esto es muy diferente de mi vieja vida, pero está empezando a gustarme de verdad.$h#$e#Siento que pertenezco a este lugar.$l'
+  Outdoor_Harvey: 'Esto es mucho mas agradable que estar enjaulado en la clínica todo el día.$l#$e#Me encante verte en la granja... Jeje.'
+  Outdoor_Elliott: 'Hoy voy a seguir escribiendo mi nueva novela. ¿Qué mejor lugar que una maravillosa granja?$h#$e#Esto es perfecto.$l'
+  Outdoor_Alex: ¡Hoy voy a hacer un montón de ejercicio! ¡Jaja! Me encanta vivir en una granja.$h
+  Outdoor_Sam: 'Oye, ¡mira esas nubes tan esponjosas, cariño!$h#$e#Voy a mirarlas un rato, si no te importa.'
+  jobLeave_Harvey: Hoy tengo que ir a la clínica. Que pases un buen día, ¿de acuerdo?
+  jobLeave_Penny: Hoy tengo que ir al pueblo. No trabajes demasiado duro, ¡y come algo bueno para almorzar!$h
+  jobLeave_Maru: Tengo que irme a trabajar pronto. Te veré esta noche. ¡Pensaré en ti!$h
+  jobReturn_Harvey: '#$c .5#Hola, @. ¿Cómo te fue el día?#$e#*Uff*... Estoy cansado...$s#$e#Mis pacientes aún están sanos, así que ha sido un buen día.'
+  jobReturn_Penny: '#$c .5#Buenas noches, @. Mi día ha estado bien, ¡Gracias! ¿Cómo ha ido el tuyo?$h#$e#Los niños no se han portado bien hoy. Me tienen de los nervios.$a'
+  jobReturn_Maru: '#$c .5#Bueno, otro día aburrido en la clínica.#$e#Oye, @. ¿Has tenido un día mas emocionante que el mio? Eso espero.#$e#$c .5#Bueno es hora de tumbarse y relajarse. ¿Me has dejado algo de cena?#$e#Tengo ganas de que llegue la hora de dormir.$h'
+  OneKid_0: '¿Has pasado hoy algo de tiempo con %kid1?'
+  OneKid_1: 'Me pregunto si cuando %kid1 cuidará de una granja, como tú.'
+  OneKid_2: 'No te preocupes, yo daré de comer a %kid1. Puedes centrarte en la granja.'
+  OneKid_3: La vida es muy diferente ahora que tenemos un hijo.
+  TwoKids_0: 'Ya les he dado el desayuno a %kid1 y %kid2. ¡Tenían mucha hambre!'
+  TwoKids_1: 'Tenemos que asegurarnos de darle a %kid1 la misma atención que a %kid2. No queremos que tengan envidia.'
+  TwoKids_2: '¿Sabes? Creo que %kid2 tiene tu nariz.'
+  TwoKids_3: Una buena casa, dos maravillosos hijos y una preciosa granja. ¿Qué más nos queda?
+  Good_0: Aún no me puedo creer que estemos casados...$l
+  Good_1: ¿Sabías que siempre tuve la sensación de que acabariamos juntos algún día?$l
+  Good_2: '¿Estás disfrutando la vida de casados, @?#$e#Yo si.$l'
+  Good_3: ¡Guau, hoy estás muy guapo!$l^Guau, hoy estas preciosa.$l
+  Good_4: Ahora este es mi hogar... Estoy feliz aquí.$l
+  Good_5: Estaba admirando mi amuleto de boda... La concha esta impecable. ¡Debe haberte costado una fortuna!$l
+  Good_6: ¡Ten cuidado ahí fuera! A veces me preocupo de que te caigas por un pozo en la mina.
+  Good_7: ¿@? Solo quiero decirte que aprecio todo el trabajo duro que haces por esta casa.$h
+  Good_8: No te preocupes por mi... Sé que tienes muchas cosas que hacer fuera de casa. ¡Yo estoy bien aquí!$l
+  Good_9: 'Oh, no me aburro... Disfruto de lo que tenemos aquí.#$e#Es una vida simple, pero me gusta.$h'
+  Neutral_0: Espero que me sigas queriendo cuando esté mayor y tenga canas.
+  Neutral_1: Me pregunto quien vivió aquí antes que nosotros.
+  Neutral_2: ¿No tienes nada que hacer hoy?
+  Neutral_3: Si vas al pueblo asegúrate de saludar a todos de mi parte.
+  Neutral_4: Mañana lavaré la ropa antes de que te levantes... Así siempre tendrás la ropa lista.
+  Neutral_5: ¿Vamos bien de dinero, @?
+  Neutral_6: Me pregunto que estará haciendo la gente del pueblo.
+  Neutral_7: Hoy no me apetece hacer nada.
+  Neutral_8: 'No importa cuanto limpie, la casa se sigue ensuciando.#$e#Supongo que las granjas son un poco sucias.'
+  Neutral_9: Me pregunto si viviremos aquí toda nuestra vida.
+  Bad_0: ...¿Aún me quieres?$s
+  Bad_1: '*suspiro*... Quizás nos casamos demasiado jóvenes.$s'
+  Bad_2: ¿Aún eres feliz conmigo?s
+  Bad_3: ¿He hecho algo mal? Has estado actuando de froma extraña últimamente.$s
+  Bad_4: ¿Alguna vez te preguntas si hay algo más ahí fuera?$s
+  Bad_5: 'Solías ser romántico... ¿Qué ha pasado?$s#$e#Ya se que no soy tan joven como antes... ¿Por qué te casaste conmigo?$a'
+  Bad_6: Solo tenemos una vida para vivir... ¿Es esta la mejor manera?$s
+  Bad_7: "Solía ser tu 'cariño'... Ahora parece que solo me aguantas cuando te hago una cena caliente.$s"
+  Bad_8: Has estado distante últimamente...$s
+  Bad_9: Me pregunto si podría haberlo hecho mejor.$s
+  spring_0: Bueno, ¿qué vamos a plantar esta temporada?
+  spring_1: Ahora que el invierno ha terminado tenemos muchas cosas que hacer.
+  spring_2: "*suspiro*... Supongo que es hora de la 'limpieza de primavera'.$s"
+  summer_0: 'Asegúrate de que no te da un golpe de calor, cariño.#$e#Bebe mucha agua y no trabajes de más.'
+  summer_1: Perdona si huelo mal... He estado sudando toda la noche por el calor.
+  summer_2: 'Es verano... y eso significa que la casa esta llena de moscas.#$e#No te preocupes, me encargaré de ellas.'
+  fall_0: Este tiempo sienta muy bien después del calor del verano.
+  fall_1: 'El invierno está a la vuelta de la esquina. Necesitamos revisar la calefacción, apagar las válvulas y comprobar el aislamiento de la casa.#$e#No te preocupes, cariño. Yo me encargaré de eso.'
+  fall_2: Se que la temporada de cosecha es un momento muy ajetreado para ti. Intentaré ayudarte todo lo que pueda.
+  winter_0: Brrr... Hace frío.
+  winter_1: 'Deberías relajarte un poco. ¡Has trabajado duro todo el año!#$e#Además, en invierno no hay mucho que hacer en la granja.'
+  winter_2: 'Bueno, ¿cuáles son tus planes para ganar dinero este invierno?#$e#Podrías ir de pesca, o a buscar cosas...#$e#Si vas a la mina, prométeme que tendrás cuidado.'
+  spring_Maru: ¡Estoy emocionada por pasar un nuevo año en la granja, @!$h
+  spring_Abigail: Puede que me gusten las estaciones frías, pero al final siempre me alegro de que llegue la primavera.
+  spring_Haley: ¿No te alegra que haya acabado el invierno, cariño? Ahora todo parece más prometedor.
+  spring_Leah: ¡No olvides buscar rábano picante, puerros y dientes de león mientras estás fuera!
+  spring_Penny: Me alegra tanto ver algo verde después de un largo invierno blanco...
+  spring_Sebastian: Guau, mi piel está muy blanca... Supongo que te ayudaré con la granja esta temporada.
+  spring_Harvey: Plantemos algunas verduras sanas esta primavera.$h
+  spring_Elliott: 'Espero que sea un precioso año en la granja %farm.$h'
+  spring_Alex: Oye, @. ¡Hoy vamos a trabajar duro!
+  spring_Sam: '*sniff* ... Tengo la nariz congestionada... alergias.'
+  summer_Maru: Es un buen momento del año para ver las estrellas.
+  summer_Abigail: Madre mía... Podría ir a por algo de tarta de chocolate.
+  summer_Haley: A estas alturas deberías saber que el verano es mi época favorita.$h
+  summer_Leah: Nada encaja tan bien con el verano como un buen vino dulce. ¿No crees, cariño?
+  summer_Penny: ¿Vas a plantar melones este verano?
+  summer_Sebastian: Este verano voy a quedarme dentro todo lo posible.
+  summer_Harvey: Asegúrate de que no te quemes al sol, cariño... Eso puede dañar mucho tu piel.
+  summer_Elliott: Una de las cosas que echo de menos del océano es el pescado fresco.
+  summer_Alex: Siempre tengo más energía en verano.
+  summer_Sam: En verano siempre quiero hacer barbacoas.
+  fall_Maru: Me alegro de seguir trabajando en la clínica... Es un servicio importante para la comunidad.
+  fall_Abigail: Espero que plantemos calabazas este año.$h
+  fall_Haley: 'Necesito tarta.#$e#Pero no cualquier tarta... tiene que ser rosa.'
+  fall_Leah: Respira hondo... ¿Puedes olerlo? Ese olor... Es temporada de setas.
+  fall_Penny: Se está tan tranquilo aquí en la granja... Nunca aprecié tanto la naturaleza viviendo en el pueblo.
+  fall_Sebastian: Mi madre solía hacer esta deliciosa sopa de calabaza en otoño.
+  fall_Harvey: Podría ir a por un poco de vino.
+  fall_Elliott: 'Ah... Otoño. Lentamente, el cálido sol va proyectando largas sombras sobre los campos dorados.#$e#Es un momento precioso del año, ¿no crees?'
+  fall_Alex: Me siento débil... Necesito proteínas.$s
+  fall_Sam: Me pregunto que estará pasando en el resto del mundo. Me siento muy aislado aquí.
+  winter_Maru: La primavera llegará pronto. Tengo ganas de una tarta de ruibarbo.
+  winter_Abigail: "¿Recuerdas cuando jugábamos a 'Rey de la Pradera' en mi habitación? Eran buenos tiempos.$h"
+  winter_Haley: 'Estaba pensando en aquella vez que me ayudaste a abrir un tarro de pepinillos.$h#$e#Hemos recorrido un largo camino desde entonces.$l'
+  winter_Leah: En invierno siempre empiezo a echar de menos la ensalada... Inconveniente, lo sé.
+  winter_Penny: Voy a leer mucho este invierno.
+  winter_Sebastian: Me pregunto que es de Sam. Solíamos ser muy buenos amigos.
+  winter_Harvey: El invierno es la época de la gripe, así que probablemente el trabajo será mas estresante. Perdón por adelantado si estoy de mal humor.
+  winter_Elliott: Creo que voy a escribir algo este invierno. De todos modos, no hay mucho que hacer.
+  winter_Alex: Espero que a mis abuelos les vaya bien. Solían necesitar un poco mi ayuda. Ya sabes, para levantar objetos pesados y esas cosas.
+  winter_Sam: He abandonado lo de ser músico. ¡Ahora soy un hombre de familia!
+  spouseRoom_Maru: '#$c .5#Me he levantado temprano para ver las estrellas.#$e#Espero que no te importe si paso algo de mi tiempo con mis proyectos, cariño.'
+  spouseRoom_Abigail: '#$c .5#Me he levantado antes que tú y he dado de comer a David Jr. Está muy activo por las mañanas.#$e#Espero que no te importe el olor a cobaya.'
+  spouseRoom_Haley: '#$c .5#Ve y empieza tu día, cariño. Me estoy maquillando.#$e#¿Tienes algún plan para hoy?'
+  spouseRoom_Leah: '#$c .5#Uno de estos días te haré un retrato.#$e#Las vistas desde esta ventana son inspiradoras, ¿no crees?'
+  spouseRoom_Penny: '#$c .5#Siempre quise tener mi propia biblioteca. Esto es encantador.$h#$e#Me gusta leer un poco por la mañana. Pone el cerebro en funcionamiento.'
+  spouseRoom_Sebastian: '#$c .5#Echo de menos mi moto... Pero bueno, es demasiado peligrosa para un hombre casado.$h#$e#¿Tenemos pizza en el frigorífico? Tengo hambre.'
+  spouseRoom_Harvey: '#$c .5#Hoy no hay tráfico aéreo, cariño. Pero aún así es divertido dejar el equipamiento de vez en cuando.#$e#Estoy trabajando en la maqueta de un nuevo avión. Es mucho mas relajante aquí que en mi viejo apartamento.'
+  spouseRoom_Elliott: '#$c .5#Creo que hoy escribiré un poco.#$e#¿Estarás bien sin mi ayuda?'
+  spouseRoom_Alex: '#$c .5#Nunca me dejes ser un vago. ¡Quiero mantenerme en forma para ti!#$e#Hay un montón de habitaciones para hacer mis ejercicios. ¡Estoy haciendo más progresos que nunca!'
+  spouseRoom_Sam: '#$c .5#La vieja guitarra... Ya no tengo la misma práctica que antes. Está bien.#$e#¿Qué tienes hoy en tu agenda?'

@@ -1,0 +1,20 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  rain: GOTO winter
+  spring_9: '610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2 "Hoy tengo cita con el doctor, así que si quieres comprar algo, date prisa."/1010 Hospital 12 14 0 "Eh, tengo un anzuelo clavado en el pulgar... El doctor va a quitármelo."/1330 Hospital 4 6 1 "¡Auch! ¡Eso duele!$s"/1600 Saloon 17 22 2 "Necesito un poco de calor para estar listo para otra fría noche en el océano.$h"/2320 FishShop 4 4 2'
+  winter: '610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Saloon 17 22 2 "Necesito un poco de calor para prepararme para otra fría noche en alta mar.$h"/2320 FishShop 4 4 2'
+  Sat: '610 Forest 91 40 2 dick_fish/1400 Town 59 100 2 dick_fish/1900 Saloon 17 22 2 "Ah... No hay nada mejor que relajarse después de todo el día pescando.$h"/2300 FishShop 5 4 2'
+  Fri: '610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Saloon 17 22 2 "Trabajar con pescado salado todo el día me da mucha sed."/2320 FishShop 4 4 2'
+  spring: 610 Beach 38 36 2 dick_fish/850 FishShop 5 4 2/1700 Beach 25 36 2 dick_fish/2200 FishShop 4 4 2

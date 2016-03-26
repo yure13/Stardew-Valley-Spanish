@@ -1,0 +1,43 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: '¿Hola...?#$e#Soy Abigail.#$e#Eres el nuevo granjero, ¿eh? Interesante.'
+  4: 'Anoche estaba sentada en el techo y vi una barcaza en la distancia.#$e#Si fuera un pirata me habría apoderado de esa barrrcaza, camarada.#$b#Jajajajajajaja.$h#$e# Eso ha sido muy cursi, lo siento.'
+  Mon: 'Oh, hola.#$e#Emm... Me gusta pasar el rato en el cementerio. Nadie me molesta allí.#$b#Es un lugar tranquilo para leer o pensar sobre... la existencia.#$e#Y supongo que también espero a ver un fantasma.#$b#Jejejeje...$h#$e#¿Que?'
+  Tue: '*Suspiro*... Estaba peleándome con mis padres de nuevo...$s#$e# Lo siento, apenas nos conocemos.'
+  Wed: 'Hola. Perdón de antemano si digo algo grosero. No pude dormir mucho anoche:#$e# A veces simplemente no puedo dormir, es como si mi mente estuviera fuera de control.#$e#¿Qué quieres?'
+  Thu: 'No tengo ganas de hacer nada hoy...$u#$e#Tal vez solo me acurruque bajo una manta y juegue a algunos videojuegos.'
+  Fri: 'Hoy he recibido una carta de amigo por correspondencia %name de %place.#$e#Supongo que es solo un niño que no tiene nada mejor que hacer.#$e#Me ha escrito que esta trabajando en un lugar llamado El %adj %noun. Extraño nombre, ¿eh?'
+  Sat: 'Me gusta caminar sola por las montañas de vez en cuando. A veces finjo que soy un orco.$h#$e#¿¡Qué!?, tengo que seguir usando mi imaginación o me aburriré.'
+  Sun: 'Me pregunto ¿que pasaría si paso toda la noche en el cementerio?#$q 17/18 Sun_old#¿Qué crees que pasa después de morir?#$r 17 0 Sun_17#No tengo ni idea.#$r 18 40 Sun_18#Nos volvemos espeluznantes fantasmas.#$r 17 0 Sun_17#Vamos al cielo.#$r 18 0 Sun_17#La energía de nuestros cuerpos entra en el plano astral.#$r 17 30 Sun_nothing#Nada. Simplemente dejamos de existir.'
+  Sun_old: '$p 17# Supongo que crees que no pasaría nada, ¿verdad?$u | ¡Tal vez aparecería un malvado fantasma!'
+  Sun_17: Hmm, interesante...
+  Sun_18: ¡Jaja! Eso seria interesante, ¿no?$h
+  Sun_nothing: Supongo que no estaría tan mal. No me gustaría estar consciente por toda la eternidad, ¿sabes?
+  Wed2: 'Oh, hola @. ¿Tomando un descanso?#$e#Yo también. Mis deberes, eso es. Recibo clases desde el ordenador.'
+  Tue4: 'Hola, me alegro de verte.$h#$e#Quiero distraerme un rato.'
+  Sat6: '¿Has recorrido todo el camino para visitarme? Eso es genial.$h#$e#¿Entonces has estado descubriendo algunos secretos oscuros de las minas últimamente?#$e#¡Oooh! Interesante.$l'
+  Mon8: '...Oh, ¡@! Hola.$h#$e#¿Quieres pasar el rato? ¡Ven! Déjame leerte la palma de la mano. *Risita* $h'
+  Thu10: 'Hola.$l#$e#¿Sientes que últimamente todo parece irreal?$l#$b#De una buena manera.$h'
+  Fri6: 'Los pájaros han estado cantando hoy. No entienden el futuro.#$e#Es mejor ser como ellos, ¿no?'
+  Event_VideoGame_Yes: ¡Genial! Estoy segura de que serás capaz de pasarte este nivel fácilmente.$h
+  Event_VideoGame_No: '¿Oh? *suspiro*... Entonces, supongo que nunca pasaré este nivel...$s'
+  Event_Rain_1: Ya veo...
+  Event_Rain_2: Sí, eres el tipo de persona que apreciaría la sombría belleza de la lluvia.
+  Event_Tragic_1: Sí... Supongo que mi vida esta bien...$s
+  Event_Tragic_2: ¡...!$h
+  Event_Tragic_3: 'Me sentiría mejor si pudiera creérmelo...#$b#Pero no puedo.$s'
+  Event_Cave_1: ...Sí.
+  Event_Cave_2: Supongo que cuando tienes algo que perder, es normal tener miedo...
+  Event_Cave_3: ...Um, está bien. Lo siento.

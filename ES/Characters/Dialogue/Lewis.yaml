@@ -1,0 +1,57 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: 'Bueno, ¡como fue tu primera noche en la vieja granja?#$e#Tu abuelo solía quejarse sobre la vieja y endeble cama. Pero, de hecho, creo que en el fondo le encantaba esa casa.'
+  Mon: 'Es una buena estación para empezar a pensar en la agricultura, incluso para nosotros los no granjeros.#$e# ¡El valle es conocido por producir algunas de las mejores flores de primavera!$h'
+  Tue: 'Tan solo deposita cualquier cosa que quieras vender en la caja de envío al lado de tu casa.#$e#Estaré interesado en ver que tipo de cosas depositas ahí.'
+  Saloon_Entry: ¡Hola, Gus!
+  Tue2: Al comienzo de cada estación tendrás que retirar los cultivos secos de la estación previa. Es mas fácil con una guadaña.
+  spring_3: ¿Has plantado ya algún cultivo de primavera? La estación no dura para siempre, ya sabes.
+  Town_57_40: '#$c .3#Estás temprano en el pueblo, ¿eh? ¿Has acabado ya con tus deberes en la granja?#$e#¡Buenos días! Estoy comprobando el jardín, como de costumbre.$h#$c .5#Mmm... ¿son esto áfidos?$s#$e#Mmm... Espero que no sean coccoideas...$s'
+  Wed: 'Mmm... recaudación de impuestos... *balbuceo* ...gastos de fiestas de primavera... *balbuceo*...$u#$e#¿Si?'
+  spring_10: Ah... No hay nada como una taza de té fuerte por la mañana.
+  Thu: 'El salón se puede poner muy animado por la noche. A veces incluso metemos una moneda en la gramola *risita*$h#$e#De todos modos, me gusta visitarlo una vez a la semana para ponerme al día.'
+  Saloon: '¡Buenas noches! Es bueno ver que socializas con la gente del pueblo.#$b#Es bueno parar de vez en cuando y ver cuales son las ultimas noticias.$h'
+  Saloon4: '¡Buenas noches, @! Me alegro de verte relajándote en el salón. Es bueno que te tomes un descanso de vez en cuando.$h#$b#Tu abuelo siempre se exigía demasiado... Esta noche me tomaré una cerveza extra en su honor.'
+  Fri: 'Espero que las cosas estén yendo bien en la granja %farm. Odiaría ver como todo se seca.'
+  Sat: 'Todo el mundo parece mas feliz los fines de semana, ¿no crees?#$e#Aunque yo estoy trabajando siete días a la semana.'
+  Sun: '¡He sido Alcalde de Pelican Town durante mas de veinte años!#$e#Nadie se presenta contra mi cuando llega la hora de las elecciones. Me gusta pensar que eso significa que estoy haciendo bien mi trabajo.#$e#Me gusta ser Alcalde.'
+  event_secret1: Gracias @. No olvidare esto.
+  event_secret2: '*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres horrible.$s'
+  summer_Mon: La jardinería es mi afición, así que estoy emocionado por este clima cálido.
+  summer_Town_57_40: '#$c .3#Ah, ¡mis flores están creciendo maravillosamente!$h#$c .3#¡Buenos días! ¿Puedes oler el dulce aroma de estos lirios?#$e#Es temprano, pero el aire ya esta bastante cálido. El verano es bueno para un viejo como yo jeje.'
+  summer_Tue: '¿Como llegué a ser alcalde en primer lugar? Es una historia muy larga.#$e#Justo ahora, ambos estamos demasiado ocupados para historias.'
+  summer_Wed: Las medusas de luz lunar estarán aquí pronto. Es una de mis cosas favoritas del valle.
+  summer_Thu: 'El salón se anima mucho por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día. Y para probar los auténticos espaguetis de Gus.'
+  summer_Fri: Mmm... Me pregunto si hoy es el cumpleaños de alguien. Mejor comprobaré el calendario en la tienda de Pierre.
+  summer_Sat: 'Todo el mundo parece mas feliz los fines de semana, ¿no crees?#$e#Aunque yo estoy trabajando siete días a la semana.'
+  summer_Sun: 'Dime, ¿vas a plantar arándanos en tu granja?#$e#Me encantan los arándanos frescos.'
+  fall_Mon: 'Algunas personas del pueblo son cautelosas con los forasteros. Tendrás que ganarte su confianza antes de que se abran a ti.#$e#Se persistente y os llevareis bien.$h'
+  fall_Tue: 'Fue por esta época del año cuando me convertí por primera vez en Alcalde, hace veinte años.#$e#Eso me hace sentir viejo.$s'
+  fall_Wed: 'Si tienes alguna sugerencia para el pueblo, déjame una nota en mi buzón de sugerencias.#$e#Oh, cierto... no tengo buzón de sugerencias.'
+  fall_Wed2: Cada miércoles desayuno gofres de trigo y un café. Es una pequeña tradición que mantengo para hacer interesante la vida de soltero.$h
+  fall_Town_57_40: '#$c .3#Mmmm... estas pequeñas setas raras han estado saliendo en mis astillas de madera. Me pregunto de que tipo son.#$c .3#¡Buenos días! Lentamente entramos en los meses fríos, asi que voy a ver llegar a un final feliz a mi jardín.#$e#Ah, llegas temprano al pueblo, ¿eh? ¿Has acabado ya con tus deberes en la granja?'
+  fall_Thu: 'El salón se pone muy animado por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día.'
+  fall_Fri: Espero que las cosas te estén yendo bien en la granja.
+  fall_12: '¿Tienes alguna colmena de abejas en tu granja?#$e#Si las pones cerca de las flores puedes conseguir diferentes tipos de miel.'
+  fall_19: A veces puedes ver si hay algo enterrado bajo tierra. Solo tienes que tener los ojos bien abiertos.
+  fall_Fri4: '¿Has probado la salsa "secreta" de espaguetis de Gus?$s#$b#...Los ingredientes quizás sean secretos, pero el olor no.#$b#Te veo luego.'
+  fall_Sun: ¿Estas haciéndolo lo mejor que puedes en la granja, @? Tendrás que hacer muchas cosas en diferentes áreas si quieres convertirte en ciudadano bien formado.
+  winter_1: 'Bueno, ¡el invierno esta aquí! Eso significa que la gente del pueblo pasará la mayor parte de sus días en casa.#$e#¡Al menos sabrás donde encontrarlos!$h'
+  winter_Mon: '¡Casi se acaba otro año!!#$e#¡Espero que haya sido un año productivo!'
+  winter_Tue: ¡Tengo que empezar a pensar en un plan para mejorar el pueblo el próximo año!
+  winter_Wed: 'Seguiré viniendo cada noche a recoger tu producción, incluso si hay nieve.#$e#¡Tendrás que seguir ganando dinero en invierno!'
+  winter_Fri: Espero que las cosas te estén yendo bien en la granja.
+  winter_Fri6: 'Nunca he estado casado. No tengo familia. Todo para lo que vivo es para ser Alcalde.$s#$e#¿Merece la pena?$s#$e#...*suspiro*...$s'
+  winter_Sun: "¡Hola, @! ¿Como te va hoy?$h#$e#Si ves a Marnie, dile 'hola' de mi parte."

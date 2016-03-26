@@ -1,0 +1,25 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Oh, ¡Hola! Te doy la bienvenida a nuestra pequeña comunidad. Yo soy Evelyn.#$e#¡Un placer conocerte!'
+  Mon: ¡Oh, Dios mío! Que hermoso día.$u
+  Tue: 'No le hagas caso a mi esposo, George. No es muy amistoso con los extraños.#$e#Te caerá mejor una vez que lo conozcas.#$e#¡Sé que algún día seréis buenos amigos!$h#$e#Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año.'
+  Wed: 'El buen alcalde me puso a cargo de los jardines públicos del pueblo.#$e#He estado trabajando en los parterres durante semanas ¡Así que no los pises!'
+  Thu: 'Hoy estoy horneando galletas. Me gusta hacerlas con formas de flores en primavera.$h#$e#Puede que te dé mi receta uno de estos días.'
+  Fri: 'George se pasa el día entero en frente de esa condenada televisión.#$e#Me gustaría que saliera mas. Un poco de aire fresco le vendría bien.'
+  Sat: 'Me gustaba mirar las nubes.#$e#Pero he tenido problemas para verlas estos días. Mis ojos ya no funcionan igual que antes.$s'
+  Sun: 'Es bueno estar tan cerca del océano. El sonido del mar me ayuda a dormir.#$e#De pequeños buscábamos conchas en la playa después de que bajara la marea. Que tiempo aquellos...'
+  Tue6: 'Que amable de tu parte venir a visitarnos a George y a mi.#$e#Sin gente joven alrededor se envejece más rápido.$h'
+  Event_cookies1: ¡Gracias!$h
+  Event_cookies2: Oh cielos... Debo haberlas dejado mucho tiempo en el horno.$s

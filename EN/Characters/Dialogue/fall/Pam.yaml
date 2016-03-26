@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
+    Tue: "If I knew you better, I'd be more inclined to chat." #!String
+    Tue4: "I used to be young, once. Hard to believe, huh?#$e#Time sure goes fast when you grow up.$s" #!String
+    Wed: "*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.$s" #!String
+    Thu: "Penny's the only one I've got, so you best treat her kindly." #!String
+    Fri: "Every day is the same old routine...$s#$e#Do you ever have that problem, farmer?" #!String
+    Sat: "Would you do me a kindness and clean up my house?#$e#Just kidding.$h" #!String
+    Sun: "Don't you have work to do?#$e#You should be thankful that you have a job rather than moping around town all the time." #!String
+    Sun4: "I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.#$e#Times sure do change." #!String
+    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
+    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+

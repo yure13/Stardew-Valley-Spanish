@@ -1,0 +1,25 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Echa un vistazo a ese paquete de semillas de la mesa. Las necesitarás para cultivar#$e#Ahora mismo tengo a la venta una buena selección de semillas.'
+  Tue: 'Con el tiempo tendré nuevos artículos a la venta, ¡así que pásate de vez en cuando!#$e#Tener una tienda lleva mucho trabajo.$h'
+  Wed: Está muy bien tener un día de descanso.
+  Thu: 'Asegúrate de echar un vistazo a la selección diaria de suelos y papel de pared.#$e#Puede que encuentres algún diseño que te guste.$h'
+  Fri: 'Ey, hola. ¿Te va bien con tu granja?#$e#A lo mejor algunas de mis semillas te ayudan.$h'
+  Sat: 'Recuerda, recoges lo que siembras.$u#$b#¡Así que asegúrate de que siembras solo la selección de semillas de Pierre!$h#$e#Quizás eso es demasiado cursi para un nuevo eslogan...'
+  Sun: 'Si no tuviese esta tienda estaría fuera ahora mismo.#$e#Las hojas son preciosas, y es temporada de setas.'
+  Wed6: ¡Hola, @! Esta bien ver gente nueva en la ciudad.
+  Thu4: 'Ey, @. ¡Eres mi cliente número uno!#$e#Un bonito tapizado nuevo hará que trabajes mas alegremente, ¿no crees?'
+  Event_naga1: Gracias. Olvida que esto ha pasado, ¿vale?
+  Event_naga2: ¿De verdad me harías eso? Eres terrible.$s

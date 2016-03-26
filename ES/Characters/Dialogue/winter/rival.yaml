@@ -1,0 +1,21 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  5: 'Acabo de recibir otra mejora en mi casa... ¡Es tan grande que ya no se que hacer con el espacio!#$e#Todavía estás viviendo en esa pequeña cabaña, ¿verdad? Eso esta bien, no todos tenemos ojo para el lujo.'
+  19: He estado haciendo mucho dinero en las minas es ridículo. Pero te permitire descubrir los secretos por ti mismo.
+  5_2: 'Dios mio, ¡El dueño de este salón es estúpido! ¡Y realmente piensa que su comida es buena! jaja! $h#$b#jaja... Es bueno ver el humor en las cosas, @.'
+  19_2: Bueno, es sólo de tiempo para decidir quién será el próximo héroe Stardew. Estoy seguro de que has dado lo mejor de ti.
+  Fri: ¿Tienes frío? Yo no. Tengo una capa térmica por encargo de la ciudad de Zuzu.
+  12_2: Oye campeón... ¿aun intentando llegar a fin de mes?^Hola cariño. Aun intentando llegar a fin de mes, ¿eh?
+  26_2: Nos vemos en la celebración del héroe Stardew. No te olvides de traer la cámara.

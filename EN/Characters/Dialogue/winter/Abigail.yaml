@@ -1,0 +1,49 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Well, fall is over...$s#$e#But I like winter, too!$h" #!String
+    19: "I'm glad humans don't hibernate like bears.$h" #!String
+    Mon: "It's just too cold to go outside much.#$e#But I do enjoy building a snowgoon.$h" #!String
+    Tue: "Doesn't a steaming hot cup of cocoa sound good right now?" #!String
+    Wed: "Hi. Is it boring to be a farmer during the winter?" #!String
+    Thu: "Another year is almost over.#$e#It goes by so fast, doesn't it?$s" #!String
+    Fri: "I wonder why men don't wear fancy hats anymore?^I wonder why women never wear bonnets anymore?#$e#I guess everyone stares at you if you look different." #!String
+    Sat: "It's the weekend!#$e#That means I can play twice as many video games.$h#$e#Bye." #!String
+    Sun: "Oh, hello.#$q 29/30 Sun_old#I made these two drawings. What do you think?#$r 29 20 Sun_29#I like the jungle island and the tiger.#$r 40 5 Sun_30#I like the orc with the battleaxe.#$r 29 -50 Sun_Bad#I don't like either of them." #!String
+    Sun_old: "$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remeber that drawing I showed you with the orc? I entered it into an online contest and won 50gp!$h" #!String
+    Sun_29: "Oh yeah? I guess that makes sense." #!String
+    Sun_30: "Really? That one's my favorite, too.$h" #!String
+    Sun_Bad: "Why would you hurt my feelings like that? You're so insensitive!$s" #!String
+    Wed2: "Hi. If you're ever bored, I'm usually not doing anything." #!String
+    Tue4: "It's so cold, I wish we had a hot cup of cocoa to share.$h" #!String
+    Sat6: "I've been daydreaming a lot lately...#$e#Oh! You want to know what it's about? Well...$u#$b#...It's a secret.$h" #!String
+    Mon8: "Hi @! I was hoping to run into you.$h#$e#I like when you're around.$h" #!String
+    Thu10: "Another year is almost over...#$b#But this was a really good year, don't you think?$h" #!String
+    Wed6: "It must be nice not having crops to worry about this time of year.#$e#And that means you can hang out with me more often!$h" #!String
+    Fri10: "@, there's something I want to tell you...#$e#It's just... um... well... your boots! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s" #!String
+    Event_VideoGame_Yes: "Great! I'm sure you'll be able to beat this level with ease.$h" #!String
+    Event_VideoGame_No: "Oh? *sigh*... I guess I'll never get past this level, then...$s" #!String
+    Event_Rain_1: "I see..." #!String
+    Event_Rain_2: "Yes, you're the kind of person who would appreciate the somber beauty of rain." #!String
+    Event_Tragic_1: "Yeah... I guess my own life is okay...$s" #!String
+    Event_Tragic_2: "...!$h" #!String
+    Event_Tragic_3: "I would feel better if I could believe that...#$b#But I don't.$s" #!String
+    Event_Cave_1: "...Yeah." #!String
+    Event_Cave_2: "I guess when you have something to lose, it's normal to be afraid..." #!String
+    Event_Cave_3: "...Um, okay. Sorry." #!String
+

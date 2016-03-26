@@ -1,0 +1,26 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: '¡Muy buenas! Soy Demetrius.#$e#Tengo un laboratorio aquí donde hago investigaciones científicas.#$e#¡Visítame cuando te apetezca!'
+  Mon: 'Me gusta trabajar en el laboratorio. Siempre sienta bien avanzar en tus progresos.#$e#A veces me ayuda Maru.'
+  Tue: 'Estoy investigando las plantas.#$e#A veces se comunican entre ellas. Para advertir de depredadores, por ejemplo. Por eso las estudio.#$e#Tal vez mi investigación llegue a ser útil algún día a los granjeros como tú.'
+  Wed: 'Seguramente estás cultivando muchos tipos interesantes de plantas en tu granja, ¿no?#$e#Quizá me pase algún día por allí para verlo.'
+  Thu: ¿Cómo va la granja? Es temporada de maíz ¿verdad? Imagino que habrá bastante tranquilidad trabajando con las plantas al aire libre todo el día.
+  Fri: 'Robin tiene mal carácter. Es mejor estar de su parte.#$e#No le digas que te lo dije.$h'
+  Sat: 'Vamos a ver... Si los compuestos en la rizosfera contienen suficientes niveles de carbono-13, entonces...$u#$b#Oh! Lo siento. Estaba buscando algunos datos y no te vi.#$e#¿Necesitas algo?'
+  Sun: 'Es bueno tomar un descanso de vez en cuando.#$e#Aunque, supongo que es un poco difícil cuando vives en una granja.#$e#Ey, al menos en invierno no tienes que preocuparte de los cultivos.'
+  Fri4: 'Robin tiene un fuerte temperamento. Es mejor estar de su lado.#$e#...Ahora si pudiera cuantificar sus niveles de estado de animo, quizas podria modelar las fluctuaciones usando una curva sinusoidal.$h'
+  Wed6: '¡Hola @! ¿Cómo te va hoy?#$e#Me gustaría poder hacerte el trabajo más llevadero.'
+  Event_tomato1: ¿De veras? Pensaba que un granjero sabría la respuesta correcta
+  Event_tomato2: ¿Lo ves? @ está de acuerdo conmigo.

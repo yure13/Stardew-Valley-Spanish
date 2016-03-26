@@ -1,0 +1,41 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  9: 'Hmm. ¿De qué marca es tu camiseta?#$e#Oh. Um, no importa.'
+  Mon: Quiero mudarme un lugar más cálido.
+  Tue: 'Hola. ¿Necesitas algo?#$e#...'
+  Wed: 'Ójala alguien me trajera un café de menta.#$e#No importa, sé que no puedes hacer uno.'
+  Thu: Voy a empezar a escribir una lista de todas las prendas que necesitaré para la siguiente primavera.
+  Fri: '¿Tienes un pony en tu granja?$h#$e#Oh. Qué decepción...$s'
+  Sat: 'Lo único bueno del invierno es que duermo más.#$e#Me gusta dormir al menos 10 horas cada día.'
+  Sun: '¿Podrías saludar a Josh de mi parte?#$e#Gracias.'
+  Tue2: 'Tu nombre es @,¿no?#$e#Siempre se me olvida.'
+  Tue4: Hola @. ¿Ha pasado algo emocionante en tu granja?
+  Wed6: 'Creo que estoy empezando a darme cuenta que la apariencia no es lo más iportante, ¿verdad?#$e#Pero aún me encanta la ropa. Quiero decir, ¿Qué pasa por expresarse un poco?'
+  Thu6: 'Quizá done algunas de mis faldas a la caridad en primavera.#$e#Quiero decir, tengo más de 1000.$h#$e#...¿Qué pasa?'
+  Sun6: 'Eh, si ves a Josh, ¿podrías decirle que hoy estoy ocupada?#$e#Gracias.'
+  Mon8: 'Ójala hiciera más calor aquí en Stardew Valley.#$e#Podría mudarme a otro lado, pero...'
+  Fri8: ¿Alguna vez has pensado en tener un pony en tu granja?
+  Sat8: 'Estoy orgullosa de que tengas menos trabajo que hace en invierno.#$e#Tiene que ser bueno tener un descanso, ¿no?'
+  Sun10: '@, hoy te veo con ganas. Eso me gusta.^@, además te ves más guapo.#$e#...$h'
+  Event_clean1: 'Hmmmmm... #$b#Vale, tu ganas. Éste podría ser mi trabajo todas las semanas. No hay más que decir.'
+  Event_clean2: '¡¡NO!! ¡No voy a hacer eso!$a#$b#Los chicos sois todos unos estúpidos!$a'
+  Event_clean3: "¿Debería tomar el 'camino fácil'? ¿Qué se supone que eso significa?#$b#Crees que sigo siendo un niño, ¿no?"
+  Event_jar1: Genial, ¡entonces no deberías tener problema alguno para abrirme este tarro!$h
+  Event_jar2: 'Oh... ¿no lo estás? Hmmm...$s#$b#Da igual, ¿me abres el tarro de todas formas?'
+  Event_beach1: ¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a
+  Event_beach2: ...Tal vez alguien al otro lado del mar lo encuentre.$s
+  Event_room1: '¿Él? ¡No!#$b#... Bueno, supongo que antes me gustaba Josh. ¡Pero ya no! Es un inmaduro.'
+  Event_room2: ¿Qué? Eso suena divertido, pero no me gustaría dejar Stardew Valley ahora mismo...
+  Event_room3: ¿Eing? ¿Qué es un androide?

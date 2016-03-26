@@ -1,0 +1,21 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Sigue así. Creo que vas a ser una estrella.#$e#Si necesitas algo, pregúntame.'
+  Tue: Sabía que acabarías aquí algún día. Por supuesto, tuve que ponértelo un poco difícil, para que tuvieras un incentivo para alcanzar la excelencia.
+  Wed: Nací como un chico normal, pero pronto tomé una decisión en mi vida que me convertiría en extraordinario.
+  Thu: 'Oye. No le hables a nadie sobre este lugar, ¿entendido? Quiero mantenerlo... exclusivo.#$e#Guardarías un secreto para tu amigo, el señor Qi, ¿verdad?'
+  Fri: 'Nunca dejes de esforzarte para lograr la perfección.#$e#No te conformes con nada menos que la excelencia en todo lo que hagas.'
+  Sat: Pásate cuando quieras relajarte.
+  Sun: Sigue trabajando duro y quizás, algún día, acabes como yo.

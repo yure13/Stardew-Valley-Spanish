@@ -1,0 +1,43 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Hey ¿qué pasa? Tenía la esperanza de que funcionaría en ti! Eres el nuevo granjero que se acaba de mudar, cierto? #$e #Me llamo Sam. Bueno, es un gusto conocerte. $h'
+  7: 'Acabo de terminar de leer un libro sobre la vida extraterrestre... Es un tema muy divertido en realidad. $e # # ¿Crees que tengan también guitarras eléctricas?'
+  14: 'Me encantaría conocer un planeta alienígena... Sólo imagina su cultura, su música, su comida, SU CINE! *suspiro* #$e #... Nací en el siglo equivocado, @. $s'
+  21: 'A veces esos pétalos de primavera que flotan en el aire me dan alergia. $s #$e #Me encanta el verano, por mi mismo.'
+  Mon2: 'Hey, ¿qué tal te va? #$e #he estado practicando guitarra toda la noche. Mis dedos están locamente lastimados. $s #$e #No pasa nada, creo. Eso significa que podré practicar más la próxima vez. $u #$e #Chao, tengo algo que hacer...'
+  Mon: 'Tu herramienta es la azada, y la mía es la guitarra OH YEAH!. #$e #ambos requieren de un toque maestro, ¿O a caso no estoy en lo correcto? Chee-hee-hee! $h'
+  Mon8: "Te diré un secreto... mi nombre 'Sam' es la abreviatura de 'Samson'. $l #$e #La mayoría de las personas no lo saben, así que no lo cuentes!."
+  Tue: 'Oh, Hola! Es bueno verte otra vez. #$e #Relájate.'
+  Tue4: 'Hola, @. ¿Te gustaría salir a caminar o algo por el estilo? #$e #Desearía no tener que dormir. No hay mucho tiempo para hacer todas las cosas que quisiera hacer #$e #¿Alguna ves has tenido el mismo problema?'
+  Wed: 'Da-Doo-doo doo-da-dop-da-doo. $u #$b #Oh, Hola! Estoy en proceso de idear una nueva canción para mi banda. $q # 19/20 Wed_old #Hmm... ¿De sobre qué crees que sería buena esta canción? #$r 20 30 Wed_19 #Cosechar, minar y cortar madera. #$r 20 30 Wed_20 #Gente dinosaurio. #$r 20 30 Wed_20 #Un picnic romántico en la playa. $r # 19 -50 Wed_19 #Bah, no elijas nada. Seguirá siendo una horrenda canción.'
+  Wed_old: '$p 19 #Pero si ya sé lo que piensas sobre ella$ s| Gracias por tu ayuda, justo he terminado ya con la letra! $h'
+  Wed_19: Um. Está bien... Perdón por preguntar. $s
+  Wed_20: ¡ Hey! Eso suena perfecto. Gracias! $h
+  Wed6: 'He sido amigo de Sebastian por un tiempo. Es un chico muy cool.#$e# Si ustedes dos no estuvieran cerca, la verdad, no tendría ningún amigo en la ciudad.'
+  Wed10: Hey compañero. Hoy te ves lleno de energia!^@.Um... Solo quería decirte que... Hoy te ves bien
+  Thu6: 'Creo que mi papá podría regresar en un año más o menos.$e # #Supongo que podrías conocerlo, claro, si aún vives aquí#$e #No creo que fueras capaz de abandonar la granja después de tanto esfuerzo que le has dedicado!'
+  Thu6_2: '... Tengo sentimientos encontrados... Mi padre está de regreso. Se siente raro.$s #$b #Pero supongo que es por que no lo he visto en 3 años... Eso puede explicarlo.'
+  Thu: 'Mi padre está en el ejercito, luchando contra el Imperio de Gotoro. Es por eso que no está aquí. #$e #Sé que él volverá algún día. $e # #He escuchado un montón de cosas terribles sobre el Impero de Gotoro... $s'
+  Thu_2: 'Bueno, mi papá está de regreso. ¿Lo has conocido ya? #$b #Sólo me alegra que él esté bien.'
+  Fri: 'Solía vivir en la ciudad, ya sabes... Es mucho más trabajo allí. #$e de #Hay muchísimas más cosas que hacer, pero mucho menos pacífico. $e # #Supongo que la situación que más te guste depende de tu personalidad.'
+  Fri10: 'Creo que madurar ha hecho que ame realmente este lugar. $h $b # #Pero también creo que eso pudo perjudicarme. $l #$e #Y entonces.. Cómo te va hoy? $h'
+  Sat4: 'Acabo de recordar que mi guitarra está desafinada Okey, iré a ponerme esta banda de goma en mi muñeca para recordar que debo afinarla después de que te vayas. #$e#Tengo que hacer unos cuantos recordatorios o cualquier otra cosa, ya que suelo tener mala memoria.$h'
+  Sat: 'Hmm. Creo que estaba pensando en hacer algo... Pero lo olvidé.#$e#Suele pasarme todo el tiempo.'
+  Sun8: 'Desearia que realmente algún día pudiesemos ver un platillo volador... Tú y yo.#$e#Claro, sería más sencillo si vivieramos en algún lugar con cielos más despejados.#$e#Pienso que el futuro estará lleno de grandes y geniales sorpresas.$h'
+  Sun: 'Entonces... ¿Estás interesado en los platillos voladores?#$e#Mi padre vio uno!, una ves. Aunque la verdad, parecía más un arma secreta del Imperio de Gotoro.'
+  Event_band1: Eso realmente suena a una muy buena idea!$h
+  event_snack1: Él dice la verdad, mamá.$s^Ella dice la verdad, mamá.$s
+  event_snack2: Sí... Eso es justo lo que sucedió!
+  event_snack3: ¿¡Qué...!? Él miente!$a^¿¡Qué...!? Ella miente!!$a

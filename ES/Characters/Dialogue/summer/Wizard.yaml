@@ -1,0 +1,22 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Ah, sí. Predije que vendrías hace algún tiempo, joven @.#$e#De todos modos, al final tu destino está en tus propias manos.'
+  Mon: He visto algunas cosas sobre tu futuro, joven @. Si te las contara, podrían haber graves consecuencias.
+  Tue: Si no tienes nada importante que decirme, déjame en paz. Tengo mucho trabajo por hacer.$s
+  Wed: Hace falta años de estudio para entender el lenguaje de los elementales. Para poder hablar su idioma requiere una vida de gran dedicación. Ahora, si me disculpas...
+  Thu: Muchos misterios nos rodean, curioso @. Debes ser paciente si deseas descubrirlos.
+  Fri: 'Los ciudadanos me temen.#$e#Es lamentable, pero supongo que los humanos siempre temen a lo desconocido.'
+  Sat: 'Estás sobre un potente campo mágico.#$e#Construí mi choza aquí a propósito, sabes.'
+  Sun: 'A veces observo en secreto a los aldeanos.#$e#Tengo la esperanza de encontrar un aprendiz. Algún día dejaré este plano mortal, pero mi búsqueda arcana debe continuar.'

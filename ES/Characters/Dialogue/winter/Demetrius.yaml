@@ -1,0 +1,24 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Estoy tomando un descanso de mi investigación en este momento.
+  Tue: Habla con mi mujer si quieres aumentar el tamaño de tu casa.
+  Wed: '¿Tienes una cocina en tu casa ya?#$e# Cocinar es como hacer un trabajo de laboratorio.'
+  Thu: Tienes algún animal en tu granja?
+  Fri: 'Hola.#$e# Perdón... Estoy pensando en algo.'
+  Sat: 'Veamos... Si el nivel de nitrógeno pueden ser modelado por una función sinusoidal...$u#$b#Oh! Lo siento, En lo que analizaba esto, no note que estabas allí.#$e#¿Necesitas algo?'
+  Sun: 'Siéntete libre cosechar tanta madera y piedra como tu desees.#$e#Solo no intentes talar algún árbol vivo.'
+  Fri4: 'Gracias por la visita. Necesito pensar en algo que no sean legumbres por un tiempo. #$e #¿Así que, qué has estado haciendo últimamente?#$e#Eso suena interesante.'
+  Event_tomato1: ¿Enserio? Pensaba que un granjero sabría la respuesta correcta...$s
+  Event_tomato2: ¿Lo ves? Está de acuerdo conmigo.

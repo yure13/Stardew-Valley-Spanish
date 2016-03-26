@@ -1,0 +1,23 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: La jardinería es mi pasatiempo, así que me emociona este clima cálido.
+  Tue: '¿Cómo hizo para ser el primer alcalde? Es una larga historia.#$e#Estamos ocupados para estas historias.'
+  Wed: '¿Apenas he empezado a aprender a usar estos teléfonos-~ BRIINNNG ~ #$b #Hola? ¡ Sí! ¿Puedo ponerlo en espera un segundo? (Lo siento tengo que tomar esta llamada!) $u #$e #Uh EH... sí... OK, eso suena perfecto! $u'
+  Thu: 'El salón se anima mucho por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día. Y para probar los auténticos espaguetis de Gus.'
+  Fri: 'Si cavas alrededor de la playa puedes encontrar fragmentos de vidrio. Gunther cambia paneles de vidrio por esos fragmentos. #$e#Supongo que algunos fragmentos son muy viejos.$h'
+  Sat: 'Todos parecen un poco más feliz los fines de semana, ¿no crees?#$e#¡Creo que es bastante obvio el porqué!$h#$e#Yo, sin embargo, trabajo toda la semana.'
+  Sun: 'Dime, ¿vas a plantar arándanos en tu granja?#$e#Me encantan los arándanos frescos.'
+  event_secret1: Gracias @. No olvidare esto.
+  event_secret2: '*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres horrible.$s'

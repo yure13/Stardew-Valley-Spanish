@@ -1,0 +1,26 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: ¡Buenas! Espero que te guste nuestro pequeño pueblo.
+  Mon: 'Es una buena temporada para empezar a pensar acerca de la jardinería.#$e# Me gusta plantar diferentes tipos de flores en esta época del año!$h'
+  Tue: 'Tan solo coloca lo que quieras vender en la caja de envio cerca de tu casa.#$e# Estare interesado en ver que tipo de cosas dejas.'
+  Tue2: Al comienzo de cada temporada tendras que quitar los cultivos muertos de la anterior. Es mas facil con una espada, pero tambien puedes usar un pico.
+  Wed: 'A menudo estoy muy ocupado con asuntos importantes sobre el pueblo, asi que lo sie- ~RIIIING~#$b# ¿Diga? ¡Si! ¿Puedo dejarte en espera un segundo?$u#$b# (¡Perdon @, tengo que atender esta llamada!)#$e# Uh aha... Si... Bien, ¡eso suena perfecto!$u'
+  Wed_4: 'Mantengamos esto entre nosotros... pero %rival me parece un poco falso.'
+  Thu: 'La taberna se anima bastante por la noche.#$e#Me gusta visitarlo mas o menos una vez a la semana para ponerme al dia.'
+  Fri: Espero que las cosas te esten yendo bien en la granja.
+  Sat: 'Todos parecen un poco mas feliz los fines de semana, ¿No crees?#$e# ¡Creo que es bastante obvio el por que!$h#$e#Yo, sin embargo, trabajo toda la semana.'
+  Sun: '¡He sido alcalde del pueblo Pelican por mas de veinte años!#$e#Nadie esta en mi contra cuando es hora de una eleccion. Me gusta pensar que eso significa que estoy haciendo bien mi trabajo.#$e# Me gusta ser alcalde.'
+  event_secret1: Gracias @. Nunca lo olvidare.
+  event_secret2: '*Sollozo*... No puedo creer que harias eso...$s#$b#Eres terrible.$s'

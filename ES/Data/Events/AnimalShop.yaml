@@ -1,0 +1,16 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  92/e 91/i 78/t 900 1700: |-
+    jaunty/13 17/farmer 13 19 0 Marnie 13 14 2/move farmer 0 -1 0/removeQuest 21/emote Marnie 16/speed Marnie 4/move Marnie 0 -1 2/speed Marnie 4/move Marnie 2 0 2/speed Marnie 4/move Marnie 0 3 2/move Marnie -2 0 2/pause 300/speak Marnie "¡Oh! ¡Me has traído la zanahoria de cueva! Muchas gracias, @.$h^¡Oh! ¡Me has traído la zanahoria de cueva! Muchas gracias, @.$h"/pause 500/move farmer 0 -1 1/faceDirection farmer 1/pause 500/playSound woodyStep/addObject 14 17 78 true/showFrame 35/pause 500/showFrame 6/pause 400/faceDirection farmer 1/move Marnie 1 0 2/emote Marnie 32/speak Marnie "Tiene una pinta genial... ¡Casi quiero hincarle el diente!$h#$b#...almost."/faceDirection farmer 1/pause 600/speak Marnie "Espero que no te diese problemas... De verdad, gracias."/pause 300/removeItem 78/removeObject 14 17/pause 400/friendship Marnie 100/end dialogue Marnie "Gracias de nuevo por ayudarme.$h#$e#...y mis cabras también dicen 'gracias'."

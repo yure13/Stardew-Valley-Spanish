@@ -1,0 +1,45 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Oh, tú eres el nuevo granjero ¿cierto?^¡Oh! Tú eres la nueva granjera, ¿verdad?#$e#¿Huh? Oh... Me llamo Haley.#$e#Nos vemos.'
+  9: '¡Los ositos de peluche son tan tiernos!<#$e#*risita*$h'
+  Mon: 'Este pueblo es tan pequeño. Apesta...$u#$e#Tengo que conducir como veinte millas para poder comprar ropa decente.$s#$e#Por eso normalmente la compro online.#$e#¿Qué?'
+  Tue: 'Bonitos zapatos.^Bonito maquillaje.#$e#¿Están hechos de plástico?^Un momento... ¿Estás usando algo?#$e#Estoy aburrida.'
+  Wed: 'Lo único que me gusta de este pueblo es la playa.$u#$e#¿Crees que hay algo malo en ello?'
+  Thu: 'Hoy necesito organizar mi ropa. Es una tarea bastante agotadora.#$e#Tendré que tirar todas las prendas del año pasado para hacer sitio para las nuevas.#$e#*suspiro* Ojala pudiera comerme un cupcake en lugar de hacer todo este trabajo... $s#$e#¿Necesitas algo?'
+  Fri: '¿No te cansas de correr de un lado para otro en la granja, o que sea que hagas?#$e#Yo sería incapaz de mancharme tanto.#$e#Aunque posiblemente consigas un gran bronceado.'
+  Sat: 'Los fines de semana me entra mucha hambre. Todos empiezan a cocinar y el aire huele genial.#$q 12/13 Sat_old#Um. ¿A ti qué comida te gusta más?#$r 12 0 Sat_12#Salteado de verduras.#$r 12 0 Sat_12#Pasta con salsa.#$r 13 5 Sat_13#Cupcakes.#$r 12 0 Sat_12#Salchichas veganas.'
+  Sat_old: '#$p 13#Eso esta bien,¡también te gusta la comida sabrosa! Así que puede que entiendas lo que digo.$h|Puede que no lo entiendas.'
+  Sat_12: Asqueroso. Pero supongo que cada uno tiene sus gustos.$u
+  Sat_13: ¡A mi también! Son tan sabrosas, ¿no lo son? A mi me gustan con glaseado rosa.$h
+  Sun: 'Mi hermana es muy extraña.$u#$e#A veces me pregunto si de verdad somos hermanas.#$e#Umm...¿qué?'
+  Wed8: 'Solo hay dos cosas que me gustan en este pueblo.#$b#Una de ellas es la playa.#$e#¡Y la otra es un secreto!*risilla*$h'
+  Tue2: 'Me pregunto si alguna concha habrá sido arrastrada hasta la playa esta mañana.#$e#Aunque no sea el mejor momento del año para ellas.'
+  Wed4: 'Me encanta que las flores estén empezando a florecer.#$e#Esas de color rosa huelen tan bien. $h'
+  Fri6: 'Necesito encontrar un hobby que no sea comprar.#$e#He decidido que voy a expandir mis horizontes#$e#¿Tal vez debería empezar a tocar el flautín?'
+  Mon6: 'Solía quejarme de que el pueblo es demasiado pequeño, pero ha empezado a gustarme.#$e#Si fuese mucho más grande no me sentiría como en una comunidad.'
+  Thu6: 'Estuve cocinando anoche. ¡Quedo bastante bien!#$e#Pero dejé la cocina hecha un desastre...'
+  Sun6: ¿Has ido alguna vez al Salón de Gus? Mi hermana trabaja allí. Es el único establecimiento que abre hasta tarde.
+  Sat8: 'El otro día estaba en la playa y encontré a una gaviota que tenía las ala atrapadas en una red de plástico #$e#La liberé.#$e#Fue bastante triste. Parecía tan inocente.$s'
+  Fri10: '@, ¿podemos ir de aventuras algún día?#$e#Nunca he ido de aventuras.'
+  Event_clean1: 'Hmmmmm... #$b#Vale, tú ganas. Podría hacer esto todas las semanas. No hay razón por la que discutir.'
+  Event_clean2: '¡¡NO!! ¡No voy a hacerlo!$a#$b#¡Sois idiotas!$a'
+  Event_clean3: '¿Debería tomar el "camino al éxito"? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿Eh?'
+  Event_jar1: Genial, ¡no creo que tengas ningún problema en abrirme este tarro!$h
+  Event_jar2: 'Oh... ¿No lo eres? Hmmm...$s#$b#Bueno, de todas formas, ¿podrías intentar abrirme este tarro?'
+  Event_beach1: ¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a
+  Event_beach2: ...Quizá la encuentre alguien al otro lado del mar.$s
+  Event_room1: '¿Él? ¡No!#$b#... Bueno, supongo que antes me gustaba Josh. ¡Pero ya no! Es un inmaduro.'
+  Event_room2: ¿Qué? Eso suena divertido, pero no me gustaría dejar Stardew Valley ahora mismo...
+  Event_room3: ¿Eh? ¿Qué es un androide?

@@ -1,0 +1,27 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands." #!String
+    Mon: "I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences.$s" #!String
+    Tue: "If you have nothing important to tell me, leave me be. I have much work to do.$s" #!String
+    Wed: "It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me...$s" #!String
+    Thu: "There are many mysteries around us, inquisitive @. You must be patient if you wish to discover them." #!String
+    Fri: "The townsfolk are afraid of me.#$e#It is unfortunate, but I suppose humans are always afraid of the unknown." #!String
+    Sat: "You are standing above a potent magical field.#$e#I built my hut right here on purpose, you know." #!String
+    Sun: "I sometimes obvserve the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue." #!String
+

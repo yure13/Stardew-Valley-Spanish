@@ -1,0 +1,38 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Este será un buen año para ver las estrellas.$u#$p 2#¡Uy! Perdón, se me olvidó que el espacio exterior te deprime.|Seguro que tú también estás emocionado.$h'
+  Mon: 'Me encantan las máquinas.#$e#¿no es la tecnología fascinante?$h'
+  Tue: '¿Alguna vez piensas en %nombres?#$e#Simplemente me vino a la mente.#$e#Nos vemos luego.'
+  Wed: '¿Estás disfrutando de la estación?#$e#Este año ha sido muy calurosa.$h'
+  Thu: 'Lo siento, estaba pensando en algunos inventos que estoy haciendo.#$q 35/36 Thu_01_old#Algún construiré un robot. ¿Qué te parece?#$r 35 30 Thu_0#¡Eso sería increíble!#$r 36 -50 Thu_01_01#Me parece que vas a estrellarte miserablemente#$r 35 40 Thu_01_02#Parece difícil'
+  Thu_01_old: Nos vemos luego.
+  Thu_0: Lo sé. Probablemente va a ser muy difícil, aunque...
+  Thu_01_01: Guau. Gracias, imbécil.$s
+  Thu_01_02: Tienes razón, pero me encantan los retos! $u
+  Fri: 'Hola, ¿Tienes alguna historia de la granja interesante que contarme?#$e#.'
+  Sat: 'Trabajé en la clínica ayer. No tenemos un solo paciente.#$e#Las personas enferman menos durante el verano.'
+  Sun: Apuesto que estas plantando algunos cultivos interesantes.
+  Fri2: 'Hey, cuéntame una historia sobre agricultura.#$e#¡Es realmente interesante!'
+  Wed4: '¿Soy yo o de repente hace mucho calor?#$e#Supongo que soy yo.'
+  Mon6: 'Algún día voy a ser un inventor de talla mundial.$u#$e#¡Tienes serte de ser mi amigo!#$e#...Solo bromeo.'
+  Tue8: '@, Te ves muy bien hoy.$h'
+  Thu10: ¿Como tus manos siguen tan suaves con todo este trabajo de granja?
+  Event_Hospital_1: ¡Por supuesto que sabía la diferencia! ¡Este ejemplar está totalmente arruinado!
+  Event_Hospital_2: Vale. Te culparé a ti entonces.
+  Event_Hospital_3: Tienes razón. Le debería decir la verdad.
+  Event_Space1: Es increible, ¿Verdad?
+  Event_Space2: 'Supongo que puedes verlo de esa manera...#$b#Pero sigue siendo magnífico, ¿no?'
+  Event_Cut1: ¿Oh, no? Bien, eso me hace sentir un poco mejor.
+  Event_Cut2: ¡Oh, no! Lo siento, de verdad, perdona.$s

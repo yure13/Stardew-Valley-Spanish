@@ -1,0 +1,22 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  rain: 800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 SeedShop 21 5 2 caroline_read/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1
+  fall_25: '800 SeedShop 37 6 3/1000 SeedShop 27 7 3 "Hoy es mi revisión anual. Al menos no tengo que ir muy lejos."/1200 Hospital 13 14 0 "¿Tú también has venido a ver al medico? ¿Qué te pasa?"/1330 Hospital 4 6 1 "Perdona, tengo que hablar con el doctor Harvey en privado...$u"/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1'
+  Tue: '800 SeedShop 22 14 0 "Hmm... ¿Debería ponerme algo especial para la sesión de aeróbic de hoy?"/1030 SeedShop 24 17 3/1300 SeedShop 24 21 0 caroline_exercise/1600 SeedShop 23 15 1 "¡Estás estupenda, Jodi! Las mancuernas hacen maravillas, ¿a que sí?"/1810 SeedShop 34 5 0 "Mmff... Creo que hoy me he ganado algunas galletas. *crujido*."/2100 SeedShop 25 4 1'
+  Fri: '800 SeedShop 37 6 3/1200 ArchaeologyHouse 14 4 2 caroline_read "Por fin... Un poco de tiempo para mi."/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1'
+  Wed: 800 SeedShop 37 6 3/1200 Town 23 27 1/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1
+  Sat: 800 SeedShop 37 6 3/1100 CommunityCenter 26 9 0/1700 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1
+  Sun: '900 SeedShop 22 5 2/1040 SeedShop 21 5 3 "El anterior dueño fue quien construyó el altar. No somos religiosos, pero dejamos que los vecinos del pueblo lo usen si quieren"/1330 SeedShop 15 23 0/1440 Town 48 33 2/1830 SeedShop 27 7 1/2100 SeedShop 25 4 1'
+  spring: 800 SeedShop 37 6 3/1200 SeedShop 15 23 0/1330 Town 23 71 2/1600 SeedShop 25 18 2 square_9_9/2100 SeedShop 25 4 1

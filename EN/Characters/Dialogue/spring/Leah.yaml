@@ -1,0 +1,41 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "I do a lot of walking. It's good exercise and it gives you time to think.$u#$e#Oh, and it's nice to meet you. $h#$e#Bye." #!String
+    Mon: "The trees look nice today, don't they?#$q 21/22 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tons of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 21 0 Mon_21#It seemed like a funny thing to do.#$r 22 5 Mon_22#I wanted to connect with nature." #!String
+    Mon_old: "$p 21#So are you making as much money as you hoped?|The call of nature brought you here, so I'm sure you understand.$u#$e#Spending time in nature is very rewarding." #!String
+    Mon_21: "Hmm. That seems kind of superficial, doesn't it?$s" #!String
+    Mon_22: "That's pretty much the reason I came here, too!$h" #!String
+    Tue4: "Hi. Oh, you want to talk?#$e#The beauty of this area gives me ideas for making art.#$e#I'm not trying to make money with art. It's just an urge that I have.$u#$e#Farming seems like a very rewarding profession. You get to create delicious food for everyone!$h#$e#You're probably busy. Sorry.$u" #!String
+    Tue: "Hello, neighbor.#$e#We both live outside of town. Does that mean something?" #!String
+    Wed: "I accidentally stepped on a bug.$s#$e#I guess its impossible not to cause some kind of destruction.#$e#I'll just have to be more careful next time." #!String
+    Wed6: "I love being around animals. They're so innocent.#$e#I hope you raise a lot of nice animals on your farm.$h" #!String
+    Wed8: "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?$l" #!String
+    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
+    Thu6: "I'm good at finding wild food. Someday I'll make you a fresh salad.$h" #!String
+    Fri: "You could spend your whole life just getting to know the people in this little town.#$e#It's simpler to be friends with the trees. They don't have much to say.$h" #!String
+    Fri2: "We wouldn't be able to survive without nature. It's good to remember that." #!String
+    Fri4: "Hello, @. It's a nice day, isn't it?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
+    Sat: "Apples are crisp and cool like the spring.#$e#Sorry, that's just a thought I had.$u#$e#Alright, I'll see you around." #!String
+    Sat8: "Farming sounds so fun. I want to try it, someday.$l" #!String
+    Sun: "Today I'm going to work on my sculptures.$u#$e#I like sculptures because they exist in all three dimensions.#$e#Okay, you probably have plants to water or something. Bye." #!String
+    Sun8: "If you ever find any interesting looking driftwood, I could use it for my sculptures.#$e#It would be special that you gave it to me.$l" #!String
+    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
+    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
+    event_parents3: "Oh, is that what you think?$a" #!String
+

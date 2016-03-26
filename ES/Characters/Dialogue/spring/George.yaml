@@ -1,0 +1,31 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Hola. Soy George.#$e# Debe ser molesto tener que conocer a toda esa gente nueva, ¿eh?'
+  Mon: No soy una persona que hable mucho. Especialmente con extraños, si no tienes nada que decirme.
+  Tue: Hmmph... Parece otro día nublado.$s
+  Wed: 'Josh es mi nieto. ¿Ya te lo había dicho?#$e#¿Eh? Habla más alto.'
+  Thu: 'No puedo hablar ahora mismo, joven.^No puedo hablar ahora mismo señorita.#$e#Están echando mi programa favorito.'
+  Fri: ¿Entonces eres un granjero, eh? Al menos es un trabajo honrado.
+  Sat: 'Para mí el fin de semana no es diferente a cualquier otro día.#$e#Es lo que pasa cuando estás jubilado.'
+  Sun: '¿No tienes frío? Ya no hacen suéteres como solían hacerlos.#$e#*Susprio*'
+  Mon6: Me sorprende que quieras ser amigo de un viejo como yo.
+  Thu6: Hola, @. ¿Quieres ver la televisión conmigo?
+  Fri4: 'Mi abuelo fue un granjero. Es una profesión respetable.#$e#Si no fuese tan viejo, iría a tu granja a mostrarte una cosa o dos.'
+  Wed8: 'Desearía que mis piernas funcionaran para poder jugar a atrapar la pelota con Josh.#$e#Eso nunca va a pasar.$s'
+  Fri8: 'He estado pensando... Tal vez he sido un poco cascarrabias.$s#$e#Solía pensar que a nadie le importaban los viejos.'
+  Fri10: 'Sabes, he sido un anciano muy gruñón con todo el mundo. Pero ahora siento que me estoy ablandando como una vieja fruta madura. Jeje$h#$e#Cuídate hijo.^Cuídate cielo.'
+  Wed10: '¡@! Déjame apagar este condenado televisor y hablemos un poco.$h#$e#Bueno... ¿Qué hacen los jóvenes hoy en día?'
+  Tue10: 'Sabes, no debería estar deprimido por mis piernas.#$e#Debería estar feliz de estar vivo.$h'
+  Thu10: 'Cuando se es tan viejo como yo, es difícil adaptarse a lo nuevo.#$e#Algún día sabrás de lo que hablo.#$e#Diviértete mientras seas joven.'

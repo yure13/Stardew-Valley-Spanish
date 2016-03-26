@@ -1,0 +1,48 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hey what's up? I was hoping I'd run into you! You're the new farmer who just moved in, right?#$e#I'm Sam. Good to meet you.$h" #!String
+    7: "I just finished reading a book about extraterrestrial life... It's a fun subject.#$e#I wonder if they have electric guitars on any other planets?" #!String
+    14: "I would love to learn about an alien planet... Just think about the culture, music, food, cinema! *sigh*#$e#...I was born in the wrong century, @.$s" #!String
+    21: "Sometimes those spring petals that float around make my nose drip.$s#$e#I like summer best, myself." #!String
+    Mon2: "Hey, how's it going?#$e#I've been practicing guitar all night. My fingers hurt like crazy.$s#$e#It's okay, though. It means I'll be able to practice longer next time.$u#$e#Bye, I've got something to do..." #!String
+    Mon: "Your tool is the hoe, and mine is the guitar.#$e#They both require a skilled touch, am I right? Chee-hee-hee! $h" #!String
+    Mon8: "I'll tell you a secret... my name 'Sam' is short for 'Samson'.$l#$e#Most people don't know that so keep it on mute." #!String
+    Tue: "Oh, hi! It's good to see you again.#$e#Take it easy." #!String
+    Tue4: "Hi, @. Do you want to hang out or something?#$e#I wish I didn't have to sleep. There's not enough time to do everything I want to do!#$e#Do you ever have that problem?" #!String
+    Wed: "Doo-da-doo doo-da-dop-da-doo.$u#$b#Oh, hi! I'm in the process of coming up with a new song for my band.#$q 19/20 Wed_old#Hmm.. What do you think this song should be about?#$r 20 30 Wed_19#Farming, mining, and chopping wood.#$r 20 30 Wed_20#Dinosaur people.#$r 20 30 Wed_20#A romantic picnic at the beach.#$r 19 -50 Wed_19#Choose anything. It'll still be a horrible song." #!String
+    Wed_old: "$p 19#But I already know what you think about it.$s|Thanks to your help I'm already done with the lyrics!$h" #!String
+    Wed_19: "Um. Okay... Sorry I asked.$s" #!String
+    Wed_20: "Hey! That sounds perfect. Thanks!$h" #!String
+    Wed6: "I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town." #!String
+    Wed10: "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$l" #!String
+    Thu6: "I think my Dad might be coming back in a year or so.#$e#I guess you might be able to meet him, then. If you're still living here.#$e#You wouldn't abandon the farm after putting so much effort into it!" #!String
+    Thu6_2: "...I have mixed feelings about my father being back. He seems strange.$s#$b#But I guess I haven't seen him in 3 years... so that could explain it." #!String
+    Thu: "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He'll come back someday.#$e#I've heard a lot of terrible things about the Gotoro Empire...$s" #!String
+    Thu_2: "Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay." #!String
+    Fri: "I used to live in the city, you know. It's a lot busier there.#$e#There's a lot more stuff going on, but it's less peaceful.#$e#I guess which one you like depends on your personality." #!String
+    Fri10: "I think I've grown to really love this place.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h" #!String
+    Sat4: "I just remembered my guitar's out of tune. Okay, I'm going to put this rubber band on my wrist so I remember to tune it after you go.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h" #!String
+    Sat: "Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time." #!String
+    Sun8: "I really wish we could see a flying saucer someday... both of us.#$e#It would be easier if we lived somewhere with clearer skies.#$e#I think the future is going to be full of great surprises.$h" #!String
+    Sun: "So... are you interested in flying saucers at all?#$e#My dad saw one, once. Although he seemed to think it was a secret weapon of the Gotoro Empire." #!String
+    Event_band1: "That actually sounds like a really good idea!$h" #!String
+    event_snack1: "He's telling the truth, mom.$s^She's telling the truth, mom.$s" #!String
+    event_snack2: "Yeah... That's what happened!" #!String
+    event_snack3: "What!? He's lying!$a^What!? She's lying!$a" #!String
+

@@ -1,0 +1,23 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Hola! Soy el dueño de este bar. Bienvenido al pueblo.#$e#Pasate por aqui si necesitas refrescarte'
+  Mon: Asi es, conosco mucho a las personas que viven aqui. Es una de las ventajas de ser tabernero. Aunque algunas veces escucho demasiado...
+  Tue: Vendo diferentes platos cada semana, asi que mira de vez en cuando por si te apetece!, quizas pruebes algo espectacular. Solo avisame si tienes algun tipo de alergia. Nos vemos.
+  Wed: Emily ha estado trabajando aqui hace un tiempo. Nose que haria sin ella!. Seria dificil limpiar todas estas ollas solo. Arriba el trabajo en equipo!
+  Thu: Pam y Clint vienen al bar casi todas las noches. Probablemente quebraria si ellos dejaran de venir. Trata de no espantarlos por favor!
+  Fri: Buenas, quieres beber algo?
+  Fri4: No bebas mucho vino, o terminaras como yo. Jaja solo bromeaba, disfruto mucho del sabor de ese dulce vino de verano
+  Sat: Has pensado en ser chef?, si tienes una cocina y algunas recetas puedes cocinar algunos platos deliciosos.
+  Sun: Dormi mucho hoy. Creo que pasado casi la mitad de mi vida durmiendo, supongo que necesito un despertador. Uhg.

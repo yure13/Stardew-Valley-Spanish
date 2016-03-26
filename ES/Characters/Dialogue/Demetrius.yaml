@@ -1,0 +1,48 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: '¡Saludos! Soy Demetrius, científico del pueblo y padre. ¡Gracias por presentarte!#$e#Estoy estudiando las plantas y animales locales en el laboratorio de mi casa.#$b#¿Has conocido a mi hija, Maru? Está interesada en conocerte.'
+  Mon: Maru me ayuda a en el laboratorio a veces... Es una buena chica.
+  Tue: Este valle tiene un ecosistema muy vibrante y diverso. Esa es una razón por la que quería mudarme aquí.
+  Wed: 'Seguro que en tu granja están creciendo muchas plantas interesantes, ¿eh?#$e#Tal vez me pase algún día a verlas.'
+  Thu: '¿Cómo va el negocio? Es temporada de maíz, ¿verdad?#$e#Imagino que será bastante tranquilo, trabajando con las plantas al aire libre todo el día.'
+  Fri: 'Robin tiene un carácter muy fuerte. Es mejor estar de su parte.#$e#No le digas que te lo he dicho.$h'
+  Sat: 'Vamos a ver... Si los compuestos en la rizosfera contienen suficientes niveles de carbono-13, entonces...$u#$b#¡Oh! Lo siento. Estaba buscando algunos datos y no te vi.#$e#¿Necesitas algo?'
+  Sun: 'Es bueno tomarse un descanso de vez en cuando.#$e#Aunque, supongo que es un poco difícil cuando vives en una granja.#$e#Ey, al menos en invierno no tienes que preocuparte de los cultivos.'
+  Fri4: 'Robin tiene un carácter muy fuerte. Es mejor estar de su parte.#$e#...Pero si pudiera cuantificar sus niveles de estado de ánimo, quizás podria modelar las fluctuaciones usando una curva sinusoidal.$h'
+  Wed6: '¡Hola, @! ¿Cómo te va hoy?#$e#Me gustaría poder hacerte el trabajo más llevadero.'
+  Event_tomato1: ¿De veras? Pensaba que sabrías la respuesta correcta...$s
+  Event_tomato2: ¿Ves? @ está de acuerdo conmigo.
+  Event_Lab_Silence: Bueno, lo mejor será valorar esta solución antes de que cristalice.
+  Event_Lab_Rat: '*Suspiro*... %fork$4'
+  summer_Mon: '#$e#%Demetriums esta sumido en sus pensamientos.#$e#Lo siento, estoy muy ocupado.#$e#Tengo demasiadas plantas por estudiar ahora mismo.'
+  summer_Tue: 'Asegúrate de regar tus plantas cada día. #$e#Aunque si usas un conservador de agua no tienes que preocuparte por la frecuencia de riego.#$e#Es bastante conveniente.'
+  summer_Thu: '¿Cómo va el negocio? Es temporada de tomates, ¿verdad?#$e#Imagino que será bastante tranquilo, trabajando todo el día con las plantas al aire libre.'
+  summer_Fri: '$p 40#Así que he oído que Maru te dejó echar un vistazo por el telescopio de ahí detrás.|Si Maru y tú os hacéis amigos, seguro que te enseñará como usar ese telescopio.#$e#Emocionante, ¿eh?'
+  summer_Sat: 'Mmm... Si los niveles de estrigolactona pudieran aumentar, ¿tendría un efecto en el crecimiento de la micorriza?$u#$b#¡Oh! Perdona. Estaba buscando información y no me di cuenta de que estabas ahí.#$e#¿Necesitas algo?'
+  summer_Mon6: 'Me hice científico porque quería contribuir a la evolución de nuestras especies.#$e#Por supuesto, nada sería posible sin granjeros como tú.$h'
+  fall_Mon: Durante esta época del año me centro en los hongos.
+  fall_Tue: 'Sabemos mucho acerca de la naturaleza gracias a la ciencia.#$e#Pero siempre hay mucho más que aprender.'
+  fall_Thu: '¿Cómo va el negocio? Es temporada de maíz, ¿verdad?#$e#Supongo que está siendo bastante tranquilo, trabajando con las plantas al aire libre todo el día.'
+  fall_Fri: 'Maru pasa mucho tiempo trabajando en esos aparatos suyos.#$e#Me alegro que sea tan dedicada.'
+  fall_Sat: 'Veamos... tal vez el nivel de fijación de nitrógeno se vea afectado por las secreciones de nematodos....$u#$b#¡Oh! Perdón. Estaba buscando algunos datos y no te he visto.#$e#¿Necesitas algo?'
+  fall_Wed6: 'Hola, @, siempre me alegra verte por aquí.#$e#Es bueno tener algo de compañía después de este solitario trabajo de laboratorio.'
+  winter_Mon: Justo ahora me he tomado un descanso en mi investigación.
+  winter_Tue: Habla con mi mujer si quieres aumentar el tamaño de tu casa.
+  winter_Wed: '¿Tienes una cocina en tu casa ya?#$e#Cocinar es como trabajar en un laboratorio.'
+  winter_Thu: ¿Tienes algún animal en tu granja?
+  winter_Fri: 'Hola.#$e#%Demetrius parece perdido en sus pensamientos.'
+  winter_Sat: 'Veamos... si los niveles de nitrógeno estacional pudieran modelarse con una función a trozos...$u#$b#¡Oh! Disculpa. Estaba analizando datos y no te he visto.#$e#¿Necesitas algo?'
+  winter_Sun: Puedes recolectar tanta madera y piedra de esta zona como necesites.
+  winter_Fri4: 'Gracias por pasarte. Necesito pensar en algo mas que legumbres durante un rato.#$e#Bueno, ¿que has estado haciendo últimamente?#$e#Suena interesante.'

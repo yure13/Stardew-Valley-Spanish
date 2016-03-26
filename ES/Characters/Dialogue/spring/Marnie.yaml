@@ -1,0 +1,27 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Hola, soy Marnie. #$e#Estoy al cargo de la tienda de animales del pueblo. Ven a verme si necesitas ganado o pienso.$h'
+  Mon: Me encantan los animales, Sr. @. Será mejor que trates a tus animales bien, o iré detrás tuyo!^Adoro los animales, Sra. @. Trátalos bien y seremos amigos, estoy segura!
+  Mon4: 'Los animales son tan inocentes, tan dulces. Y si no cuidas de ellos, ¿Quién lo hará?$s#$e#Solo espero que mis gallinas no estén demasiado alteradas cuando me lleve sus huevos.$s'
+  Thu_2: 'Ya llevas por aquí un tiempo, ahora... ¿Qué tal va tu gallinero?#$e#Cuidar de los animales es fácil mientras no te olvides de ellos!$h'
+  Tue: 'Mi sobrino Shane ha estado viviendo conmigo estos últimos meses.#$e#Él me ayuda con las gallinas, así que no me quejo.'
+  Wed: 'Puedes hacer pienso de maíz o trigo.#$e#O puedes comprármelo a mí, por supuesto!$h#$e#Podría usar el dinero...$u#$e#Adiós.'
+  Thu: 'Hola. ¿Necesitas algo?#$e#Puede que consiga algunos tipos diferentes de animales más adelante.#$e#Aunque, necesitaré asegurarme de que hay un mercado para ellos, así que tendrás que probar tu habilidad con los animales primero.#$e#Sigue tratando a tus animales con respeto y todo irá bien.'
+  Fri: 'Puedes encontrarme en el bar la mayoría de las noches.#$e#Los animales son una gran compañía, pero necesito pasar el rato con gente, también.'
+  Fri4: 'Creo que le gusto a alguien del pueblo. *Jijiji*$h#$e#¿No se lo digas a nadie, eh?'
+  Fri6: 'Me pregunto si el Señor Lewis se siente solo en esa casa tan grande... $s#$e#Parece tan vacía, ¿verdad?'
+  Sat: 'Hay un hombre extraño viviendo en un bosque cercano a mi casa.#$e#Una vez oí un ruido horrible que venía de su cabaña. Parecía... de otro mundo.$s#$e#Yo que tú evitaría pasar por allí...'
+  Sun: '¡Eh!¡Hola! ¡Qué alegría verte!#$e#Puedes venir a visitarnos cuando quieras.'
+  Sun8: 'Hola @!$h#$e#Me alegro de que nos hayamos hecho amigos. Se que puedo confiar en ti para que cuides de mis queridos animales.'

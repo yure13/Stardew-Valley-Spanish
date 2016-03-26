@@ -1,0 +1,36 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "The air is full of sweet smells. How wonderful!" #!String
+    Mon: "I found some wild fruits this morning!#$e#Sorry, I don't have any left.$s#$e#Keep looking, I'm sure you'll find something." #!String
+    Tue: "The sound of farm animals is great, isn't it?" #!String
+    Tue4: "Hi. Oh, you want to talk?#$e#I have simple tastes, @. Just give me a babbling brook, a shady nook, and a cup of Stardew Valley aged red wine!" #!String
+    Wed: "I accidentally stepped on a bug.$s#$e#I guess its impossible not to cause some kind of destruction.#$e#I'll just have to be more careful next time." #!String
+    Wed6: "I love being around animals. They're so innocent.#$e#I hope you raise a lot of nice animals on your farm.$h" #!String
+    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh fruit salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
+    Thu6: "I have a good eye for picking wild fruit. Some day I'll make you a nice fruit salad.$h" #!String
+    Fri: "Do you have a workbench in your house?#$e#If you have a workbench, you can make all kinds of useful items." #!String
+    Fri2: "If we don't treat nature with respect, our grandchildren will be doomed.#$e#Don't you think so?$h" #!String
+    Fri6: "Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
+    Sat: "Yellow peppers are hot like summer stones.#$e#Sorry, that thought just popped into my head." #!String
+    Sat8: "Farming sounds like so much fun. I want to try it, someday.$l" #!String
+    Sun: "What should I do on such a warm, lazy day? *sigh*#$e#Any ideas?" #!String
+    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
+    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
+    event_parents3: "Oh, is that what you think?$a" #!String
+

@@ -1,0 +1,29 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Esta mañana me desperté con el suave abrazo del sol.$u#$e#Perdona si esto no es muy interesante para ti.'
+  Mon4: "Sé que soy una especie de 'bicho raro'. #$e#Espero que no te importe.$h"
+  Mon6: Yo sé que tienes fe en mi capacidad como escritor, @, y significa mucho para mí.$h
+  Tue: 'Me he encontrado algunas conchas hermosas frente a mi casa.#$e#imagino que las variedades más raras pueden ser muy valiosas.'
+  Tue6: 'Escribo con la esperanza de contactar con otros a través del tiempo y del espacio.$u#$e#*"Suspiro"... Los tiempos están cambiando. La gente ya no lee.$s'
+  Wed: 'Debe ser satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas. #$e #Es como si una parte de ti se mezclase con la fruta.$u'
+  Thu: 'Oh querido! Mis zapatos están llenos de arena.$s#$e#Ese es el problema de vivir en la playa.'
+  Fri: '@? Te vez perplejo,#$b#I creo que el aire caliente del verano nos puede marear un poco.'
+  Sat: Ugh... Espero no quemarme con el sol.
+  Sun: ¿Recorriste todo este camino solo para hablar con migo? Que amable de tu parte.$h
+  Sun4: Visita mi cabina cuando quieras. me vendría bien la compañía.$h
+  event_idea1: Suena interesante... Lo tendré en cuenta.
+  event_toast1: 'Bueno... Está bien.#$b# ¡Brindemos por @!'
+  event_toast2: 'Es una gran idea!$h#$b#Brindemos por nosotros!'
+  event_toast3: Hmmph... Olvidalo.$a

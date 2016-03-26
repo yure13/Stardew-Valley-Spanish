@@ -1,0 +1,34 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'El invierno no es muy común. Hay demasiada nieve para hacer algo divertido.#$e#Supongo que a algunas personas les gusta.'
+  Mon: Tengo ganas de que llegue la primavera.
+  Tue: Hola, ¿puedes buscar a Haley y decirle hola de mi parte?
+  Wed: 'Las personas permanecen dentro mucho durante el invierno. $e # #leer un libro tal vez sería menos aburrido... nah.'
+  Thu: 'Cuando sea un jugador profesional, seré tan rico que tendré una casa de vacaciones en el trópico.#$e#Así no tendré que aguantar estos inviernos tan aburridos.'
+  Fri: '¿Viniste a través de la nieve sólo para verme?#$e#Supongo que tiene sentido.'
+  Sat: 'En esta ciudad vive gente muy rara.#$e#....como Abigail. ¿Es gótica o algo?#$e#No lo entiendo.'
+  Sun: 'Hey, ¡hoy es el partido de fútbol!#$e#Éste podría ser mi día favorito de la semana.'
+  Fri4: '¿Viniste a través de la nieve sólo para verme?#$e#Eso está bien por tu parte.$h'
+  Sat6: 'El mundo está lleno de diferentes tipos de personas. Es interesante.#$e#A veces no entiendo por qué otros actúan del modo que lo hacen, pero eso está bien.'
+  Tue4: 'Oye, @. ¿Podrias hacerme un favor?$l#$b#Si ves a Haley, dile que estoy ocupado.$l#$e#Gracias.'
+  Wed8: 'La gente se queda en casa en invierno.#$e#¿Sabes qué? ¡Voy a leerme un libro!'
+  Thu6: Ójala pudiera controlar el clima.
+  Thu10: 'Si alguna vez gano mucho dinero, me aseguraré de mantener a todos mis amigos y familia.#$e#También te incluyo a ti.$h'
+  Event_books1: ¡No, no lo soy! Sólo estás tratando de halagarme.$a
+  Event_books2: Si, creo que tienes razón...$s
+  Event_books3: Se supone que no estabas de acuerdo conmigo.$a
+  Event_parents1: Eso es una idea interesante...
+  Event_parents2: ¡Ellos nunca lo harían!$a
+  Event_parents3: ...Quizá tienes razón... No sé.$s

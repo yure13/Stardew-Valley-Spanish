@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "How quickly the seasons change!#$e#It's shocking." #!String
+    Mon: "I found some wild mushrooms!#$e#Sorry, I already fried them up with a little bit of onion.$h#$e#Keep looking, I'm sure you'll find some." #!String
+    Tue: "I wonder if I could make a nice collage out of dried leaves?#$e#They're just so colorful... I can't help but think of the potential for art projects.$h" #!String
+    Tue4: "Hi @! Do you want to talk?#$e#It's better to be yourself than to follow trends. Don't you think so?#$e#Who knows, maybe you'll end up being a trend-setter yourself." #!String
+    Wed: "It's so nice to live by the river.#$e#I fall asleep to the soothing sound of water every night." #!String
+    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
+    Thu6: "I have a good eye for wild mushrooms. Maybe someday I'll fry some up for you, with some kale and garlic.$h" #!String
+    Fri: "Do you have a kitchen in your house?#$e#If you have a kitchen, you can cook all kinds of delicious meals.$h" #!String
+    Fri6: "Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
+    Sat: "Beets are red and earthy like autumn.#$e#Sorry, that thought just popped into my head." #!String
+    Sun: "There's a lot of good places to walk around here.#$e#It feels good to stretch your legs." #!String
+    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
+    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
+    event_parents3: "Oh, is that what you think?$a" #!String
+

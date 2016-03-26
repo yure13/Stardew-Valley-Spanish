@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Tue: "...Have you come to ridicule me?#$e#I'm just minding my own business." #!String
+    Wed: "I don't know you well enough to trust you. Sorry." #!String
+    Thu: "...Hmm?#$e#Do you want something from me?" #!String
+    Fri: "Please don't destroy my tent.#$e#It's happened before.$s" #!String
+    Sat: "I'm happy by myself.#$e#I don't need new friends." #!String
+    Sun4: "It would be nice if the townspeople could accept me for who I am.$s" #!String
+    Mon: "It's can get really cold if you live in a tent." #!String
+    Tue4: "Thanks for not shunning me, @.#$e#I'm a human like everyone else. I just have a different lifestyle." #!String
+    Wed4: "I'm sure you understand why I'm cautious of strangers.#$e#But let's put that in the past, okay?" #!String
+    Thu4: "Winter is tough, but you can still fish and forage to get by.#$e#If you have any animals you should keep them inside." #!String
+    Fri4: "The trees go to sleep during the winter.#$e#They are refreshed when spring comes back." #!String
+    Sat4: "Thanks for stopping by. I was feeling lonely.#$e#So, have you discovered anything interesting in the mines?" #!String
+    Sun: "Sleeping on the ground is good for my back.#$e#It's best to look at the positive side of things.$h" #!String
+

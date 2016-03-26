@@ -1,0 +1,39 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Está bien tomar el sol. Pero no te quemes.#$e#Está bien. ¡Cuídate! Mantente sano.'
+  Mon2: 'Me siento responsable de la salud de toda esta comunidad. Puede ser estresante a veces. #$e# es una comunidad muy pequeña, así que puedo construir una buena relación con mis pacientes.'
+  Mon6: 'Me gustaría quedarme en Stardew Valley por un tiempo, @. Realmente me siento involucrado en la comunidad #$e#. Se siente bien saber que eres útil.'
+  Mon10: ¡Oh! Hola, @. ¿Tu tienes... alguna pregunta médica?$l
+  Tue: 'Pasa por mi oficina, si alguna vez te sientes enfermo, #$e#. Aunque eres joven. Probablemente te mantendras sano sin tratar.'
+  Tue8: 'No te sobreesfuerces, @. ¡Órdenes del médico!#$e#Tu salud es importante para mí.$l'
+  Wed4: 'Me gustaría llegar a conocerte mejor, @. Dejemos de lado nuestra relación médico-paciente.#$e#Así que háblame de tí.$h'
+  Wed6: Es bueno tener un amigo en el pueblo.$h
+  Wed8: ¡@! Realmente tienes un brillo saludable. Eso es bueno.$h
+  Wed: 'Recuerde cubrirse la boca cuando estornudes.#$e#Luego, asegúrese de lavarse las manos.'
+  Thu8: 'Es mucho trabajo, ser médico. No como tan bien como debería.$s#$e#Creo que sería más fácil si no viviese solo.$l'
+  Thu: 'El ejercicio es importante, pero no te agotes demasiado, ¡o tu podrías terminar en mi clínica!#$e#Asegúrese y escuche a su cuerpo.'
+  Fri: Las personas no enferman mucho durante el verano. Eso es bueno, pero también significa menos negocio para mí.
+  Sat: 'Hola, @. ¿Puedo hacer algo por ti?#$e#Cuídate.'
+  Sat4: 'Vine aquí porque me gustó el ambiente del pueblo.#$e#He llegado a amarlo realmente.$h'
+  Sat8: '*Suspiro*... Estoy empezando a sentirme viejo, @.#$e#Pero si lo intento, puedo mantener una perspectiva juvenil en la vida, ¿cierto?$h#$e#Creo que me ayuda que tu estes cerca.$l'
+  Sun: 'Hmm... Estoy luchando para llegar a fin de mes. No tengo suficientes pacientes.#$e#Supongo que debería intentar conseguir pacientes de los pueblos colindantes...'
+  Sun6: '@... ¿Que voy a hacer si no puedo mantener mi clínica más?$s#$e#No puedo abandonarlos a todos.'
+  event_george1: 'Gracias, @.$h#$b#Ya ves, George, sólo estoy tratando de ayudarte.'
+  event_george2: '*Suspiro*$s#$b#Mira, George. Si quieres comportarte así, voy a tener que contarselo a tu esposa. No creo que ella se vaya a poner contenta.'
+  event_heart1: '¡Oh! Los hospitales te ponen nervioso, ¿eh?#$b#Solo trata de relajarte. Estoy aquí para ayudar.$h'
+  event_heart2: Está bien. Tiene sentido.
+  event_heart3: Um. Está bien... si tu lo dices.$s
+  event_grave1: '...Tienes razón.#$b#...Gracias.'
+  event_grave2: '*suspiro*$s'

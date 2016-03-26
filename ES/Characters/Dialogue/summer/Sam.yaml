@@ -1,0 +1,38 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  7: 'Me pregunto si alguna civilización alienígena ha construido ciudades dentro de domos en los planetas gaseosos.#$e#Perdón, Se me va la olla a veces.'
+  Mon2: 'Hey, ¿qué tal?#$e#Estoy hambriento.#$e#Nos vemos luego.'
+  Mon6: '¿Has estado ya en el desierto?#$e#Puedes encontrar algunas cosas interesantes allí.'
+  Mon: 'Si tuviera un cometa saldría a volarlo hoy.#$e#Pero no tengo un cometa.$s#$e#Lo que sea.'
+  Tue: 'Oh, ¡hola! Es un placer volver a verte.#$e#Adiós por ahora.'
+  Tue4: 'Hola, @. ¿Te apetece pasar un rato fuera o algo?#$e#¡Tengo tanta energía durante el verano que apenas duermo!'
+  Wed: 'Hola. Así, um... ¿Qué es lo que haces para divertirte?#$e#Suena interesante.'
+  Wed2: 'La otra noche vi una araña en mi techo.#$e#Espero que no se deslizase hasta mi boca.$s#$e#Apuesto que tu casa está plagada de arañas, ¿eh?$h'
+  Wed6: 'Sebastian y yo somos amigos desde hace tiempo. Es un tipo genial.#$e#Si no estuvierais por aquí, no tendría ningún amigo en la ciudad.'
+  Wed10: Hey camarada. ¡Parece que hoy estás lleno de energía!^@. Um... Solo quería decirte... Hoy estás muy guapa.$l
+  Thu6_1: 'Creo que mi padre podrá volver el año que viene.#$e#Será extraño. No le he visto en mucho tiempo.'
+  Thu_1: 'Mi padre está en el ejercito, luchando contra el Imperio de Gotoro. Por eso no esta aquí.#$e#Volverá algún día.#$e#He escuchado muchas cosas terribles sobre el imperio de Gotoro...$s'
+  Thu: 'Papa me estaba contando acerca de nuestro enemigo, el Imperio Gotoro... Suenan como un grupo de despiadados. #$e#¿Haz oido hablar de la super-elite de agentes que el Imperio Gotoro entrena? alguno de ellos inclusive trabajan como espias encubiertos en nuestra tierra. #$e#No eres un espia Gotoro, ¿Verdad, @?$s'
+  Thu6: 'A veces, por las noches, oigo a mi padre pasearse por el pasillo.$s#$b#... Pero no habla con nosotros sobre lo que le preocupa.'
+  Fri: 'Bueno, solía vivir en la ciudad. Tengo que admitir que en verano este lugar es mucho más agradable.$h#$e#La ciudad es muy calurosa con todo ese hormigón.'
+  Fri10: 'Creo que madurar ha hecho que ame realmente este lugar.$h#$b#Aunque por alguna razon... podria no ser asi.$l#$e#Asi que, ¿Como te encuentras hoy?$h'
+  Sat4: 'Acabo de acordarme de que tengo que cambiar una cuerda a mi guitarra. Vale, voy a ponerme esta goma en la muñeca para recordarlo cuando te vayas.#$e#Tengo que hacer este tipo de cosas porque tengo mala memoria.$h'
+  Sat: 'Hmm. Creo que quería hacer algo... Pero lo he olvidado.#$e#Me pasa todo el rato.'
+  Sun8: 'Realmente deseo que podamos ver un platillo volador algun dia.#$e#Seria divertido ir en un globo aerostatico y volar entre las nubes.$h#$e#Creo que el futuro estara lleno de grandes sorpresas.$h'
+  Sun: 'Pues... Yo también estoy interesando en los globos aerostáticos.#$e#Me gusta lo simples que son.'
+  Event_band1: ¡Eso suena como una muy buena idea!$h
+  event_snack1: Está diciendo la verdad, mamá.$s^Está diciendo la verdad, mamá.$s
+  event_snack2: Sí... ¡Eso es lo que pasó!
+  event_snack3: ¿¡Qué!? ¡Está mintiendo!$a^¿¡Qué!? ¡Está mintiendo!$a

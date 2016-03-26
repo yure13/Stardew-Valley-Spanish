@@ -1,0 +1,30 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Haley is a picky eater. It's hard to cook for her.#$e#Why do people have different tastes?#$e#Are we born with certain tastes, or are they acquired through experience?#$e#These are some of life's great questions, huh?$h#$e#See you later." #!String
+    Tue: "Hello there, @.#$e#I feel lazy today.$h" #!String
+    Sun6: "Hi, @! We've become decent friends, haven't we?$h#$e#That's fine with me. You're a cool guy.^I'm glad.$h" #!String
+    Wed: "It doesn't rain much in summer, does it?#$e#That just means more watering work for you, huh?#$e#Or do you enjoy the sunny weather?" #!String
+    Thu: "Bees and butterflies are my special friends!" #!String
+    Fri: "If I wasn't so busy I'd come help you on the farm!#$e#But Gus would be upset if I had another job...$s" #!String
+    Sat: "Don't overwork yourself or you might end up in Harvey's clinic!" #!String
+    Sun: "Hi @!" #!String
+    event_dance1: "Thank you!" #!String
+    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
+    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+

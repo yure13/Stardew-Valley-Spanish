@@ -1,0 +1,26 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    5: "I just got another upgrade on my house... It's so big I don't know what to do with the space!#$e#You're still living in that little hut, right? That's fine, not everyone has an eye for luxury." #!String
+    19: "I've been making so much money in the mines It's ridiculous. But I'll let you discover the secrets for yourself." #!String
+    5_2: "My goodness, the owner of this saloon is a bumbling fool! And he actually thinks his food is good! Haha!$h#$b#Hehe... It's good to see the humor in things, @." #!String
+    19_2: "Well, it's just about time to decide who the next Stardew Hero will be. I'm sure you tried your best." #!String
+    Fri: "Are you cold? Not me. I have a custom-made thermal coat from Zuzu City." #!String
+    12_2: "Hey champ... still trying to make ends meet, huh?^Hi there, hun. Still trying to make ends meet, huh?" #!String
+    26_2: "I'll see you at the Stardew Hero celebration. Make sure to bring your camera." #!String
+

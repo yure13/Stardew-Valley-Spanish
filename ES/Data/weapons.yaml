@@ -1,0 +1,72 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: |
+        Text for Translation
+        Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.Int32Reader
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  - Espada Oxidada/Una espada oxidada, antigua y quebradiza./2/5/1/0/0/0/3/-1/-1/0/.02/3
+  - Sable de Plata/Chapado con plata para frenar el óxido./8/15/1/0/1/1/0/50/45/0/.02/3
+  - Espada Oscura/Brilla con una energía misteriosa./10/30/1/0/0/0/0/-1/-1/0/.05/3.5
+  - Espada Sagrada/Sientes la esperanza al empuñarla./18/24/1.2/0/5/0/3/-1/-1/0/.02/3
+  - Espada Galáctica/No se parece a nada que hayas visto antes./60/80/1/8/0/0/0/-1/-1/0/.02/3
+  - Espada de Hueso/Una pieza ligera de hueso afilado./20/30/.8/8/5/0/0/74/50/0/.02/3
+  - Filo de Hierro/Un sable pesado./12/25/1.2/-4/0/1/3/44/-1/0/.02/3
+  - Espada Templaria/En algún momento perteneció a un caballero honorable./22/29/1/0/10/1/3/90/50/0/0/3
+  - Filo de Obsidiana/Está increíblemente afilada./30/45/1/-2/0/0/0/121/100/0/.02/3.2
+  - Katana de Lava/Una poderosa espada forjada en una piscina natural de lava candente./55/64/1.2/0/0/3/0/-1/-1/2/.015/3.5
+  - Claymore/Es muy pesada./20/32/1.3/-8/0/2/3/86/50/0/.02/3
+  - Espada pequeña de Acero/Una hoja de acero normal./4/8/1/4/0/0/0/26/-1/0/.02/3
+  - Espada de Madera/No esta mal para un pedazo de madera tallada./3/7/1/0/0/0/0/3/-1/0/.02/3
+  - Cabeza de Insecto/No es muy agradable de empuñar./10/20/1/4/9/0/0/-1/-1/0/.04/3
+  - Lanza de Neptuno/Una reliquia familiar de mas allá del Mar de las Joyas./18/35/1.4/-2/6/2/3/-1/-1/0/.02/3
+  - Espada del Bosque/Poderosa gracias a la magia del bosque./8/18/1/4/5/1/0/-1/-1/0/.02/3
+  - Cuchillo para Trinchar/Una pequeña y ligera espada./1/3/.5/0/0/0/1/18/-1/0/.04/3
+  - Puñal de Hierro/Una daga común./2/4/.5/0/0/0/1/62/50/0/.03/3
+  - Navaja de Ladrón/Un arma de perfecta para los rápidos y silenciosos./7/12/.5/0/5/0/1/114/100/0/.04/3.5
+  - Daga de Sombras/Si acercas la hoja a tu oreja, puedes escuchar los chillidos de 1000 almas./10/20/.5/0/0/0/1/80/50/0/.04/3
+  - Hoja Elfica/Solo las ágiles manos de un elfo podrían crear esto./3/5/.5/0/5/0/1/-1/-1/0/.04/3
+  - Daga de Cristal/La hoja esta hecha de cuarzo purificado./4/10/1/0/10/0/1/-1/-1/0/.03/4
+  - Aguja de Viento/Una ágil y pequeña hoja./1/5/1/0/0/0/1/-1/-1/0/.02/3.2
+  - Daga Galáctica/No se parece a nada que hayas visto antes./30/40/1/3/0/0/1/-1/-1/0/.02/3
+  - Garrote de Madera/Una pieza de solida madera, toscamente tallada con forma de garrote./9/16/1.5/-8/0/0/2/32/-1/0/.02/3
+  - Bate de Alex/El punto clave esta abollado por el famoso Gran Golpe de Alex./1/3/1/-8/0/0/2/-1/-1/0/.02/3
+  - Vara de Plomo/Es increíblemente pesada./18/27/1.5/-16/0/0/2/56/50/1/.02/3
+  - Mazo de Madera/Su sólida cabeza sirve para pegar. Relativamente ligero para ser un mazo./15/24/1.3/-4/1/0/2/68/50/0/.02/3
+  - El Golpeador/Una maza extremadamente pesada que mandara a volar a tus enemigos./40/55/1.5/-12/0/0/2/128/100/2/.02/3
+  - Martillo Galáctico/Hecho de un material ultraligero que no has visto antes./70/90/1/-4/0/0/2/-1/-1/0/.02/3
+  - Antigua Guitarra de Sam/Ha tenido tiempos mejores./1/3/1/-6/0/0/2/-1/-1/0/.02/3
+  - Fémur/Un antiguo y pesado hueso cubierto de mugre de hace siglos./6/11/1.5/-4/0/0/2/10/-1/0/.02/3
+  - Tirachinas/Usa piedras como munición./1/3/1/308/0/0/4/-1/-1/0/.02/3
+  - Tirachinas Maestro/Usa piedras como munición./1/3/1/308/0/0/4/-1/-1/0/.02/3
+  - Tirachinas Galáctico/Parece muy poderoso./1/3/1/308/0/0/4/-1/-1/0/.02/3
+  - Lápiz de Elliott/Elliott lo usó para escribir su libro. ¡Está afilado!/1/3/1/308/0/0/1/-1/-1/0/.02/3
+  - Llave Inglesa de Maru/Una llave inglesa grande y metálica, huele como Maru./1/3/1/308/0/0/2/-1/-1/0/.02/3
+  - Mazo de Harvey/Me trae recuerdos de la Clínica de Harvey./1/3/1/308/0/0/2/-1/-1/0/.02/3
+  - Freidora de Penny/Es la sartén favorita de Penny. Tiene pringue gelatinosa dentro./1/3/1/308/0/0/2/-1/-1/0/.02/3
+  - Cincel de Leah/Es la herramienta favorita de Leah para tallar madera a la deriva./1/3/1/308/0/0/1/-1/-1/0/.02/3
+  - Tablilla de Abby/Hecha de fina madera de acacia./1/3/1/308/0/0/1/-1/-1/0/.02/3
+  - Maza Perdida de Sebastian/Una de las replicas medievales de Sebastian./1/3/1/308/0/0/2/-1/-1/0/.02/3
+  - Plancha de Haley/Desprende calor y huele como el pelo de Haley./1/3/1/308/0/0/0/-1/-1/0/.02/3
+  - Espada Pirata/En algún momento perteneció a un pirata./8/14/1/4/0/0/3/40/-1/0/.02/3
+  - Alfanje/Una fina hoja./9/17/1/4/0/0/0/-1/-1/0/.02/3
+  - Kris Malvado/La hoja está fabricada con una aleación de iridio./24/30/.5/0/8/0/1/-1/-1/2/.06/3
+  - Garrote/El compañero de un bruto./27/40/1.6/-10/0/0/2/107/100/0/.02/3.1
+  - Guadaña/Puede cortar hierba para conseguir heno, si has construido un silo./1/3/1/0/0/0/0/-1/-1/0/.02/3
+  - Diente de Yeti/Está congelado al tacto./26/42/1/0/0/4/0/-1/-1/0/.02/3.2
+  - Florete/Una espada elegante./15/25/1/4/0/0/0/100/95/2/.02/3
+  - Bracamante de acero/Ligero y poderoso./26/38/1/8/5/0/0/142/100/0/.02/3.4
+  - Tridente Roto/Viene del mar pero todavía esta afilado./15/26/.5/0/8/0/1/-1/-1/2/.02/3
+  - Sable Templado/Parece que pudiera aguantar cualquier cosa./29/44/1.2/-6/0/3/0/135/100/1/.02/3

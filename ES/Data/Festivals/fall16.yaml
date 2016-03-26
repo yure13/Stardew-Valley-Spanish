@@ -1,0 +1,50 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  name: Feria de Stardew Valley
+  conditions: Town/900 1500
+  set-up: fallFest/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Fair/loadActors Set-Up/advancedMove Vincent true -3 0 2 5000 3 0 2 5000/advancedMove Jas true 2 0 4 5000 -2 0 4 5000/advancedMove Marnie true -2 0 4 5000 2 0 2 5000/advancedMove Abigail true 4 6000 5 0 0 3 2 6000 0 -3 -5 0/advancedMove Robin true 0 1 1 5000 0 -2 3 5000 0 1 1 5000/animate Sebastian false true 200 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 20 22 22 23/addTemporaryActor BabyPig 32 32 65 68 2 false Animal/addTemporaryActor Pig 32 32 65 70 3 false Animal/addTemporaryActor White_Chicken 16 16 59 67 2 false Animal/addTemporaryActor Brown_Chicken 16 16 61 67 2 false Animal/addTemporaryActor White_Cow 32 32 59 72 0 false Animal/addTemporaryActor BabyWhite_Cow 32 32 61 72 1 false Animal/advancedMove BabyPig true 0 1 3 5000 0 -1 0 7000/advancedMove Pig true 3 5000 0 1 1 5000 0 -1 3 5000/advancedMove White_Chicken true 1 0 2 7000 -1 0 2 10000/animate Brown_Chicken false true 500 16 17/viewport 22 22 true unfreeze/pause 2000/playerControl fair
+  Abigail: Ya he ganado en todos los juegos... ¿Ahora qué?
+  Robin: La carpintería es una tradición ancestral de la que estoy orgullosa de ser parte.$h
+  Demetrius: Robin trabaja muy duro en la carpintería... Merece un pequeño reconocimiento de vez en cuando.
+  Maru: '*slurp* Mmm... Esta salsa de barbacoa está increíble.$h'
+  Sebastian: Hoy el día esta un poco agitado... Voy a salir un rato.
+  Pierre: Mi tienda tiene los productos de mejor calidad en todo el valle. ¡Revisa el expositor de mi granja y compruébalo tu mismo!
+  Caroline: 'Pierre se ha tomado muy en serio lo de su expositor. Ha estado dejando de lado los mejores productos durante semanas para prepararse.#$e#¡Hey, buena suerte si participas!'
+  Linus: Los animales nunca juzgan a la gente por sus apariencias. No se puede decir lo mismo de los humanos.
+  Alex: 'He probado el juego de "Fuerza" muchas veces, y ahora mis brazos parecen de goma.'
+  George: Hmm... ¿Pata de pavo ahumada? Creo que este festival no está del todo mal.$h
+  Evelyn: Ojalá Gus incluyese una opción vegetariana. ¿Brochetas de calabacín, quizás?
+  Lewis: 'Bueno @, es el gran día... Nuestro festival más importante del año, la "Feria de Stardew Valley".#$b#Si quieres participar poniendo tu expositor, he dejado un espacio vacío para ti. Solo házmelo saber después de que lo hayas dispuesto todo, para que podamos valorarlo.'
+  Clint: 'Me quejo a veces de mi trabajo, pero en realidad estoy muy orgulloso.#$b# Estas son algunas de mis mejores piezas. Espero que te gusten.'
+  Emily: ¿Sabes? Habría hecho bien de payaso. Creo que perdí la vocación.
+  Penny: He ganado diez veces seguidas en la ruleta, y ahora el hombre no me deja seguir jugando...$s
+  Pam: Date prisa... ¡Antes de que la vieja Pam pesque hasta el ultimo grano de arena de la carpa! Jeje.$h
+  Haley: '¿Has visitado a la adivina? Puso su puesto en el cementerio.#$e#Yo ya la he visto... Me ha dicho algo... Interesante. *risita nerviosa*$h'
+  Jodi: No parece muy feliz... Creo que el alcalde Lewis tuvo que bajar el presupuesto del payaso de este año.
+  Kent: 'Estoy esperando a que el payaso empiece a hacer algo divertido.#$e#Muy decepcionante.'
+  Sam: 'Hey @. ¿Pasando un buen rato?#$e#El puesto del tirachinas es muy divertido, y si eres muy bueno puedes conseguir fichas.'
+  Leah: Admiro las habilidades de Robin en la carpintería. Uso muchas de sus técnicas en mi trabajo.
+  Shane: Todos estos animales son amigables y les encanta que les acaricien.
+  Marnie: 'Lo he hecho lo mejor posible, pero mi expositor es muy inferior comparado al de Pierre.$s#$e#Bueno, quizás los jueces me den puntos extras por esa enorme rueda de queso.'
+  Elliott: Estoy intentando conseguir que Gus me diga la receta de la salsa, pero no cede.
+  Gus: '¡Come tanto como quieras! Hoy todo es gratis... Cortesía del alcalde Lewis.$h#$e#¡Ah! Asegúrate de probar mi salsa secreta.'
+  Dwarf: '¿Dices que llueve arriba? *soplido*#$e#Lluvia... Es algo casi mítico para nosotros. Algunos de nosotros viven toda su vida sin haberla experimentado.'
+  Wizard: 'Welwick y yo nos conocemos desde hace mucho... Ella es una adivina notable y una muy buena amiga.#$e#...#$e#Ese payaso... Le conozco de algo.#$e#¿Fue en la escuela de ilusión?¿O quizás en el carnaval de los secretos? Hmm...'
+  Harvey: 'Y por allí, Gus esta asando unas costillas de cerdo en la parrilla... Uf.$zs#$e#Tengo que repasar mi conciencia...$11'
+  Sandy: 'He oído que la lluvia ha vuelto. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia... $s'
+  Jas: ¡Auch! ¡Una gallina me ha picado en el dedo meñique!$u
+  Vincent: ¡Moooo!
+  Marlon: 'Las espadas de Clint son más afiladas cada año.#$e#También sus precios...'
+  Willy: '¿Vas a poner un expositor, @? ¡Es tu oportunidad para enseñarles a todos la buena producción de %farm!'

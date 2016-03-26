@@ -1,0 +1,42 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: "¿Por qué?, ¡hola y bienvenido a nuestra pequeña comunidad, cariño! #$b#Me puedes llamar 'Abuela' si tu quieres.$h"
+  Mon: ¡Oh Dios mío! Que hermoso día.$u
+  Tue: 'No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año.'
+  Wed: '#$1 evelynGarden1#1Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!'
+  Thu: 'Hoy haré galletas. Me gusta darles forma de flor en primavera.$h#$e#Puede que un día de estos te dé mi receta.'
+  Fri: 'George está todo el día delante de esa maldita televisión.#$e#Me gustaría que saliese fuera un poco más. Un poco de aire fresco le vendría bien.'
+  Sat: 'Me solía gustar mirar a las nubes, pero tengo problemas para verlas hoy en día.#$e# Mis ojos no funcionan igual de bien que antes.$s'
+  Sun: 'Me gusta estar tan cerca del océano. El sonido del mar hace acostarse mucho más fácil.#$e#Cuando eramos niños íbamos a coger conchas después de que bajara la marea. Qué tiempos aquellos...'
+  Tue6: 'Que amable por tu parte tomarte el tiempo para visitarnos a George y a mí.#$e#Sin gente joven alrededor, envejeceríamos mucho más deprisa.$h'
+  Event_cookies1: ¡Gracias!$h
+  Event_cookies2: "¿Qué has dicho, cielo? Juraría haberte oído decir 'disco de hockey'. *suspiro* Mis oídos no son lo que eran.$s"
+  summer_Mon: Me siento más energética con este tiempo tan maravilloso.$u
+  summer_Wed: 'El buen alcalde me puso a cargo de los jardines públicos.#$e#He estado trabajando en los macizos de flores por meses, ¡así que no los pises!'
+  summer_Thu: 'Voy a hacer galletas hoy. ¡Son delicias de coco con forma de pequeñas palmeras! Heehee.$h#$e#Puede que te dé mi receta un día de estos.'
+  summer_Sat: Ten cuidado ahí fuera, cielo. ¡Te puedes quemar con el sol!
+  summer_Sun: 'Los guisantes dulces están en flor ahora mismo.#$e#Tienen una fragancia maravillosa, ¿verdad?'
+  summer_Thu4: 'Parece que siempre tenemos más visitas cuando empiezo a hornear galletas.#$e#Mi madre me enseñó la receta.'
+  fall_Mon: Cada año aprecio más las estaciones. Para la gente joven es fácil dejarlas pasar.
+  fall_Wed: 'El bueno del alcalde me puso a cargo de los jardines públicos del pueblo.#$e#Las flores de otoño son delicadas, ¡Así que no vayas pisándolas! Se que a los niños como tú les gustan.'
+  fall_Thu: 'Hoy voy a hornear galletas. Tienen forma de pequeñas calabazas.$h#$e#Puede que te dé mi receta un día de estos.'
+  fall_Sat: '¿Eres amigo de Alex?#$e#A veces me preocupa mucho.'
+  fall_Sun: 'Puede que tenga mal la vista, ¡pero mi nariz no me ha fallado aun!#$e#Puede oler hojas caídas y setas. Me recuerda al bosque en el que solía jugar de pequeña.'
+  winter_Mon: Ten cuidado de no resbalar en el hielo, cielo.
+  winter_Wed: 'Normalmente cuido los jardines, pero están cubiertos de nieve.#$e#Aun así me gusta echarles un vistazo de vez en cuando.'
+  winter_Sat: 'Hemos vivido aquí mas de 30 años.#$e#Hemos visto a mucha gente ir y venir. Tu abuelo, por ejemplo. Bendito sea...*suspiro*'
+  winter_Sat6: 'Oh... cielo. Tienes los ojos de tu abuelo....$s#$e#Sí... sí... lo conocía muy bien.'
+  winter_Sun: 'Deberías hacer algo de sopa caliente para calentarte.¡#$e#Y asegúrate de ponerte una chaqueta!'
+  winter_Sat8: '@, ¿te he dicho que Geroge y yo hemos vivido aquí durante 30 años?#$e#Espero que te quedes por aquí un tiempo.$h'

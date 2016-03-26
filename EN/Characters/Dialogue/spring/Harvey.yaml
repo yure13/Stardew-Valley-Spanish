@@ -1,0 +1,44 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hi @. That is your name, right?" #!String
+    Mon2: "I feel responsible for the health of this whole community. It can be stressful sometimes.#$e#It's a pretty small community, so I'm able to build a good relationship with my patients." #!String
+    Mon6: "I'd like to stay in Stardew Valley for a while, @. I really feel involved in the community.#$e#It feels good to know that you're useful." #!String
+    Mon10: "Oh! Hi, @.$l#$e#Do you... have any medical questions?$l" #!String
+    Tue: "Stop by my office if you're ever feeling ill.#$e#You're young, though. You'll probably stay healthy without trying." #!String
+    Tue8: "Don't overwork yourself, @. Doctor's orders!#$e#Your health is important to me.$l" #!String
+    Wed4: "I'd like to get to know you better, @. Let's put aside our doctor-patient relationship.#$e#So tell me about yourself.$h" #!String
+    Wed6: "It's nice to have a friend in town.$h" #!String
+    Wed8: "@! You have a really healthy glow. That's good.$h" #!String
+    Wed: "Remember to cover your mouth when you sneeze.#$e#Then make sure to wash your hands." #!String
+    Thu8: "It's a lot of work, being a doctor. I don't eat as well as I should.$s#$e#If I didn't live alone I think it would be easier.$l" #!String
+    Thu: "Nutrition is important, so make sure and eat well.#$e#Home-cooked meals are best. Do you cook?" #!String
+    Fri: "It's a beautiful day, isn't it?#$e#I wish I had less work to do.$s" #!String
+    Sat: "Hi, @. Can I do anything for you?#$e#Take care." #!String
+    Sat4: "I came here because I liked the small-town atmosphere.#$e#I've grown to really love it.$h" #!String
+    Sat8: "*Sigh*... I'm starting to feel kind of old, @.#$e#But if I try, I can keep a youthful outlook on life, right?$h#$e#I think it helps that you're around.$l" #!String
+    Sun: "Hmm... I'm struggling to make ends meet. I don't have enough patients.#$e#I guess I should try to get patients from the neighboring towns..." #!String
+    Sun6: "@... What will I do if I can't afford to run my clinic anymore?$s#$e#I can't just abandon everyone." #!String
+    event_george1: "Thanks, @.$h#$b#You see, George, I'm just trying to help you." #!String
+    event_george2: "*Sigh*$s#$b#Look, George. If you want to behave like this I'm going to have to tell your wife. I don't think she'll be happy." #!String
+    event_heart1: "Oh! Hospitals make you nervous, huh?#$b#Just try and relax. I'm here to help.$h" #!String
+    event_heart2: "Okay. That makes sense." #!String
+    event_heart3: "Um. Okay... If you say so.$s" #!String
+    event_grave1: "...You're right.#$b#...Thanks." #!String
+    event_grave2: "*sigh*$s" #!String
+

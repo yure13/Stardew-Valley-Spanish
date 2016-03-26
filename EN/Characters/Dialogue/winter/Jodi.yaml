@@ -1,0 +1,29 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I loved playing in the snow when I was a kid.$h" #!String
+    Tue: "Hi. Do you get tired of people asking about your farm all the time?#$e#I think I would." #!String
+    Wed2: "What do I do for fun? Hmm... That'a a good question.#$e#I like sleeping.$h" #!String
+    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
+    Wed4_2: "Kent has been home for a while now, but I think he still feels like a stranger.$s" #!String
+    Thu: "Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors.#$e#Ok, see you later." #!String
+    Fri: "It would be nice to take a vacation once in a while...$s" #!String
+    Sat: "Hi.#$e#Need something?" #!String
+    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
+    Sun: "If I was rich I would hire a maid and a chef.#$e#That would be so nice!$h" #!String
+

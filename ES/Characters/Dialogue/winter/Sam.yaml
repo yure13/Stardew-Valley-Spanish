@@ -1,0 +1,36 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon2: Todo el mundo esta en sus casas en el invierno, por eso puedo tocar la guitarra tan fuerte como yo quiero.$h
+  Mon: Hola...Que frío, ¿no?
+  Tue: 'Oh, Hola! Es bueno verte otra vez. #$e #Relájate.'
+  Tue4: 'Hola, @. ¿Te gustaría dar un paseo o algo así?#$e#Bueno, es un buen momento del año para ponerse al día con el sueño perdido.$h'
+  Wed: 'Hola. $e # #realmente no dan ganas de hacer nada hoy. $s'
+  Wed6: 'He sido amigo de Sebastian por un tiempo. Es un tipo genial.#$e#Si ustedes dos no estuvieran, no tendría ningún amigo en la ciudad.'
+  Wed10: Hey camarada. ¡Parece que hoy estás lleno de energía!^@. Um... Solo quería decirte... Hoy se te ve genial.$l
+  Thu6_1: 'Creo que mi papá volverá muy pronto. #$e# Han pasado 3 años desde la ultima vez que lo vi. Sera muy extraño.'
+  Thu6_2: 'Oye, ¿crees que tienes una oportunidad de ganar el concurso del héroe de Stardew? Eso sucederá pronto.#$e#Yo voy a alentarte!'
+  Thu6: Bueno, ya ha pasado un tiempo desde que mi padre volvió. Creo que al fin me he vuelto a acostumbrar a que esté de vuelta.
+  Thu: 'Mi padre está en el ejército, luchando contra el imperio de Gotoro. Esa es la razón por la que no está.#$e#Volverá pronto, supongo.'
+  Thu_2: Una cosa buena del invierno... todos los mosquitos se han ido.
+  Fri: 'Me he enterado de que los zapatos nuevos que me compré no eran impermeables...$s#$b#Mis pies están empapados.$s'
+  Fri10: 'Creo que madurar ha hecho que aprecie más el campo que la ciudad.$h#$b#Creo que en parte podría ser por... por cierta razón$l#$e#Así que, ¿cómo te va?$h'
+  Sat4: 'Acabo de recordar que mi guitarra está desafinada. Vale, iré a ponerme esta banda de goma en mi muñeca para recordar que debo afinarla después de que te vayas. #$e#Tengo que hacer unos cuantos recordatorios o cualquier otra cosa, ya que suelo tener mala memoria.$h'
+  Sat: 'Hmm. Creo que iba a hacer algo... Pero lo olvidé.#$e#Siempre me pasa.'
+  Sun8: 'Sería divertido si pudiésemos montar en trineo, ¿no?#$#No creo que haya alguna buena colina cerca.$s#$e#Además, no tengo trineo.#$e#Así que, ¿qué has estado haciendo últimamente?'
+  Sun: Trata de no desordenar demasiado la casa o mi madre nos lanzará por los aires.
+  Event_band1: ¡Vaya, eso parece una muy buena idea!$h
+  event_snack1: Está diciendo la verdad, mamá.$s^Está diciendo la verdad, mamá.$s
+  event_snack2: Sí... ¡Eso es lo que pasó!
+  event_snack3: ¿¡Qué!? ¡Está mintiendo!$a^¿¡Qué!? ¡Está mintiendo!$a

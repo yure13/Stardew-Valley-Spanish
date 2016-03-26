@@ -1,0 +1,34 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Oye.#$e#Todo el mundo es tan feliz bajo el sol. No lo entiendo.'
+  Mon6: 'Todo el mundo es tan feliz cuando hace sol...#$e# no me siento de la misma manera, pero está bien. Diferentes personas tienen gustos diferentes.'
+  Tue: Estoy deseando que llegue la temporada de frio y lluvia. Me siento como en casa.
+  Wed: '¿Cuál es el punto de salir? Ya lo he visto todo. #$e #la vida es más divertida cuando eres un niño pequeño. Las cosas son todavía nuevas. $s'
+  Wed8: 'Últimamente he estado inusualmente feliz.$l#$e#no me quejo.$h'
+  Thu: 'Definitivamente no quiero ir a nadar, si eso es lo que has venido a preguntar.$u#$b#Oh, ¿Solo te has parado par decir hola?, Lo siento.'
+  Thu10: Si alguna vez quisieras ir a nadar, lo haría.$ l
+  Fri: 'Oh, hey. Justo estaba escuchando algo de música. *bostezo*#$q 60/61 Fri_old#¿Adivina que tipo de música que estaba escuchando?$h#$r 61 -30 Fri_bad#Jazz Suave#$r 60 30 Fri_good#Metal#$r 60 30 Fri_good#Synthcore#$r 61 -30 Fri_bad#Boogie Woogie'
+  Fri_old: '$p 60#Quizas te guste esta banda.$h| Probablemente nunca has oído de ella.$u'
+  Fri_good: Hey, ¿Cómo lo sabes? $h
+  Fri_bad: L-O-L. Tal vez nací hace 100 años.
+  Fri6: 'Es agradable que uses tiempo de tu dia para visitarme.$h#$e#Me gusta cuando te pasas por aqui.$l'
+  Sat: 'He estado jugando este juego de PC todo el dia... *sigh*#$b#Solo necesito encontrar 12 diamantes mas.Entonces terminare.#$e#Me duelen los ojos.$s'
+  Sun: Yo normalmente solo salgo después del anochecer. ¿Ese sonido es raro para ti?
+  Sun4: 'Anoche, vi un grupo de murciélagos volando alrededor del lago.#$e#Fue genial.'
+  Event_game1: Está bien, con eso servirá.
+  Event_game2: Buena elección. Eso me ayudara con mi trabajo.$h
+  Event_cave1: ¡No tan rápido! Quiero saber qué es.
+  Event_cave2: ¿De verdad? ¡Estaba haciendo un montón de ruido!
+  Event_cave3: Es muy peligroso sin una espada. Pero me gusta tu espíritu aventurero.$h

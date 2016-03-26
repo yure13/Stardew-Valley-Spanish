@@ -1,0 +1,28 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  4: '¿Alguna vez has encontrado a otros como yo en las minas? Perdona si fueron hostiles contigo. Verás, hemos aprendido a temer a los humanos... Ha habido muchos... encuentros desagradables.#$e#No has... matado a ninguno de mis amigos, ¿no?'
+  8: Hace poco acabó la guerra entre mi gente y los enanos. Aún hay algo de resentimiento entre ambos bandos.
+  15: Por favor, mantén mi localización en secreto. Si los enanos saben algo de mi, seguramente manden un asesino.
+  Fri: ...
+  Wed: Encuentro cosas por aquí y las vendo. ¿Te interesa comprar algo?
+  Thu: 'Por favor, no le hables a nadie sobre mi.#$b#Los humanos tienden a destruir las cosas que no pueden entender.'
+  Tue: 'Soy demasiado sensible a la luz como para salir de día.#$b#Las condiciones aquí son perfectas.#$e#¿Te interesa comprar algo?'
+  Mon: 'Por favor, no te alarmes. Soy diferente a los otros.#$e#He pasado mucho tiempo observando a los humanos. Se que os gusta comprar. ¿Te interesa ver mi mercancía?'
+  Mon2: ¿Has vuelto? Supongo que eso encaja en mi teoría sobre el comportamiento humano.
+  Mon6: "'Krobus' significa 'cruzador de puentes' en nuestro idioma."
+  Sat: Los viernes me quedo en silencio, como signo de devoción hacia Yoba.
+  Sun: ...Lo siento, aun soy cauteloso con los humanos. No obstante, mi tienda sigue abierta para ti.
+  Sun4: No eres como los otros humanos, ¿verdad?
+  Sun8: Me has abierto los ojos al mundo de los humanos. Te lo agradezco.

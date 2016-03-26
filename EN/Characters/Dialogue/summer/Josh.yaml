@@ -1,0 +1,45 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "You probably already know that summer's my favorite season." #!String
+    Mon: "If I practice a lot of sports this summer, maybe I'll turn pro.#$e#Then you'd be able to say you knew me once." #!String
+    Tue: "I'm so glad we have a beach here.#$e#It's just too bad we couldn't get a volleyball game going." #!String
+    Wed: "$q 52/53 Wed_01_old#Hey, do you think I'll ever turn pro?#$r 52 30 Wed_01_01#You're going to be a sports legend#$r 52 0 Wed_01_02#Maybe, if you practice a lot#$r 53 -50 Wed_01_03#No, you'll fail and become a used-car salesman" #!String
+    Wed_01_old: "$p 52#Hey, I've been practicing harder since you told me I have a shot at becoming pro.|Hey, I've been practicing twice as hard so I can turn pro and prove you wrong. You just wait." #!String
+    Wed_01_01: "Hey, now that's what I'm talking about!$h#$e#Thanks for believing in me, bro.^Thanks for believing in me.$u" #!String
+    Wed_01_02: "Yeah, well I'm so good I'm not going to have to practice all that much.$u" #!String
+    Wed_01_03: "Huh? I think you're talking about yourself, loser.$a" #!String
+    Thu: "Hey, you must be getting pretty strong working on that farm all day.^Hey, you must be getting pretty fit working on that farm all day.#$e#Maybe you'll reach my level some day.#$e#Why do you have that look on your face?" #!String
+    Fri: "Sorry my room is such a mess.#$e#I have more important things to worry about than how clean my room is." #!String
+    Sat: "You should enjoy life while you still can, right?#$e#That's my motto." #!String
+    Sun: "I got a new pair of shoes yesterday. My old pair had a brown smudge on the heel.#$e#Looks like your shoes are a little dirty, huh?" #!String
+    Sun2: "I got a new pair of shoes yesterday. My old pair had a brown smudge on the heel.#$e#You're shoes are a little dirty. That's fine, too!#$e#Different people have different tastes." #!String
+    Thu4: "Hey, you look like you're really getting into great shape!#$e#All that farm work is paying off, huh?" #!String
+    Mon4: "If I practice every day, I'll have a better shot at going pro!#$e#Wouldn't it be fun if you were friends with a pro athlete?$h" #!String
+    Fri6: "Sorry my room is so messy.$s#$e#It's just hard to always remember to clean. I'm trying to get better, though." #!String
+    Wed8: "You know, I actually wouldn't mind being a farmer.#$e#I like being outdoors and doing things with my hands.#$e#Like I've said before, it seems kind of like sports." #!String
+    Sat10: "They say that getting rich ruins all your friendships.#$e#Money causes a lot of problems, I guess." #!String
+    Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
+    Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
+    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
+    Event_books2: "Yeah, I guess you're right...$s" #!String
+    Event_books3: "You were supposed to disagree with me.$a" #!String
+    Event_parents1: "That's an interesting thought..." #!String
+    Event_parents2: "They would never do that!$a" #!String
+    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+

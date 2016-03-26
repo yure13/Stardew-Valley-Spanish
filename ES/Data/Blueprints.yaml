@@ -1,0 +1,33 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Silo: 390 100 330 10 334 5/3/3-1-1 /-2 /-1/null/Permite cortar y almacenar hierba para utilizar de alimento./Buildings/none/48/128/-1/null/Farm/100
+  Stable: 709 100 335 5/4/2 /-1 /-1 /-2 /-1/null/Permite mantener y montar a caballo. Caballo incluido./Buildings/none/64/96/-1/null/Farm/10000
+  Well: 390 75/3/3-1-1 /-1 /-1/null/Proporciona un lugar para que rellenes tu regadera./Buildings/none/48/80/-1/null/Farm/1000
+  Coop: 388 300 390 100/6/3/1/2/2/2/Coop/Gallinero donde conviven 4 animales./Buildings/none/64/96/4/null/Farm/4000
+  Big Coop: 388 400 390 150/6/3/1/2/2/2/Coop2/Gallinero donde conviven 8 animales. Viene con una incubadora. Desbloquea patos./Upgrades/Coop/64/96/8/null/Farm/10000
+  Deluxe Coop: 388 500 390 200/6/3/1/2/2/2/Coop3/Gallinero donde conviven 12 animales. Viene con un sistema de alimentación automática. Desbloquea conejos./Upgrades/Big Coop/64/96/12/null/Farm/20000
+  Barn: 388 350 390 150/7/4/1/3/3/3/Barn/Granero donde conviven 4 animales./Buildings/none/96/96/4/null/Farm/6000
+  Big Barn: 388 450 390 200/7/4/1/3/4/3/Barn2/Granero donde conviven 8 animales. Permite a los animales dar a luz. Desbloquea cabras./Upgrades/Barn/96/96/8/null/Farm/12000
+  Deluxe Barn: 388 550 390 300/7/4/1/3/4/3/Barn3/Granero donde conviven 8 animales. Viene con un sistema de alimentación automática. Desbloquea ovejas y cerdos./Upgrades/Big Barn/96/96/12/null/Farm/25000
+  Slime Hutch: 390 500 338 10 337 1/11/6/5/5/-1/-1/SlimeHutch/Cría hasta 20 Slimes. Llena los bebederos y los slimes crearán bolas de slime./Buildings/none/96/96/20/null/Farm/10000
+  Greenhouse: 388 500 390 200 337 1/4/2/2/1/-1/-1/FarmGreenHouse/¡Un lugar donde plantar cultivos de todas las temporadas, durante todo el año!/Buildings/none/64/96/-1/null/Farm
+  Mine Elevator: 388 30 390 15 334 5/4/2/1/1 /-1 /-1/null/Viaja rápidamente entre cualquier ascensor que construiste en las minas. Solo se puede construir uno por nivel./Buildings/none/64/64/-1/MineElevator/UndergroundMine
+  Chicken: animal/500/64/64/Pone huevos deliciosos. Viene en dos colores./null/Farm
+  Duck: animal/1000/64/64/Pone huevos y ocasionalmente deja caer plumas./null/Farm
+  Rabbit: animal/1500/64/64/¡Estos son conejos lanudos!/null/Farm
+  Cow: animal/1000/64/96/Produce leche cremosa./null/Farm
+  Sheep: animal/1500/64/96/Pueden ser esquiladas para obtener valiosa lana./null/Farm
+  Goat: animal/1500/64/96/¡Produce sabrosa leche de cabra!/null/Farm
+  Pig: animal/2000/64/96/Están especialmente entrenados para encontrar trufas./null/Farm

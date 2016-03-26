@@ -1,0 +1,25 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Preferiría comer comida más sana si pudiera permitírmelo.#$e#Espera, quizá tengas un montón de sabrosa comida creciendo en tu granja, ¿no?'
+  Tue: Si te conociera mejor, estaría más dispuesta a conversar.
+  Tue4: 'Una vez fui joven. Es difícil de creer, ¿eh?#$e#El tiempo pasa muy rápido cuando te haces mayor.$s'
+  Wed: '*Suspiro*... Supongo que esta noche tendré que meter en el microondas otra comida congelada.$s'
+  Thu: Penny es lo único que tengo, así que será mejor que la trates con cariño.
+  Fri: 'Todos los días la misma vieja rutina...$s#$e#¿Nunca has tenido ese problema, granjero/a?'
+  Sat: '¿Me harías un favor y limpiarías mi casa?#$e#Es broma.$h'
+  Sun: '¿No tienes nada que hacer?#$e#Deberías estar agradecido por tener un trabajo en vez de estar por ahí todo el rato.'
+  Sun4: 'Echo de menos mi viejo trabajo conduciendo camiones. Solía ir por todo el valle, conociendo gente, escuchando la radio. #$e#Los tiempos cambian.'
+  event_credit1: ¡Oye, vigila tu lengua! ¡Nadie me dice qué hacer!$u
+  event_credit2: '¿Eso es...? ¡Es terrible!$s#$b#...Oh.$s'

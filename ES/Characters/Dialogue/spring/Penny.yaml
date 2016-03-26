@@ -1,0 +1,40 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Hola... Um, ¿necesitas algo?
+  Mon4: 'Mi madre va al bar demasiado.$s#$q 7/8 Mon_old#Pero es mejor no pensar demasiado en lo malo, verdad?#$r 7 50 Mon_7#Si. Es mejor ser positiva!#$r 8 10 Mon_8#No se, creo que es bueno ser realista.'
+  Mon_old: '#$p 7#Pero si sigo intentandolo creo que conseguire que cambie.|Supongo que tiene sentido. No es que pueda hacer mucho para cambiarlo, de todas formas.'
+  Mon_7: Asi es como me siento. Voy a centrarme en hacer el futuro mejor.
+  Mon_8: Quiza tengas razon. Es mejor enfrentarse a la realidad.$u
+  Mon8: 'Estoy impaciente por mudarme. Es una carga preocuparme por mi madre todo el tiempo.#$e#Quiero que sea feliz, pero no puedo quedarme aqui para siempre.$s'
+  Tue: 'Paso por tu granja casi todos los dias. Es una zona muy agradable.#$e#Siempre me siento mejor cuando estoy fuera, tu no?'
+  Tue4: 'Tu granja se ve muy bonita ahora.$h#$e#Siempre la admiro cuando paso. Las flores de primavera me hacen sentir viva.'
+  Tue10: 'Um, @? Una granja parece un buen lugar para los niños, no crees?$l#$e#Solo estaba pensando en ello.$l'
+  Wed: 'Hola...#$e#La verdad es que no se de que hablar hoy, lo siento.$u#$e#...'
+  Wed4: 'Me encanta cocinar. He inventado unos cuantos platos yo misma.#$e#Tendras que probarlos alguna vez.$h#$e#... Si eres del tipo aventurero.'
+  Wed8: 'Debe ser duro, cocinar para ti cada dia.#$e#¿No desearias tener a alguien con quien cocinar?$l'
+  Thu: '¿Has estado en la oficina arqueologica? Es tambien una biblioteca.#$e#Leer puede transportarte a fascinantes mundos nuevos.$h#$e#...Pero luego te das cuenta de lo aburrida que es tu vida.$s#$e#...Lo siento, me deje llevar.'
+  Thu6: 'Ojala pudiera mantener un jardin, pero nuestro patio esta hecho un asco.$u#$e#En fin. Algun dia vivire en un lugar donde pueda tener uno.#$e#Quiza viva en una granja! *risita*$h'
+  Fri: 'Si cavas en la tierra puedes encontrar cosas interesantes.#$e#Una vez encontre una pieza muy vieja de ceramica. Tenia escrito algo que no podia leer.#$e#Que otros tesoros se esconden bajo nuestros pies?'
+  Sat: 'Esta es un pueblo muy pequeno. No puedes evitar encontrarte con todo el mundo#$e#Como sera vivir en la ciudad?'
+  Sun: 'Hola. Ummm...#$e#El tiempo hoy es interesante, verdad?#$e#Lo siento...'
+  Sun4: 'He intentado mantener nuestra hogar limpio, pero siempre se ensucia de nuevo.$s#$e#Es duro llevar una casa tu sola.'
+  event_mail1: Oh! Lo viste...?$l
+  event_mail2: 'Oh...#$b#Lo siento, Sr. Mullner. Lo que hice, fue grosero.$s'
+  event_mail3: Ya veo.
+  event_cook1: Gracias! Me siento orgullosa de este plato.
+  event_cook2: ...Lo siento.$s
+  event_family1: Yo tambien.$h
+  event_family2: ...lo siento.$s
+  event_family3: Ya veo.$s

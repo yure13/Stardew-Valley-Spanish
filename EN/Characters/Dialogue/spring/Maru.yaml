@@ -1,0 +1,46 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hi! You must be the new farmer everyone's talking about. I'm Maru.#$e#It's nice to meet you." #!String
+    Mon: "Everything seems so fresh in the spring...#$e#It's like living in a big, delicious salad bowl!$h#$e#Yes...?" #!String
+    Tue: "Have you met my Mom? She's the town's carpenter." #!String
+    Wed: "On Fridays I work at Harvey's clinic.#$b#He says he likes having me around in case his medical equipment goes haywire!$h#$e#Being a farmer must be pretty easy, huh?" #!String
+    Thu: "I plan on spending a lot of time with my telescope this summer!#$q 0/1/2 Thu_01_old#How do you feel about space?#$r 0 0 Thu_0#It's OK, I guess.#$r 1 30 Thu_01_01#It's so interesting!#$r 2 -30 Thu_01_02#It's depressing." #!String
+    Thu_01_old: "$p 1#Hey, since you like space maybe we can have a little stargazing party this summer.$h|Sorry, I'm probably making you depressed with all this space-talk." #!String
+    Thu_0: "I guess not everyone gets as excited about it as me. That's okay." #!String
+    Thu_01_01: "You think so too? That's great!$h" #!String
+    Thu_01_02: "Depressing? Hmm... I guess everyone has their own interests.$s" #!String
+    Fri: "Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory." #!String
+    Sat: "Hey, sorry if I seem cranky... I'm a little sore from work yesterday. I had to carry ten boxes of medical files to the attic!" #!String
+    Sun: "Hi!#$q 3/4 Sun_01_old#Do you have fun working on the farm?#$r 3 0 Sun_01_01#Yes.#$r 4 0 Sun_01_02#No." #!String
+    Sun_01_old: "$p 1#Hey, you've made another week of progress on the farm! It seems like things are going well for you.$h|Another tiring week on the farm, huh? It must really be a lot of work...$s" #!String
+    Sun_01_01: "Awesome! I'm glad you're having a good time.$h" #!String
+    Sun_01_02: "Yikes! I'm sorry. Have you ever thought of doing something different than farming?$s" #!String
+    Tue2: "Stop by our house when you need to upgrade your buildings.#$e#It's always nice to have visitors." #!String
+    Fri4: "My mom is a carpenter and my dad is a scientist. I guess it makes sense that I'm an inventor." #!String
+    Mon6: "I like the way the air smells today.#$e#Is that odd?" #!String
+    Wed8: "I work at Harvey's clinic on Fridays.#$e#He's nice, but not really my type..." #!String
+    Thu10: "Oh, @! Is there anything you want to talk to me about?#l" #!String
+    Event_Hospital_1: "Of course he'll know the difference! This sample is completely ruined!" #!String
+    Event_Hospital_2: "Okay. I'll blame it on you, then." #!String
+    Event_Hospital_3: "You're right. I should just tell him the truth." #!String
+    Event_Space1: "It's amazing, isn't it?" #!String
+    Event_Space2: "I guess you could see it like that...#$b#But it's still grand, isn't it?" #!String
+    Event_Cut1: "Oh no? Well that makes me feel a little better, then." #!String
+    Event_Cut2: "Oh no! I'm really really sorry.$s" #!String
+

@@ -1,0 +1,23 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Mantener una casa es un trabajo difícil.$s#$e#Pero nadie va hacerlo si no lo hago yo,$s#$e#¿no?'
+  Tue: '¿Qué? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s'
+  Wed4: 'Me gustaría poder pasar más tiempo al aire libre, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener las manos suaves.#$e#Cuanto mayor te haces, más trabajo tienes que hacer para mantener la salud.$s#$e#Bueno. ¡Adiós!'
+  Wed: Umm, sí. Buen tiempo, ¿eh? Lo siento, no se muy bien de qué hablar.
+  Thu: 'Tal vez he consentido un poco a Sam. Nunca ha tenido que hacer ninguna tarea.#$e#Supongo que quería que disfrutara de su infancia mientras pudiera.#$b#Aunque, espero que no llegue a convertirse en un vago.$s#$e#No es fácil ser padre.'
+  Fri: 'Hoy me estoy tomando un descanso de las tareas.$h#$e#Si no paso un rato fuera, ¡me voy a volver loco!#$e#Además, no quiero que se me debiliten las piernas.'
+  Sat: 'Hola.#$e#¿Necesitas algo?'
+  Sat4: 'Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós.'
+  Sun: '¿Están tus botas limpias? $s#$e#Lo siento, estoy un poco paranoica.'

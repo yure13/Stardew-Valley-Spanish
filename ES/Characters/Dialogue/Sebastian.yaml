@@ -1,0 +1,103 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: 'Oh. ¿Acabas de mudarte, cierto? Genial.#$e#¿De todos los lugares donde podías vivir, escogiste Pelican Town?'
+  danceRejection: No... Hay alguien con quien quiero bailar.
+  Mon: ¿Um... necesitas algo?
+  Mon4: ¿Si desapareciera, le importaría a alguien?$s
+  Tue: 'Estaba pensando... la gente es como las piedras saltando sobre el agua.#$b#Al final acaban hundiéndose.'
+  Tue6: '¡Me gustan tus botas nuevas!$h^Tu pelo se ve muy bien hoy.$h#$e#¿Quieres salir un rato?'
+  Wed: '¿Que voy a hacer hoy?#$e#Probablemente nada.'
+  Wed2: 'Sam es, probablemente, mi único amigo en este pueblo.#$e#Bueno, Abby es también es simpática, pero...$h#$e#Umm... no importa.'
+  Wed6: Tu y Sam sois probablemente mis únicos amigos en este pueblo.$s
+  Wed10: 'Um... No tienes pareja, ¿verdad?#$e#¡Solo preguntaba!$l'
+  Thu: '#$1 Sebastian1#Me colé en las cuevas la ultima noche y un cangrejo de roca me hizo un corte bastante feo. No se lo digas a nadie, ¿vale?#$e#Hola.#$e#...¿Quieres algo?'
+  Mountain_47_23: Vine aquí en busca de paz y tranquilidad.
+  Thu4: '¿Por qué a todo el mundo le gusta tanto Maru? Claro, es lista y amable, ¿pero no se dan cuenta de que solo lo hace para llamar la atención?#$e#Lo siento...$s'
+  Thu6: ¿Puedes imaginar a alguien como yo viviendo en una granja? Es ridículo.$h
+  Thu8: '¿Puedes imaginarme viviendo en una granja?#$e#Parece ridículo, pero he estado pensando sobre ello últimamente.'
+  Fri: Uh... No te conozco.
+  Fri2: '*suspiro*... Si la gasolina no fuera tan cara, iría en moto hasta la ciudad.#$e#$q 15/16 Fri_old#¿Qué haces cuando no estás trabajando?#$r 15 0 Fri_bad#Trabajar más#$r 16 30 Fri_good#Comics#$r 15 -30 Fri_bad#Ir de compras#$r 15 -30 Fri_bad#Deportes'
+  Fri_old: '$p 16#Oye, si estas aburrido no dudes en pasar el rato en mi habitación...$h|Probablemente prefieras la vida en un pueblo pequeño, ¿eh?'
+  Fri_good: "¿En serio? Bueno, ¿has leído el nuevo de 'Cave Saga X'? No te lo arruinaré, pero oh colega...$h"
+  Fri_bad: ¿En serio? Mmm... eso no me va, pero supongo que todos somos diferentes.$u
+  Sat: '¿Qué? No te he oído... estoy ocupado pensando algo.#$e#¿Qué quieres?'
+  Sat2: 'Ya sabes, debería estar haciendo algo productivo. Pierdo la concentración demasiado rápido...$s#$b#¿Debería beber más café?'
+  Sun: Oye, tu nombre es @, ¿cierto?
+  Sun2: ¿Estás pasando un buen fin de semana? ...Bien.
+  Sun4: 'Normalmente me quedo dentro, pero voy a la playa de vez en cuando.#$b#Prácticamente solo cuando llueve.#$e#Por alguna razón, mirar al sombrío horizonte me hace sentir... no se. Que merece la pena seguir luchando, supongo.'
+  Fri8: '¿Que hay de nuevo?$h#$e#Estaré en el salón esta noche destrozando otra vez a Sam en el billar.$h'
+  Sun10: Tan solo estaba pensando en ti...$l
+  Event_game1: De acuerdo, eso funcionará.
+  Event_game2: Buena elección. Eso funciona muy bien con mi papel.
+  Event_cave1: ¡No tan rápido! Quiero saber qué es.
+  Event_cave2: ¿En serio? ¡Estaba haciendo mucho ruido!
+  Event_cave3: Es demasiado peligroso sin una espada. Pero me gusta tu sentido de la aventura.$h
+  event_garage1: Genial.$8
+  event_garage2: Vale... Entonces no importa.$9
+  event_garage3: No te preocupes, me aseguraré de enseñarte las cuerdas antes de dejarte que hagas algo peligroso.$8^No hay necesidad de preocuparse... Me aseguraré de que estés a salvo.$8
+  event_city1: Mmm... No es exactamente como yo lo diría, pero si.
+  event_city2: Si... Exactamente así es como yo también me siento.$l
+  event_city3: Oh... Bueno, entonces quizás este no era el mejor sitio para traerte. Pensé que verías la belleza en él.$s
+  event_city4: 'Ugh... Suenas como mi madre.$a#$b#...*suspiro*$s#$b#Sin embargo tienes razón. Soy adicto a estas cosas, no es bueno.$s'
+  summer_Mon: Todo el mundo es tan feliz al sol. No lo entiendo.
+  summer_Mon6: 'Todo el mundo es tan feliz cuando está tan soleado...#$e#A la gente diferente les gustan cosas diferentes, supongo.'
+  summer_Tue: Estoy deseando que llegue la fría, húmeda estación. Me siento más en casa.
+  summer_Wed: ¿Cuál es el objetivo de salir fuera? Ya lo he visto todo.
+  summer_Wed8: ¿Por qué estoy sonriendo? Supongo que últimamente he estado más feliz que de costumbre...$l
+  summer_Thu: 'Definitivamente no quiero ir a nadar, si es lo que ibas a preguntar.$s#$e#Oh, ¿solo pasabas para saludar? Perdona.'
+  summer_Thu10: Si alguna vez quisieras ir a nadar... supongo que yo iría.$l
+  summer_Mountain_58_35: '#$c .5#La temperatura solo empieza a ser agradable por la noche.#$e#Siempre parece hacer mas frío por el lago.'
+  summer_Fri: 'Oh, hola. *bostezo*'
+  summer_Fri6: 'Hola, me alegro de que te hayas pasado.$h#$e#¿Como ha estado aguantando este calor?'
+  summer_Sat: Espero que no tengamos estofado de setas esta noche...$s
+  spring_12: No soy muy fan de los festivales. Mucho alboroto, demasiada interacción social... Más estrés que diversión, si me lo preguntas.
+  spring_23: Ugh... Mañana es, de lejos, el peor festival del año. Solo espera y veras lo estúpido que parezco en el baile de las flores.
+  fall_20: ¿Estas deseando que llegue el festival de halloween? Probablemente es mi favorito.$h
+  fall_26: 'El festival de halloween es mañana. Espero que pongan este año esos esqueletos otra vez.$h#$e#Casi siento que son mis amigos, llegado este punto.'
+  summer_10: 'Jeje... Sería gracioso poner algo asqueroso en la sopa de mañana. Tan solo no envenenes a nadie.#$e#¿Por que arruinar la sopa? Mmm... Supongo que algunas personas se sienten liberadas cuando la sólida estructura de la sociedad se rompe un poco. Quizás soy raro.'
+  summer_27: Mañana nos reuniremos todos en el muelle para ver la migración de las medusas lunares. Creo que empieza a las diez en punto.
+  winter_24: Hoy es la víspera de la estrella de invierno. Mejor asegúrate de que tengas el estomago vacío para el festín de mañana.
+  summer_Sun: Normalmente salgo cuando está oscuro. ¿Te parece raro?
+  summer_Sun4: 'Anoche vi un grupo de murciélagos volando cerca del lago.#$e#Supongo que quizás se están alimentado de los mosquitos en esta época del año.'
+  fall_Mon: Así que... es la temporada de la gran cosecha, ¿cierto?
+  fall_Mon4: 'Seguramente estás haciendo un montón de dinero con tu granja, ¿eh?#$e#Supongo que debería conseguir un trabajo pronto...$s'
+  fall_Tue: Especia de calabaza esto... especia de calabaza lo otro... colega, me enferman estas modas estacionales.
+  fall_Tue6: ¿Quién se cree Demetrius que es diciéndome lo que debo hacer? No es mi verdadero padre.$a
+  fall_Wed: '*Bostezo *¿... qué hora es? Creo que anoche dormí demasiado.'
+  fall_Wed8: 'Me alegro de que hayas aparecido, me estaba empezando a aburrir.#$e#Ahora me siento mucho más activo, puedes creértelo o no.'
+  fall_Thu: Mi habitación podría ser un poco menos deprimente si tuviera una ventana... $s
+  fall_Fri: '*bostezo*... Estuve despierto hasta las 3 leyendo este libro nuevo...#$q 62/63 fall_Fri_old#¿Tu lees, @?#$r 62 -30 Fri_bad#Sip. Los clásicos.#$r 63 30 Fri_good#Solo ciencia ficción y fantasía.#$r 62 0 Fri_bad#Me gusta un buen romance.#$r 63 -30 Fri_bad#No, no leo libros.'
+  fall_Fri_old: '$p 62#Probablemente no te guste.$s|Creo que te gustaría.'
+  fall_Fri_good: Oye, yo también. No hay nada como un poco de ficción para empujar los límites de la imaginación.$h
+  fall_Fri_bad: Huh. Suena aburrido.
+  fall_Fri6: 'He estado leyendo un libro sobre un granjero. De hecho, me recuerda mucho a ti.$h#$e#Perdón si eso te incomoda.$h'
+  fall_Sat: 'He estado a *esto* de quedarme el día entero en la cama. Ahora desearía haberlo hecho.'
+  fall_Sun: El sol sale cada vez menos estos días... maravilloso.
+  winter_Mon: Disfruto de este clima sombrío... aunque, he de decirlo, hace un poco de frío.
+  winter_Mon4: 'Ya nada me sorprende... nada me hace reír.#$e#Estoy siendo un poco dramático.'
+  winter_Tue: Mmm... La verdad es que no tengo nada que decir. Aún no te conozco muy bien.
+  winter_Tue4: 'Oye...#$b$A veces es difícil pensar en nuevas cosas de las que hablar. Incluso tras conocer a alguien.#$e#...Perdón.'
+  winter_Tue6: 'He estado tan cerca de gritarle a mamá por tirar mi colección de cómics... Pero algo me paró.#$e#Mmm... con la edad viene la sabiduría.'
+  winter_Tue10: '¿Has venido hasta aquí para verme?$l#$e#... $h'
+  winter_Wed: '%Sebastian parece perdido en sus pensamientos...'
+  winter_Wed4: 'Oye, no me dejes impedirte hacer tu trabajo.#$e#Si no estas haciendo nada no me importa que te quedes.$h'
+  winter_Thu: 'Me pregunto qué habrá esta noche de cena...*gruñido*'
+  winter_Thu6: Debería aprender a cocinar. Me sería muy útil.
+  winter_Fri: Es divertido vivir tan cerca de las vías del tren.
+  winter_Fri8: 'Cuando era más pequeño corría a las vías del tren cada vez que oía que venía un tren.#$e#¿Que pasó con esos días...? *suspiro*$s'
+  winter_Sat: 'Las ranas no están muy felices en invierno.#$e#Pobres pequeñinas.$s'
+  winter_Sat6: 'Me gusta el invierno pero me siento mal por todos los animales de ahí fuera.#$e#Supongo que estarán acostumbrados.'
+  winter_Sun: 'Hice un mapache de nieve, pero Demetrius me hizo deshacerme de él.#$e#¿Qué le pasa?$u'
+  winter_Sun6: 'Hice un mapache de nieve, pero Demetrius me hizo deshacerme de él... ¡mientras tanto el pequeño y mono muñeco de nieve de Maru está intacto!$a#$e#Ridículo.'

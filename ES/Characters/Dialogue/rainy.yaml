@@ -1,0 +1,43 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Abigail: El valle parece mas interesante cuando llueve... ¿No crees?
+  Robin: '¡La lluvia no va a evitar que acabe un trabajo!$h#$e#Aunque trabajar con madera húmeda no es precisamente un placer.$s'
+  Demetrius: Buenas. Quédate dentro si no quieres mojarte.
+  Maru: 'Cuando llueve tengo una buena excusa para trabajar en mis chismes.$h#$e#Aunque debe ser bastante aburrido para ti.'
+  Sebastian: Con este tiempo, si tienes suerte, puede que veas alguna rana.
+  Linus: Una lluvia calentita es una buena forma de estar limpio.$h
+  Pierre: La mayoría de gente se queda en casa en días como este... No es bueno para el negocio.$s
+  Caroline: 'Mi jardín está feliz hoy.$h#$e#... y nuestra factura del agua será mas baja este mes.'
+  Alex: 'Hmmph. No hace buen tiempo para hacer deporte.$s#$e#Bueno, siempre puedo hacer pesas dentro.$h'
+  George: Este frío es horrible, ¿verdad? Que mal día.
+  Evelyn: 'Cuando me he despertado he escuchado gotas en algún sitio... Creo que el techo tiene goteras.$s#$e#Hace tiempo, George habría ido corriendo a arreglarlo... *suspiro*$s'
+  Lewis: 'Hola, @. ¿Descansando?#$e#Espero que el río no se desborde...$s'
+  Clint: Hoy sería un buen día para explorar las minas... Quién sabe, podrías encontrar minerales raros.
+  Penny: 'Las lluvia hace mucho ruido en el techo de metal de nuestra caravana#$e#...Aunque es relajante.$h'
+  Pam: Ey. ¿Te has mojado?
+  Emily: 'Nunca llueve en el Desierto de Calico... Ahí es donde vive mi amiga Sandy.#$e#Ojalá pudiese visitarla hoy.$s'
+  Haley: 'He pasado toda la mañana peinándome... y ahora la lluvia puede estropearlo todo.$s#$e#*suspiro* ... A veces la vida es dura.'
+  Jodi: '¿Te has limpiado los zapatos antes de entrar? Lo siento... Acabo de fregar el suelo.#$e#¡Pero puedes venir cuando quieras! Je.$h'
+  Sam: La lluvia amortigua el sonido, así que puedo tocar la guitarra más fuerte sin que mi madre se enfade, jeje.$h
+  Leah: Quizá debería cocinar algo nuevo y exótico hoy. Algo picante.
+  Shane: Hmm... Este tiempo me da sed.$s
+  Marnie: Hola, @. Parece que te has mojado... ¡Pobre!$h
+  Elliott: 'A veces, cuando estoy en la cama, escucho el sonido de una bocina atravesando la lluvia.#$b#Pero cuando miro por la ventana solo veo una cortina gris.'
+  Gus: 'No hay nada como un vaso de vino tinto en un día como este, ¿eh?#$e#Me encanta mi trabajo. Jejeje.'
+  Dwarf: La lluvia... Es algo casi mítico para nosotros. Algunos enanos viven toda la vida sin haberla visto.
+  Wizard: 'Los días de tormenta son los únicos en los que puedo conectar con ciertos elementos.#$e#No creo que lo entiendas.'
+  Harvey: '¡Hola, @! Em... ¿Has leído algo interesante en la biblioteca últimamente?#$e#Je. Bueno, em... Nos vemos por ahí, ¿vale?$u'
+  Sandy: 'He oído que está lloviendo de nuevo en casa. ¿Has venido por eso?$h#$e#A decir verdad, echo de menos la lluvia...$s'
+  Krobus: Ah, hoy las alcantarillas fluyen con fuerza. Esto va a estar agradable y húmedo... Justo como me gusta.

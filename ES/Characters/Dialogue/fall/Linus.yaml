@@ -1,0 +1,27 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Ya he explorado profundamente las cuevas.#$e#Hay algunos secretos ocultos.#$e#Ten cuidado si vas allí.'
+  Tue: '...¿Has venido a ridiculizarme?#$e#Yo estoy aquí a lo mío.'
+  Wed: No te conozco lo suficiente para confiar en ti. Perdón.
+  Thu: '¿Sí?#$e#¿Querías algo?'
+  Fri: 'Por favor no destruyas mi tienda.#$e#Ya me ha pasado antes.$s'
+  Sat: 'Yo soy feliz estando solo.#$e#No necesito nuevos amigos.'
+  Sun4: Ojalá la gente del pueblo pudiera aceptarme por como soy.$s
+  Tue4: 'Necesito comenzar a recoger madera para el invierno.#$e#¿Tienes suficiente madera para mantener caliente tu casa?'
+  Wed4: 'No tengo muchas responsabilidades, por lo que gasto mi tiempo pensando.#$e#Tienes que entender tus pensamientos antes de controlarlos.'
+  Thu4: 'La gente de aquí parece agradable, pero ellos me evitan.#$e#La gente teme a lo desconocido.$u'
+  Fri4: 'Puedes aprender mucho de los árboles.#$e#Pasa tiempo con ellos y te dirán sus secretos.#$e#Ve en paz, joven.'
+  Sat4: 'Tengo todo lo necesario para sobrevivir.#$e#La naturaleza y los libros podran mantenerme ocupado por 10. 000 años.#$e#Desafortunadamente, no puedo quedarme tanto tiempo.$s'
+  Sun: No me gusta quedarme en un mismo lugar durante mucho tiempo. Hay demasiadas experiencias en el mundo.

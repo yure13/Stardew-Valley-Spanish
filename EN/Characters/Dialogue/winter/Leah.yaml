@@ -1,0 +1,33 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "I love the way everything looks when it's covered with fresh snow." #!String
+    Tue: "It gets pretty cold in my little cabin.$s#$e#I just snuggle up under a huge blanket, and I'm okay.$h" #!String
+    Wed: "I saw a snow rabbit early this morning! They're rare, aren't they?#$e#Have you seen any wild rabbits? They're really cute!" #!String
+    Thu: "I'm having a hard time finding fresh food to eat.#$e#I've been eating a lot of bread.$s#$e#Oh well. It's better than nothing, right?" #!String
+    Thu6: "*Sigh*... It's hard to get fresh food in the winter.#$e#I bet your farm is pretty well stocked with food, huh?" #!String
+    Fri: "Time seems to move slower here.#$e#When I lived in the city, the year went by so fast." #!String
+    Fri6: "Hello, @. Do you ever get cold in the farmhouse of yours?#$e#Stop by my cabin if you want to huddle under one of my quilts.$h" #!String
+    Sat: "Hello. Do you want something?" #!String
+    Sat2: "Hello, @. Is there something you wanted to talk about?" #!String
+    Sat8: "Farming sounds like so much fun. I want to try it, someday.$l" #!String
+    Sun: "I like to spend a day just working on my sculptures, every now and then.#$e#Do you ever take a day off?" #!String
+    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
+    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
+    event_parents3: "Oh, is that what you think?$a" #!String
+

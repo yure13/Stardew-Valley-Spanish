@@ -1,0 +1,32 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Hi, I'm Marnie. I run the animal shop here.#$e#Come see me if you need livestock or feed.$h" #!String
+    Mon: "I love animals, Mr. @. You'd better treat your animals well, or I'll be coming after you!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!" #!String
+    Mon4: "Animals are so innocent, so sweet. And If I don't look after them, who will?$s#$e#I just hope my chickens aren't too upset when I take their eggs.$s" #!String
+    Thu_2: "You've been here a while, now... how's your chicken coop doing?#$e#Taking care of animals is easy as long as you don't forget about them!$h" #!String
+    Tue: "My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining." #!String
+    Wed: "You can make feed out of corn or wheat.#$e#Or you can buy it from me, of course!$h#$e#I could use the cash...$u#$e#Adios." #!String
+    Thu: "Hi. Need something?#$e#I might be getting some different kinds of animals in the future.#$e#Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.#$e#Just keep treating your animals with respect and good things will come to you." #!String
+    Fri: "You can catch me at the saloon most nights.#$e#Animals are great company, but I need to spend time with people, too." #!String
+    Fri4: "I think someone in town has taken a liking to me. *teehee*$h#$e#Don't tell anyone, okay?" #!String
+    Fri6: "I wonder if Mr. Lewis gets lonely in that big house of his... $s#$e#It seems so empty in there, doesn't it?" #!String
+    Sat: "There's a strange man who lives in the woods near my house.#$e#One time I heard this terrible noise coming from his hut. It sounded... otherworldly.$s#$e#I would avoid that place if I were you..." #!String
+    Sun: "Hey there, it's good to see ya!#$e#Feel free to visit us any time you please." #!String
+    Sun8: "Hi @!$h#$e#I'm glad we've become friends. I know I can trust you to take good care of my dear animals." #!String
+

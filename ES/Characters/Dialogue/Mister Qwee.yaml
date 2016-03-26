@@ -1,0 +1,21 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Sigue así. Creo que vas a ser una estrella.#$e#Si necesitas algo, pregúntame.$h'
+  Tue: Sabía que acabarías aquí algún día. Por supuesto, tuve que ponértelo un poco difícil, para que tuvieras un incentivo para alcanzar la excelencia.
+  Wed: Si te quedas sin monedas del club, puedes comprar un pack de 10 en la máquina, al salir de mi puerta. Buena suerte.
+  Thu: 'Oye. No le hables a nadie sobre este lugar, ¿entendido? Quiero mantenerlo... exclusivo.#$e#Guardarías un secreto para tu amigo, el señor Qi, ¿verdad?$s'
+  Fri: Chico, hay mas en mí de lo que ves a simple vista. Recuérdalo.
+  Sat: Pásate cuando quieras relajarte.
+  Sun: Sigue trabajando duro y quizás, algún día, acabes como yo.$h

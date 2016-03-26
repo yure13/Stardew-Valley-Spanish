@@ -1,0 +1,32 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: 'Bien, ¡hola por ahí! soy Gus, chef y propietario del bar Stardrop.#$e#Pásate si necesitas algún refrigerio. Siempre tengo café caliente y cerveza fría lista para servirse.$h'
+  Mon: 'Si, se mucho acerca de las personas que viven aqui.#$e#Ese es uno de los beneficios que tienes siendo barman.$h#$e#A veces escucho demasiado...'
+  Saloon: Buenas noches. ¿Puedo hacer algo por ti?
+  Saloon4: Buenas noches. Siéntete como en casa.
+  SeedShop_Entry: ¡Hola, Pierre!/Ahora, lo que necesito.../¡Ah, se ve bien!/¡Esta noche haré mi salsa especial!/Pierre, ¿que hay de nuevo?/¡Pierre! ¿Que tienes para mi?
+  Saloon8: Hola @. ¡Me alegro de verte! Siempre eres bienvenido.
+  Saloon_Tue: ¡Hola! Por favor, relajate y disfruta.
+  Saloon_Thu: Oye, parece que necesitas un trago.
+  Saloon_Fri: El negocio ha sido muy bueno esta noche. Me alegro.
+  Tue: 'Vendo platos diferentes cada semana, ¡así que asegúrate de pasar a mirar de vez en cuando!#$e#Podrías probar algo espectacular.$h#$e#Solo avísame si tienes algún tipo de alergia.$s#$e#Vale, nos vemos.'
+  Wed: 'Emily ha estado trabajando aquí desde hace mucho tiempo. ¡No se lo que haría sin ella!#$e#Odiaría tener que limpiar todas esas ollas yo solo.$s'
+  Thu: 'Pam y Clint vienen al bar casi todas las noches. #$e# Probablemente me arruinaría si dejaran de venir. $h#$e#¡Así que trata de no espantarlos!'
+  Thu6: 'Clint viene a la Taberna casi cada noche y se sienta en la misma mesa. #$e# Algunas veces mira de reojo a Emily y se pone nervioso. Mmm. #$e# Quizás sea por eso que viene tan seguido. Bueno, eso significa mas ganancias para mi.'
+  Thu8: 'Pam entra en el bar casi cada noche y bebe demasiada cerveza.#$e#En fin, no debería emitir críticas sobre mis clientes.'
+  Fri: Hola, @. Si esta noche tienes sed, ¿por que no te pasas por el salón?
+  Fri4: 'De hecho, yo no bebo mucho. Principalmente hago esto para ganarme la vida.#$e#Aunque disfruto del sabor de la vendimia de Stardew Valley de vez en cuando.'
+  Sat: '¿Eres un cocinero, @? #$e# Si tienes una cocina y algunas recetas, puedes cocinar algunos platos útiles. #$e# Las comidas puede ser grandes regalos, también.'
+  Sun: El negocio se ha mantenido gracias a mis clientes habituales.

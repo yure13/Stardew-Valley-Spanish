@@ -1,0 +1,49 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: '¡Es el Sr. @, el nuevo granjero! Soy Pierre, dueño del almacén.^¡Es la Sra. @ la nueva granjera! Soy Pierre, dueño del almacén.#$b# Si buscas semillas, mi tienda es el lugar adecuado. ¡También puedo comprarte lo que produzcas por un buen precio!#$e#¡Una pequeña granja podría inyectar nueva vida a la economía local!'
+  Mon: ¡Bienvenido. si buscas semillas llegaste al lugar adecuado!
+  Mon4: Hola, @. ¿Necesitas alguna semilla o algún árbol frutal?
+  Tue: 'A veces tengo nuevos artículos en stock, así que asegúrate de pasar seguido.#$e#Es mucho trabajo tener una tienda.$h'
+  Tue6: Sabes, solía ser un buen boxeador hace tiempo... ¡Mi gancho derecho era una leyenda!$h
+  Wed: 'Es mi día libre.#$e#Hmmm...¿Qué puedo hacer?...$s'
+  Wed4: Cuando era joven siempre tenía cosas interesantes para hacer. Ahora solo pierdo el tiempo cuando no trabajo.$s
+  Thu: 'Estoy feliz de comprarte cualquier producto..#$b# ¡Por un buen precio, por supuesto!'
+  Thu2: Realmente aprecio tu negocio, Sr. @. Se me ha hecho más y más difícil obtener una ganancia decente.^Realmente aprecio tu negocio, Sra. @. Se me ha hecho más y más difícil obtener una ganancia decente.
+  Thu8: '#$1 pierre2#¿Abigail se me parece? No se lo digas a mi esposa, pero a veces me pregunto si soy el padre.$k$s#$e#No se lo digas a mi esposa, pero odio cocinar la cena.'
+  Fri: '#$1 pierreJoja#Los negocios han ido lentos desde que Joja se trasladó a la ciudad. Es difícil competir con su selección.$k$s#$e#Hola ¿está tu granja yendo bien?#$e#Quizás algunas de mi semillas arreglen las cosas.'
+  Sat: Si encuentras cualquier producto silvestre, te lo sacaré de las manos por un precio razonable.
+  Sat8: 'Te diré un secreto. A veces, cuando la tienda está vacía, practico ópera detrás del mostrado..$h#$e#No se lo digas a nadie.'
+  Sun: '#$1 pierreBlue#*suspiro*... Tengo que estar detrás del mostrador...$k$s#$e#Desearía poder ir a caminar, pero no puedo dejar la tienda sola.#$e#Escuché que las flores han florecido y huelen genial...$s'
+  Wed6: '#$1 pierre1#*Suspiro*... No importa lo bien que vaya el negocio, nunca es suficiente para satisfacer mi deseo de éxito.¿Qué está mal conmigo? Quizás estoy aburrido con la vida doméstica.$s#$e#Algún día voy a abrir una tienda en la ciudad y tener mucho éxito.#$e#Desafortunadamente, el negocio va tan lento que apenas puedo guardar dinero...$s'
+  Thu4: Ey, @. ¡Eres mi cliente número uno!
+  summer_Mon: ¡Tengo algunas semillas de verano! Será mejor abastecerse.
+  summer_Wed: Estoy muy contento de tener un día libre del trabajo.
+  summer_Thu: 'Todo el mundo está disfrutando del tiempo en lugar de ir de compras...*suspiro*'
+  summer_Fri: Hola. ¿Estás satisfecho con la calidad de mis semillas de verano?
+  summer_Sat: El verano es una buena época para comerse una fresca ensalada, ¿no crees?
+  summer_Sun: Ugh... Está muy caliente aquí.
+  winter_Mon: 'No crece cualquier cultivo durante el invierno... por eso no tengo semillas que ofrecerte.#$e#Esto va a achicar nuestros beneficios.'
+  winter_Wed: '#$1 pierreDin#Voy a sorprender a Caroline esta noche con una cena y una botella de Stardew Red. ¡No le digas a nadie!$k#$e#Por fin un día de descanso.'
+  winter_Thu: Hola.¿Estás de humor para ir de compras?
+  winter_Fri: Me dedico principalmente a productos comestibles, así que si tienes algunos minerales o madera será mejor tratar de venderlos en otro lugar.
+  winter_Sat: ¿Soy yo o hay una corriente fría aquí?
+  winter_Sun: 'Si no tuviera la tienda abierta estaría fuera ahora.#$e#Sería divertido lanzar una bola de nieve.'
+  fall_Mon: '¡Hay semillas de otoño! Los cultivos no crecen en invierno así que esta es tu última oportunidad hasta primavera.#$b#Mejor arriesgarse, ¿eh?'
+  fall_Thu: 'Está empezando a hacer frío afuera...#$b#Significa más personas entrando a la tienda para calentarse... jeje.'
+  fall_Fri: '#$1 pierreMEGA#Mi sueño es abrir nuevas tiendas hasta hacerme rico. jejeje.$k#$e#Hola, ¿está yendo bien tu granja?#$e#Quizás algunas de mis semillas arreglarán las cosas.$h'
+  fall_Sat: 'Estoy feliz de comprar lo que produce tu granja.#$e#Si hago una reventa obtengo un beneficio... esa es la ventaja de ser un dueño de una tienda.#$e#No te hagas ideas...'
+  fall_Sun: 'Si no tuviera está tienda abierta estaría fuera...#$e#Las hojas lucen geniales y las setas están brotando.'
+  Event_naga1: 'Gracias, lo aprecio. Solo olvida lo que has visto, ¿bien?$h#$b#... ¡Y sólo voy a olvidar que estuviste husmeando alrededor de mi habitación!'
+  Event_naga2: '¿Realmente me harías eso? Eres terrible.$s#$b#¡No deberías haber estado fisgoneando en mi habitación en el primer lugar! Vecinos curiosos son los peores.$a'

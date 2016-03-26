@@ -1,0 +1,31 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Greetings! I'm Demetrius.#$e#I have a laboratory here where I do scientific research.#$e#Feel free to visit me anytime!" #!String
+    Mon: "I enjoy working in the laboratory.It feels good to make progress toward a goal.#$e#Sometimes Maru helps me out." #!String
+    Tue: "I'm doing research on plants.#$e#Many plants send signals to each other. To warn about predators, for example. That's what I'm studying.#$e#Maybe my research will one day be useful to farmers like you." #!String
+    Wed: "You're probably growing a lot of interesting plants on your farm, huh?#$e#Maybe I'll stop by your place some day and check it out." #!String
+    Thu: "How's the farming business going? It's parsnip season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." #!String
+    Fri: "Robin has a hot temper. It's better to stay on her good side.#$e#Don't tell her I said that.$h" #!String
+    Sat: "Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then...$u#$b#Oh! Sorry. I was searching for some data and I didn't notice you there.#$e#Do you need anything?" #!String
+    Sun: "It's good to take a break from work every now and then.#$e#I guess that's kind of difficult when you live on a farm, though.#$e#Hey, at least in the winter you don't have to worry about crops." #!String
+    Fri4: "Robin has a hot temper. It's better to stay on her good side.#$e#...now if I could quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u" #!String
+    Wed6: "Hi @! How are you doing today?#$e#I wish I make your farming job easier somehow." #!String
+    Event_tomato1: "Really? I figured a farmer would know the correct answer...$s" #!String
+    Event_tomato2: "See? @ agrees with me." #!String
+

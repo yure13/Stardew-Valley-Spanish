@@ -1,0 +1,27 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: ¡Ah del barco! Es bueno ver gente joven mudándose al valle. No es muy común estos días.
+  Mon: '¡Ah del barco, hijo!^¡Ah del barco, muchacha!#$b#Parece que hace buen tiempo para pescar, ¿eh?'
+  Mon4: ¿Has tenido mucha suerte en las aguas locales? Parece que podrías ser un buen pescador si te lo propones.
+  Tue: Un verdadero pescador tiene respeto a las aguas... no lo olvides.
+  Tue6: 'El viejo hombre era pescador, ya sabes. Crecí navegando entre las islas de helechos, viviendo de captura en captura.#$e#La vida de pescador es dura, pero hay algo en ella que te mantiene avanzado.'
+  Wed: Algunos peces van y vienen con las estaciones. Otros solo vienen de noche o con la lluvia.
+  Thu: '*balbuceo* *balbuceo* ...¿Eh? Te hablaría sobre mis pensamientos, pero es un secreto de pescador.'
+  Thu2: 'Hay rumores sobre algunos peces muy raros por estas zonas... pero solo un pescador experimentado podría tener una oportunidad contra ellos..#$e#Necesitaras el mejor cebo que puedas conseguir si quieres que un pez raro pique.'
+  Fri: Si de verdad quieres que un pez pique, asegúrate de poner algo de cebo en el anzuelo.
+  Sat: Si el panorama local de pesca se anima un poco, quizás expanda las existencias de la tienda.
+  Sat8: '¿Como te va la vida de pescador?#$e#Intento pescar tanto como me sea posible, pero no es fácil cuando tienes una tienda que llevar.'
+  Sun: 'Si compras una caña de gran calidad, podrás ponerle cebo y aparejos al hilo.#$b#El cebo hace que los peces piquen mas rápido. Los aparejos pueden hacer tu trabajo mucho mas fácil cuando recoges el hilo.#$e#Hay muchos tipos de aparejos, con diferentes ventajas. normalmente son un poco endebles, asi que no te extrañes si tu aparejo se rompe tras un rato.'
+  Sun10: 'Vaya, ¡es mi capitán, @!$h#$e#Te darías un descuento en cebo si pudiera permitírmelo.$s'

@@ -1,0 +1,33 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Introduction: '...$u#$b#Hola...$u'
+  Mon: Oh... ¿estás buscando a la tía Marnie?$u
+  Mon4: 'Hola, Sr. @.^Hola, Sra. @.#$e#Es divertido vivir en una granja.$h'
+  Tue: '¿Qué? *risita*$h#$e#... Hola.'
+  Tue6: Tú puedes jugar con mis muñecas si quieres. Solo asegúrate de cepillarles el pelo cuando hayas terminado.
+  Wed: ...$u
+  Wed2: ... Hola.$u
+  Wed4: Tía Marnie no me deja salir después de las seis en punto. ¡No es justo! ¡Ya no tengo miedo a la oscuridad!
+  Thu: Supuestamente no debo hablar con extraños...
+  Thu2: La señorita Penny me está enseñando como escribir en cursiva. Ella tiene una letra muy bonita.
+  Fri: ... No te conozco.
+  Fri2: ¿Te gusta mi arco?
+  Fri4: Me gusta vivir en la granja... Lo que más me gusta es el helado de leche de nuestras vacas.
+  Sat: Hueles como a hierba.
+  Sat2: A veces busco cigalas en el rio. No se lo digas a tia Marnie... pero he alimentado a una vaca una vez. A ella le encanto.
+  Sat8: 'Siempre eres tan agradable conmigo, señor @$h^siempre eres tan agradable conmigo, señorita @.$h#$e# Normalmente los adultos son aburridos, pero tu eres diferente.'
+  Sun: '¿Um... qu..qui...quie quieres algo?$u#$e# Se supone que no debo hablar con extraños.$u'
+  Sun2: 'Shane tiene muchas cosas que hacer, y la tía Marnie esta ocupada todo el tiempo... así que me tengo que inventar mis propios juegos.#$e#Me alegro de tener tantos juguetes.$h'
+  Sun10: '¿Sabías que Shane es mi padrino? El era amigo de mis padres.$s#$e#...ellos murieron.*sniff*$s'

@@ -1,0 +1,24 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Hey, esta es una época del año perfecta para recoger leña.#$e#¡Tal vez puedas recoger la necesaria como para mejorar tu casa!'
+  Tue: 'Si necesitas cualquier construcción en tu granja mejorada, ¡Solo dímelo!#$e#Necesitarás traer suficiente madera y piedra para el proyecto, también cuesta dinero.#$e#¡Pero estoy segura de que estarás satisfecho con los resultados!$h'
+  Wed: Hey qué pasa, solo estoy pensando sobre algún nuevo proyecto de carpintería. ¿Te está yendo bien con tu terreno? ¿Cómo esta acumulada la madera en un casa?
+  Thu: 'Siempre serás bienvenido, ¡incluso si no estás en el mercado para actualizar tus construcciones!$h#$e#Puedes acabar sintiéndote solo aquí en las montañas.'
+  Fri: 'Mis padres estaban perplejos cuando les dije que quería ser carpintera.#$e#Eran muy anticuados.'
+  Sat: 'Nuestra casa esta en una zona tan bonita, ¿no crees?#$e#Todo se ve igual tras una buena nevada.'
+  Sun: 'Espero que mi marido no haga volar la casa por los aires con esos experimentos suyos.#$e#No estoy muy segura de en qué está trabajando. Creo que tiene algo que ver con las plantas.'
+  Sun6: '¡Hola @! Me alegro de verte.#$e#Ahora eres un miembro más de la comunidad, ¿no crees?'
+  event_wood1: ¡Genial, este plano debe ser para ti realmente fácil!$h
+  event_wood2: ¡Bien, entonces tengo el plano perfecto para que puedas empezar!

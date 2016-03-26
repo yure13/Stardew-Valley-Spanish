@@ -1,0 +1,22 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Es una buena época para experimentar con algunos de los nuevos fondos o pisos, ¿no lo crees?$h#$e#Perdón si Pierre y yo estamos promoviendo demasiado los fondos.'
+  Tue: 'El invierno es duro, pero si tienes suerte, puedes desenterrar algunas raíces.#$e#Recoger cosas del piso es una forma divertida de ganar algo de dinero. O puede utilizar lo que se encuentra como regalos o comida.'
+  Wed: 'Hola. ¿Tienes todo lo necesario para la granja?#$e#Si no, quizá te podemos ayudar.#$e#Tenemos una gran variedad de artículos.'
+  Thu: 'Todo el mundo tiene su pequeña rutina a seguir.#$e#No es algo muy emocionante, pero siempre sabes que esperarte.'
+  Fri: 'A pesar de que hace frió, sigo comprobando las camas del jardín publico de vez en cuando.#$e#Para asegurarme que no estén muy dañadas antes de que la primavera regrese.'
+  Sat: '¿No crees que Abby se vería mejor con su color de pelo natural?#$e#Ella solía tener el pelo castaño claro.'
+  Sun: 'Hoy sólo me voy a relajar y pensar positivamente.#$e#¿Has pensado en tomarte el día libre?'
+  Wed6: '¿Estas emocionado por el nuevo año?#$e#Mi predicción es que seras muy exitoso en tu granja.$h'

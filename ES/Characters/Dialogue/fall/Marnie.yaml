@@ -1,0 +1,26 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: Me encantan los animales, Sr. @. Será mejor que los trates bien ¡o iré a por ti!^Me encantan los animales, Sra. @. Será mejor que los trates bien ¡o iré a por ti!
+  Mon4: 'Los animales son tan inocentes, tan dulces. Si no los cuidara yo, ¿quién lo haría?$s#$e#Espero que mis gallinas no se enfaden cuando recoja sus huevos.$s'
+  Thu_2: 'Ya llevas un tiempo por aquí, ¿cómo te va con tu gallinero?#$e#¡Cuidar a los animales es fácil hasta que te olvidas de ellos!$h'
+  Tue: 'Mi sobrino Shane ha estado viviendo en mi casa estos últimos meses.#$e#Me ayuda con los pollos, así que no me quejo.'
+  Wed: 'Puedes alimentarlos con maíz o trigo. #$e#¡O puedes comprármelo a mí, claro!$h#$e#Podría usar el dinero...$u#$e#Adiós.'
+  Thu: 'Hola, ¿necesitas algo?#$e#Puedes conseguir algunos animales distintos mas adelante.#$e#Aún asi, necesitaré asegurarme de que hay un mercado para ellos, así podrás probar tus habilidades con los animales primero.#$e#Solo sigue tratando a tus animales con respeto y todo saldrá bien.'
+  Fri: 'Puedes encontrarme en el bar la mayoría de las noches.#$e#Los animales hacen mucha compañía, pero tambien necesito pasar tiempo con gente.'
+  Fri4: 'Creo que alguien en la ciudad me ha cogido cariño. *se sonroja*$h#$e#No se lo digas a nadie, ¿vale?'
+  Fri6: 'Me pregunto si el Sr. Lewis se siente solo en su gran casa...$s#$e#Parece tan vacia, ¿verdad?'
+  Sat: 'Hay un hombre extraño que vive en el bosque cercano a mi casa.#$e#Una vez escuché un sonido horrible procedente de su cabaña. Parecía... del otro mundo.$s#$e#Si fuera tú, evitaría pasar por ahí...'
+  Sun: '¡Eh!, ¡hola!, ¡que alegría verte!#$e#Ven a visitarnos cuando te plazca.'
+  Sun8: 'Hola @!$h#$e#Me alegra que seamos amigos. Sé que puedo confiar en ti para que cuides de mis queridos animales.'

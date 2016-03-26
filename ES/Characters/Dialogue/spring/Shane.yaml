@@ -1,0 +1,32 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Hola. Soy Shane.#$e# Vivo aquí con mi tía por ahora. Quédate un rato si te apetece.'
+  Mon: 'Mañana vuelvo a la ciudad otra vez, a trabajar en el estadio.#$e# Tengo que rodearme de deportes si espero entrar en la industria!$u#$e# Además, llego a comer todas las chips de jalapeño que quiera!$h'
+  Mon4: 'Hey, amigo.^Hey, @.#$e#desearía que pudieras hacer crecer jalapeños en tu granja.'
+  Mon10: 'Hola @! Ha pasado un tiempo! ¿Cómo estás?$h#$e# Lo he hecho muy bien en mi nuevo trabajo, pero siempre con ganas de volver a casa los lunes'
+  Tue: Yo Shane.
+  Wed: Yo Shane.
+  Thu: Yo Shane.
+  Fri: |2
+    
+            Hey, he regresado. Acabo de pasar los últimos tres días trabajando en el estadio!#$e#Hemos jugado con algún equipo del %lugar. Fue un juego divertido!$h#$e#Qué? Ah. sí, nuestro equipo perdió.$s#$e#Bien, iré a poner una pizza congelada en el horno o algo así.
+          
+  Sat: '*Suspiro *... Sólo estaba soñando sobre deportes otra vez.$s#$e#Realmente quiero llegar a ser un analista deportivo. Si no lo hago voy a estar machacado.#$e#Eso me recuerda, necesito actualizar mi página web de deportes hoy.'
+  Sat4: 'Oh, ¿conoces a un chico llamado Josh? Él piensa que va a ser un jugador profesional.#$e#Por lo menos mis objetivos son un poco más realistas.'
+  Sat8: 'Me gustaría empezar una pequeña granja de pollos algún día.#$e#Bueno, supongo que me gustaría también tener una gran provisión de jalapeños, patatas fritas y pizzas, también...#$e#Oh, lo siento. Me estaba dejando llevar!'
+  Sun: 'Me gusta permanecer aquí porque suelo estar rodeado de pollos.#$e#Me gusta lo nerviosos que están los pollos. ¡Cada uno tiene una personalidad diferente, al igual que las personas!#$e#Tal vez, si no lo logro como analista deportivo, me convierta en un hombre pollo. Sea lo que sea lo que eso signifique.$h'
+  Sun6: 'Por supuesto que me encantan los pollos, pero no quiero vivir con mi tía para toda la vida...$s#$e#Bueno...'
+  event_room1: Si.. Puede que tengas razón... Quizá debería centrarme en algo más útil, como cuidar a las gallinas.$s
+  event_room2: ¿En serio? Qué nervios... Pero quiero hacerlo.

@@ -1,0 +1,32 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Um, hola. Soy Clint#$e# Puedo mejorar tus herramientas si lo necesitas.'
+  Mon: 'Sí. Soy un herrero,#$e#Mi padre también lo fue.#$e#Mi abuelo también.$u#$q 9/9 Mon_old#Apuesto a que no puedes adivinar lo que era mi bisabuelo...#$r 9 30 Mon_9#Un herrero.#$r 9 50 Mon_clown#Un estúpido payaso.#$r 9 -50 Mon_rude#Un patán sarcástico.'
+  Mon_old: Y sí, mi bisabuelo era herrero también.
+  Mon_9: ¿Cómo lo sabes?$u
+  Mon_clown: Jajajaja. Muy buena.$h
+  Mon_rude: Wow. Eso ha sido grosero.
+  Mon4: 'Agradece que eres un granjero, @. Es más agradable trabajar al aire libre que en una forja caliente todo el día.#$e#Solo soy herrero porque mi padre me obligó a serlo.'
+  Tue: 'Si quieres que te mejore las herramientas tendrás que darme el mineral correcto.#$e#Y tendrás que pagarme la mano de obra, por supuesto.'
+  Wed: Ey. ¿Qué necesitas?
+  Wed6: 'Oh, ¡hola @! Perdón si parezco un poco desordenado. He estado trabajando en la forja toda la mañana.$h#$e#Entonces, ¿Necesitas algo, o solo estas de visita?'
+  Thu: 'El negocio no está yendo bien últimamente.#$e#Deberías mejorar tus herramientas. Podría usar ese dinero.'
+  Fri: 'El clima no me importa mucho. Suelo pasar todo el año cerca mi tienda.#$e#Deprimente, ¿eh?'
+  Sat: A veces me pregunto cómo acabé en este pueblo.$u
+  Sat6: 'A veces me gustaría tener una vida más emocionante.$s#$e#Debería hacerme una armadura e ir de aventuras a las cuevas.'
+  Sun: ¿No tienes trabajo que hacer?
+  Sun4: ¿Cómo están tus herramientas?
+  event_advice1: Está bien... Lo tendré en cuenta.
+  event_advice2: Ese es el problema... Actúo de manera natural... pero nunca tengo éxito.$s

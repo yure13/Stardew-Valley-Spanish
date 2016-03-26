@@ -1,0 +1,39 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Hey.#$e#Everyone is so happy in the sun. I don't get it." #!String
+    Mon6: "Everyone is so happy when it's sunny out...#$e#I don't feel the same way, but that's fine. Different people like different things." #!String
+    Tue: "I'm looking forward to the cold, damp season. I feel more at home." #!String
+    Wed: "What's the point of going outside? I've already seen it all.#$e#Life is more fun when you're a little kid. Things are still new.$s" #!String
+    Wed8: "I've been unusually happy lately.$l#$e#I'm not complaining.$h" #!String
+    Thu: "I definitely don't want to go swimming, if that's what you're going to ask.$u#$b#Oh, you just stopped by to say hi? Sorry." #!String
+    Thu10: "If you ever wanted to go swimming, I'd do it.$l" #!String
+    Fri: "Oh, hey. I was just listening to some music. *yawn*#$q 60/61 Fri_old#Guess what kind of music I was listening to?$h#$r 61 -30 Fri_bad#Smooth Jazz#$r 60 30 Fri_good#Metal#$r 60 30 Fri_good#Synthcore#$r 61 -30 Fri_bad#Boogie Woogie" #!String
+    Fri_old: "$p 60#You'd probably like this band.$h|You've probably never heard of this band.$u" #!String
+    Fri_good: "Hey, how'd you know?$h" #!String
+    Fri_bad: "L-O-L. Maybe if I was born 100 years ago." #!String
+    Fri6: "It's nice of you to take time out of your day to visit me.$h#$e#I like when you stop by.$l" #!String
+    Sat: "I've been playing this computer game all day... *sigh*#$b#I just need to find 12 more diamond ores. Then I'm done.#$e#My eyes hurt.$s" #!String
+    Sun: "I usually only go outside after dark. Does that sound weird to you?" #!String
+    Sun4: "Last night, I saw a group of bats flying around near the lake.#$e#It was really cool." #!String
+    Event_game1: "Okay, that'll work." #!String
+    Event_game2: "Good choice. That works well with my role.$h" #!String
+    Event_cave1: "Not so fast! I want to know what it is." #!String
+    Event_cave2: "Really? It was making a lot of noise!" #!String
+    Event_cave3: "It's too dangerous without a sword. But I like your sense of adventure.$h" #!String
+

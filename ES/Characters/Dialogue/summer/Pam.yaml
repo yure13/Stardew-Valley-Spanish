@@ -1,0 +1,28 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Mon: 'Me gustaría comer comida más sana si pudiera.#$e#¡Oye!, probablemente tengas un montón de sabrosa comida creciendo en tu granja, ¿hm?'
+  Tue: Hola, forastero.
+  Tue2: '¡Anda!, si es el señor @.^¡Anda!, si es la señorita @.#$e#¿Necesitas ayuda o algo?'
+  Tue6: 'Tuve esperanzas y sueños como tú, alguna vez... Pero mírame ahora.$s#$e#La vida no siempre resulta como esperas.#$e#Oh bien. No tiene ningún sentido fijarse en lo que no tienes.'
+  Wed: Tener una granja aquí es bueno para nuestro pueblo.
+  Wed4: 'Quizás si lo haces realmente bien en tu granja esto empujará la economía local.#$e#¿Entonces todos tendrán un trabajo y seremos felices, verdad?'
+  Thu: 'Hey, hola granjero.#$e#Usualmente no charlo con extraños.'
+  Thu4: 'Parece que siempre termino en el salón en algún momento.#$e#Está muy cerca de mi casa. No es saludable.'
+  Fri: '...Si?#$e#Eres un chico joven y apuesto. ¿Por qué estas perdiendo tu tiempo hablándole a una chica mayor como yo?^Eres una chica bonita. ¿Por qué estás perdiendo tu tiempo hablándole a alguien como yo?'
+  Sat2: 'No te preocupes por ese viejo perro junto a la casa.#$b#El podrá mirarte enfadado, pero nunca saldrá de esa caja ni en cien años.'
+  Sat: 'Alguien se ha estado quejando sobre el desorden en mi patio. Fuiste tú?$u#$e#Hmmm...'
+  Sun: ¿Son amigos de Gus? Es un chico bastante bueno.
+  event_credit1: ¡Oye, vigila tu lengua! ¡Nadie me dice qué hacer!$u
+  event_credit2: '...es así? Es terrible!$s#$b#...Oh.$s'

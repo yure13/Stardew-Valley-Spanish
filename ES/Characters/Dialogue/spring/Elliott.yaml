@@ -1,0 +1,40 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Ah, tú eres a quien esperábamos. Soy Elliott.#$e#Un placer conocerte.'
+  Mon: 'Yo soy relativamente nuevo en el pueblo, ¡pero me siento como en casa!$h#$e#Llegué aquí solo hace un año.'
+  Mon4: 'Espero que consideres este lugar como "tu hogar".'
+  Tue: 'Te sugiero que pases un tiempo estudiando las nubes y las olas. Quizás descubras algo nuevo.#$e#Bueno, debería volver al trabajo.'
+  Tue6: 'El dulce rozamiento del bolígrafo con el papel es la música de mi alma.$u#$e#Por eso escogí esta playa como mi hogar, así podría tener paz y tranquilidad para hacer mi trabajo.'
+  Wed: El bosque es un lugar maravilloso. ¿Has estado allí?
+  Wed8: Lo siento, hoy estoy cabreado. Desearía tener más seguridad sobre el futuro. No quiero hacerme viejo como un solitario ermitaño en esta playa...$s
+  Thu2: 'He estado pensando en escribir una novela...#$e#Quiero lograr hacer algo grande antes de que sea demasiado tarde.$h'
+  Thu6: 'A veces me pregunto si tan solo tengo una imagen exagerada de mi mismo y ninguna habilidad...$s#$e#No... No estoy buscando cumplidos.'
+  Thu8: 'El otro día, mientras llovía, me pareció haber visto a un hombre extraño en la playa.#$e#Cuando parpadeé, ya no estaba.$s'
+  Thu: 'Hola, @.#$e#¿Estás bien?'
+  Fri: 'Lo siento, se que quizás sea un poco extraño que yo te hable de esto, pero a veces me pregunto si estoy haciendo lo correcto con mi vida...#$q 23/24 Fri_old#Sólo basándote en cómo me veo, ¿Qué pensarías que soy?#$r 23 5 Fri_23#Un pirata.#$r 24 -5 Fri_24#Un cocinero de baja categoría.#$r 24 -5 Fri_24#Una vieja cabra.#$r 23 5 Fri_model#Un modelo.#$r 24 -10 Fri_rude#Un niño tonto esforzándose demasiado para ser buena onda.'
+  Fri_old: '$p 23#Pero con animos de buena gente como tu, me siento mejor.$h|Supongo que es imposible saberlo, hmm?$s'
+  Fri_23: ¿Una vida de aventura en alta mar? Creo que podría vivir con eso.$h
+  Fri_24: ¡Dios mio! No es lo creía que dirías...$s
+  Fri_rude: ¡Por Dios! Debes ser la persona más grosera que he conocido...$s
+  Fri_model: ¿Un modelo...? ¡ Oh! Bueno, Umm... gracias. Es muy amable de tu parte...$h
+  Sat: Ten cuidado... puede que en mi cabaña haya arañas al acecho.
+  Sat6: 'Algunas personas son tímidas. Sigue mostrando interés en ellos y conseguirán sentirse cómodas contigo.#$e#A todos le gusta tener amigos, incluso a ese Herrero gruñón.'
+  Sun: Hola. Confío en que todo se llevó a cabo como esperabas.
+  Sun4: Visítame cuando te apetezca.$h
+  Sun6: 'Oh, ¡@! Esperaba poder verte hoy.#$e#Siempre un placer verte.$h'
+  event_idea1: Suena interesante... Lo tendré en cuenta.
+  event_toast1: 'Bueno... Está bien.#$b#¡Brindemos por @!'
+  event_toast2: '¡Es una gran idea!$h#$b#¡Brindemos por nosotros!'
+  event_toast3: Hmmph... olvídalo.$a

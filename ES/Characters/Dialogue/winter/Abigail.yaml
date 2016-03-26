@@ -1,0 +1,44 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Bueno, se terminó el otoño...$s#$e#¡Pero también me gusta el invierno!$h'
+  19: Me alegra que los humanos no hibernan como los osos.$h
+  Mon: 'Hace demasiado frío para ir fuera demasiado tiempo.#$e#Pero me gusta hacer muñecos de nieve.$h'
+  Tue: ¿No te apetece una taza de chocolate caliente ahora mismo?
+  Wed: Hola. ¿No es aburrido ser granjero durante el invierno?
+  Thu: 'Y otro año que esta por terminar.#$e#¿No te parece que se pasan muy rápido?$s'
+  Fri: 'Me pregunto... ¿por qué los hombres ya no usan sombreros elegantes? ^ Me pregunto ¿por qué las mujeres ya nunca usan capuchas?#$e#Supongo que si pareces diferente todo el mundo te mira.'
+  Sat: 'Es fin de semana!#$e#eso significa que puedo jugar dos veces muchos video juegos.$h#$e#Bye.'
+  Sun: 'Oh, hola.#$q 29/30 Sun_old#Hice estos dos dibujos. ¿Qué opinas? #$r 29 20 Sun_29#Me gusta la isla de la selva y el tigre. #$r 40 5 Sun_30# Me gusta el orco con el hacha de batalla.#$r 29 -50 Sun_Bad#No me gusta ninguno de los dos.'
+  Sun_old: '$p 29#¿Recuerdas esos dibujos que te enseñé hace tiempo? Lo tiré sin querer.$|¿Recuerdas ese dibujo del orco que te enseñé? ¡Participé en un concurso en línea y gané 50gp!$h'
+  Sun_29: Oh si? creo que tiene sentido.
+  Sun_30: Enserió? Es también mi favorito.$h
+  Sun_Bad: ¿Por qué Lastimas mis sentimientos así? eres tan insensible!$s
+  Wed2: Hola. Si alguna vez estás aburrido, generalmente no hago nada.
+  Tue4: Hace tanto frío, ojalá tuviéramos una taza de chocolate caliente que compartir.$h
+  Sat6: 'He estado soñando mucho últimamente...#$e#¡Oh! ¿Quieres saber de qué se tratan? Bueno....$u#$b#... Es un secreto.$h'
+  Mon8: '¡Hola! @! Tenía la esperanza de encontrarme contigo.$h#$e#Me gusta cuando estas junto a mi.$h'
+  Thu10: 'Otro año esta por terminar...#$b# Pero ha sido un buen año, ¿No crees? $h'
+  Wed6: 'Debe ser agradable no tener que preocuparse de los cultivos en esta época del año.#$e# ¡Y eso significa que puedes pasar más tiempo conmigo!$h'
+  Fri10: '@, hay algo que quiero decirte...#$e#Es solo que...bueno...¡tus botas! Esto, uh...se ven muy limpias...*traga*#$e#Eso es todo...*suspiro*$s'
+  Event_VideoGame_Yes: ¡Estupendo! Estoy segura que superaras este nivel con facilidad.$h
+  Event_VideoGame_No: 'Oh? *suspiro*... supongo que nunca pasaré este nivel, entonces...$s'
+  Event_Rain_1: Ya veo...
+  Event_Rain_2: Si, eres el tipo de persona que sabe apreciar la belleza oculta de la lluvia.
+  Event_Tragic_1: Sí... Supongo que mi vida está bien...$s
+  Event_Tragic_2: ..!$h
+  Event_Tragic_3: 'Me sentiría mejor si pudiera creérmelo...#$b#Pero no puedo.$s'
+  Event_Cave_1: ... Yeah.
+  Event_Cave_2: Supongo que cuando tienes algo que perder, es normal tener miedo...
+  Event_Cave_3: Um... está bien. Lo siento.

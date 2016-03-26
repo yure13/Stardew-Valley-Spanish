@@ -1,0 +1,28 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Mon: "Maintaining a household is difficult work.$s#$e#But no one else is going to do it if I don't$s#$e#Yes?" #!String
+    Tue: "What? It's %time already? My goodness!#$e#I still have tons of work to do!$s" #!String
+    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Okay. Bye!" #!String
+    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
+    Thu: "Maybe I've spoiled Sam a little bit. He's never had to do any chores.#$e#I guess I wanted him to be able to enjoy his childhood while he still could.#$b#I hope he hasn't grow up to be lazy, though.$s#$e#Being a parent isn't very easy." #!String
+    Fri: "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
+    Sat: "Hi.#$e#Need something?" #!String
+    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
+    Sun: "Are your boots clean?$s#$e#Sorry, I'm a little paranoid." #!String
+

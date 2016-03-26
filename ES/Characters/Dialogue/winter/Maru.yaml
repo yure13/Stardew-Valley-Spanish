@@ -1,0 +1,37 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: 'Venga ya, ¡Hace mucho frío!...$s#$e#Debes estar contento, no hay cultivos en invierno, ¿eh?'
+  Mon: ¿Has visto el muñeco de nieve que construí?$h
+  Tue: 'Hmmm... Realmente no sé que hacer hoy.$s#$b#¿Alguna vez tuviste ese problema?'
+  Wed: 'Supongo que el invierno es una buena época para trabajar en mis aparatos.#$e#Me pregunto si podría crear algo útil para los granjeros.'
+  Thu: '¡Hey! ¿Qué tal?#$q 37 Thu_01_old#¿Qué te parece el muñeco de nieve que he hecho?#$r 37 30 Thu_0#Yo creo que está genial#$r 37 -50 Thu_1#¿Ese montón grumoso que hay en tu jardín es tu muñeco de nieve?'
+  Thu_01_old: Es un buen momento del año para explorar las minas.
+  Thu_0: Gracias, ¡he puesto mucho esfuerzo en ello!$h
+  Thu_1: ¿Cómo puedes actuar de forma tan grosera?$s
+  Fri: Espero no coger la gripe este año.
+  Sat: '¿Has construido un horno ya?#$e#Puedes usarlo para convertir materiales en bruto como menas en productos más útiles.$u'
+  Sun: Me da tanto sueño cuando hace frio...
+  Sat2: Hey, si alguna de tus máquinas de cultivo necesita un arreglo, házmelo saber.$h
+  Tue4: 'Hey,¿Tienes alguna idea para un nuevo aparato que pueda hacer?#$e#Mhmm. Confío en tu opinión.'
+  Fri6: Pareces despejado hoy. Supongo que es el aire fresco del invierno.
+  Mon8: 'Hola @!$h#$e#Hey, ¿No te crees que mi muñeco de nieve se parece un poco a ti?'
+  Thu10: 'Esperaba verte hoy.$h#$e#Puedes pasar el rato conmigo el tiempo que quieras.'
+  Event_Hospital_1: ¡Claro que él sabía la diferencia! ¡Este ejemplo está completamente arruinado!
+  Event_Hospital_2: Vale. Te culparé a ti entonces.
+  Event_Hospital_3: Tienes razón. Le debería decir la verdad.
+  Event_Space1: Es increible, ¿Verdad?
+  Event_Space2: 'Supongo que puedes verlo de esa manera...#$b#Pero sigue siendo magnífico, ¿no?'
+  Event_Cut1: Oh, ¿no? Bueno, eso me hace sentir un poco mejor.
+  Event_Cut2: ¡Oh, no! Lo siento, de verdad, perdona.$s

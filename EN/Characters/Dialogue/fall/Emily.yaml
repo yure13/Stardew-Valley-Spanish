@@ -1,0 +1,34 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Well, fall is here. Time to plant some new crops, huh?" #!String
+    Mon: "It's good weather for a picnic, isn't it?" #!String
+    Mon8: "If I didn't have to work I'd suggest we go on a nice picnic!" #!String
+    Tue: "Hello. Did you have a good summer?" #!String
+    Tue4: "Hi @! I bet your farm did great this summer, huh?#$e#You're an excellent farmer.$h" #!String
+    Wed: "My friend runs a shop in the desert. If you ever go there stop in and say hi for me.#$e#I think she sells some rare products." #!String
+    Thu: "Are you friends with Clint? He's a nice guy, if you get to know him.#$e#He gets lonely working in his shop all day. But he's so shy he has trouble making new friends." #!String
+    Fri: "Another beautiful fall day.#$e#It's a pity it'll soon be over." #!String
+    Sat: "Keep your mind open and some interesting things might take root.#$e#Anyway, how is your day going?" #!String
+    Sat6: "I don't have any huge plans. I prefer not to stress about the future too much.#$e#It's better to enjoy the present while you can.$h" #!String
+    Sun: "Nothing like a sunny sunday to lift the spirits!" #!String
+    Sun10: "You're such a nice person, @! Thanks for being my friend.$h" #!String
+    event_dance1: "Thank you!" #!String
+    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
+    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+

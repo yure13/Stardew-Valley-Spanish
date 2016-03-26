@@ -1,0 +1,29 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  1: Bien, el otoño ya está aquí. Es hora de plantar una nueva cosecha, ¿no?
+  Mon: Hace un buen día para un picnic, ¿Verdad?
+  Mon8: ¡Si no tuviera que trabajar propondría el ir a un buen picnic!
+  Tue: Hola. ¿Disfrutaste del verano?
+  Tue4: '¡Hola @! Apuesto a que te fue genial en la granja este verano #$e# Eres un granjero excelente.$h'
+  Wed: 'Mi amiga tiene una tienda en el desierto. Si alguna vez pasas por allí, salúdala de mi parte.#$e#Creo que vende algunos productos raros.'
+  Thu: '¿Eres amigo de Clint? Él es un buen chico si lo conoces bien.#$e#Trabaja solo en su tienda todo el día. Pero es tan tímido que tiene problemas para hacer nuevos amigos.'
+  Fri: 'Otro hermoso día de otoño.#$e#Es una lástima que termine tan pronto.'
+  Sat: 'Mantén tu mente abierta y algunas cosas interesantes pueden florecer.#$e#De todas formas, ¿cómo te va el día?'
+  Sat6: 'No tengo grandes planes. Prefiero no pensar mucho en el futuro.#$e#Es mejor disfrutar el presente mientras puedas.$h'
+  Sun: ¡No hay nada como un domingo soleado para levantar los ánimos!
+  Sun10: ¡Eres una buena persona, @! Gracias por ser mi amigo.$h
+  event_dance1: ¡Gracias!
+  event_dance2: Um... vale. Siento que no te gustara. Supongo que estos tres meses de prácctica han sido una pérdida de tiempo...$s
+  event_dance3: '¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado.'

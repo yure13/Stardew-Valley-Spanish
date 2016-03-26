@@ -1,0 +1,45 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    1: "Oh, hey man. I'm Josh. So you're the new guy, huh?^Hey, you're the new girl, huh? I think we're going to get along great. I'm Josh.#$e#I'll see you around." #!String
+    Mon: "Did you know I was the captain of my school's football team?$u#$e#See this little star on my jacket here? That proves it.#e#This town's too small to have a school, so we go to the next town over." #!String
+    Tue: "The beach is a cool place to hang out and soak up some rays.#$e#I wish there were more girls in this town, know what I mean?^Hey, do you wanna hang out with me at the beach some time? Do you have a swimsuit?#e#You gotta spend some time in the sun or else you'll get all pale." #!String
+    Wed: "Looks like a good day to toss the football around, huh?$u#$e#$q 5/6 Wed_01_old#I'd ask you to play catch, but you don't really seem like the football type.^If you weren't a girl I'd ask you to play catch.#$r 6 0 Wed_01_02#I'm fine just watching you from a distance.#$r 5 15 Wed_01_01#I want to play catch with you!" #!String
+    Wed_01_old: "#$p 5#Go long! ...just kidding. Hahaha.|I just wish I had someone to play catch with...$s" #!String
+    Wed_01_01: "Really? Cool! We'll have to play sometime.$h" #!String
+    Wed_01_02: "Yeah, some people just aren't made for football." #!String
+    Thu: "I guess working on a farm is kinda like sports, huh?#$e#You gotta practice to get good.#$e#Some people have to practice more than others.$u" #!String
+    Fri: "Hey bro, what's up?^Hey, did you get new pants or something?#e#Oh, I almost forgot! It's my day for doing push-ups!#e#Every time I do push-ups I try to do one more than last time. Pretty cool strategy, huh?" #!String
+    Sat: "I did a lot of push-ups yesterday.#e#I'm pretty sore, but that means I'm making progress." #!String
+    Sun: "'sup?#$e#...Yeah, I'm just chillin'." #!String
+    Sun2: "Hey, @.#$e#That's right, I remember your name." #!String
+    Sun4: "Hey, @.#$e#Wanna hang out or something?" #!String
+    Fri4: "Hey, @. Thanks for stopping by.#e#Oh, I almost forgot! It's my day for doing push-ups!#e#Every time I do push-ups I try to do one more than last time. Pretty cool strategy, huh?" #!String
+    Tue6: "@, don't you think it's fun to hang out at the beach?#$e#It's important to spend time with your friends." #!String
+    Mon8: "It's better to enjoy life than to worry too much about fame and fortune, don't you think?#$e#I still want to go pro, but it's not the most important thing in the world." #!String
+    Fri8: "@, hello! I'm always glad to see you.$h#$e#I hope you feel the same!$l" #!String
+    Sat10: "If I don't turn pro, will you still like me?#$e#Thanks. That's more important to me.$h" #!String
+    Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
+    Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
+    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
+    Event_books2: "Yeah, I guess you're right...$s" #!String
+    Event_books3: "You were supposed to disagree with me.$a" #!String
+    Event_parents1: "That's an interesting thought..." #!String
+    Event_parents2: "They would never do that!$a" #!String
+    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+
