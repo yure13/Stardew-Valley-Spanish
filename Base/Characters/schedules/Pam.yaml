@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     rain: "GOTO spring" #!String
-    spring_25: "800 Trailer 15 4 2 pam_sit_down/1130 Hospital 4 17 2 pam_sit_down \"*grumble*... Doctor know-it-all... *grumble*$4\"/1330 Hospital 4 6 1 \"How much do I drink every day? What kind of a question is that?$u\"/1600 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
+    spring_25: "800 Trailer 15 4 2 pam_sit_down/1130 Hospital 4 17 2 pam_sit_down \"*quejido*... Doctor Sabelotodo... *quejido*$4\"/1330 Hospital 4 6 1 \"¿Qué cuánto bebo cada día? ¿Qué pregunta es esa?$u\"/1600 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
     bus: "800 Trailer 15 4 2 pam_sit_down/830 BusStop 11 10 2/1700 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
     spring: "800 Trailer 15 4 2 pam_sit_down/1200 JojaMart 6 19 1/1600 Saloon 7 18 1/2400 Trailer 15 4 2 pam_sit_down" #!String
 
