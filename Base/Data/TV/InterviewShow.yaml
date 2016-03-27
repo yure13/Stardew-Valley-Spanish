@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     6: "Sat" #!String
-    name: "Saturday Spotlight" #!String
-    intro: "0/Hi there, viewers. Every week I travel around the country to meet people from all different walks of life. Together, we'll broaden our horizons and learn about unique careers, lifestyles, and perspectives. I'm Tom Laminar, and you're watching 'Saturday Spotlight'." #!String
+    name: "Destacado del Sábado" #!String
+    intro: "0/Hola, televidentes. Todas las semanas viajo alrededor del país para conocer a personas con diferentes rutinas. Juntos, ampliaremos nuestros horizontes y aprenderemos acerca de estilos de vida y perspectivas. Soy Tom Laminar, y estas viendo 'Destacado del Sábado'." #!String
     day: "Sat" #!String
 
