@@ -18,7 +18,7 @@ xnbData:
 content:  #!Dictionary<String,String>
     rain: "GOTO spring" #!String
     Tue: "900 HaleyHouse 16 5 2/1000 SeedShop 27 16 2/1300 SeedShop 26 19 2 emily_exercise/1600 Saloon 15 17 2 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
-    winter_11: "900 HaleyHouse 16 5 2/1030 Hospital 12 14 0 \"Most of us visit the doctor for a yearly check-up.\"/1330 Hospital 4 6 1 \"Doctor, I'd like to go with the 'natural remedy' if possible.\"/1600 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
-    Fri: "900 HaleyHouse 16 5 2/1000 CommunityCenter 10 25 2 \"What a lovely loom. I'm in heaven right now.\"/1530 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+    winter_11: "900 HaleyHouse 16 5 2/1030 Hospital 12 14 0 \"La mayoría venimos al medico para nuestra revisión anual..\"/1330 Hospital 4 6 1 \"Doctor, me gustaría usar un 'remedio natural', si es posible.\"/1600 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
+    Fri: "900 HaleyHouse 16 5 2/1000 CommunityCenter 10 25 2 \"Qué habitación tan encantadora. Estoy en el cielo ahora mismo.\"/1530 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
     spring: "900 HaleyHouse 16 5 2/1200 HaleyHouse 3 16 0/1530 Saloon 15 17 0 square_5_1_0/2430 HaleyHouse 21 4 1" #!String
 
