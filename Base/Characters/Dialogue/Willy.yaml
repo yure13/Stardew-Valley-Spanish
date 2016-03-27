@@ -16,17 +16,17 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days." #!String
-    Mon: "Ahoy there, son.^Ahoy there, lass.#$b#Looks like decent weather for fishing, eh?" #!String
-    Mon4: "Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it." #!String
-    Tue: "A true angler has respect for the water... don't you forget that." #!String
-    Tue6: "The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'." #!String
-    Wed: "Some fish come and go with the seasons. Others only come out at night or in the rain." #!String
-    Thu: "*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret." #!String
-    Thu2: "There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite." #!String
-    Fri: "If you really want to get the fish biting, make sure you put some bait on your hook." #!String
-    Sat: "If the local fishing scene got a bit more lively, I might expand the shop's stock." #!String
-    Sat8: "How's the fishing life going for ya?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run." #!String
-    Sun: "If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while." #!String
-    Sun10: "Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s" #!String
+    Introduction: "¡Barco a la vista! Es bueno ver gente joven mudándose al valle. No es muy común estos días." #!String
+    Mon: "¡Ah del barco, hijo!^¡Ah del barco, muchacha!#$b#Parece que hace buen tiempo para pescar, ¿eh?" #!String
+    Mon4: "¿Has tenido mucha suerte en las aguas locales? Parece que podrías ser un buen pescador si te lo propones." #!String
+    Tue: "Un verdadero pescador le tiene respeto a las aguas... No lo olvides." #!String
+    Tue6: "El viejo hombre era pescador, ya sabes. Crecí navegando entre las islas de helechos, viviendo de captura en captura.#$e#La vida de pescador es dura, pero hay algo en ella que te mantiene avanzado." #!String
+    Wed: "Algunos peces van y vienen con las estaciones. Otros solo vienen de noche o con la lluvia." #!String
+    Thu: "*balbuceo* *balbuceo* ...¿Eh? Te hablaría sobre mis pensamientos, pero es un secreto de pescador." #!String
+    Thu2: "Hay rumores sobre algunos peces muy raros por estas zonas... pero solo un pescador experimentado podría tener una oportunidad contra ellos..#$e#Necesitarás el mejor cebo que puedas conseguir si quieres que un pez raro pique." #!String
+    Fri: "Si de verdad quieres que un pez pique, asegúrate de poner algo de cebo en el anzuelo." #!String
+    Sat: "Si el panorama local de pesca se anima un poco, quizás expanda las existencias de la tienda." #!String
+    Sat8: "¿Como te va la vida de pescador?#$e#Intento pescar tanto como me sea posible, pero no es fácil cuando tienes una tienda que llevar." #!String
+    Sun: "Si compras una caña de gran calidad, podrás ponerle cebo y aparejos al hilo.#$b#El cebo hace que los peces piquen mas rápido. Los aparejos pueden hacer tu trabajo mucho mas fácil cuando recoges el hilo.#$e#Hay muchos tipos de aparejos, con diferentes ventajas. Normalmente son un poco endebles, asi que no te extrañes si tu aparejo se rompe tras un rato." #!String
+    Sun10: "Vaya, ¡pero si es @!$h#$e#Te haría un descuento en cebo, si pudiera permitírmelo.$s" #!String
 
