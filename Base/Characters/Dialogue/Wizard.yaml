@@ -16,16 +16,16 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands." #!String
-    Mon: "I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences." #!String
-    Tue: "If you have nothing important to tell me, leave me be. I have much work to do." #!String
-    Tue4: "I trust you enough to allow you in my basement. Treat what you find there with respect." #!String
-    Wed: "It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me..." #!String
-    Thu: "There are many mysteries around us. You must be patient if you wish to discover them." #!String
-    Thu10: "You musn't tell anyone... but I have reason to believe that one of locals is actually my daughter...#$e#I could be mistaken... It's rare but it does happen." #!String
-    Fri: "The townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is human to be afraid of the unknown." #!String
-    Fri6: "I was married, long ago. After my wife and I split, she began flying around the countryside and putting curses on people.#$e#It's not a very mature way to express one's anger." #!String
-    Sat: "You are standing above a potent magical field.#$e#I built my hut right here on purpose, you know." #!String
-    Sat2: "Have you made any headway with the forest spirits?" #!String
-    Sun: "I sometimes observe the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue." #!String
+    Introduction: "Ah, si. Predije que vendrías hace un largo tiempo, joven @.#$e#De todas formas, al final tu destino está en tus propias manos." #!String
+    Mon: "He visto algunas cosas sobre tu futuro, joven @.#$e#El hecho de revelártelas tendría graves consecuencias." #!String
+    Tue: "Si no tienes nada importante que decirme, déjame en paz. Tengo mucho trabajo que hacer." #!String
+    Tue4: "Confío en ti lo suficiente para permitirte entrar en mi sótano. Trata lo que encuentres allí con respeto." #!String
+    Wed: "Toma años de estudio comprender la lengua de los elementales.#$e#Para poder hablar su lengua requiere una vida de gran dedicación.#$e#Ahora, si me disculpas..." #!String
+    Thu: "Hay varios misterios a nuestro alrededor. Debes tener paciencia si deseas descubrirlos." #!String
+    Thu10: "No debes decírselo a nadie... pero tengo razones para creer que uno de los habitantes es en realidad mi hija...#$e#Ipuedo estar equivocado... Es extraño, pero ocurre." #!String
+    Fri: "Los ciudadanos me tienen miedo.#$e#Es una pena, pero supongo que los humanos siempre temen lo desconocido." #!String
+    Fri6: "Estuve casado, hace mucho tiempo. Después de la ruptura, ella empezó a volar alrededor de la ciudad echando maldiciones sobre las personas.#$e#No es una forma muy madura de expresar la ira propia." #!String
+    Sat: "Estás parado sobre un potente campo mágico.#$e#Yo construí mi refugio aquí a propósito, ¿sabes?" #!String
+    Sat2: "¿Has hecho algún progreso con los espíritus del bosque?" #!String
+    Sun: "En ocasiones observo a los ciudadanos escondido.#$e#Espero encontrar un aprendiz. Algún día dejaré este lugar mortal, pero mi persecución arcana debe continuar." #!String
 
