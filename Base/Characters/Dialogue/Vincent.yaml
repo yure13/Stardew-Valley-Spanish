@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Oh, a stranger! My name's Vincent.#$b#Momma says not to talk to strangers... But you seem okay." #!String
-    Mon: "I wanna be just like my big brother when I grow up!$h#$e#Okay! Bye!" #!String
-    Mon4: "Dad's not around much... I miss playing with him.$s" #!String
-    Tue: "*sigh*... Mom won't let me have any more gummies today.$s" #!String
-    Tue6: "Can you keep a secret, mister?^Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u" #!String
-    Wed: "I wanna look for bugs, but Mom gets mad when I'm all dirty.$u#$b#It's a tough choice." #!String
-    Thu: "I'm hungry... where's Mom?$s" #!String
-    Thu2: "You're not as boring as most grown-ups!" #!String
-    Fri: "#$c .3#Ew, it's boiled beet night again...$s#$e#Oh no... Mom's making lentil soup tonight.$s" #!String
-    Sat_1: "Dad's coming back soon!#$b#I hope he brings me some toys.$u" #!String
-    Sat: "Miss Penny makes me read a new book every week.$s#$b#At least she lets me pick them, sometimes!" #!String
-    Sat8: "Dad seems weird since he came back. I wonder what happened to him?$s#$b#He doesn't play with me anymore.$s" #!String
-    Sun: "Hi there, mister!^Hi there, miss." #!String
-    Sun10: "Hi Uncle @!^Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h" #!String
+    Introduction: "¡Oh, hola! Mi nombre es Vincent.#$b#Mamá dice que no hable con extraños... Pero pareces buena gente." #!String
+    Mon: "¡Quiero ser como mi hermano cuando crezca!$h#$e#¡Vale! ¡Adiós!" #!String
+    Mon4: "Papá no suele estar por aquí... Echo de menos jugar con él.$s" #!String
+    Tue: "*suspiro*... Mamá no me deja comer mas caramelos hoy.$s" #!String
+    Tue6: "¿Puede guardarme un secreto, señor?^¿Puede guardarme un secreto, señora?$u#$b#Quiero casarme con la señorita Penny cuando crezca.#$e#No le diga nada, ¿de acuerdo?$u" #!String
+    Wed: "Quiero buscar bichos, pero mamá se enfada cuando me ensucio.$u#$b#Es una elección difícil." #!String
+    Thu: "Tengo hambre... ¿donde está mamá?$s" #!String
+    Thu2: "¡No aburres tanto como la mayoría de los adultos!" #!String
+    Fri: "#$c .3#Puaj, otra vez la noche de la remolacha hervida...$s#$e#Oh, no...Mamá está haciendo sopa de lentejas para esta noche.$s" #!String
+    Sat_1: "¡Papá va a volver pronto!#$b#Espero que me traiga algunos juguetes.$u" #!String
+    Sat: "La señorita Penny me hace leer un nuevo libro cada semana.$s#$b#¡Al menos, a veces, me deja elegirlos!" #!String
+    Sat8: "Papá parece raro desde que ha vuelto. Me pregunto que le habrá pasado.$s#$b#Ya no juega conmigo.$s" #!String
+    Sun: "¡Hola señor!^¡Hola señora!" #!String
+    Sun10: "¡Hola, tío @!^¡Hola, tía @!#$e#No se lo digas a mamá... pero eres mi persona mayor favorita." #!String
 
