@@ -16,30 +16,30 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Ah, the new farmer we've all been expecting. I'm Elliott.#$e#It's a pleasure to meet you." #!String
-    Mon: "I'm kind of new to this town myself, but I really feel at home!$h#$e#I moved here only a year before you." #!String
-    Mon4: "I hope you've come to think of this place as 'home'." #!String
-    Tue: "I suggest you spend some time studying the clouds and the waves. You might discover something new.#$e#Well, I really must get back to my work." #!String
-    Tue6: "The sweet friction of pen and paper is the music of my soul.$u#$e#That's why I chose this beach as my home, so that I could have peace and quiet to do my work." #!String
-    Wed: "The forest is a wondrous place. Have you been there?" #!String
-    Wed8: "Sorry, I'm feeling morose today.$s#$e#I wish there was more certainty about the future.$s#$e#I don't want to grow old as a lonely hermit on this beach...$s" #!String
-    Thu2: "Lately I've been thinking about writing a novel...#$e#I want to accomplish something great before it's too late.$h" #!String
-    Thu6: "Sometimes I wonder if I might just have an inflated self-image and no real skills...$s#$e#No, I'm not fishing for compliments." #!String
-    Thu8: "The other day, when it was raining, I thought I saw a strange man standing on the beach.#$e#When I blinked, he was gone.$s" #!String
-    Thu: "Hello, @.#$e#Are you well?" #!String
-    Fri: "Sorry, I know this might be a little strange for me to talk to you about, but sometimes I wonder if I'm doing the right thing with my life...#$q 23/24 Fri_old#Just based off my looks, what would you think I am?#$r 23 5 Fri_23#A pirate.#$r 24 -5 Fri_24#A short-order cook. #$r 24 -5 Fri_24#An old goat.#$r 23 5 Fri_model#A model.#$r 24 -10 Fri_rude#A silly boy trying too hard to be cool." #!String
-    Fri_old: "$p 23#But with encouragement from nice people like you, I feel better.$h|I guess it's impossible to know, hmm?$s" #!String
-    Fri_23: "A life of adventure on the high seas? I think I could live with that.$h" #!String
-    Fri_24: "Goodness... that isnt' what I'd hoped to hear...$s" #!String
-    Fri_rude: "For goodness' sake... you must be the rudest person I've ever met...$s" #!String
-    Fri_model: "A model...? Oh! Well, um... thanks. That's very nice of you to say...$h" #!String
-    Sat: "Be careful in my cabin... there might be spiders lurking about." #!String
-    Sat6: "Some people are shy. Keep showing interest in them and they'll get comfortable around you.#$e#Everyone likes to have friends, even that grumpy blacksmith." #!String
-    Sun: "Hello. I trust everything is panning out as you'd hoped?" #!String
-    Sun4: "Feel free to visit my cabin any time you like.$h" #!String
-    Sun6: "Oh, @! I was hoping you'd show up.#$e#It's always a pleasure to see you.$h" #!String
-    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
-    event_toast1: "Well...okay.#$b#Here's to @!" #!String
-    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
-    event_toast3: "Hmmph...forget it.$a" #!String
+    1: "Ah, el nuevo granjero que todos esperábamos. Soy Elliott.^Ah, la nueva granjera que todos esperábamos. Soy Elliott.#$e#Un placer conocerte." #!String
+    Mon: "Yo soy relativamente nuevo en el pueblo, ¡pero me siento como en casa!$h#$e#Llegué aquí hace sólo un año." #!String
+    Mon4: "Espero que consideres este lugar como 'tu hogar'." #!String
+    Tue: "Te sugiero que pases un tiempo estudiando las nubes y las olas. Quizás descubras algo nuevo.#$e#Bueno, debería volver al trabajo." #!String
+    Tue6: "El dulce rozamiento del bolígrafo con el papel es la música de mi alma.$u#$e#Por eso escogí esta playa como mi hogar, así podría tener paz y tranquilidad para hacer mi trabajo." #!String
+    Wed: "El bosque es un lugar maravilloso. ¿Has estado allí?" #!String
+    Wed8: "Lo siento, hoy estoy cabreado. Desearía tener más seguridad sobre el futuro. No quiero hacerme viejo como un solitario ermitaño en esta playa...$s" #!String
+    Thu2: "He estado pensando en escribir una novela...#$e#Quiero lograr hacer algo grande antes de que sea demasiado tarde.$h" #!String
+    Thu6: "A veces me pregunto si tan solo tengo una imagen exagerada de mi mismo y ninguna habilidad...$s#$e#No... No estoy buscando cumplidos." #!String
+    Thu8: "El otro día, mientras llovía, me pareció haber visto a un hombre extraño en la playa.#$e#Cuando parpadeé, ya no estaba.$s" #!String
+    Thu: "Hola @.#$e#¿Estás bien?" #!String
+    Fri: "Lo siento, se que quizás sea un poco extraño que yo te hable de esto, pero a veces me pregunto si estoy haciendo lo correcto con mi vida...#$q 23/24 Fri_old#Sólo basándote mi apariencia, ¿qué pensarías que soy?#$r 23 5 Fri_23#Un pirata.#$r 24 -5 Fri_24#Un cocinero de baja categoría.#$r 24 -5 Fri_24#Un viejo verde.#$r 23 5 Fri_model#Un modelo.#$r 24 -10 Fri_rude#Un niño tonto esforzándose demasiado por caer bien." #!String
+    Fri_old: "$p 23#Pero con ánimos de buena gente como tú, me siento mejor.$h|Supongo que es imposible saberlo...$s" #!String
+    Fri_23: "¿Una vida de aventura en alta mar? Creo que podría vivir con eso.$h" #!String
+    Fri_24: "¡Dios mio! No es lo creía que dirías...$s" #!String
+    Fri_rude: "¡Por Dios! Debes ser la persona más grosera que he conocido...$s" #!String
+    Fri_model: "¿Un modelo...? ¡Oh! Bueno, Umm... gracias. Es muy amable de tu parte...$h" #!String
+    Sat: "Ten cuidado... puede que en mi cabaña haya arañas al acecho." #!String
+    Sat6: "Algunas personas son tímidas. Sigue mostrando interés en ellos y conseguirán sentirse cómodas contigo.#$e#A todos nos gusta tener amigos, incluso a ese herrero gruñón." #!String
+    Sun: "Hola. Espero que todo esté yendo como esperabas." #!String
+    Sun4: "Visítame cuando te apetezca.$h" #!String
+    Sun6: "Oh, ¡@! Estaba esperando que aparecieras por aquí.#$e#Siempre es un placer verte.$h" #!String
+    event_idea1: "Suena interesante... Lo tendré en cuenta." #!String
+    event_toast1: "Vale... Está bien.#$b#¡Brindemos por @!" #!String
+    event_toast2: "¡Es una gran idea!$h#$b#¡Brindemos por nosotros!" #!String
+    event_toast3: "Puff... olvídalo.$a" #!String
 
