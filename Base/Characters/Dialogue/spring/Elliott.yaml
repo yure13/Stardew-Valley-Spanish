@@ -39,7 +39,7 @@ content:  #!Dictionary<String,String>
     Sun4: "Visítame cuando te apetezca.$h" #!String
     Sun6: "Oh, ¡@! Estaba esperando que aparecieras por aquí.#$e#Siempre es un placer verte.$h" #!String
     event_idea1: "Suena interesante... Lo tendré en cuenta." #!String
-    event_toast1: "Bueno... Está bien.#$b#¡Brindemos por @!" #!String
+    event_toast1: "Vale... Está bien.#$b#¡Brindemos por @!" #!String
     event_toast2: "¡Es una gran idea!$h#$b#¡Brindemos por nosotros!" #!String
     event_toast3: "Puff... olvídalo.$a" #!String
 
