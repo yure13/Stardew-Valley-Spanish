@@ -90,11 +90,7 @@ content:  #!Dictionary<String,String>
     abbySpiritBoard: "Hola @.^Algún día de estos tienes que venir a mi habitación cuando anochezca... Quizás alrededor de las 20:00^Quiero enseñarte algo... ^   -Abby" #!String
     pennySpa: "Reúnete conmigo en el balneario al anochecer. ^-Penny" #!String
     incubator: "Saludos, @, ^^ ¡Gracias por adquirir la mejora del gallinero! Además de duplicar la capacidad de tu gallinero, me he tomado la libertad de instalar una incubadora. ^Para utilizar la incubadora, simplemente coloca un huevo dentro. Si tienes espacio en el gallinero, los huevos eclosionarán en unos días.^^Como siempre, gracias por tu compra.^-Robin" #!String
-    hatter: "Hola.
-     Yo bender sombreros. ¿Da'cuerdo amigo?
-     Ven a la vieja vieja vieja kasa, traer monedas.
-    
-    -Ratón de los somvreros" #!String
+    hatter: "Hi.^^Me sell hats. Okay, poke?^^Come to old old old haus, poke. Bring coines.^^-hat mouse" #!String
     Beat_PK: "¡¡Felicidades!!^^Has completado "Viaje del Rey de la Pradera' y... ^¡Has ganado tu propia máquina del 'Rey de la Pradera'!^Ahora podrás disfrutar del 'Viaje del Rey de la Pradera' desde la comodidad de tu propio hogar.^^¡Te lo mereces!^-Equipo de desarrollo del Rey de la Pradera %item bigobject 141 %%" #!String
     JunimoKart: "¡¡Felicidades!!^^Has completado todos los niveles de 'JunimoKart'... ¡Eres la primera persona de la República de Ferngill en conseguirlo!^Tu premio: ¡Una versión doméstica de Junimo Kart!^^¡Diviértete!^-Equipo de Desarrollo de Junimo Kart %item bigobject 159 %%" #!String
     elliottReading: "@,^Tengo buenas noticias... ¡¡He acabado mi novela!! Voy a hacer una lectura pública esta tarde, en la biblioteca. ¡Espero verte allí! ^   -Elliott" #!String
