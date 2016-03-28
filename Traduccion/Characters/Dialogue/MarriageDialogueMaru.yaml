@@ -1,0 +1,70 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: Me pregunto cómo le irá a Penny... Quizá la llame después.
+  Rainy_Day_1: Estaba fantaseando... ¿crees que MaruDAIL está bien? Espero que encuentre el lugar a dónde pertenece...
+  Rainy_Day_2: '¡Hola! Esta noche he tenido problemas para dormir, así que he hecho unos arreglos en mi taller. Toma, lo hice para ti. [688 369 338 325 287]#$e#Espero que veas algo de esto útil.'
+  Rainy_Day_3: ¡Lo único que no me gusta de la lluvia es el hecho de que no puedo hacer ninguna observación!
+  Rainy_Day_4: ¿Hay una gotera en el techo? Tendré que comprobarlo, sé alguna cosa sobre carpintería gracias a mi madre.
+  Rainy_Night_0: ¡Asegúrate de no dejar tus herramientas bajo la lluvia! No querrás que se oxiden.
+  Rainy_Night_1: 'Hola @. ¿Cómo te ha ido el día... empapado?#$e#Este tiempo me da ideas para artilugios... ¿crees que si canalizo el agua de lluvia pueda alimentar un molino?'
+  Rainy_Night_2: 'Papá ha estado siguiendo los patrones del tiempo los últimos veinte años.#$e#Es un poco pronto para decirlo pero, los resultados han revelado algunas tendencias anormales.'
+  Rainy_Night_3: ¿Podemos comer espaguetis en la cama esta noche?
+  Rainy_Night_4: '¡He hecho postre! Pero asegúrate de cepillarte los dientes antes de ir a la cama. [232 234 223 220]$h'
+  Rainy_Night_5: "Mi día no ha sido tan emocionante... estuve aquí dentro por culpa del tiempo.#$e#Aunque me relajé leyendo la última entrega de 'Esquemas semanales'."
+  Indoor_Day_0: ¿Um? Perdón, a veces me pierdo en mis pensamientos, tanto que no me doy cuenta lo que hago.
+  Indoor_Day_1: 'Encontré esto en mi montón de chatarra. Creo que podrías encontrarle algún uso... [286 287 205 732]'
+  Indoor_Day_2: '¡Por fin te despiertas! Me muero de hambre... *rugido de estómago*$h'
+  Indoor_Day_3: De lo mejor de vivir en una granja es levantarte con el canto de los pájaros.
+  Indoor_Day_4: ¿Cómo mantienes tus manos tan suaves con todo el trabajo de la granja?
+  Indoor_Night_0: ¿Has visto la luna esta noche? Siempre se ve increíble en el horizonte.
+  Indoor_Night_1: Antes vi una estrella fugaz. Me gusta fingir que es MARILDA que pasa a vernos.$h
+  Indoor_Night_2: 'No puedo decidir si mi antojo es de pastel de chocolate o de fresas maduras, ¿quizá ambos...?#$e#Sé sincero... ¿estoy ganando peso?$s^Sé sincera... ¿estoy ganando peso?$s'
+  Indoor_Night_3: ¡Hoy hiciste un buen trabajo! Mereces relajarte el resto de la tarde.
+  Indoor_Night_4: 'Estoy empezando a amar de verdad esta vieja casa. Tan acogedora por la noche...#$e#Mamá ha hecho un trabajo excepcional mejorándola.$h'
+  Outdoor_0: Ah... la granja huele genial, me recuerda a las montañas cerca de la casa de mis padres.
+  Outdoor_1: Organizándonos un poco, podemos automatizar la mayoría de los trabajos en la granja ¡y relajarnos!
+  Outdoor_2: 'Va a ser noche despejada, me pregunto si la constelación %noun será visible...'
+  Outdoor_3: No me importa si dejas un rastro de barro en la casa. Es divertido ensuciarse de vez en cuando.
+  Outdoor_4: ¡Nunca me había dado cuenta de la cantidad de cuidados y organización que se necesitan para llevar una granja! Es bastante parecido a trabajar en el laboratorio.
+  OneKid_0: '¿Has estado con %kid1 hoy? Los niños necesitan jugar para alcanzar su máximo potencial.'
+  OneKid_1: 'Tú que crees, ¿que a %kid1 le gustará la granja o la ingeniería?'
+  OneKid_3: 'Tengo grandes esperanzas en %kid1. He estado leyendo toda la información científica sobre las mejores formas de criar hijos.'
+  TwoKids_3: Mi propio taller, dos niños maravillosos y un hermoso terreno. La vida está bastante bien.
+  Good_1: Ahora que vivimos juntos es difícil imaginarse sola de nuevo.^Ahora que vivimos juntas es difícil imaginarse sola de nuevo.
+  Good_2: ¿Tomando un descanso? ¡Bien!
+  Good_3: Hay mucha estrategia en organizar y llevar una granja. ¡Estimula intelectualmente más de lo que pensaba!
+  Good_4: Por un tiempo consideré hacerme un marido robot. ¡Pero tú eres mucho más divertido!$h^Por un tiempo consideré hacerme una esposa robot. ¡Pero tú eres mucho más divertida!$h
+  Good_5: Estaba admirando mi amuleto de la boda... La concha es impecable. ¡Es un espécimen muy raro!$l
+  Good_6: 'Anoche tuve un sueño en el que estaba mirando a través de un telescopio gigante. Veía algo moverse en la nebulosa %noun. Espeluznante.'
+  Neutral_0: Espero que me sigas queriendo aunque gane peso.
+  Neutral_8: Me siento poco inspirada hoy.$s
+  funLeave_Maru: Creo que voy a ir a ver a mis padres. Hace tiempo que no los veo.
+  funReturn_Maru: Mamá y papá están genial. Su rutina es la misma, incluso sin mi. ¿Cómo te fue el día?
+  spring_2: ¿Cuál es tu estrategia para optimizar la granja este año?
+  spring_1: Es maravilloso ver a todas las plantas y los animales volver a la vida en la primavera.
+  spring_22: Si mi hermano no fuera un ermitaño lo invitaría a cenar algún día.
+  summer_20: Me pregunto si mi hermano tendrá el coraje de pedir salir a Abigail algún dia...
+  summer_2: Me gusta catalogar los distintos insectos que veo en verano.
+  fall_1: Con cada estación, una nueva sección del cielo nocturno se vuelve prominente. Es fascinante ser testigo.
+  fall_25: 'El invierno está a la vuelta de la esquina. Necesitamos comprobar que funciona el sistema de calefacción, desactivar las válvulas y comprobar todo el aislamiento de la casa.#$e#No te preocupes cariño, yo me ocupo de todo.'
+  fall_3: El otoño siempre me recuerda a cuando iba a cortar madera con mi mamá... Puede que sea por el olor a madera recién cortada y a savia.
+  winter_15: Últimamente los inviernos han sido extrañamente suaves.
+  winter_5: Espero que le esté yendo bien a papá... llega a deprimirse en invierno porque hay menos oportunidades para investigar.
+  winter_2: 'Bueno, ¿cómo piensas mantener estabilidad económica este invierno?#$e#Podrías pescar o recolectar...#$e#Si vas a la mina, prométeme que tendrás cuidado.'
+  spring_Maru: ¡@, me siento emocionada por el nuevo año de agricultura!$h
+  summer_Maru: Las noches cálidas como esta son el mejor momento del año para observar las estrellas. ¿Quién sabe qué habrá allí arriba?
+  fall_Maru: La vida en la granja es genial pero me alegro de seguir trabajando en la clínica. Es un servicio importante para la comunidad.
+  winter_Maru: Estoy deseando tener tarta de ruibarbo en primavera. Oh... ¡ese olor... ese sabor...!
+  spouseRoom_Maru: '#$c .5#Me levanté temprano para observar un poco las estrellas.#$e#Espero que no te importe si hoy me tomo un rato para mis proyectos cariño.'

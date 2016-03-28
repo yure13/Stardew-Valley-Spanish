@@ -1,0 +1,67 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: Hoy estoy inspirado... Creo que escribiré un rato.
+  Rainy_Day_1: 'El sonido de la lluvia me recuerda a mi cabaña en la playa.#$e#La granja es preciosa pero echo de menos el sonido del océano.'
+  Rainy_Day_2: 'Me he levantado temprano y he hecho café.[395]#$e#Dicen que una taza de esta exquisita bebida hace la mañana mucho más agradable.'
+  Rainy_Day_3: Hoy creo que me quedaré en casa, cielo. La lluvia hace que se me encrespe el pelo.
+  Rainy_Day_4: 'Mi inspiración a la hora de escribir es como el tiempo... viene y va de forma aleatoria. Hoy estoy totalmente apagado.$s#$e#Quizás lea uno de los clásicos para que mis ideas fluyan.'
+  Rainy_Night_0: Buenas noches. ¿Ha sido un día productivo, @?^Buenas noches. ¿Ha sido un día productivo cariño?
+  Rainy_Night_1: ¡Estás tiritando! Deja que te caliente.$l
+  Rainy_Night_2: Mi habilidad con las palabras es inigualable, aún así soy incapaz de describir lo que siento por ti.$l^Mi habilidad con las palabras es inigualable, aún así soy incapaz de describir tu belleza.$l
+  Rainy_Night_3: ¿Qué que he hecho hoy? Solo te diré que... ¡requiere mucho trabajo mantener este cuerpo!
+  Rainy_Night_4: 'He pasado la tarde fantaseando con el océano. Al final decidí cocinar algo de pescado. [198 202 727 728]$h'
+  Indoor_Day_0: Me he estado cuidando más desde que estamos juntos. Mi soltería no fue muy sana que digamos...
+  Indoor_Day_1: '¡Buenos días, @! Nos hice una taza de café.[395]#$e#Anhelo este robusto sabor todas las mañanas.'
+  Indoor_Day_2: Si encuentras una araña en la casa, ¡no la aplastes! Házmelo saber y yo la llevaré afuera.
+  Indoor_Day_3: 'Hoy va a ser un día fantástico... ¡Puedo sentirlo!$h#$e#Tengo esa sensación en la nariz...'
+  Indoor_Day_4: 'He vuelto a tener esa pesadilla dónde me rapabas el pelo... Tú nunca me harías eso, ¿verdad?$s#$e#Confío en ti.'
+  Indoor_Night_0: De la estrella más brillante del invierno hasta centelleo de una veta de iridio... nada puede compararse a mi maravilloso hombre.$l^De la estrella más brillante del invierno hasta la aromática rosa mágica... nada puede compararse a tu belleza cautivadora.$l
+  Indoor_Night_1: Un fuego crepitante añade un maravilloso ambiente a la casa... cada trozo de madera arde de forma única.
+  Indoor_Night_2: 'Nunca había tenido mucho éxito con las plantas en mi vieja casa de la playa. Con suerte podré aprender un par de cosas viéndote a ti.#$e#En lo que se refiere a eso, tú eres el maestro y yo sólo un humilde aprendiz.'
+  Indoor_Night_3: 'Cuando contemplo tu maravillosa cara, como una joya preciosa en forma y elegancia, mi corazón... desgarrado por el temor de la noche, es purificado con luz dorada.#$e#La poesía es la única forma en la que puedo describir mis sentimientos hacia ti.$l'
+  Indoor_Night_4: 'Mi amor... no te cambiaría ni por 100 barras de iridio.#$e#Ni por 1.000...#$e#Ni si quiera por 10.000 barras, no.$7#$e#¡No, ni tampoco por 100.000 barras!$a#$e#...$s#$e#¿Cóm... un millón de barras de iridio puro...? No me hagas esto...$8'
+  Outdoor_0: Mis sueños más descabellados se han hecho realidad... ¡basta con mirar este increíble paisaje!
+  Outdoor_1: Suelo fértil bajo mis pies, aire fresco que llena mis pulmones y el calor del sol para deleitar mi piel... La vida va bien.
+  Outdoor_2: Puede que me quede a escribir alguna poesía. ¡Me ha venido una oleada de inspiración! Ve y ocúpate de tus cosas.
+  Outdoor_3: Puede que si me quedo quieto una resplandeciente mariposa bendiga mi nariz posándose en ella.
+  Outdoor_4: 'He bebido demasiado café... mi boca está tan seca cómo el Desierto de Calico.$s#$e#Oh... perdóname por mi aliento a café.$7'
+  OneKid_0: '¿Has jugado con %kid1 hoy? Quizás un segundo hijo ayudaría con eso.'
+  OneKid_1: '%kid1 tendrá una infancia perfecta aquí. Hay tanto que explorar.'
+  OneKid_3: Cuidar bebés no es exactamente mi fuerte... pero haré lo mejor que pueda por ser un buen padre.
+  TwoKids_0: 'Ya les di de comer a %kid1 y %kid2. ¡Cuánto comen!'
+  TwoKids_1: 'Antes estaba con %kid1 y juraría que he oído "Pa...pa".$h'
+  TwoKids_2: '¡Voy a enseñar a %kid1 a leer tan pronto como sea posible! Es una forma estupenda para que los niños aprendan del mundo.'
+  TwoKids_3: Lo hemos hecho bien @. La granja va genial y nuestros hijos son una gran alegría. No podría ser más feliz.
+  Good_0: '@... Estoy tan orgulloso de tu dedicación. Qué afortunado soy al tenerte.$l'
+  Good_1: He escrito todo un libro de poemas secreto expresando mi amor por ti.$l
+  Good_2: Llegue al valle buscando la torre de marfil, donde mis talentos se harían eco. Pero lo único que encontré fue una mazmorra de soledad. Me has salvado de ella.$l
+  Good_3: ¡Wow, hoy estás guapísimo! ¿Te has afeitado? Tu mandíbula es perfecta.$l^Tus encantos femeninos son irresistibles hoy. No puedo quitarte los ojos de encima.$l
+  Good_4: Mi corazón arde en tu ausencia. Pero al escuchar el sonido de tus botas embarradas en la madera, se alza entre las cenizas.
+  Good_5: Estoy dando un paseo de meditación. Es bueno para la creatividad.
+  Good_6: ¡Ten cuidado ahí fuera! Me preocupo por ti. Hay gente en el mundo que podría aprovecharse de ti.
+  funLeave_Elliott: Creo que hoy iré a la playa. Siempre es bueno volver a ver el océano.
+  funReturn_Elliott: Lo he pasado bien en la playa. He visto a las olas ir y venir, igual que en los viejos tiempos.
+  spring_1: ¡Mis propósitos de año nuevo son escribir, escribir y escribir! No puedo parar de mejorar mis habilidades.
+  spring_12: Es raro, pero a veces se me antoja una granada durante la primavera.
+  spring_23: Espero bailar contigo mañana, cariño.
+  summer_1: Es difícil estar de mal humor cuando el sol brilla y las mariposas bailan en este aire con olor a bayas.$h
+  summer_10: Iba a ir por un bote extra de tinta a mi cabaña, pero me he acordado de que mañana es el Luau, así que lo cogeré entonces.
+  summer_27: Todas las cosas buenas acaban, incluyendo los alegres días de verano. La clave de la felicidad es aceptar el cambio sin juzgarlo.
+  fall_1: El esplendor del otoño... un verde banquete del que disfrutan todos los sentidos... ha inspirado a algunos de los mejores poetas de todos los tiempos.
+  fall_15: Dejaré de lado mi orgullo y mañana hundiré mis dientes en un bocadillo de salsa barbacoa.
+  fall_26: ¿Todavía me querría si devorase dos galones de cerveza de calabaza en la Víspera de los Espíritus? A veces un hombre tiene instintos primitivos...
+  winter_1: El invierno es un buen tiempo para leer libros y tocar el piano. Recuerda hacer una pausa y disfrutar un rato.
+  winter_7: He perdido algo de práctica, ¡pero creo que mañana participaré en el concurso de pesca! Vas a tener una dura competencia, cielo.
+  winter_28: 'Feliz víspera de año nuevo, cielo. Por favor, acepta esto para celebrarlo. [348]'

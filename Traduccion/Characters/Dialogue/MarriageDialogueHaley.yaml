@@ -1,0 +1,57 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: He cambiado mucho con los años, pero sigo prefiriendo el tiempo soleado.
+  Rainy_Day_1: 'A veces sueño despierta con nuestra jubilación... relajándonos en las soleadas playas de las Islas Helecho.#$e#¿Alguna vez piensas en el futuro, @?'
+  Rainy_Day_2: '¡Buenos días! ¡Me levanté temprano y cociné algo dulce para ti! [223 234 211 651 731]#$e#Sé que eres fuerte pero, aún así,¡necesitas comer bien para mantenterte perfectamente!$h'
+  Rainy_Day_3: 'No puedo salir hoy... mi pelo se quedaría lacio. Perdóname cariño.#$e#Quiero estar perfecta para ti.'
+  Rainy_Day_4: '¿Vas a salir con este tiempo? Cariño, asegúrate de limpiarte las botas cuando vuelvas.#$e#Yo me quedaré aquí y haré algunas tareas domésticas.'
+  Rainy_Day_Haley: Oh, no... Si el tiempo sigue así me quedaré tan pálida...$s
+  Rainy_Night_0: Oh, me alegro de que hayas vuelto. Tengo tanto frío aquí sola... ¿Puedo apagar ya la luz?
+  Rainy_Night_1: Espero que mañana por la mañana esté soleado. Tanta lluvia puede ponerme de mal humor.$s
+  Rainy_Night_2: Espero que Emily no se sienta sola. Debería visitarla pronto.$7
+  Rainy_Night_3: La lluvia es horrible para un fotógrafo. La iluminación es espantosa, ¡y no puedes salir fuera sin arruinar tu equipo!$s
+  Rainy_Night_4: 'He hecho comida caliente para ti, cariño. Con muchas especias, como a ti te gusta. ¡Disfruta! [727 231 207 199]$h'
+  Rainy_Night_5: Nunca pensé que diría esto, pero la vida en el campo me pega.$h
+  Rainy_Night_Haley: Hola, cariño. Me alegro de que estés en casa. Estaba empezando a sentirme sola.$l
+  Indoor_Day_0: '¡Buenos días! ¿Has dormido bien?$h#$e#Creo que voy a salir con la cámara hoy... la iluminación es perfecta.'
+  Indoor_Day_1: '¡Buenos días cariño! Huele bien, ¿verdad? ¡Te he hecho el desayuno! [194 195 210 211 216]#$e#Sé que tienes mucho trabajo. ¡Estoy aquí para apoyarte como pueda!'
+  Indoor_Day_2: '¿Has dormido bien hoy? Has roncado un poco.$h#$e#Tengo algunas tareas que hacer por aquí. Ten un buen día.'
+  Indoor_Day_3: '¡Me alegro de haber aprendido a disfrutar de la limpieza! La casa se ensucia muy fácilmente.$10#$e#Es satisfactorio conseguir que todo quede limpísimo#$e#¿Me das un beso antes de que te vayas?$11'
+  Indoor_Day_4: 'Buenos días, cariño. Otro día de tareas de la granja, ¿no?#$e#Estaré pensando en ti. <$h'
+  Indoor_Day_Haley: Siento como si antes de conocerte no tuviera una dirección en la vida. Ahora sé exactamente lo que quiero.$l
+  Indoor_Night_Haley: Parece que has estado trabajando duro cariño. Déjame que te ayude a liberarte del estrés.$l
+  Outdoor_0: 'Siempre me siento mejor cuando estoy fuera, respirando aire fresco.#$b#¡No me malinterpretes! La antigua casa de campo de tu abuelo es muy bonita. Pero no hay nada mejor que este precioso paisaje.'
+  Outdoor_1: ¡Tenemos que asegurarnos de que la granja es bonita! Puede ser importante... ¿verdad, cariño?
+  Outdoor_2: '¡Hola, cariño! Si supiera más sobre el trabajo en la granja te ayudaría más. ¡Perdón!#$e#Estaré pensando en ti.$h'
+  Outdoor_3: 'Voy a hacer un poco de limpieza por aquí. Debería ayudarte un poco, ¿verdad?#$e#*Uff*... Hace calor aquí fuera.'
+  Outdoor_4: 'No trabajes demasiado, cariño.#$e#Asegúrate de tomar un descanso de vez en cuando, o comer algo.$h'
+  Outdoor_Haley: Parece un buen día para trabajar en mi bronceado, ¿no crees cariño?
+  funLeave_Haley: Hoy voy al pueblo, a relacionarme un poco.
+  funReturn_Haley: Fue genial ver a todos en el pueblo. ¿Tuviste un buen día, mi amor?
+  OneKid_3: ¿No es raro? No estoy acostumbrada a ser madre.
+  TwoKids_2: '¿No es %kid2 un bebé precioso?'
+  TwoKids_3: Una gran casa, dos niños y un hermoso terreno. ¿Qué más podría pedir?
+  spring_2: Bueno, ¿qué vamos a plantar esta temporada?
+  spring_1: Ahora que se ha acabado el invierno tenemos muchos días soleados por delante. Estoy emocionada.
+  summer_3: Perdón si no estoy perfecta... El aire es tan húmedo que mi pelo no aguanta rizado.
+  summer_15: Es verano... Eso significa que la casa estará llena de moscas y hormigas... ¡Puaj!$s
+  fall_2: Ya echo de menos el verano...
+  fall_1: Otoño es un poco triste... todo se muere.$5
+  winter_14: Mi piel se pone tan seca con este tiempo.
+  winter_2: Por alguna razón, la nieve me da antojos de pastel rosa...
+  spring_Haley: ¿No te alegras de que el invierno haya acabado, cariño? Las cosas parecen más prometedoras ahora.
+  summer_Haley: Me encanta mirar las luciérnagas las noches calurosas de verano. Es lo más cerca que voy a estar de visitar las estrellas.
+  fall_Haley: Aunque prefiero el verano, el otoño es, posiblemente, la mejor estación para hacer fotos. Esas sombras largas, bajas...
+  winter_Haley: 'Estaba pensando en la vez que me ayudaste a abrir el tarro de pepinillos. ¿Te acuerdas?$h#$e#Hemos pasado mucho desde entonces.$l'

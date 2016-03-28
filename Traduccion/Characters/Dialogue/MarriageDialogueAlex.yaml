@@ -1,0 +1,62 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: Con todo este espacio puedo lograr un verdadero entrenamiento completo del cuerpo.
+  Rainy_Day_1: Nunca he tenido muchos amigos en la ciudad... A veces me pregunto que sería de mí si no te hubieras mudado aquí.$9
+  Rainy_Day_2: Aw... Iba a salir a correr un poco. Pero no puedo hacerlo con este tiempo.
+  Rainy_Day_3: '*Quejido*... acabo de despertarme y estoy un poco hambriento de proteínas.$9'
+  Rainy_Day_4: Creo que podría comenzar a leer libros. ¡No quiero quedarme estancado ahora que soy un hombre casado!
+  Rainy_Night_0: Hey, ¿has tenido un buen día? Estoy seguro de que mañana será aún mejor.$h
+  Rainy_Night_1: ¿Cómo te va? He estado llevando conmigo la vieja gridball todo el día...$u
+  Rainy_Night_2: Oh... ¿el olor? He estado comiendo ajo todo el día. Estoy tratando de mantenerme viril... Lo siento.$l
+  Rainy_Night_3: He apartado unas sobras de comida para Dusty. Se merece algún premio de vez en cuando.
+  Rainy_Night_4: 'Tenía hambre así que hice la cena. Toma, te he guardado un plato. [241 242 225 214 198]$h'
+  Indoor_Day_0: Ah... ¡No hay nada como pasar una buena noche durmiendo junto a mi marido!$h^Ah... ¡No hay nada como pasar una buena noche durmiendo junto a mi mujer!$h
+  Indoor_Day_1: '¡Hola cariño! Te hice un desayuno caliente.[195 210 211]#$e#¡Si quieres ponerte fuerte tienes que comer bien!'
+  Indoor_Day_2: 'Ven aquí. *abrazo*... umm. Todo el trabajo en la granja te ha tonificado.'
+  Indoor_Day_3: Sigo intentando acostumbrarme a cocinar y hacer la colada... No es lo que más me gusta, la verdad, pero sabía en lo que me metía cuando me casé contigo.$h
+  Indoor_Day_4: Hay un par de cosas por hacer por aquí, voy a intentar hacerlo hoy. No te preocupes por mi, no me aburro.
+  Indoor_Night_0: Te sientes bien cuando te esfuerzas al máximo, ¿verdad? Por la noche, al irte a la cama, sientes que de verdad te has ganado ese descanso.
+  Indoor_Night_1: ¿Te has cortado el pelo o algo? Estás genial hoy. Posiblemente sea por el aire fresco...$l
+  Indoor_Night_2: Cuéntame, ¿cómo te ha ido el día? Está bien desahogarse de vez en cuando.
+  Indoor_Night_3: Eh... Tengo nuevos pantalones cortos. Pensé que te interesaría saberlo...$l
+  Indoor_Night_4: Si necesitas tiempo a solas solo tienes que decírmelo.
+  Outdoor_0: Hola. Cuando me pongo a mirar alrededor, nuestra tierra... me siento muy orgulloso. Lo has hecho genial.
+  Outdoor_1: Es un lugar perfecto para criar hijos. Me encantaría crecer en un lugar así. ¡Hay tanto espacio para correr!
+  Outdoor_2: Me gusta pasar todo el tiempo que puedo fuera. Se está mejor aquí.
+  Outdoor_3: Míranos, con nuestra pequeña granja. Hacemos una pareja adorable.$h^Oye, quizás sea la luz dorada, pero hoy estás hermosa.$l
+  Outdoor_4: Ah... Fuera se está genial. Stardew Valley es, sin duda, el lugar más hermoso del planeta...
+  OneKid_0: Sigo intentando acostumbrarme a mi nueva vida como padre y amo de casa.$h
+  OneKid_1: '%kid1 crecerá fuerte, como su papi.'
+  OneKid_3: Me pregunto cómo será estar embarazada...$h
+  TwoKids_2: 'Quizá %kid2 llegue a jugar profesionalmente al gridball en Pueblo Pelícano.$h'
+  TwoKids_3: Por fin tengo la vida familiar que me perdí cuando era pequeño... gracias.$l
+  Good_0: '@... Siempre te amaré.$l'
+  Good_1: Eres muy guapo... ¿te lo había dicho?$l^Eres muy guapa... ¿te lo había dicho?$l
+  Good_6: Sé que eres fuerte, pero a veces me preocupa que te puedan comer los slimes, o algo peor... Ten mucho cuidado.$9
+  funLeave_Alex: Voy a ir al pueblo. Nos vemos esta noche.
+  funReturn_Alex: He tenido un buen día. Me gusta visitar a mis abuelos a menudo, se están haciendo muy mayores.
+  spring_1: ¡La nieve al fin se ha fundido y el sol está de vuelta! Me siento genial.$h
+  spring_6: Me pregunto si un poco de polvo de stardrop me ayudaría a ganar músculo...
+  spring_12: ¿Estás emocionado por el festival de mañana? Supongo que es un buen día para conseguir muchos huevos gratis.^¿Estás emocionada por el festival de mañana? Supongo que es un buen día para conseguir muchos huevos gratis.
+  spring_23: 'Oh... mañana es el baile de las flores, ¿verdad? Será mejor que haga algunas flexiones extras esta noche.$9#$e#Esos monos son bastante ceñidos y todo el mundo estará mirando atentamente...'
+  summer_1: El verano es una época del año muy enérgica, ¡y el cuerpo lo siente! Me siento fuerte.
+  summer_10: '¿Has pensado ya en qué vas a echar en la sopa del Luau?#$e#No tengo ni idea de qué es lo mejor... ¡tú eres el chef!$h^No tengo ni idea de qué es lo mejor... ¡tú eres la chef!$h'
+  summer_27: Oh... el verano está prácticamente acabado. Mis músculos están empezando a desinflarse...$s
+  fall_1: Bueno, ya se acabó el verano... pero hay que seguir siendo positivos. La estación más cálida siempre vuelve.
+  fall_15: 'Mañana es la feria, ¿vamos a ir?#$e#No me importa si no vamos.'
+  fall_26: Espero que mis abuelos estén bien. El abuelo es tan tacaño que no enciende la caldera hasta última hora.
+  winter_1: Asegúrate de mantenerte caliente este invierno. Me preocupa tu delicada piel.
+  winter_7: ¿Vas a participar en el concurso de pesca de mañana? ¡Creo que podrías ganar!
+  winter_28: Ha sido un año genial @. ¡Tengo muchas ganas de que llegue el año que viene! Ven, acércate...$l

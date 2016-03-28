@@ -1,0 +1,65 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: 'Es un mito el que la lluvia cause la gripe. Como sea, ¡ten cuidado y no te caigas en el barro!#$e# Me preocupo por ti.'
+  Rainy_Day_1: Me sentía increíblemente solo viviendo en la clínica... Soy mucho más feliz ahora. $h
+  Rainy_Day_2: Me he levantado temprano, me he asegurado de no despertarte. Estabas muy apacible.
+  Rainy_Day_3: 'No me importa la lluvia. No puedo ver lo aviones, pero puedo escuchar la radio. #$e# Hace que todo sea más misterioso.'
+  Rainy_Day_4: Llevo retraso con las tareas del hogar. ¡Estoy muy ocupado!
+  Rainy_Night_0: '¿Qué tal tu día, cariño? Iba a lavar los platos, pero quedé absorto con el último número de "Entusiasta de la cirugía de rodillas".'
+  Rainy_Night_1: Si disfrutas tu vida, ¿qué más da que sea repetitiva? Siempre lo digo.
+  Rainy_Night_2: Pareces un poco empapado, cielo. ¿Porqué no te calientas en el fuego?^Pareces un poco empapada, cariño. ¿Porqué no te calientas en el fuego?
+  Rainy_Night_3: 'El sonido de la lluvia hace que nos centremos en algo en vez de distraernos con tonterías.#$e#Esa es mi teoría de por qué es tan relajante...'
+  Rainy_Night_4: 'He hecho una cena sana. ¡Solo ingredientes frescos del valle! [212 214 225 209 200]$h#$e#Asegúrate de comerte una porción razonable, cielo.'
+  Indoor_Day_0: 'Creo que luchamos por dar equilibrio a nuestras vidas. Un equilibrio complejo.#$e#Mudarme fue lo que mi cuerpo necesitaba para encontrar ese balance.$l'
+  Indoor_Day_1: '¡Buenos días @! Te he hecho un desayuno nutritivo.[201]#$e# Los huevos son un recurso natural de nutrientes, cómetelos.'
+  Indoor_Day_2: Hoy estudiaré literatura médica. ¡Es importante que me mantenga al día para cuidar de mis pacientes lo mejor posible!
+  Indoor_Day_3: Voy a escuchar algo de jazz y acabar mis informes médicos de hoy. ¿Qué harás tú?
+  Indoor_Day_4: Cuando nos conocimos te tenía miedo. Es curioso ver lo lejos que hemos llegado.$h
+  Indoor_Night_0: Pareces muy cansado cielo, deja que te dé un masaje. ¡Te aseguro que reducirá la inflamación de tus músculos!$l^Pareces muy cansada cielo, deja que te dé un masaje. ¡Te aseguro que reducirá la inflamación de tus músculos!$l
+  Indoor_Night_1: 'Hoy ha sido un día sencillo... he leído libros, disfrutado con la radio y trabajado en un modelo de avión.#$e#Es importante tomarse un día de descanso y relajarse, el estrés no es sano.'
+  Indoor_Night_2: 'Buenas tardes... ¿has acabado por hoy?#$e#No te preocupes por mi, soy autosuficiente. Sí tienes más trabajo, ve a hacerlo.'
+  Indoor_Night_3: 'Ser médico es estresante, pero es bueno vivir en un sitio tan relajante como la Granja %farm.'
+  Indoor_Night_4: ¡Oh! Estaba soñando despierto con el aparato circulatorio y olvidé lo que estaba haciendo. El típico problema de los médicos.
+  Outdoor_0: Este es un lugar seguro. Ve y ocúpate de tus asuntos, no te preocupes por mí.
+  Outdoor_1: Científicamente, creo que este es el mejor lugar para criar niños. ¿Qué piensas?
+  Outdoor_2: Puede que no sea el hombre más emocionante, pero te seré fiel el resto de mi vida.$l
+  Outdoor_3: '@... tú... eres mi mundo entero.$l'
+  Outdoor_4: Como científico me apasiona la delicada interacción de los insectos y las plantas.
+  OneKid_0: 'Tú y %kid1 sois lo más importante de mi vida.'
+  OneKid_1: '%kid1 va a tener una infancia genial. Somos muy afortunados de tener esta oportunidad.'
+  OneKid_3: ¡Me gusta ser padre!$h
+  TwoKids_0: 'Ya he dado el desayuno a %kid1 y %kid2. ¡Estoy intentando que disfruten la comida sana!'
+  TwoKids_1: Pienso que los niños deberían poder jugar y explorar lo que les dicte el corazón. Solo eres niño una vez.
+  TwoKids_2: '¿Y si %kid2 creciese y se convirtiese en piloto como siempre soñé yo?'
+  TwoKids_3: 'Mi vida se basa en ti y los niños, y estoy feliz por ello. Siempre soñé con tener una familia maravillosa.$l#$e#Temía que siempre me quedara soltero... Te quiero muchísimo.$l'
+  Good_0: '@... todavía no me creo que estemos casados.$l'
+  Good_1: Me salvaste de una vida de soledad y llenaste el vacío de mi corazón. Gracias.$l
+  Good_2: Sabía que serías el elegido cuando te mudaste.$l^Sabía que serías la elegida cuando te mudaste.$l
+  Good_3: ¡Estás muy guapo hoy! ¿Te has afeitado?$l^Hoy estás preciosa.$l
+  Good_6: ¡Ten cuidado fuera! Tengo pesadillas con tu cuerpo siendo llevado en camilla a la sala de urgencias.$7
+  funLeave_Harvey: Creo que hoy pasearé, necesito desconectar.
+  funReturn_Harvey: He tenido un buen día. Es refrescante pasar un rato solo de vez en cuando. ¿Has pasado buen día cielo?
+  spring_1: Es precioso ver como las plantas vuelven a la vida. El verdor es refrescante después de un invierno tan monótono.
+  spring_12: 'Oh, mañana hay un festival, ¿no?. Multitudes, actividades... *glup*$s'
+  spring_23: '¿B...Bailarás conmigo en el festival de mañana?$7#$e#Siempre me da vergüenza.$7'
+  summer_1: '¡Asegúrate de no quemarte con el sol! Es muy peligroso para la piel.$8#$e#Como tu marido y doctor, considero tu salud mi máxima prioridad.'
+  summer_10: '¿Has pensado que pondrás en la sopa del Luau?#$e#Yo pondría un objeto de alto valor y calidad. ¡Todos queremos darle una buena impresión al gobernador!'
+  summer_27: Con la llegada del fin del verano y una estación más fría abriéndose paso, suele aumentar mi carga de trabajo. Perdón si parezco deprimido...
+  fall_1: 'Asegúrate de dividir tus cosechas en otoño cielo.#$e#O cultiva solo arándanos... Es tu elección, ¿qué se yo de granjas?'
+  fall_15: Mañana es la feria. La comida es cara y salada, pero está bien derrochar de vez en cuando.$h
+  fall_26: Lo admito, la Víspera de los Espíritus siempre me da dolor de estómago... Pero haré lo que pueda por aguantarlo.
+  winter_1: 'El aire está seco durante el invierno. Por eso nuestra piel tiende a irritase.#$e#No te preocupes, echaré un poco de aceite de trufa en tu espalda cada noche.$l'
+  winter_7: ¿Pasaremos por el festival de hielo mañana? Me gustan los iglúes...
+  winter_28: Este ha sido un año genial. ¡Estoy seguro de que el siguiente será mejor!$h

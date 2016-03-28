@@ -1,0 +1,66 @@
+---
+xnbData:
+  target: w
+  compressed: true
+  hiDef: true
+  readerData:
+    - 
+      type: 'Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]'
+      version: 0
+    - 
+      type: Microsoft.Xna.Framework.Content.StringReader
+      version: 0
+  numSharedResources: 0
+content:
+  Rainy_Day_0: 'Hoy es un buen día para relajarme y tocar la guitarra... #$e# Hey, tú también puedes relajarte.'
+  Rainy_Day_1: '¿Crees que Abigail y Sebastian saldrán juntos algún día?#$e#Je... Ahora que estoy casado intento que todos se casen también.'
+  Rainy_Day_2: 'Hey, he encontrado esto en uno de los cajones. [90 88 86 535]#$e#He pensado que podrías usarlo.'
+  Rainy_Day_3: Ah, tio. Los días nublados son un coñazo.$7
+  Rainy_Day_4: ¿Cómo has dormido? El sonido de la lluvia me relaja.
+  Rainy_Night_0: Hey, ¿qué tal tu día? Yo he estado tumbado y leyendo cómics casi todo el día... Ha estado bien.$h
+  Rainy_Night_1: Ha sido un día bastante relajado para mí... Cola, pizza congelada, unas cuantas horas de trastear con la guitarra... Estoy relajado.
+  Rainy_Night_2: 'Antes escuché la grabación del directo del show que hicimos. ¿Te acuerdas? Menudos fallos.#$b#¡Al estar tu allí me puse nervioso, no quería hacerme un lío y que pensases que era un perdedor!$l'
+  Rainy_Night_3: 'Espero que Vincent no se sienta solo ahora que me he ido... Me siento responsable por el chico.$s#$e#Pero la vida cambia... ¿verdad? Los niños tienen que aprenderlo pronto... Si no, la adultez los destruirá.$7'
+  Rainy_Night_4: 'Hey, he metido un par de pizzas congeladas en el horno. Aquí tienes la tuya. [206]$h'
+  Indoor_Day_0: Uf... Te diré algo que no echo de menos de mi antigua vida... Trabajar en JojaMart.
+  Indoor_Day_1: 'Hey, he hecho tortitas instantáneas. Disfrútalas. [211]$h#$e#¿Qué? Nunca aprendí a cocinar... Siempre lo hizo mi madre.'
+  Indoor_Day_2: Sé que bromeo mucho, pero quiero que sepas que te quiero muchísimo...$l
+  Indoor_Day_3: '¿Tienes planes para el día?#$e#Oh, yo no... Normalmente decido que hacer un poco antes...'
+  Indoor_Day_4: 'Um... Quizás deba ayudarte con la granja algún día. Hoy estoy algo perezoso.$s#$e#¿No te molesta, no?'
+  Indoor_Night_0: Hey, parece que hoy has trabajado duro. Déjame ayudarte a relajarte esta noche, ¿vale? Puede que luego te de un masaje.
+  Indoor_Night_1: ¿Mi día? Oh... Lo recuerdo a duras penas. No he hecho nada importante. Solo relajarme y pasar un buen rato.
+  Indoor_Night_2: Lo siento, no he hecho la cama. Sabes que soy descuidado... es por eso que me quieres, ¿verdad?$h
+  Indoor_Night_3: Lo único que echo de menos de mi antigua casa es la cacerola de pescado de mi madre.
+  Indoor_Night_4: ¿Vamos a dormir? He hecho la cama por una vez...
+  Outdoor_0: Quizás deba conseguir unas ruedas todo terreno para mi skate. El alcalde Lewis no me puede decir nada aquí fuera.$h
+  Outdoor_1: Siempre tengo un ojo puesto en el cielo... Nunca sabes cuando pasará un OVNI por ahí.
+  Outdoor_2: '¡Hola, @! Si supiese más sobre la granja te ayudaría más. ¡Lo siento!#$e#Lo intentaré y te ayudaré con pensamientos alentadores.$h'
+  Outdoor_3: Hay algo en el aire que me hace sentir bien... Quizás sea ese débil olor a pizza que sale de los hornos de Gus.
+  Outdoor_4: Wow... Hoy estás genial. Las manchas de barro te dan un encanto extra.$l
+  OneKid_0: 'Voy a cambiar los pañales de %kid1.... no te preocupes. Ya tienes bastante con tu faena.'
+  OneKid_1: ¡Me gusta ser padre!$h
+  OneKid_3: Creo que deberíamos tener otro hijo. ¿Por qué parar ahora?
+  TwoKids_0: '¡Me he levantado pronto, alimentado a los niños y cambiado sus pañales! Estamos listos. Puedes centrarte en conseguir dinero.$h#$e#Estoy de broma... No me casé por el dinero.'
+  TwoKids_1: 'Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos que haya celos entre ellos.'
+  TwoKids_2: Es divertido ver a los bebés jugando entre sí. Se harán muy amigos.
+  TwoKids_3: Nunca pensé que convertiría en un hombre de familia, pero estoy satisfecho de lo que hemos logrado. La vida va genial. $l
+  Good_1: ¿Te acuerdas de la vez que nos colamos en mi cuarto? Lo hago a menudo...$l
+  Good_2: ¿Sabes? Tuve la sensación de que estaríamos juntos desde el principio. Hay algo especial entre nosotros.$l
+  Good_3: ¡Vaya! Estás muy guapo hoy, ¿te has afeitado?$l^Vaya, estás preciosa hoy. ¿Te has hecho algo diferente en el pelo?$l
+  Good_6: ¡Ten cuidado fuera! Sé que sueles ir a las cuevas... ¡Podrían comerte!
+  Good_4: 'Cielo, justo iba a escribirte una canción con la guitarra. Pero ahora estás aquí y estoy relajado.#$e#Solo me dan ganas de tocar cuando estoy solo.'
+  Good_5: Cielo, ¡habla conmigo! Siempre me intereso por saber como te ha ido el día.
+  funLeave_Sam: Voy a visitar a mi familia hoy, ¿vale? Volveré al atardecer.
+  funReturn_Sam: Ver a la familia es bueno, pero un poco depresivo... Ya sabes, nuestras vidas están totalmente separadas ahora y todo parece más formal de lo que solía ser.$7
+  spring_1: Uf... primaveda... mi nadiz... aledgias.$s
+  spring_12: Estoy emocionado por el festival de mañana, ¿y tú? Estará bien ver a Sebastian de nuevo.
+  spring_23: 'Mañana es el Festival de las Flores, ¿verdad? Pensé que podría librarme de él ahora que estamos casados.#$e#Como sea, supongo que será divertido, aunque de una extraña manera.'
+  summer_1: El polen será menor en verano, y mi nariz lo agradecerá.$h
+  summer_10: '¿Has pensado que echarás en la sopa del Luau?#$e#Sería gracioso poner algo asqueroso. Ya sabes, ¡para gastarle una broma al gobernador!#h#$e#Perdón...'
+  summer_27: 'El verano es bueno, pero estoy listo para el otoño.#$e# ¿Vamos a ver las medusas mañana por la noche? Siempre es divertido.'
+  fall_1: Parece como si todo el valle hubiese cambiado de la noche a la mañana... Supongo que el otoño ya está aquí.
+  fall_15: Hey, mañana es la feria. Necesito tener en forma mi antigua muñeca de tirachinas...
+  fall_26: 'Me pregunto si mamá dejará entrar a Vincent al laberinto encantado este año. Lo más seguro es que no...$h#$e#Pobre niño, algún día crecerá...'
+  winter_1: El viento frío hace que se congele mi gomina. No es muy agradable.$s
+  winter_7: ¿Pasaremos por el festival del hielo mañana? Sería divertido volver a verlos a todos...
+  winter_28: 'Hemos pasado un buen año, @... es triste que se acabe.#$e#¡Haremos que el próximo año sea mejor!$h'
