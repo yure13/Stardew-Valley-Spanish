@@ -96,7 +96,7 @@ content:  #!Dictionary<String,String>
     elliottReading: "@,^Tengo buenas noticias... ¡¡He acabado mi novela!! Voy a hacer una lectura pública esta tarde, en la biblioteca. ¡Espero verte allí! ^   -Elliott" #!String
     elliottBoat: "Reúnete conmigo en los muelles, en una mañana soleada. Tengo algo en mente. ^   -Elliott" #!String
     harveyBalloon: "@,^Tengo una sorpresa para ti. Reúnete conmigo en las vías del tren. ^   -Harvey" #!String
-    samMessage: "@,^reúnete conmigo enfrente de mi casa, esta noche después del anochecer. ^   -Sam" #!String
+    samMessage: "@,^Reúnete conmigo enfrente de mi casa, esta noche después del anochecer. ^   -Sam" #!String
     joshMessage: "@,^Reúnete conmigo en la taberna después del anochecer. ^   -Alex" #!String
     foundLostTools: "Hola, @,^Ayer por la noche, alguien encontró tus herramientas, y las dejó en el cubo de objetos perdidos.^^Entré y las puse al lado de tu cama.^Espero no haberte despertado... ^^  -Alcalde Lewis" #!String
     fishing2: "Tengo algunos artículos nuevos en stock...^¡Una caña de pescar de lujo y algunos cebos que puedes añadirle!^Puedes usar el cebo para que los peces piquen más rápido. ¡Espero verte pronto! ^   -Willy" #!String
