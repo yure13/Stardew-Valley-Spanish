@@ -16,13 +16,13 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "You must be @, the new farmer. I'm Caroline.#$e#I'm Pierre's wife." #!String
-    Mon: "I wish Abby wouldn't spend so much time in her room." #!String
-    Tue: "I've seen wild horesradish in the forest.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food." #!String
-    Wed: "Hi there. Do you have everything you need for the farm?#$e#If not, we might be able to help you out.#$e#We carry a variety of useful items." #!String
-    Thu: "Everyone has their own little routine they follow.#$e#It's not a very exciting place, but you always know what to expect." #!String
-    Fri: "It's a fine-looking day.#$e#On days like this I like to help Evelyn with the public gardens.#$e#She sure can use the help." #!String
-    Sat: "Is it just me, or does Abigail have an unhealthy interest in doom and gloom?#$e#Maybe I'm just too old to understand." #!String
-    Sun: "Today I'm just going to relax and think positively.#$e#Do you ever take a day off?" #!String
-    Wed6: "Stardew Valley is nice, but I wish I knew more people.#$e#I'm glad that we've become friends." #!String
+    1: "Debes de ser @, el nuevo granjero. Soy Caroline.^Debes de ser @, la nueva granjera. Soy Caroline.#$e#Soy la esposa de Pierre." #!String
+    Mon: "Me gustaría que Abby no pasara tanto tiempo en su habitación." #!String
+    Tue: "He visto algunos rábanos picantes silvestres en el bosque.#$e#Recolectar puede ser una forma divertida de conseguir algo de dinero. O puedes usar lo que encuentres como regalos o comida." #!String
+    Wed: "Hola. ¿Tienes todo lo que necesitas para tu granja?#$e#Si no, nosotros podemos ayudarte.#$e#Tenemos una variedad de artículos muy útiles." #!String
+    Thu: "Todos tienen su propia rutina a seguir.#$e#No es un lugar muy emocionante, pero siempre sabes que esperar." #!String
+    Fri: "Hace un día precioso.#$e#En días como estos me gusta ayudar a Evelyn con los jardines públicos.#$e#Le viene bien la ayuda." #!String
+    Sat: "¿Soy yo o Abigail es muy pesimista?#$e#Tal vez sólo soy muy mayor como para entenderlo." #!String
+    Sun: "Hoy solo voy a relajarme y pensar de manera positiva.#$e#¿Alguna vez te tomas el día libre?" #!String
+    Wed6: "Stardew Valley es bonito, pero me gustaría conocer a mas personas.#$e#Me alegro de que seamos amigos.^Me alegro de que seamos amigas" #!String
 
