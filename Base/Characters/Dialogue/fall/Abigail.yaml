@@ -16,34 +16,34 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Ah... Fall's here!$h#$e#I was getting so tired of summer." #!String
-    16: "I wish we had a museum here." #!String
-    Mon: "Do you have any scarecrows on your farm?" #!String
-    Tue: "My Dad might be annoying but he does sell some cool wallpapers." #!String
-    Wed: "I can't wait to see some pumpkins this year.#$e#Pumpkins are so fun." #!String
-    Thu: "Last night I dreamt that my left hand had turned into a gigantic %noun.#$e#Does that mean anything?" #!String
-    Fri: "I've been talking to this girl online, her username is %name33.#$e#She's in this band called %adj %noun %noun. They sound pretty experimental." #!String
-    Sat: "What's it like to be @?#$e#Interesting." #!String
-    Sun: "I'm getting bored again.#$q 27/28 Sun_old#Hey, should I dye my hair black or crimson?#$r 27 10 Sun_27#Black#$r 27 10 Sun_27#Crimson#$r 27 20 Sun_WildColor#Sunshine yellow with baby blue stripes#$r 28 0 Sun_28#I like your hair just the way it is!" #!String
-    Sun_old: "$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?" #!String
-    Sun_27: "I guess that's a pretty safe choice, huh?#$e#I'll think about it." #!String
-    Sun_28: "Of course that's what you'd say.$u" #!String
-    Sun_WildColor: "You're always good for a laugh.$h" #!String
-    Wed2: "Are you growing pumpkins on your farm this year?#$e#Save one for me!$h" #!String
-    Tue4: "I might fight with my Dad, but deep down I still love him.$s#$e#Sorry, I just wanted to say that to you. Don't tell anyone." #!String
-    Sat6: "Hi.$h#$e#I like your hair." #!String
-    Mon8: "You know, I could actually see myself becoming a farmer some day...#$e#I wonder if that might ever happen?" #!String
-    Thu10: "I had an interesting dream last night, with you in it.#$e#It was a good dream.$h" #!String
-    Fri6: "Fall is such a beautiful time of year.#$e#It makes me feel like a little kid again." #!String
-    Fri10: "I usually feel lonely this time of year, but not anymore.#$e#@, what are your plans for the future?" #!String
-    Event_VideoGame_Yes: "Great! I'm sure you'll be able to beat this level with ease.$h" #!String
-    Event_VideoGame_No: "Oh? *sigh*... I guess I'll never get past this level, then...$s" #!String
-    Event_Rain_1: "I see..." #!String
-    Event_Rain_2: "Yes, you're the kind of person who would appreciate the somber beauty of rain." #!String
-    Event_Tragic_1: "Yeah... I guess my own life is okay...$s" #!String
+    1: "Ah... ¡El otoño ha llegado!$h#$e#Me estaba cansando del verano." #!String
+    16: "Ojala tuviésemos un museo." #!String
+    Mon: "¿Tienes algún espantapájaros en tu granja?" #!String
+    Tue: "Mi padre puede ser pesado, pero vende unos tapizados geniales." #!String
+    Wed: "No puedo esperar a ver algunas calabazas este año.#$e#Son tan divertidas." #!String
+    Thu: "Anoche soñe que me mi mano izquierda se convertia en un gigantesco %noun.#$e#¿Eso significa algo?" #!String
+    Fri: "He hablado con esta chica por internet, su nombre de usuario es %name33.#$e#Está en esta banda llamada %adj %noun %noun. Suenan bastante experimentales." #!String
+    Sat: "¿Que se siente al ser @?#$e#Interesante." #!String
+    Sun: "Me estoy aburriendo otra vez.#$q 27/28 Sun_old#Hey, ¿Debería teñir mi cabello de negro o carmesí?#$r 27 10 Sun_27#Negro#$r 27 10 Sun_27#Carmesi#$r 27 20 Sun_WildColor#Amarillo con pequeñas rayas azules#$r 28 0 Sun_28#¡Me gusta tu pelo tal y como está!" #!String
+    Sun_old: "$p 27#Iba a teñirme el pelo, pero decidí que no.|¿Sí?¿Qué pasa?" #!String
+    Sun_27: "Supongo que es una opción bastante segura, ¿eh?#$e#Pensaré en ello." #!String
+    Sun_28: "Por supuesto que eso es lo que has dicho.$u" #!String
+    Sun_WildColor: "Siempre eres bueno para reírse.$h" #!String
+    Wed2: "¿Estás cultivando calabazas en tu granja este año?#$e#¡Guárdame una!$h" #!String
+    Tue4: "Puede que discuta con mi padre, pero en el fondo sigo queriéndole.$s#$e#Lo siento, solo quería decirte eso. No se lo digas a nadie." #!String
+    Sat6: "Hola.$h#$e#Me gusta tu pelo." #!String
+    Mon8: "¿Sabes? Tal vez me pueda convertir en una granjera algún día...#$e#Me pregunto si alguna vez pasará eso." #!String
+    Thu10: "Anoche tuve un sueño interesante en el que aparecías.#$e#Fue un buen sueño.$h" #!String
+    Fri6: "El otoño es un momento tan hermoso en el año.#$e#Me hace sentir como una niña pequeña de nuevo." #!String
+    Fri10: "Normalmente me siento sola en esta época del año, pero ya no.#$e#@, ¿Cuáles son tus planes para el futuro?" #!String
+    Event_VideoGame_Yes: "¡Bien! Estoy segura de que podrás pasarte este nivel fácilmente.$h" #!String
+    Event_VideoGame_No: "¿Oh?*suspiro*... Supongo que nunca me pasaré este nivel, entonces...$s" #!String
+    Event_Rain_1: "Ya veo..." #!String
+    Event_Rain_2: "Sí, eres del tipo de persona que apreciaría la sombría belleza de la lluvia." #!String
+    Event_Tragic_1: "Sí... Supongo que mi vida está bien...$s" #!String
     Event_Tragic_2: "...!$h" #!String
-    Event_Tragic_3: "I would feel better if I could believe that...#$b#But I don't.$s" #!String
-    Event_Cave_1: "...Yeah." #!String
-    Event_Cave_2: "I guess when you have something to lose, it's normal to be afraid..." #!String
-    Event_Cave_3: "...Um, okay. Sorry." #!String
+    Event_Tragic_3: "Me sentiría mejor si pudiera creerme eso...#$b#Pero no puedo.$s" #!String
+    Event_Cave_1: "...Está bien." #!String
+    Event_Cave_2: "Supongo que cuando tienes algo que perder, es normal tener miedo..." #!String
+    Event_Cave_3: "...Um, esta bien. Lo siento." #!String
 
