@@ -16,21 +16,21 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Welcome to Stardew Valley! My name is Emily.#$e#I think you're going to fit right in here." #!String
-    Mon: "Haley is my sister.#$b#She's quite a bit different than me, but I still love her.$h#$e#Then again, I love everyone!$h#$e#Hey, we're all just colorful little feathers on the great eagle of life. We gotta have love for each other if we want to soar!#$b#Sorry if that was a little cheesy.$u#$e#See you later." #!String
-    Mon6: "I wish Haley would get a job or at least contribute to cooking and cleaning.$s#$e#I think she's hoping to marry some rich guy." #!String
-    Tue: "I work part-time at Gus' saloon.#$e#But I'm also trying to start my own tailoring business!" #!String
-    Wed: "I think this town might be located near a powerful energy vortex.#$e#Let me know if you feel any unusual energy fluctuations.#$e#I hope you don't think I'm crazy. I'm not.$u" #!String
-    Thu: "$q 10/11 Thu_old#Your produce is organic, right?$u#$r 10 5 Thu_10#Of course! And it's also non-GMO.#$r 11 -5 Thu_11#Nope. Organic is for hippies.#$r 11 0 Thu_neutral#I don't even know what that means." #!String
-    Thu_old: "#$p 10#Hey, how's your organic farm coming along? I can't wait to try some of your produce.|Hi. How is your farm doing? I hope you aren't using too much pesticide." #!String
-    Thu_10: "Perfect! I knew you were a friend of the Earth!$h" #!String
-    Thu_11: "It makes me sad that you think that.$s" #!String
-    Thu_neutral: "Oh! Well then, nevermind.$s" #!String
-    Fri: "Another beautiful spring day.#$e#I bet Elliott could describe those clouds beautifully with a poem.#$e#Have you met Elliott? He lives in that old shack on the beach." #!String
-    Sat: "I like making my own clothes, but it's not easy to get cloth.#$e#And it's such a long trip to the city." #!String
-    Sun: "Hi @!#$e#Do you raise sheep in your barn? You can turn their wool into beautiful bolts of cloth!#$e#You'll need a loom, though. You can make them yourself!" #!String
-    Sun4: "This house was left in Haley's and my care by my parents. They've been travelling the world for the last two years.#$e#We have no idea when they'll be back.#$e#I enjoy living here, though. It's a beautiful area and the town is nice." #!String
-    event_dance1: "Thank you!" #!String
-    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
-    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+    1: "¡Bienvenido a Stardew Valley! Me llamo Emily.^¡Bienvenida a Stardew Valley! Me llamo Emily.#$e#Creo que encajarás aquí." #!String
+    Mon: "Haley es mi hermana.#$b#Ella es un poco diferente a mi, pero aún así la quiero.$h#$e#Aunque en realidad, ¡quiero a todo el mundo!$h#$e#Oye, todos somos pequeñas plumas de colores en la gran águila que es la vida. ¡Vamos a tener que querernos todos si queremos planear!#$b#Perdona la cursilada.$u#$e#Nos vemos." #!String
+    Mon6: "Me gustaría que Haley encontrara un trabajo o, al menos, que ayudara a cocinar y limpiar.$s#$e#Creo que está esperando a casarse con algún ricachón." #!String
+    Tue: "Trabajo a media jornada en el Salón de Gus.#$e#¡Pero también estoy empezando un negocio de sastrería por mi propia cuenta!" #!String
+    Wed: "Creo que esta ciudad puede estar situada cerca de un potente vórtice de energía.#$e#Avísame si sientes cualquier fluctuación de energía extraña.#$e#Espero que no creas que estoy loca. Porque no lo estoy.$u" #!String
+    Thu: "$q 10/11 Thu_old #Tu producto es orgánico, ¿cierto? $u#$r 10 5 Thu_10#¡Claro! Y tampoco es transgénico.#$r 11 -5 Thu_11#Nop. Lo orgánico es para hippies.#$r 11 0 Thu_neutral#Ni siquiera sé lo que significa eso." #!String
+    Thu_old: "#$p 10#Hola, ¿Que tal funciona esa granja orgánica? No puedo esperar a probar alguno de tus productos.|Hola. ¿Como está la granja? Espero que no estés usando mucho los pesticidas." #!String
+    Thu_10: "¡Perfecto! Sabía que amabas La Tierra.$h" #!String
+    Thu_11: "Que pena que pienses eso.$s" #!String
+    Thu_neutral: "¡Oh! Bueno, no importa.$s" #!String
+    Fri: "Otro precioso día de primavera.#$e#Apuesto a que Elliott describiría esas nubes a la perfección con un poema.#$e#¿Conoces a Elliott? Vive en esa vieja cabaña de la playa." #!String
+    Sat: "Me gusta fabricarme mi propia ropa, pero no es fácil conseguir tela.#$e#Se tarda mucho en llegar a la ciudad." #!String
+    Sun: "¡Hola @!#$e#¿Crías ovejas en tu establo? ¡Puedes transformar su lana en preciosas madejas de tela!#$e#Aunque, necesitarás un telar." #!String
+    Sun4: "Mis padres nos dejaron al cuidado de esta casa a mi y a Haley. Han estado viajando por todo el mundo los últimos dos años.#$e#No tenemos ni idea de cuando volverán.#$e#Aunque, me gusta vivir aquí. Es una zona preciosa y el pueblo es bonito." #!String
+    event_dance1: "¡Gracias!" #!String
+    event_dance2: "Um... vale. Siento que no te haya gustado. Supongo que estos tres meses practicando han sido una completa pérdida de tiempo...$s" #!String
+    event_dance3: "¿De verdad crees eso? ¡Es exactamente el efecto que esperaba!$h#$b#Estoy muy contenta de que te haya gustado." #!String
 
