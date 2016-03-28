@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Hi! I'm the owner of the saloon. Welcome to town.#$e#Stop in if you need any refreshments.$h" #!String
-    Mon: "Yeah, I know a lot about the people living here.#be#That's one of the benefits of being a bartender.$h#$e#Sometimes I hear too much..." #!String
-    Tue: "I sell different dishes each week, so make sure and check in every now and then!#$e#You might taste something spectacular.$h#$e#Just let me know if you have any allergies.$s#$e#Okay, see you around." #!String
-    Wed: "Emily's been working here for a while now. I don't know what I'd do without her!#$e#I would hate to have to clean all those pots by myself.$s#$e#Teamwork!" #!String
-    Thu: "Pam and Clint come into the saloon almost every night.#$e#I'd probably go out of business if they stopped coming.$h#$e#So make sure you don't drive them away!" #!String
-    Thu6: "Clint comes into the saloon almost every night and sits at the same table by himself.#$e#Sometimes he glances over at Emily with a nervous look. Hmmm.#$e#Maybe that's why he comes in so often. Oh well, that means more business for me." #!String
-    Thu8: "Pam comes into the saloon almost every night and drinks way too much of my ale.#$e#Maybe I should try introducing her to one of my new blended fruit 'slurpers'.#$e#Ah well, I shouldn't pass any judgement on my customers." #!String
-    Fri: "Hi there, @. Need something to drink?" #!String
-    Fri4: "Don't drink too much wine, or you'll end up like me.$h#$e#Just kidding... kind of.#$e#Although I do enjoy a taste of that Stardew Valley vintage.$h" #!String
-    Sat: "Are you much of a chef, @?#$e#If you have a kitchen and some recipes, you can cook some useful dishes.#$e#Home-cooked meals make great gifts, as well." #!String
-    Sun: "I slept in too late today... again.#$e#I've probably spent half my life asleep!$s#$e#I guess I need an alarm clock. Ugh." #!String
+    1: "¡Hola! Soy el dueño del salón. Bienvenido a la ciudad.#$e#Pásate por aquí si necesitas algún refresco.$h" #!String
+    Mon: "Sí, sé mucho acerca de las personas que viven aquí.#be#Esa es una de las ventajas de ser el tabernero.$h#$e#A veces escucho demasiado..." #!String
+    Tue: "Vendo platos diferentes cada semana, ¡así que asegúrate de pasar a mirar de vez en cuando!#$e#Podrías probar algo espectacular.$h#$e#Avísame si tienes algún tipo de alergia.$s#$e#Vale, nos vemos." #!String
+    Wed: "Emily ha estado trabajando aquí desde hace un tiempo. ¡No se lo que haría sin ella!#$e#Odiaría tener que limpiar todas esas ollas yo solo.$s#$e#¡Trabajo en equipo!" #!String
+    Thu: "Pam y Clint vienen al salón casi todas las noches.#$e#Probablemente me arruinaría si dejaran de venir.$h#$e#¡Así que trata de no espantarlos!" #!String
+    Thu6: "Clint viene al salón casi todas las noches y se sienta en la misma mesa.#$e#Algunas veces mira de reojo a Emily y se pone nervioso. Mmm.#$e#Quizás por eso viene tanto. Bueno, eso significa más ganancias para mi." #!String
+    Thu8: "Pam viene al salón casi todas las noches a beber cerveza, demasiada.#$e#Quizás debería decirle que pruebe uno de mis nuevos 'sorbetes' de fruta.#$e#Bueno, no debería juzgar a mis clientes." #!String
+    Fri: "Hola @. ¿Quieres algo de beber?" #!String
+    Fri4: "No bebas mucho vino o acabarás como yo.$h#$e#Solo bromeaba.#$e#Aunque me gusta el sabor de esa cosecha de Stardew Valley.$h" #!String
+    Sat: "¿Te gusta cocinar @?#$e#Si tienes una cocina y algunas recetas, puedes cocinar algunos platos útiles.#$e#Las comidas caseras pueden ser grandes regalos, también." #!String
+    Sun: "Hoy he dormido demasiado...#$e#¡Probablemente me haya pasado la mitad de mi vida durmiendo!#$e#Supongo que necesito un despertador. Uf." #!String
 
