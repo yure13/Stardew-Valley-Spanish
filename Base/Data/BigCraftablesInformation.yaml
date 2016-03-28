@@ -35,65 +35,65 @@ content:  #!Dictionary<Int32,String>
     13: "Furnace/50/-300/Crafting-9/Convierte minerales y carbón en barras de metal./true/true/0" #!String
     15: "Preserves Jar/50/-300/Crafting -9/Convierte verduras en encurtidos y fruta en mermelada./true/true/0" #!String
     16: "Cheese Press/50/-300/Crafting -9/Convierte la leche en queso./true/true/0" #!String
-    17: "Loom/50/-300/Crafting -9/Turns raw wool into fine cloth./true/true/0" #!String
-    19: "Oil Maker/50/-300/Crafting -9/Makes gourmet truffle oil./true/true/0" #!String
-    20: "Recycling Machine/50/-300/Crafting -9/Turns fishing trash into resources./true/true/0" #!String
-    21: "Crystalarium/50/-300/Crafting -9/Insert a gem of your choice and it will grow copies./true/true/0" #!String
-    22: "Table Piece L/50/-300/Crafting -9/The left side of a big table./true/true/0" #!String
-    23: "Table Piece R/50/-300/Crafting -9/The right side of a big table/true/true/0" #!String
-    24: "Mayonnaise Machine/50/-300/Crafting -9/Turns eggs into mayonnaise./true/true/0" #!String
-    25: "Seed Maker/50/-300/Crafting -9/Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops./true/true/0" #!String
-    26: "Wood Chair/50/-300/Crafting -9/A chair that can be oriented in 4 different ways./true/true/0" #!String
-    27: "Wood Chair/50/-300/Crafting -9/A chair that can be oriented in 4 different ways./true/true/0" #!String
-    28: "Skeleton Model/50/-300/Crafting -9/A model of a skeleton./true/true/0" #!String
-    29: "Obelisk/50/-300/Crafting -9/A sinister-looking portal that radiates with evil energy./false/true/0" #!String
-    31: "Chicken Statue/50/-300/Crafting -9/A wooden statue of a chicken./true/true/0" #!String
-    56: "Slime Ball/50/-300/Crafting -9/Filled with slime./true/true/2" #!String
-    64: "Bookcase/50/-300/Crafting -9/A home for books./true/false/1" #!String
-    65: "Fancy Table/50/-300/Crafting -9/A finely crafted round table./true/false/1" #!String
-    66: "Ancient Table/50/-300/Crafting -9/It's covered in the thickest cobwebs./true/false/1" #!String
-    67: "Ancient Stool/50/-300/Crafting -9/It smells like Grandma's apartment./true/false/1" #!String
-    68: "Grandfather Clock/50/-300/Crafting -9/It's so old... looks like the pendulum is rusted in place./true/false/1" #!String
-    69: "Teddy Timer/50/-300/Crafting -9/It's a grandfather clock shaped like a teddy./true/false/1" #!String
-    70: "Dead Tree/0/-300/Crafting -9/It's been petrified for a long time, poor thing./true/false/1" #!String
-    71: "Staircase/0/-300/Crafting -9/Use this to move down a level in the mines./true/false/1" #!String
-    72: "Tall Torch/0/-300/Crafting -9/The stem is made from bamboo./true/false/1" #!String
-    73: "Ritual Mask/0/-300/Crafting -9/It's way too large to wear./true/false/1" #!String
-    74: "Bonfire/0/-300/Crafting -9/The red embers glow softly./true/false/1" #!String
-    75: "Bongo/0/-300/Crafting -9/A decorative percussion instrument with a rich sound./true/false/1" #!String
-    76: "Decorative Spears/0/-300/Crafting -9/Not a very safe decoration./true/false/1" #!String
-    78: "Boulder/0/-300/Crafting -9/An extremely dense piece of stone./true/false/1" #!String
-    79: "Door/0/-300/Crafting -9/A hidden mechanism causes it to retract into the ground./true/false/1" #!String
-    80: "Door/0/-300/Crafting -9/A hidden mechanism causes it to retract into the ground./true/false/1" #!String
-    81: "Locked Door/0/-300/Crafting -9/A hidden mechanism causes it to retract into the ground./true/false/2" #!String
-    82: "Locked Door/0/-300/Crafting -9/A hidden mechanism causes it to retract into the ground./true/false/2" #!String
-    83: "Wicked Statue/0/-300/Crafting -9/There's something unsettling about the looks of this statue./true/false/0" #!String
-    84: "Wicked Statue/0/-300/Crafting -9/Something's not right with this statue./true/false/2" #!String
-    85: "Sloth Skeleton L/0/-300/Crafting -9/This extinct sloth roamed the lush, prehistoric forests of Stardew Valley. Its powerful jaw tore through the toughest plant fibers./true/false/0" #!String
-    86: "Sloth Skeleton M/0/-300/Crafting -9/The ribs of a prehistoric sloth. /true/false/0" #!String
-    87: "Sloth Skeleton R/0/-300/Crafting -9/The hind legs and tail of a prehistoric sloth./true/false/0" #!String
-    88: "Standing Geode/0/-300/Crafting -9/It's a huge geode mounted on a stand. Hundreds of purple crystals shimmer within./true/false/0" #!String
-    89: "Obsidian Vase/0/-300/Crafting -9/A beautifully crafted ornamental vase made from obsidian and gold./true/false/0" #!String
-    90: "Crystal Chair/0/-300/Crafting -9/A fancy, delicate chair made from crystals./true/false/0" #!String
-    94: "Singing Stone/0/-300/Crafting -9/It rings out with a pure tone when struck./true/false/0" #!String
-    95: "Stone Owl/0/-300/Crafting -9/It's not clear where this came from, but it looks very fine./true/false/0" #!String
-    96: "Strange Capsule/0/-300/Crafting -9/There's something fleshy bobbing around in the fluid.../true/false/0" #!String
-    98: "Empty Capsule/0/-300/Crafting -9/Part of the glass is shattered./true/false/0" #!String
-    99: "Feed Hopper/0/-300/Crafting -9/Provides convenient access to silo fodder./true/false/0" #!String
-    101: "Incubator/0/-300/Crafting -9/Hatches eggs into baby chickens and ducks./true/false/2" #!String
-    104: "Heater/0/-300/Crafting -9/Keeps your animals warmer and happier during the winter./true/false/0" #!String
-    105: "Tapper/0/-300/Crafting -9/Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!/true/false/0" #!String
-    106: "Camera/0/-300/Crafting -9/An old camera mounted on a tripod./true/false/0" #!String
-    107: "Plush Bunny/0/-300/Crafting -9/It's big, it's soft, and it's cute./false/true/0" #!String
-    108: "Tub o' Flowers/0/-300/Crafting -9/Flowers planted in an oak barrel. Blooms in spring and summer./true/true/0" #!String
-    109: "Tub o' Flowers/0/-300/Crafting -9/Flowers planted in an oak barrel. Blooms in spring and summer./true/true/0" #!String
-    110: "Rarecrow/0/-300/Crafting -9/Collect them all! (1 of 8)/true/true/0" #!String
-    111: "Decorative Pitcher/0/-300/Crafting -9/Hand-made out of brass./true/true/0" #!String
-    112: "Dried Sunflowers/0/-300/Crafting -9/A vibrant home decoration./true/true/0" #!String
-    113: "Rarecrow/0/-300/Crafting -9/Collect them all! (2 of 8)/true/true/0" #!String
-    114: "Charcoal Kiln/0/-300/Crafting -9/Turns 20 pieces of wood into one piece of coal./true/true/0" #!String
-    116: "Stardew Hero Trophy/0/-300/Crafting -9/The most prestigious award a Stardew Valley resident could recieve!/true/true/0" #!String
-    117: "Soda Machine/0/-300/Crafting -9/Keeps pumping out the good stuff./true/true/0" #!String
+    17: "Loom/50/-300/Crafting -9/Convierte lana sin procesar en una fina tela./true/true/0" #!String
+    19: "Oil Maker/50/-300/Crafting -9/Fabrica aceite de trufa gourmet./true/true/0" #!String
+    20: "Recycling Machine/50/-300/Crafting -9/Convierte la basura pescada en recursos./true/true/0" #!String
+    21: "Crystalarium/50/-300/Crafting -9/Inserta una gema a elección y crecerán copias de esta./true/true/0" #!String
+    22: "Table Piece L/50/-300/Crafting -9/El lado izquierdo de una gran mesa./true/true/0" #!String
+    23: "Table Piece R/50/-300/Crafting -9/El lado derecho de una gran mesa./true/true/0" #!String
+    24: "Mayonnaise Machine/50/-300/Crafting -9/Convierte huevos en mayonesa./true/true/0" #!String
+    25: "Seed Maker/50/-300/Crafting -9/Coloca cultivos dentro para producir una cantidad variable de semillas. No funciona con frutas de árboles./true/true/0" #!String
+    26: "Wood Chair/50/-300/Crafting -9/Una silla que puede ser orientada en 4 direcciones diferentes./true/true/0" #!String
+    27: "Wood Chair/50/-300/Crafting -9/Una silla que puede ser orientada en 4 direcciones diferentes./true/true/0" #!String
+    28: "Skeleton Model/50/-300/Crafting -9/Un modelo de un esqueleto./true/true/0" #!String
+    29: "Obelisk/50/-300/Crafting -9/Un portal con un aspecto siniestro que irradia energía oscura./false/true/0" #!String
+    31: "Chicken Statue/50/-300/Crafting -9/Una estatua de un pollo hecha de madera./true/true/0" #!String
+    56: "Slime Ball/50/-300/Crafting -9/Está repleta de baba./true/true/2" #!String
+    64: "Bookcase/50/-300/Crafting -9/Un hogar para libros./true/false/1" #!String
+    65: "Fancy Table/50/-300/Crafting -9/Una mesa redonda finamente fabricada a mano./true/false/1" #!String
+    66: "Ancient Table/50/-300/Crafting -9/Está cubierta de espesas telarañas./true/false/1" #!String
+    67: "Ancient Stool/50/-300/Crafting -9/Huele como el apartamento de la abuela./true/false/1" #!String
+    68: "Grandfather Clock/50/-300/Crafting -9/Es muy viejo... parece que el péndulo se detuvo tras oxidarse./true/false/1" #!String
+    69: "Teddy Timer/50/-300/Crafting -9/Reloj de pared con forma de oso de peluche/true/false/1" #!String
+    70: "Dead Tree/0/-300/Crafting -9//Ha estado petrificado por un largo tiempo, pobre cosa./true/false/1" #!String
+    71: "Staircase/0/-300/Crafting -9/Utiliza esto para bajar un nivel en las minas./true/false/1" #!String
+    72: "Tall Torch/0/-300/Crafting -9/Su tronco esta hecho de bamboo./true/false/1" #!String
+    73: "Ritual Mask/0/-300/Crafting -9/Es demasiado grande para llevarla puesta./true/false/1" #!String
+    74: "Bonfire/0/-300/Crafting -9/Sus brasas rojas brillan suavemente./true/false/1" #!String
+    75: "Bongo/0/-300/Crafting -9/Un instrumento de percusión con un sonido vivo./true/false/1" #!String
+    76: "Decorative Spears/0/-300/Crafting -9/No es una decoración muy segura./true/false/1" #!String
+    78: "Boulder/0/-300/Crafting -9/Un pedazo de roca extremadamente denso./true/false/1" #!String
+    79: "Door/0/-300/Crafting -9/Un mecanismo oculto hace que se retraiga en el suelo./true/false/1" #!String
+    80: "Door/0/-300/Crafting -9/Un mecanismo oculto hace que se retraiga en el suelo./true/false/1" #!String
+    81: "Locked Door/0/-300/Crafting -9/Un mecanismo oculto hace que se retraiga en el suelo./true/false/2" #!String
+    82: "Locked Door/0/-300/Crafting -9/Un mecanismo oculto hace que se retraiga en el suelo../true/false/2" #!String
+    83: "Wicked Statue/0/-300/Crafting -9/Hay algo inquietante sobre el aspecto de esta estatua./true/false/0" #!String
+    84: "Wicked Statue/0/-300/Crafting -9/Algo no está bien con esta estatua./true/false/2" #!String
+    85: "Sloth Skeleton L/0/-300/Crafting -9/Este perezoso extinto recorría los exuberantes bosques prehistóricos de Stardew Valley. Sus mandíbula podían atravesar las fibras vegetales más duras./true/false/0" #!String
+    86: "Sloth Skeleton M/0/-300/Crafting -9/Son las costillas de un oso perezoso de la prehistoria. /true/false/0" #!String
+    87: "Sloth Skeleton R/0/-300/Crafting -9/Son las patas traseras y la cola de un oso perezoso prehistórico./true/false/0" #!String
+    88: "Standing Geode/0/-300/Crafting -9/Una gran geoda sobre un soporte. Cientos de cristales de color púrpura brillan dentro./true/false/0" #!String
+    89: "Obsidian Vase/0/-300/Crafting -9/Un jarrón ornamental hecho maravillosamente a mano de obsidiana y oro./true/false/0" #!String
+    90: "Crystal Chair/0/-300/Crafting -9/Una elegante y delicada silla hecha de cristales./true/false/0" #!String
+    94: "Singing Stone/0/-300/Crafting -9/Al ser golpeado resuena con un tono puro./true/false/0" #!String
+    95: "Stone Owl/0/-300/Crafting -9/No esta claro de donde ha salido, pero se ve muy bien./true/false/0" #!String
+    96: "Strange Capsule/0/-300/Crafting -9/Hay algo carnoso flotando sobre el fluido.../true/false/0" #!String
+    98: "Empty Capsule/0/-300/Crafting -9/Una parte del vidrio esta destrozado./true/false/0" #!String
+    99: "Feed Hopper/0/-300/Crafting -9/Proporciona un acceso cómodo a los silos de forrajes./true/false/0" #!String
+    101: "Incubator/0/-300/Crafting -9/Eclosiona huevos en pollitos y patitos/true/false/2" #!String
+    104: "Heater/0/-300/Crafting -9/Mantiene a tus animales cálidos y felices durante el invierno./true/false/0" #!String
+    105: "Tapper/0/-300/Crafting -9/¡Colócalo en un arce, roble o pino y espera a que el deposito se llene con producto!/true/false/0" #!String
+    106: "Camera/0/-300/Crafting -9/Una vieja cámara montada en un trípode./true/false/0" #!String
+    107: "Plush Bunny/0/-300/Crafting -9/Es grande, suave y adorable./false/true/0" #!String
+    108: "Tub o' Flowers/0/-300/Crafting -9/Flores plantadas en un barril de roble. Florecen en primavera y verano./true/true/0" #!String
+    109: "Tub o' Flowers/0/-300/Crafting -9/Flores plantadas en un barril de roble. Florecen en primavera y verano./true/true/0" #!String
+    110: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (1 de 8)/true/true/0" #!String
+    111: "Decorative Pitcher/0/-300/Crafting -9/Hechos a mano en latón./true/true/0" #!String
+    112: "Dried Sunflowers/0/-300/Crafting -9/Una vibrante decoración para el hogar../true/true/0" #!String
+    113: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (2 de 8)/true/true/0" #!String
+    114: "Charcoal Kiln/0/-300/Crafting -9/Convierte 20 piezas de madera en un trozo de carbón./true/true/0" #!String
+    116: "Stardew Hero Trophy/0/-300/Crafting -9/¡El premio más prestigioso que un ciudadano de Stardew Valley puede recibir!/true/true/0" #!String
+    117: "Soda Machine/0/-300/Crafting -9/Sigue soltando lo mejor de lo mejor./true/true/0" #!String
     118: "Barrel/0/-300/Crafting -9/.../true/true/0" #!String
     119: "Crate/0/-300/Crafting -9/.../true/true/0" #!String
     120: "Barrel/0/-300/Crafting -9/.../true/true/0" #!String
@@ -102,33 +102,33 @@ content:  #!Dictionary<Int32,String>
     123: "Crate/0/-300/Crafting -9/.../true/true/0" #!String
     124: "Barrel/0/-300/Crafting -9/.../true/true/0" #!String
     125: "Crate/0/-300/Crafting -9/.../true/true/0" #!String
-    126: "Rarecrow/0/-300/Crafting -9/Collect them all! (3 of 8)/true/true/0" #!String
-    127: "Statue Of Endless Fortune/0/-300/Crafting -9/It's made of solid gold. What's it for?/true/true/0" #!String
-    128: "Mushroom Box/0/-300/Crafting -9/Mushrooms grow every few days/true/true/2" #!String
-    130: "Chest/0/-300/Crafting -9/A place to store your items./true/true/0" #!String
-    136: "Rarecrow/0/-300/Crafting -9/Collect them all! (4 of 8)/true/true/0" #!String
-    137: "Rarecrow/0/-300/Crafting -9/Collect them all! (5 of 8)/true/true/0" #!String
-    138: "Rarecrow/0/-300/Crafting -9/Collect them all! (6 of 8)/true/true/0" #!String
-    139: "Rarecrow/0/-300/Crafting -9/Collect them all! (7 of 8)/true/true/0" #!String
-    140: "Rarecrow/0/-300/Crafting -9/Collect them all! (8 of 8)/true/true/0" #!String
-    141: "Prairie King Arcade System/0/-300/Crafting -9/Play 'Journey Of The Prairie King' at home!/true/true/0" #!String
-    143: "Wooden Brazier/25/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    144: "Stone Brazier/40/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    145: "Gold Brazier/100/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    146: "Campfire/0/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    147: "Stump Brazier/80/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    148: "Carved Brazier/200/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    149: "Skull Brazier/300/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    150: "Barrel Brazier/80/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    151: "Marble Brazier/500/-300/Crafting -9/Provides a moderate amount of light./true/true/0" #!String
-    152: "Wood Lamp-post/50/-300/Crafting -9/Provides a good amount of light./true/true/0/true" #!String
-    153: "Iron Lamp-post/100/-300/Crafting -9/Provides a good amount of light./true/true/0/true" #!String
-    154: "Worm Bin/0/-300/Crafting -9/Produces bait on a regular basis. The worms are self-sufficient./true/true/0" #!String
+    126: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (3 de 8)/true/true/0" #!String
+    127: "Statue Of Endless Fortune/0/-300/Crafting -9/Está hecha de oro. ¿Para qué sirve?/true/true/0" #!String
+    128: "Mushroom Box/0/-300/Crafting -9/Las setas crecen cada pocos días./true/true/2" #!String
+    130: "Chest/0/-300/Crafting -9/Un lugar para guardar tus objetos./true/true/0" #!String
+    136: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (4 de 8)/true/true/0" #!String
+    137: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (5 de 8)/true/true/0" #!String
+    138: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (6 de 8)/true/true/0" #!String
+    139: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (7 de 8)/true/true/0" #!String
+    140: "Rarecrow/0/-300/Crafting -9/¡Colecciónalos a todos! (8 de 8)/true/true/0" #!String
+    141: "Prairie King Arcade System/0/-300/Crafting -9/¡Juega a 'Viaje Del Rey de la Pradera' en casa!/true/true/0" #!String
+    143: "Wooden Brazier/25/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    144: "Stone Brazier/40/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    145: "Gold Brazier/100/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    146: "Campfire/0/-300/Crafting -9/Emite una cantidad moderada de luz../true/true/0" #!String
+    147: "Stump Brazier/80/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    148: "Carved Brazier/200/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    149: "Skull Brazier/300/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    150: "Barrel Brazier/80/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    151: "Marble Brazier/500/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
+    152: "Wood Lamp-post/50/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0/true" #!String
+    153: "Iron Lamp-post/100/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0/true" #!String
+    154: "Worm Bin/0/-300/Crafting -9/Produce cebo de forma regular. Los gusanos son autosuficientes./true/true/0" #!String
     155: "??HMTGF??/0/-300/Crafting -9/??HMTGF??/true/true/0" #!String
-    156: "Slime Incubator/0/-300/Crafting -9/Hatches slimes eggs into slimes. Allows you to raise slimes outdoors./true/false/0" #!String
-    158: "Slime Egg-Press/0/-300/Crafting -9/Compresses 100 pieces of slime into a slime egg. It's a miracle of science!/true/false/0" #!String
-    159: "Junimo Kart Arcade System/0/-300/Crafting -9/Play 'Junimo Kart' at home!/true/true/0" #!String
-    160: "Statue Of Perfection/0/-300/Crafting -9/It's made of pure iridium./true/true/0" #!String
+    156: "Slime Incubator/0/-300/Crafting -9/Eclosiona huevos de slime. Te permite criar slimes en el exterior./true/false/0" #!String
+    158: "Slime Egg-Press/0/-300/Crafting -9/Comprime 100 piezas de slime en un huevo de slime. ¡Es un milagro de la ciencia!/true/false/0" #!String
+    159: "Junimo Kart Arcade System/0/-300/Crafting -9/¡Juega a 'Junimo Kart' en casa!/true/true/0" #!String
+    160: "Statue Of Perfection/0/-300/Crafting -9/Está hecho de puro iridio./true/true/0" #!String
     161: "??Pinky Lemon??/0/-300/Crafting -9/??Pinky Lemon??/true/true/0" #!String
     162: "??Foroguemon??/0/-300/Crafting -9/??Foroguemon??/true/true/0" #!String
 
