@@ -60,9 +60,7 @@ content:
   SandyCooking: 'Buenas, @,^ Estoy tan aburrida en el desierto que he decidido escribirte una carta. Junto a ella viene pegada una receta de una sopa exquisita. ¡Ven a visitarme pronto! ^   -Sandy%item cookingRecipe %%'
   WillyCooking: 'Ey, @,^Me gustaría compartir contigo una vieja receta que mi padre solía prepararme. Es importante que el pescado esté FRESCO.  ^   -Willy%item cookingRecipe %%'
   mom1: 'Hola, @,^  ¿Cómo estás, cariño? Te echo mucho de menos desde que te fuiste. Espero que la vida en la granja sea como esperabas. ^   Te quiere, Mamá.   ^   P.D. Te envié tus galletas favoritas. < %item object 223 1 %%'
-  mom2: |
-    
-    @,^  Hace tanto tiempo que no sé nada de ti, cariño. Las cosas van como siempre aquí, en casa. Te echo mucho de menos. ^  Te quiere, Mamá. ^ P.D. Encontré un sobre con algo de dinero que el abuelo dejó para ti. %item money 500 501 %%
+  mom2:  @,^  Hace tanto tiempo que no sé nada de ti, cariño. Las cosas van como siempre aquí, en casa. Te echo mucho de menos. ^  Te quiere, Mamá. ^ P.D. Encontré un sobre con algo de dinero que el abuelo dejó para ti. %item money 500 501 %%
   mom3: 'Hola, cariño,^  ¡Vi un articulo sobre ti en el periódico local! ¡Parece que te estás adaptando muy bien a la vida en el campo! Estoy tan orgullosa de ti. Cuídate, cariño. Te quiere, Mamá'
   mom4: 'Hola @,^ ¿Como te va todo? Debes estar haciendo una verdadera fortuna en esa granja. ¡No te olvides de tu pobre madre cuando tengas varios millones!  ^  Te quiere, Mamá   ^   P.D. ¡Disfruta de la tarta!%item object 221 1 %%'
   dad1: 'Hola @,^  ¿Te has adaptado a tu nueva vida ya? No puedo creer que hayas crecido tanto desde entonces... El tiempo vuela, de verdad. Ahora que te has ido tengo todo este dinero extra por ahí tirado, así que te mando un pequeño regalo.^  Te quiere, Papá.%item money 500 501 %%'
