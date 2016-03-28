@@ -140,7 +140,7 @@ content:  #!Dictionary<String,String>
     summer_6_2: "Se busca pescado^Necesito un buen espécimen de pez globo. Estoy llevando a cabo un experimento con la toxina del pez globo.^Recompensa: 1000g^ -Demetrius%item quest 118 %%" #!String
     summer_15_2: "Bueno días, @,^Me gustaría regalarle una carambola a mi esposa por nuestro aniversario. ¿Las cultivas en tu granja? Si me traes una te estaré muy agradecido.^   -Kent%item quest 119 %%" #!String
     summer_21_2: "@,^Necesito aceite de trufa. No preguntes por qué.^ -Alcalde Lewis%item quest 120 %%" #!String
-    fall_6_2: "Se busca: 1 langosta fresca para un maravilloso bisqué que estoy haciendo.^Quién: Gus, propietario del bar Stardrop^Recompensa: 800g %item quest 121 %%" #!String
+    fall_6_2: "Se busca: Una langosta fresca para un maravilloso bisqué que estoy haciendo.^Quién: Gus, propietario del bar Stardrop^Recompensa: 800g %item quest 121 %%" #!String
     fall_19_2: "AVISO^¿Alguien tiene una de esas baterías? El mando de mi televisión ha muerto, y es un engorro tener que levantarme del sillón para cambiar de canal.^  -Pam%item quest 122 %%" #!String
     winter_5_2: "@,^Estoy creando un equipo encantado con un increíble poder.^Sin embargo, me falta algo: una barra de iridio.^ Estoy dispuesto a pagar 5 veces su valor en el mercado. Tráela tan pronto como sea posible. ^ -M. Rasmodius, Mago %item quest 123 %%" #!String
     winter_13_2: "Tengo otro reto para ti: Consigue un bacalao largo.^No es fácil, pero sé que puedes hacerlo.^ -Willy%item quest 124 %%" #!String
