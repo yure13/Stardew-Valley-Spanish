@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Ah, el nuevo granjero que todos esperábamos. Soy Elliott.^Ah, el nuevo granjero que todos esperábamos. Soy Elliott.#$e#Un placer conocerte." #!String
+    1: "Ah, el nuevo granjero que todos esperábamos. Soy Elliott.^Ah, la nueva granjera que todos esperábamos. Soy Elliott.#$e#Un placer conocerte." #!String
     Mon: "Yo soy relativamente nuevo en el pueblo, ¡pero me siento como en casa!$h#$e#Llegué aquí hace sólo un año." #!String
     Mon4: "Espero que consideres este lugar como 'tu hogar'." #!String
     Tue: "Te sugiero que pases un tiempo estudiando las nubes y las olas. Quizás descubras algo nuevo.#$e#Bueno, debería volver al trabajo." #!String
