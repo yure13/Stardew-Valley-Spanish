@@ -16,35 +16,35 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Oh, you're that new farmer boy, aren't you?^Oh! You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Later." #!String
-    9: "Teddy bears are so cute!<#$e#*giggle*$h" #!String
-    Mon: "This town is so small. It sucks.$u#$e#I have to drive, like, twenty miles to buy any decent clothes.$s#$e#That's why I usually just order online.#$e#What?" #!String
-    Tue: "Nice shoes.^Nice makeup.#$e#Are those made out of plastic?^Or wait... Are you even wearing any?#$e#I'm bored." #!String
-    Wed: "The only thing I like about this town is the beach.$u#$e#Do you think there's something wrong with that?" #!String
-    Thu: "Today I need to organize my clothes. It's a pretty big undertaking.#$e#I'll have to throw out all of last year's styles to make room for the new ones!#$e#*sigh* I wish I could eat a cupcake rather than do all that work...$s#$e#Do you need something?" #!String
-    Fri: "Don't you get tired of running around on that farm all day, or whatever it is you do?#$e#I couldn't stand getting all dirty like that.#$e#You probably get a nice tan, though." #!String
-    Sat: "I get hungry on the weekends. Everyone starts cooking and the air smells great.#$q 12/13 Sat_old#Um. So what kind of food do you like best?#$r 12 0 Sat_12#Stir Fry#$r 12 0 Sat_12#Fettucine Alfredo#$r 13 5 Sat_13#Cupcakes#$r 12 0 Sat_12#Vegan sausage" #!String
-    Sat_old: "#$p 13#That's right, you like tasty food too! So you probably understand what I mean.$h|You probably wouldn't understand." #!String
-    Sat_12: "Gross. But I guess everyone likes different stuff.$u" #!String
-    Sat_13: "Me too! They're so tasty, aren't they? I like mine with pink frosting.$h" #!String
-    Sun: "My sister is so weird.$u#$e#Sometimes I wonder if we're actually related.#$e#Umm... what?" #!String
-    Wed8: "There are only two things I like about this town.#$b#One of them is the beach.#$e#The other one is a secret! *giggle*$h" #!String
-    Tue2: "I wonder if any nice shells washed up on the beach this morning?#$e#This isn't the best time of year for shells, though." #!String
-    Wed4: "I'm glad that the flowers are starting to bloom.#$e#Those pink ones smell so good.$h" #!String
-    Fri6: "I need to find some kind of hobby other than shopping.#$e#I've decided I want to expand my horizons.#$e#Maybe I should start playing the piccolo?" #!String
-    Mon6: "I used to complain about this town being so small, but I've grown to like it.#$e#If it was much bigger it wouldn't feel like a community." #!String
-    Thu6: "I cooked dinner last night. It actually turned out okay!#$e#But I did make a huge mess in the kitchen..." #!String
-    Sun6: "Do you ever go to Gus' salloon? My sister works there.#$e#It's the only place that's open late." #!String
-    Sat8: "I was at the beach the other day, and I found a seagull with her wings caught in a plastic net.#$e#I set her free.#$e#It was sad, though. She looked so innocent.$s" #!String
-    Fri10: "@, can we go on an adventure someday?#$e#I've never been on an adventure." #!String
-    Event_clean1: "Hmmmmm... #$b#Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it." #!String
-    Event_clean2: "NO!! I'm not going to do it!$a#$b#You guys are both stupid!$a" #!String
-    Event_clean3: "She should take the 'high road'? What's that supposed to mean?#$b#You think I'm being a baby, huh?" #!String
-    Event_jar1: "Great, then you shouldn't have any problem opening this jar for me!$h" #!String
-    Event_jar2: "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?" #!String
-    Event_beach1: "No, you won't! This bracelet was passed down to me by my great-grandmother!$a" #!String
-    Event_beach2: "...Maybe someone across the sea will find it.$s" #!String
-    Event_room1: "Him? No!#$b#...Well, I guess I used to like Josh. But not anymore! He's immature." #!String
-    Event_room2: "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..." #!String
-    Event_room3: "Huh? What's an android?" #!String
+    1: "Oh, tú eres el nuevo granjero ¿cierto?^¡Oh! Tú eres la nueva granjera, ¿verdad?#$e#¿Qué? Oh... Me llamo Haley.#$e#Nos vemos." #!String
+    9: "¡Los ositos de peluche son tan tiernos!<#$e#*Risita*$h" #!String
+    Mon: "Este pueblo es tan pequeño. Apesta...$u#$e#Tengo que conducir como veinte millas para poder comprar ropa decente.$s#$e#Por eso normalmente la compro online.#$e#¿Qué?" #!String
+    Tue: "Bonitos zapatos.^Bonito maquillaje.#$e#¿Están hechos de plástico?^Un momento... ¿Estás usando algo?#$e#Estoy aburrida." #!String
+    Wed: "Lo único que me gusta de este pueblo es la playa.$u#$e#¿Crees que hay algo malo en ello?" #!String
+    Thu: "Hoy necesito organizar mi ropa. Es una tarea bastante agotadora.#$e#Tendré que tirar todas las prendas del año pasado para hacer sitio para las nuevas.#$e#*Suspiro* Ojalá pudiera comerme un cupcake en lugar de hacer todo este trabajo... $s#$e#¿Necesitas algo?" #!String
+    Fri: "¿No te cansas de correr de un lado para otro en la granja, o lo que sea que hagas?#$e#Yo sería incapaz de mancharme tanto.#$e#Aunque posiblemente consigas un gran bronceado." #!String
+    Sat: "Los fines de semana me entra mucha hambre. Todos empiezan a cocinar y el aire huele genial.#$q 12/13 Sat_old#Um. ¿A ti qué comida te gusta más?#$r 12 0 Sat_12#Salteado de verduras.#$r 12 0 Sat_12#Pasta con salsa.#$r 13 5 Sat_13#Cupcakes.#$r 12 0 Sat_12#Salchichas veganas." #!String
+    Sat_old: "#$p 13#Eso esta bien,¡también te gusta la comida sabrosa! Así que puede que entiendas lo que digo.$h|Puede que no lo entiendas." #!String
+    Sat_12: "Asqueroso. Pero supongo que cada uno tiene sus gustos.$u" #!String
+    Sat_13: "¡A mi también! Son tan sabrosos, ¿verdad? A mi me gustan con glaseado rosa.$h" #!String
+    Sun: "Mi hermana es muy extraña.$u#$e#A veces me pregunto si de verdad somos hermanas.#$e#Umm...¿qué?" #!String
+    Wed8: "Solo hay dos cosas que me gustan en este pueblo.#$b#Una de ellas es la playa.#$e#¡Y la otra es un secreto!*Risita*$h" #!String
+    Tue2: "Me pregunto si alguna concha habrá sido arrastrada hasta la playa esta mañana.#$e#Aunque no sea el mejor momento del año para ellas." #!String
+    Wed4: "Me encanta que las flores estén empezando a florecer.#$e#Esas de color rosa huelen tan bien. $h" #!String
+    Fri6: "Necesito encontrar un hobby que no sea comprar.#$e#He decidido que voy a expandir mis horizontes#$e#¿Tal vez debería empezar a tocar el flautín?" #!String
+    Mon6: "Solía quejarme de que el pueblo es demasiado pequeño, pero ha empezado a gustarme.#$e#Si fuese mucho más grande no me sentiría como en una comunidad." #!String
+    Thu6: "Estuve cocinando anoche. ¡Quedo bastante bien!#$e#Pero dejé la cocina hecha un desastre..." #!String
+    Sun6: "¿Has ido alguna vez al Salón de Gus? Mi hermana trabaja allí. Es el único establecimiento que abre hasta tarde." #!String
+    Sat8: "El otro día estaba en la playa y encontré a una gaviota que tenía las ala atrapadas en una red de plástico #$e#La liberé.#$e#Fue bastante triste. Parecía tan inocente.$s" #!String
+    Fri10: "@, ¿podemos ir de aventuras algún día?#$e#Nunca he ido de aventuras." #!String
+    Event_clean1: "Um... #$b#Vale, tú ganas. Podría hacer esto todas las semanas. No hay razón por la que discutir." #!String
+    Event_clean2: "¡¡NO!! ¡No voy a hacerlo!$a#$b#¡Sois idiotas!$a" #!String
+    Event_clean3: "¿Debería tomar el "camino al éxito"? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿eh?" #!String
+    Event_jar1: "Genial, ¡no creo que tengas ningún problema en abrirme este tarro!$h" #!String
+    Event_jar2: "Oh... ¿No lo eres? Hmmm...$s#$b#Bueno, de todas formas, ¿podrías intentar abrirme este tarro?" #!String
+    Event_beach1: "¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a" #!String
+    Event_beach2: "...Quizá la encuentre alguien al otro lado del mar.$s" #!String
+    Event_room1: "¿Él? ¡No!#$b#... Bueno, supongo que antes me gustaba Josh. ¡Pero ya no! Es un inmaduro." #!String
+    Event_room2: "¿Qué? Eso suena divertido, pero no me gustaría dejar Stardew Valley ahora mismo..." #!String
+    Event_room3: "¿Eh? ¿Qué es un androide?" #!String
 
