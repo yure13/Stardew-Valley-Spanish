@@ -16,30 +16,30 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Oh, hey man. I'm Josh. So you're the new guy, huh?^Hey, you're the new girl, huh? I think we're going to get along great. I'm Josh.#$e#I'll see you around." #!String
-    Mon: "Did you know I was the captain of my school's football team?$u#$e#See this little star on my jacket here? That proves it.#e#This town's too small to have a school, so we go to the next town over." #!String
-    Tue: "The beach is a cool place to hang out and soak up some rays.#$e#I wish there were more girls in this town, know what I mean?^Hey, do you wanna hang out with me at the beach some time? Do you have a swimsuit?#e#You gotta spend some time in the sun or else you'll get all pale." #!String
-    Wed: "Looks like a good day to toss the football around, huh?$u#$e#$q 5/6 Wed_01_old#I'd ask you to play catch, but you don't really seem like the football type.^If you weren't a girl I'd ask you to play catch.#$r 6 0 Wed_01_02#I'm fine just watching you from a distance.#$r 5 15 Wed_01_01#I want to play catch with you!" #!String
-    Wed_01_old: "#$p 5#Go long! ...just kidding. Hahaha.|I just wish I had someone to play catch with...$s" #!String
-    Wed_01_01: "Really? Cool! We'll have to play sometime.$h" #!String
-    Wed_01_02: "Yeah, some people just aren't made for football." #!String
-    Thu: "I guess working on a farm is kinda like sports, huh?#$e#You gotta practice to get good.#$e#Some people have to practice more than others.$u" #!String
-    Fri: "Hey bro, what's up?^Hey, did you get new pants or something?#e#Oh, I almost forgot! It's my day for doing push-ups!#e#Every time I do push-ups I try to do one more than last time. Pretty cool strategy, huh?" #!String
-    Sat: "I did a lot of push-ups yesterday.#e#I'm pretty sore, but that means I'm making progress." #!String
-    Sun: "'sup?#$e#...Yeah, I'm just chillin'." #!String
-    Sun2: "Hey, @.#$e#That's right, I remember your name." #!String
-    Sun4: "Hey, @.#$e#Wanna hang out or something?" #!String
-    Fri4: "Hey, @. Thanks for stopping by.#e#Oh, I almost forgot! It's my day for doing push-ups!#e#Every time I do push-ups I try to do one more than last time. Pretty cool strategy, huh?" #!String
-    Tue6: "@, don't you think it's fun to hang out at the beach?#$e#It's important to spend time with your friends." #!String
-    Mon8: "It's better to enjoy life than to worry too much about fame and fortune, don't you think?#$e#I still want to go pro, but it's not the most important thing in the world." #!String
-    Fri8: "@, hello! I'm always glad to see you.$h#$e#I hope you feel the same!$l" #!String
-    Sat10: "If I don't turn pro, will you still like me?#$e#Thanks. That's more important to me.$h" #!String
-    Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
-    Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
-    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
-    Event_books2: "Yeah, I guess you're right...$s" #!String
-    Event_books3: "You were supposed to disagree with me.$a" #!String
-    Event_parents1: "That's an interesting thought..." #!String
-    Event_parents2: "They would never do that!$a" #!String
-    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+    1: "Oh, hola colega. Soy Josh. ¿Así que tú eres el nuevo?^Oye, eres la chica que se acaba de mudar ¿verdad? Creo que nos divertiremos juntos. Soy Josh.#$e#Nos veremos por ahí." #!String
+    Mon: "¿Sabías que yo era el capitán del equipo de fútbol de mi escuela?$u#$e#¿Has visto esta pequeña estrella en mi chaqueta? Es la prueba de ello.#$e#Este pueblo es muy pequeño como para tener una escuela, así que vamos a la del pueblo vecino." #!String
+    Tue: "La playa es un buen lugar para pasar el rato y disfrutar del sol.#$e#Me gustaría que hubiese mas chicas en este pueblo, ¿sabes?^Ey, ¿te apetece quedar en la playa alguna vez? ¿Tienes bañador?#$e#Tendrás que pasar algo de tiempo al sol para broncearte bien." #!String
+    Wed: "Parece un buen día para jugar al fútbol, ¿no crees?$u#$e#$q 5/6 Wed_01_old#Te diría de echar un partido, pero no pareces el típico que juegue a fútbol.^Si no fueras una chica te diría de echar un partido.#$r 6 0 Wed_01_02#Estoy bien, solo te miraba desde la distancia.#$r 5 15 Wed_01_01#¡Quiero jugar contigo un partido!" #!String
+    Wed_01_old: "#$p 5#¡Largo!...Era broma. Jajajajaja.|Solo quiero tener a alguien para echar un partido...$s" #!String
+    Wed_01_01: "¿De Verdad? ¡Genial! Vamos a tener que jugar en algún momento.$h" #!String
+    Wed_01_02: "Sí, algunas personas simplemente no están hechas para el fútbol." #!String
+    Thu: "Supongo que trabajar en una granja es un poco como los deportes, ¿no?#$e#Tienes que practicar para ser mejor.#$e#Hay gente que necesita practicar más que otros.$u" #!String
+    Fri: "¡Hola colega! ¿Qué pasa?^Hola, ¿te has comprado unos pantalones nuevos?#$e#Ah, casi me olvido, hoy toca hacer flexiones.#$e#Cada vez que hago flexiones intento hacer una más que la vez anterior. Una buena técnica, ¿no crees?" #!String
+    Sat: "Ayer hice un montón de flexiones.#$e#Me duele todo, pero eso significa que estoy progresando." #!String
+    Sun: "¿Qué pasa?#$e#...ya ves, estoy descansando." #!String
+    Sun2: "Hola @.#$e#Exacto, recuerdo tu nombre." #!String
+    Sun4: "Hola @.#$e#¿Te apetece quedar o algo?" #!String
+    Fri4: "Hola @. Gracias por pasarte por aquí.#$e# Oh, casi lo olvido, hoy toca hacer flexiones.#$e#Cada vez que hago intento hacer una mas que la vez anterior. Una buena técnica ¿no crees?" #!String
+    Tue6: "¿@, no crees que es divertido pasar el rato en la playa?#$e#Es importante pasar tiempo con tus amigos." #!String
+    Mon8: "Es mejor disfrutar la vida que preocuparte demasiado por la fama y la fortuna, ¿no crees?#$e#Yo sigo queriendo ser famoso, pero no es lo más importante en el mundo." #!String
+    Fri8: "@, ¡hola! Siempre me alegro de verte.$h#$e#¡Espero que sientas lo mismo!$l" #!String
+    Sat10: "Si no me hago famoso, ¿me seguirás queriendo?#$e#Gracias. Eso es lo más importante para mí.$h" #!String
+    Event_beach1: "Por supuesto. Si no lo hicieses pensaría que estás loco, o algo raro.^Por supuesto. Si no lo hicieses pensaría que estás loca, o algo raro." #!String
+    Event_beach2: "¿En serio? Eres un poco rarito.$a^¿En serio? Eres un poco rarito.$a#$b#Perdón." #!String
+    Event_books1: "¡No, no lo soy! Solo estás tratando de halagarme.$a" #!String
+    Event_books2: "Sí, supongo que es cierto...$s" #!String
+    Event_books3: "Se suponía que no estabas de acuerdo conmigo.$a" #!String
+    Event_parents1: "Esa es una idea interesante..." #!String
+    Event_parents2: "¡Ellos nunca harían eso!$a" #!String
+    Event_parents3: "...Quizás tengas razón...No lo sé.$s" #!String
 
