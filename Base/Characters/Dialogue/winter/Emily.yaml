@@ -16,17 +16,17 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Be careful an icicle doesn't fall on your head!" #!String
-    Mon10: "Be careful an icicle doesn't fall on your head! I wouldn't want my best friend to get hurt!" #!String
-    Tue: "Oh, hello @!$h#$e#You must be getting very good at farming by now, huh?" #!String
-    Tue4: "I bet you're an excellent farmer by now!" #!String
-    Wed: "Haley and I aren't made for such a big house. It's a hassle to keep it clean.#$e#Ah well. I really shouldn't be complaining.#$e#Your farmhouse seems nice and cozy.$h" #!String
-    Thu: "It must be so cold for the poor fish.$s#$e#I wonder if fish hibernate?" #!String
-    Fri: "If I wasn't so busy I'd help you dig around in that cave by the lake.#$e#I bet there are some powerful crystals inside there." #!String
-    Sat: "Do you know how to cook 'Bean Hotpot'?#$e#I like that dish quite a bit.$h#$e#It's hard to get fresh ingredients in the winter, huh?" #!String
-    Sun: "Hi!#$e#...Yes?" #!String
-    Sun6: "My sister and I might fight sometimes, but I would really miss her if she left.#$e#I think she'll become a very nice young lady some day... Don't tell her I said that.$h#$e#So, is there anything you want to talk about?" #!String
-    event_dance1: "Thank you!" #!String
-    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
-    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+    Mon: "¡Ten cuidado no sea que te te caiga un trozo de hielo en la cabeza!" #!String
+    Mon10: "¡Ten cuidado de que no te caiga un carámbano en la cabeza! ¡No quiero que mi mejor amigo resulte herido!" #!String
+    Tue: "Oh, Hola @!$h#$e#Debes de estar muy bien en la granja ahora, ¿Eh?" #!String
+    Tue4: "Apuesto a que eres un excelente agricultor ahora!" #!String
+    Wed: "Haley y yo no estamos hechos para una casa tan grande. Es un lío mantenerla limpia.#$e#Ah bien. Realmente no debería quejarme.#$e#Tu casa de campo parece agradable y acogedora.$h" #!String
+    Thu: "Debe de hacer mucho frío para el pobre pez.$s#$e#Me pregunto si los peces hibernan..." #!String
+    Fri: "Si no estuviese tan ocupada te ayudaría a cavar en esa cueva que hay junto lago.#$e#Apuesto a que contiene cristales de gran poder en su interior." #!String
+    Sat: "¿Sabes como cocinar 'Estofado de frijoles'?#$e#Me gusta bastante ese plato.$h#$e#Es difícil conseguir ingredientes frescos en invierno, eh?" #!String
+    Sun: "Holai!#$e#... ¿Si?" #!String
+    Sun6: "Mi hermana y yo podremos pelear algunas veces, pero realmente la extrañaría si se fuese.#$e#Pienso que ella va a convertirse en una dama muy agradable algún día... No le digas a ella que dije eso.$h#$e#Así que, ¿hay algo de lo que quieras hablar?" #!String
+    event_dance1: "¡Gracias!" #!String
+    event_dance2: "Um... Okey. Perdón si no te gustó. Supongo que estos tres meses de práctica han sido en vano...$s" #!String
+    event_dance3: "¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado." #!String
 
