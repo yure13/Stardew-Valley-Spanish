@@ -16,29 +16,29 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hi... Um, are you doing okay?" #!String
-    Mon4: "I don't exactly love being the only girl in town who lives in a trailer.#$e#I wish I could live in a nice house, someday.$s" #!String
-    Tue: "I walk by your farm on most days. It's a really nice area.#$e#I always feel best when I'm outside." #!String
-    Tue4: "Your farm looks really pretty right now.$h#$e#I always admire it when I walk by." #!String
-    Tue10: "A farm seems like a good place for children, don't you think?$l#$e#It was just a thought I had.$l" #!String
-    Wed: "Hi.#$e#I don't really know what to talk about today, sorry.$u" #!String
-    Wed4: "I really like to cook. I've invented a few dishes of my own.#$e#You'll have to taste them sometime.$h" #!String
-    Wed8: "It must be hard, cooking meals for yourself every day.#$e#Don't you wish you had someone to cook with?$l" #!String
-    Thu: "Have you been to the archaeological office? It's also a library.#$e#Reading is one of my favorite hobbies." #!String
-    Thu6: "Mom doesn't take very good care of herself...#$e#I worry about her." #!String
-    Fri: "If you dig in the dirt you cand find some interesting things.#$e#One time I found some old glass at the beach.#$e#I made a necklace out of the pieces, see?" #!String
-    Sun: "So, do you like to decorate your farm house?#$e#It must be nice having your own place to decorate." #!String
-    Sun6: "Would you like someone to decorate your house for you?#$e#I think it would be fun to come up with designs." #!String
-    Sun10: "@! I was just thinking about the future...#$e#Where do you picture yourself in ten years?$l#$e#I have a few ideas for myself...$u" #!String
-    Sat: "Hello. Ummm...#$b#The mountains look nice today, don't they?$u" #!String
-    Sat4: "I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself." #!String
-    Sat8: "Hi @.$h#$e#Your farmhouse must be pretty easy to clean, huh?" #!String
-    event_mail1: "Oh! You saw...?$l" #!String
-    event_mail2: "Oh...#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s" #!String
-    event_mail3: "I see." #!String
-    event_cook1: "Thank you! I'm proud of this dish." #!String
-    event_cook2: "...I'm sorry.$s" #!String
-    event_family1: "Me too.$h" #!String
-    event_family2: "...sorry.$s" #!String
-    event_family3: "I see.$s" #!String
+  Mon: "Hola... Um, ¿Estás bien?" #!String
+  Mon4: "No me entusiasma ser la única chica de la ciudad que vive en una caravana.#$e#Desearía poder vivir algún día en una casa bonita.$s" #!String
+  Tue: "Paso por tu granja casi todos los días. Es una zona muy agradable.#$e#Siempre me siento mejor cuando estoy fuera." #!String
+  Tue4: "Tu granja se ve muy bonita ahora.$h#$e#Siempre la admiro cuando paso." #!String
+  Tue10: "Una granja parece un buen lugar para los niños, ¿no crees?$l#$e#Sólo estaba pensando en ello.$l" #!String
+  Wed: "Hola.#$e#La verdad es que no se de que hablar hoy, lo siento.$u" #!String
+  Wed4: "Me encanta cocinar. He inventado unos cuantos platos yo misma.#$e#Tendrás que probarlos alguna vez.$h" #!String
+  Wed8: "Debe ser duro, cocinar para ti cada día.#$e#¿No desearías tener a alguien con quien cocinar?$l" #!String
+  Thu: "¿Has estado en la oficina arqueológica? Es también una biblioteca.#$e#Leer es una de mis aficiones favoritas." #!String
+  Thu6: "Mamá no se cuida demasiado...#$e#Me preocupo por ella." #!String
+  Fri: "Si cavas en la tierra puedes encontrar cosas interesantes.#$e#Una vez encontré un viejo vaso en la playa.#$e#Me hice un collar con los pedazos, ¿ves?" #!String
+  Sun: "Así que te gusta decorar tu granja, ¿no?#$e#Debe ser agradable tener tu propio lugar para decorar." #!String
+  Sun6: "¿Te gustaría que alguien decorase tu casa por ti?#$e#Creo que sería divertido inventar diseños." #!String
+  Sun10: "¡@! Estaba pensando sobre el futuro...#$e#¿Dónde te ves dentro de diez años?$l#$e#Yo ya tengo alguna que otra idea...$u" #!String
+  Sat: "Hola. Umm...#$b#Hoy las montañas se ven bonitas, ¿verdad?$u" #!String
+  Sat4: "He intentado mantener nuestro hogar limpio, pero siempre se ensucia de nuevo.$s#$e#Es duro llevar una casa tu sola." #!String
+  Sat8: "Hola @.$h#$e#Tu casa debe ser muy fácil de limpiar, ¿eh?" #!String
+  event_mail1: "¡Oh! Lo viste...?$l" #!String
+  event_mail2: "Oh...#$b#Lo siento, Sr. Mullner. Lo que hice, fue grosero.$s" #!String
+  event_mail3: "Ya veo." #!String
+  event_cook1: "¡Gracias! Estoy orgullosa de este plato." #!String
+  event_cook2: "...Lo siento.$s" #!String
+  event_family1: "Yo tambien.$h" #!String
+  event_family2: "...lo siento.$s" #!String
+  event_family3: "Ya veo.$s" #!String
 
