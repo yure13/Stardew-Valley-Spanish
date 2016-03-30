@@ -16,33 +16,32 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.#$e#It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things." #!String
-    Mon: "Maintaining a household is difficult work... but somebody has to do it.#$e#Yes?" #!String
-    2_1: "My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?" #!String
-    Tue: "Exercise is important for staying healthy. I always make sure to set aside some time for it.#$e#As a parent, I don't have much time to devote to myself. So I try and make every minute count." #!String
-    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!" #!String
-    Wed: "What did you say? It's %time already? My goodness!#$e#I still have tons of work to do!$s" #!String
-    Thu6: "Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?" #!String
-    Thu: "So you're a farmer, huh? Interesting.#$c .5#I've never met a farmer before.$k#$e#Maybe some day you can teach me how to grow vegetables.$h" #!String
-    Fri: "$d Joja#The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!|The food at Pierre's is so much fresher and healthier than anything I ever bought at JojaMart. I do miss those cheap Joja prices, though." #!String
-    Sat: "Hi.#$e#Need something?" #!String
-    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
-    Mon2: "#$1 JodiAltar#Yesterday I visited Yoba's Altar to ask for my husband's safe return.#$e#I'm trying to stay positive, but it's hard sometimes.$s" #!String
-    Sun: "#$c .5#I'm taking a break from house chores today.$h#$e#I'm taking the day off.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
-    summer_Mon: "Summer is nice, but it also means more work.#$e#I'll have to keep the garden in shape on top of working in the house!" #!String
-    summer_Tue: "Hello.#$e#Do you need something? I'm a little busy." #!String
-    summer_Thu: "Housework is frustrating because you're never finished.#$e#The day after I sweep the floor, it's dirty again." #!String
-    summer_Sun: "What in the world am I going to make for dinner?#$e#*sigh*..." #!String
-    fall_Thu: "Maybe I've spoiled the boys a bit. They've never had to do any chores.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.#$b#I hope he hasn't grow up to be lazy. That won't do.$s#$e#Being a parent isn't very easy." #!String
-    fall_Sun: "Caroline and I are good friends. I tell her everything." #!String
-    fall_Sun2: "When you become a parent, you have to leave your old lifestyle behind.#$e#Maybe that's not entirely true." #!String
-    winter_Mon: "I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again.$h" #!String
-    winter_Tue: "Hi. Do you get tired of people asking about your farm all the time?#$e#I think I would." #!String
-    winter_Tue6: "*sigh*... Sometimes I dream about life on my own... without a family to look after. Is that horrible?$s#$e#Don't tell anyone.$4" #!String
-    winter_Wed2: "What do I do for fun? Hmm... That'a a good question.#$e#I like sleeping.$s" #!String
-    winter_Wed4_2: "Kent has been home for a while now, but he still seems uneasy.$s" #!String
-    winter_Thu: "Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors." #!String
-    winter_Thu8: "We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back.$s#$e#Just don't make the same mistake.$4" #!String
-    winter_Fri: "It would be nice to take a vacation once in a while...$s" #!String
-    winter_Sun: "If I was rich the first thing I'd do would be to hire a maid and a chef.#$e#My goodness, that would be nice!$h" #!String
-
+    Introduction: "¡Mira! No eres exactamente como te imaginaba... ¡pero está bien! soy Jodi.#$e#Es un pueblo pequeño y tranquilo, ¡así que es muy emocionante cuando alguien nuevo se muda por aquí! Tener a un granjero con nosotros realmente podría cambiar las cosas." #!String
+    Mon: "¿Mantener un hogar es difícil... pero alguien tiene que hacerlo $e # #si?" #!String
+    2_1: "Mi marido Kent es un soldado que trabaja en el extranjero, por eso no esta aquí ahora mismo. ¡$·%& Sé que volverá sano y salvo una vez terminado su recorrido! ¿"·$% Necesitas algo?" #!String
+    Tue: "Ejercitarse es importante para mantenerse saludable. Siempre me aseguro de reservar un momento para ello.#$e#Como padre, no tengo mucho tiempo que dedicarme a mí mismo. Así que lo intento y hago que cada minuto valga la pena." #!String
+    Wed4: "Me gustaría poder pasar más tiempo afuera, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener mis manos suaves.#$e#Cuanto más viejo te haces, más trabajo tienes que hacer para mantenerte saludable.#$e#Bueno, ¡Adiós!" #!String
+    Wed: "¿Qué has dicho? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s" #!String
+    Thu6: "Como pasa el tiempo *sigh*#$e#Recuero cuando Sam era un bebe con pañales. Era un niño tan lindo.$s#$e#No le digas que te lo dije.$h#$e# Te debe gustar hablar conmigo eh?" #!String
+    Thu: "Eres un granjero, ¿eh? Interesante.#$c .5#Nunca conocí a un granjero antes.$k#$e#Tal vez algún día me puedas enseñar a cultivar vegetales.$h" #!String
+    Fri: "$d Joja #La comida de JojaMart no podría ser más saludable para mi familia, pero con esos precios tan bajos sería una locura comprar en otra parte! | La comida de Pierre es mucho más fresca y más sana que cualquier cosa que compre alguna vez en JojaMart. Echo de menos esos precios baratos de Joja, aunque." #!String
+    Sat: "Hola.#$e#¿Necesitas algo?" #!String
+    Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
+    Mon2: "#$1 JodiAltar#Ayer visité el Altar de Yoba para rogar porque mi marido vuelva sano y salvo.#$e#Trato de mantenerme positiva, pero a veces ese me hace muy duro.$s" #!String
+    Sun: "#$c .5#Me estoy tomando un descanso de las tareas del hogar.$h#$e#Me estoy tomando el día libre.$h#$e#Si no me da el aire en la cara, ¡Me voy a volver loco!!#$e#Además no quiero que se me atrofien las piernas." #!String
+    summer_Mon: "El verano es agradable, pero también significa más trabajo.#$e#Tendré que mantener el jardín en forma además de trabajar en la casa!" #!String
+    summer_Tue: "Hola.#$e#Necesitas algo? Estoy un poco ocupada." #!String
+    summer_Thu: "Las labores domésticas son frustrantes porque nunca terminas.#$e#El día luego de barrer el piso, está sucio de nuevo." #!String
+    summer_Sun: "¿Qué rayos haré para cenar?#$e#*suspiro*..." #!String
+    fall_Thu: "Lo mismo he mimado un poco a los chicos. Nunca han tenido que hacer labores domésticas.#$e#Supongo que he querido que disfruten de su niñez mientras puedan. Aunque sin embargo, Sam ya está hecho un hombre.#$b#Espero que no se convierta en un vago. Eso no pasará.$s#$e#Convertirse en padre no es tan fácil." #!String
+    fall_Sun: "Caroline y Yo somos buenos amigos. Se lo cuento todo." #!String
+    fall_Sun2: "Cuando eres padre, tienes que dejar tu antiguo estilo de vida atrás.#$e#Quizás no es totalmente cierto." #!String
+    winter_Mon: "IMe encantaba jugar con la nieve cuando era niño. Lo bueno de ser nadre es que lo vuelvo a disfrutar.$h" #!String
+    winter_Tue: "Hola. ¿Estas cansado de que la gente pregunte por tu granja constantemente?#$e#A mi me pasaría." #!String
+    winter_Tue6: "*sigh*... A veces sueño con vivir por mi cuenta... sin tener una familia a la que cuidar. ¿Tan malo es?$s#$e#No se lo cuentes a nadie.$4" #!String
+    winter_Wed2: "¿Que hago para divertime? Hmm... Buena pregunta.#$e#Me gusta dormir.$s" #!String
+    winter_Wed4_2: "Kent ha pasado en casa una temporada, pero aún no se encuentra cómodo.$s" #!String
+    winter_Thu: "Sam hace demasiado ruido con su música. Espero que no moleste a los vecinos." #!String
+    winter_Thu8: "Creo que nos precipitamos para casarnos, con Kent siendo un soldado y todo eso... Apenas disfruté de la libertad y la juventud, y ahora es muy tarde para volver atrás.$s#$e#No cometas el mismo error.$4" #!String
+    winter_Fri: "Sería bueno tomar unas vacaciones de vez en cuando...$s" #!String
+    winter_Sun: "Si fuese rico la primera cosa que haría sería contratar a una camarera y un chef.#$e#¡Dios mío, eso sería estupendo!$h" #!String
