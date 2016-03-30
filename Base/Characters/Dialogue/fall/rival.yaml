@@ -16,11 +16,11 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    5: "So... @. Have you been to the local mines? I have. It's a little dangerous, though, so maybe you should avoid it." #!String
-    19: "Oh, those are just regular old boots, huh? Mine are custom made with electronic balance gyros and speed enhancers.#$b#But I don't want to get your hopes up too much... I would feel bad. These are definitely way out of your price range." #!String
-    5_2: "Blech. The food here... I make way better dishes at home.$s#$e#...And who picked the greens for this salad? You'd think they could find something better than month-old algae..." #!String
-    19_2: "Don't you have a greenhouse yet? I'm going to be growing crops all winter in mine." #!String
-    Fri: "I would let you visit my farm, but then you'd probably copy my crop setup.#$e#My crops are set up in the most efficient way possible. I planned it out using some really expensive computer software.^Take care, honey." #!String
-    12_2: "I wish I knew how to grow mushrooms on my farm... I could make a fortune off mushrooms." #!String
-    26_2: "Your arms are looking a little thin... are you eating well?^Have you been eating at the Saloon a lot? Your legs look... very, very healthy!$h" #!String
+  5: "Así que...@. ¿Has estado en las minas locales? Yo sí. Pero son un poco peligrosas, así que quizá deberías evitarlas." #!String
+  19: "Oh, eso son solo unas simples botas viejas, ¿eh? Las mías están hechas con giroscopios electrónicos de equilibrio y potenciadores de velocidad.#$b#Pero no quiero que te hagas demasiadas ilusiones... Me sentiría mal. Esas están definitivamente fuera de tu poder adquisitivo." #!String
+  5_2: "Puaj. La comida aquí... Hago mejores platos en casa.$s#$e#...¿Y quién a cogido las verduras para esta ensalada? No crees que podrían encontrar algo mejor que algas de hace un mes..." #!String
+  19_2: "¿Aún no tienes invernadero? Yo voy a plantar en el mío durante el invierno." #!String
+  Fri: "Te dejaría visitar mi granja, pero seguramente copiarías la disposición de mis cultivos.#$e#Están dispuestos de la forma más eficiente. Lo planifiqué con un programa realmente caro en mi ordenador.^Cuídate cariño." #!String
+  12_2: "Ojalá supiera cómo hacer crecer setas en mi granja... podría hacerme de oro gracias a ellas." #!String
+  26_2: "Tus brazos parecen un poco delgados... ¿Estás comiendo bien?^¿Has estado comiendo mucho en el bar? Tus piernas parecen... ¡muy, muy saludables!$h" #!String
 
