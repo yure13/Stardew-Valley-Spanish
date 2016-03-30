@@ -16,14 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "During this time of year I divert my attentions to fungi." #!String
-    Tue: "We know a lot about nature thanks to science.#$e#But there's always a lot more to learn." #!String
-    Wed: "You're probably growing a lot of interesting plants on your farm, huh?#$e#Maybe I'll stop by your place some day and check it out." #!String
-    Thu: "How's the farming business going? It's corn season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." #!String
-    Fri: "Maru sure spends a lot of time working on those gadgets of hers.#$e#I'm glad she's so dedicated." #!String
-    Sat: "Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was searching for some data and I didn't notice you there.#$e#Do you need anything?" #!String
-    Sun: "It's good to take a break from work every now and then.#$e#I guess that's kind of difficult when you live on a farm, though.#$e#Hey, at least in the winter you don't have to worry about crops." #!String
-    Wed6: "Hi @. I'm always glad when you come for a visit.#$e#It's nice to have some company after all this lonely lab-work." #!String
-    Event_tomato1: "Really? I figured a farmer would know the correct answer...$s" #!String
-    Event_tomato2: "See? @ agrees with me." #!String
+    Mon: "Durante esta época del año desvío mi atención a los hongos." #!String
+    Tue: "Sabemos mucho acerca de la naturaleza gracias a la ciencia.#$e#Pero siempre hay mucho más para aprender." #!String
+    Wed: "Seguro que en tu granja están creciendo muchas plantas, ¿eh?#$e#Tal vez me pase algún día a comprobarlo." #!String
+    Thu: "¿Cómo va el negocio? Es temporada de maíz, ¿verdad?#$e#Supongo que será bastante tranquilo, trabajando con las plantas al aire libre todo el día." #!String
+    Fri: "Maru pasa mucho tiempo trabajando en esos aparatos suyos.#$e#Me alegro que sea tan dedicada." #!String
+    Sat: "Veamos... tal vez el nivel de fijación de nitrógeno se ve afectado por las secreciones de nematodos....$u#$b#¡Oh! Perdón. Estaba buscando algunos datos y no te he visto.#$e#¿Necesitas algo?" #!String
+    Sun: "Es bueno tomar un descanso de vez en cuando.#$e#Aunque, supongo que es un poco difícil cuando vives en una granja.#$e#Ey, al menos en invierno no tienes que preocuparte de los cultivos." #!String
+    Wed6: "Hola @. Me alegra que vengas de visita.#$e#Es agradable tener un poco de compañía después de todo el día trabajando solo en el laboratorio." #!String
+    Event_tomato1: "¿De veras? Pensaba que un granjero sabría la respuesta correcta...$s" #!String
+    Event_tomato2: "¿Ves? @ está de acuerdo conmigo." #!String
 
