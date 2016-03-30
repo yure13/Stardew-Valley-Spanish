@@ -16,13 +16,13 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Maintaining a household is difficult work.$s#$e#But no one else is going to do it if I don't$s#$e#Yes?" #!String
-    Tue: "What? It's %time already? My goodness!#$e#I still have tons of work to do!$s" #!String
-    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Okay. Bye!" #!String
-    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
-    Thu: "Maybe I've spoiled Sam a little bit. He's never had to do any chores.#$e#I guess I wanted him to be able to enjoy his childhood while he still could.#$b#I hope he hasn't grow up to be lazy, though.$s#$e#Being a parent isn't very easy." #!String
-    Fri: "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
-    Sat: "Hi.#$e#Need something?" #!String
-    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
-    Sun: "Are your boots clean?$s#$e#Sorry, I'm a little paranoid." #!String
+   Mon: "Mantener una casa es un trabajo difícil.$s#$e#Pero nadie va hacerlo si no lo hago yo,$s#$e#¿no?" #!String
+   Tue: "¿Qué? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s" #!String
+   Wed4: "Me gustaría poder pasar más tiempo al aire libre, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener las manos suaves.#$e#Cuanto mayor te haces, más trabajo tienes que hacer para mantener la salud.$s#$e#Bueno. ¡Adiós!" #!String
+   Wed: "Umm, sí. Buen tiempo, ¿eh? Lo siento, no se muy bien de qué hablar." #!String
+   Thu: "Tal vez he consentido un poco a Sam. Nunca ha tenido que hacer ninguna tarea.#$e#Supongo que quería que disfrutara de su infancia mientras pudiera.#$b#Aunque, espero que no llegue a convertirse en un vago.$s#$e#No es fácil ser padre." #!String
+   Fri: "Hoy me estoy tomando un descanso de las tareas.$h#$e#Si no paso un rato fuera, ¡me voy a volver loco!#$e#Además, no quiero que se me debiliten las piernas." #!String
+   Sat: "Hola.#$e#¿Necesitas algo?" #!String
+   Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
+   Sun: "¿Están tus botas limpias? $s#$e#Lo siento, estoy un poco paranoica." #!String
 
