@@ -16,22 +16,21 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Well hello there! I'm Gus, chef and owner of the Stardrop Saloon.#$e#Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready.$h" #!String
-    Mon: "Yeah, I know a lot about the people living here.#$e#That's one of the benefits of being a bartender.$h#$e#Sometimes I hear too much..." #!String
-    Saloon: "Good evening. Can I get you anything?" #!String
-    Saloon4: "Good evening. Make yourself at home." #!String
-    SeedShop_Entry: "Hi, Pierre!/Now, what do I need.../Ah, that looks good!/Makin' my special sauce tonight!/Pierre! What's fresh?/Pierre! Waddya got for me?" #!String
-    Saloon8: "Hi there @. I'm glad to see you! You're always welcome here." #!String
-    Saloon_Tue: "Hi! Please relax and enjoy yourself." #!String
-    Saloon_Thu: "Hey, you look like you could use a beverage." #!String
-    Saloon_Fri: "Business has been really good tonight. I'm pleased." #!String
-    Tue: "I sell different dishes each week, so make sure and check in every now and then!#$e#You might taste something spectacular.$h#$e#Just let me know if you have any allergies.$s#$e#Okay, see you around." #!String
-    Wed: "Emily's been working here for a while now. I don't know what I'd do without her!#$e#I would hate to have to clean all those pots by myself.$s" #!String
-    Thu: "Pam and Clint come into the saloon almost every night.#$e#I'd probably go out of business if they stopped coming.$h#$e#So make sure you don't drive them away!" #!String
-    Thu6: "Clint comes into the saloon almost every night and sits at the same table by himself.#$e#Sometimes he glances over at Emily with a nervous look. Hmmm.#$e#Maybe that's why he comes in so often. Oh well, that means more business for me." #!String
-    Thu8: "Pam comes into the saloon almost every night and drinks way too much beer.#$e#Ah well, I shouldn't pass judgement on my customers." #!String
-    Fri: "Hi there, @. If you're thirsty tonight why don't you swing by the saloon?" #!String
-    Fri4: "I don't actually drink very much myself. I'm mainly doing this to make a living.#$e#Although I do enjoy a taste of the Stardew Valley vintage from time to time." #!String
-    Sat: "Are you much of a chef, @?#$e#If you have a kitchen and some recipes, you can cook some useful dishes.#$e#Home-cooked meals make great gifts, as well." #!String
-    Sun: "Business has been pretty steady thanks to my regular customers." #!String
-
+    Introduction: "Bien, ¡hola por ahí! soy Gus, chef y propietario del bar Stardrop.#$e#Pásate si necesitas algún refrigerio. Siempre tengo café caliente y cerveza fría lista para servirse.$h" #!String
+    Mon: "Si, se mucho acerca de las personas que viven aqui.#$e#Ese es uno de los beneficios que tienes siendo barman.$h#$e#A veces escucho demasiado..." #!String
+    Saloon: "Buenas noches. ¿Puedo hacer algo por ti?" #!String
+    Saloon4: "Buenas noches. Siéntete como en casa." #!String
+    SeedShop_Entry: "¡Hola, Pierre!/Ahora, lo que necesito.../¡Ah, se ve bien!/¡Esta noche haré mi salsa especial!/Pierre, ¿que hay de nuevo?/¡Pierre! ¿Que tienes para mi?" #!String
+    Saloon8: "Hola @. ¡Me alegro de verte! Siempre eres bienvenido." #!String
+    Saloon_Tue: "¡Hola! Por favor, relajate y disfruta." #!String
+    Saloon_Thu: "Oye, parece que necesitas un trago." #!String
+    Saloon_Fri: "El negocio ha sido muy bueno esta noche. Me alegro." #!String
+    Tue: "Vendo platos diferentes cada semana, ¡así que asegúrate de pasar a mirar de vez en cuando!#$e#Podrías probar algo espectacular.$h#$e#Solo avísame si tienes algún tipo de alergia.$s#$e#Vale, nos vemos." #!String
+    Wed: "Emily ha estado trabajando aquí desde hace mucho tiempo. ¡No se lo que haría sin ella!#$e#Odiaría tener que limpiar todas esas ollas yo solo.$s" #!String
+    Thu: "Pam y Clint vienen al bar casi todas las noches. #$e# Probablemente me arruinaría si dejaran de venir. $h#$e#¡Así que trata de no espantarlos!" #!String
+    Thu6: "Clint viene a la Taberna casi cada noche y se sienta en la misma mesa. #$e# Algunas veces mira de reojo a Emily y se pone nervioso. Mmm. #$e# Quizás sea por eso que viene tan seguido. Bueno, eso significa mas ganancias para mi." #!String
+    Thu8: "Pam entra en el bar casi cada noche y bebe demasiada cerveza.#$e#En fin, no debería emitir críticas sobre mis clientes." #!String
+    Fri: "Hola, @. Si esta noche tienes sed, ¿por que no te pasas por el salón?" #!String
+    Fri4: "De hecho, yo no bebo mucho. Principalmente hago esto para ganarme la vida.#$e#Aunque disfruto del sabor de la vendimia de Stardew Valley de vez en cuando." #!String
+    Sat: "¿Eres un cocinero, @? #$e# Si tienes una cocina y algunas recetas, puedes cocinar algunos platos útiles. #$e# Las comidas puede ser grandes regalos, también." #!String
+    Sun: "El negocio se ha mantenido gracias a mis clientes habituales." #!String
