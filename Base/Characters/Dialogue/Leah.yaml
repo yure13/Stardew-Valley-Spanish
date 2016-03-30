@@ -16,64 +16,64 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely." #!String
-    danceRejection: "I'll be honest. I don't want to dance with you.$u" #!String
-    Beach: "I came for the sound of the ocean. Beautiful, isn't it?" #!String
-    Mon: "The trees look nice today, don't they?#$q 21/22/211132 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tons of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 211132 5 Mon_211132#To follow in grandpa's footsteps.#$r 22 5 Mon_22#I wanted to escape my old life." #!String
-    Mon_old: "$p 21#So are you making as much money as you hoped?|Spending time in nature is very rewarding." #!String
-    Mon_21: "Hmm. That seems kind of shallow, doesn't it?$s" #!String
-    Mon_22: "That's pretty much the reason I came here, too!$h" #!String
-    Mon_211132: "That's very sweet to honor your grandfather like that." #!String
-    Tue4: "Hi. Oh, you want to talk?#$e#The landscape around here gives me a lot of ideas. The terrain is almost like a sculpture itself.#$e#I don't make art for money. It's just an urge that I have.#$e#Farming seems like a very rewarding profession. You get to create delicious food for everyone!$h#$e#You're probably busy. Sorry." #!String
-    Tue: "Hello, neighbor.#$e#We both live outside of town. Does that mean something?" #!String
-    Wed: "#$1 LeahBug#This morning I accidentally stepped on a bug.$s#$e#Sometimes I think it's impossible to live without destroying nature in some way." #!String
-    Wed6: "I love being around animals. They're so innocent.#$e#Farm animals are wonderful, too.$h" #!String
-    Wed8: "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?$l" #!String
-    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h" #!String
-    Thu6: "Foraging is a specialty of mine. Someday I'll make you a fresh salad.$h" #!String
-    Fri: "It's simpler to be friends with the trees. They don't have much to say.$h" #!String
-    Fri2: "We wouldn't be able to survive without nature. It's good to remember that." #!String
-    Fri4: "Hello, @. It's a nice day, isn't it?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
-    Sat: "I love to decorate for the different seasons." #!String
-    Sat8: "Farming sounds so fun. I want to try it, someday.$l" #!String
-    Sun: "If you hear any banging from inside my hut, it's probably just me working on one of my sculptures." #!String
-    Sun8: "If you ever find any interesting looking driftwood, I could use it.$e#It would be special that you gave it to me.$l" #!String
-    event_sculpt1: "...What?$7#$b#Oh! Yeah, that's absolutely right!$h" #!String
-    event_sculpt2: "There's nothing wrong with that... I think there's lots of beauty to be found in raw, untouched nature!#$b#But as a human, I'm also interested in how we shape and interpret the world around us... I guess what I'm saying is that I'm interested in 'art'." #!String
-    event_sculpt3: "You pig!%fork$a^Oh! You're...? Me too.$6#$b#Get out!$a^That's good to know.$l" #!String
-    event_parents1: "You're right... I just wouldn't have been happy back there.$u#$b#It was better for both of us... to end an unsustainable relationship while we were still young and flexible.$u" #!String
-    event_parents2: "That's a little harsh... but, yeah. We had different priorities.$u" #!String
-    event_parents3: "Oh yeah? Well maybe I'll just leave, then!%fork$a" #!String
-    event_parents4: "*sigh*...$s#$b#I guess you're right... it was kind of selfish. But can you really blame me for wanting to be happy? Ugh... I don't know...$s" #!String
-    event_parents5: "*sigh*...$s#$b#Maybe you're right... Humans are selfish creatures. I don't know. $s#$b#I probably shouldn't dwell on it. We all have to make hard choices from time to time.$s" #!String
-    summer_1: "You can tell it's summer by the sweet smell of nectar wafting through the air!$h" #!String
-    summer_Mon: "I found some wild fruits this morning!#$e#Sorry, I don't have any left.$s#$e#Keep looking, I'm sure you'll find something." #!String
-    summer_Tue: "The sound of farm animals is great, isn't it?" #!String
-    summer_Tue4: "The simple things in life are best: a soft summer breeze, majestic clouds, and a goblet full of Stardew Valley red." #!String
-    summer_Thu6: "I have a good eye for wild fruit. Some day I'll make you a nice fruit salad.$h" #!String
-    summer_Fri: "You can use a tapper to harvest syrups and other useful liquids directly from trees.#$e#It's a slow process, but the result can be quite valuable." #!String
-    summer_Fri2: "I hate to be blunt, but if we don't treat nature with respect, our grandchildren will be doomed.#$e#Don't you think so?" #!String
-    summer_Fri6: "Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
-    summer_Sat: "The flowing water keeps my house a little bit cooler in summer.#$e#I can't tolerate heat very well." #!String
-    summer_Sun: "What should I do on such a warm, lazy day? *sigh*#$e#Any ideas?" #!String
-    fall_1: "How quickly the seasons change!#$e#It's shocking." #!String
-    fall_Mon: "#$c .5#I found some wild mushrooms over the weekend!#$e#I had a huge plate of wild mushrooms and eggs for breakfast today... I'm still full.#$e#Keep your nose to the ground and you'll find some mushrooms yourself... I'm sure of it." #!String
-    fall_Tue: "I wonder if I could make a collage out of dried leaves?#$e#They're just so colorful... I can't help but think of the potential for art projects.$h" #!String
-    fall_Tue4: "Everyone has a unique and interesting perspective, whether they believe it or not. Don't you think so?#$e#Although, some people have opinions that I just can't respect." #!String
-    fall_Wed: "It's so nice to live by the river.#$e#I fall asleep to the soothing sound of water every night." #!String
-    fall_Thu6: "One of these days I'll have to make you a wild mushroom stir-fry.$h" #!String
-    fall_Fri: "Do you have a kitchen in your house?#$e#If you have a kitchen, you can cook all kinds of delicious meals.$h" #!String
-    fall_Fri6: "Stop by my cabin if you ever need someone to talk to.$h" #!String
-    fall_Sat: "Decorations accentuate the feeling of the season. I think it's a worthwhile tradition." #!String
-    fall_Sun: "There's a lot of good places to walk around here.#$e#It feels good to stretch your legs." #!String
-    winter_Mon: "I love the way everything looks when it's covered with fresh snow." #!String
-    winter_Tue: "It gets pretty cold in my little cabin.$s#$e#I just snuggle up under a huge blanket, and I'm okay.$h" #!String
-    winter_Wed: "I saw a snow rabbit early this morning! They're rare, aren't they?" #!String
-    winter_Thu: "I'm having a hard time finding fresh food to eat.#$e#I've been eating a lot of bread.$s" #!String
-    winter_Thu6: "*Sigh*... It's hard to get fresh food in the winter.#$e#I bet your farm is pretty well stocked with food, huh?" #!String
-    winter_Fri: "Time seems to move slower here.#$e#When I lived in the city, the year went by so fast." #!String
-    winter_Fri6: "Do you ever get cold in that farmhouse of yours?#$e#Stop by my cabin if you want to huddle under one of my quilts and drink cider.$h" #!String
-    winter_Sat: "Hello. Do you want something?" #!String
-    winter_Sat2: "Hello, @. Is there something you wanted to talk about?" #!String
-    winter_Sun: "Do you ever take a whole day off?#$e#It's a refreshing break." #!String
+    Introduction: "Hola, encantada de conocerte.$h#$e#Has elegido un buen momento para mudarte aquí... La primavera es hermosa." #!String
+    danceRejection: "Siéndote honesto. No quiero bailar contigo.$u" #!String
+    Beach: "Vine por el sonido del océano. Bonito, ¿verdad?" #!String
+    Mon: "Los árboles están bonitos hoy, ¿no crees?#$q 21/22/211132 Mon_old#¿Por qué te volviste granjero?#$r 21 -5 Mon_21#Quiero hacer montones y montones de dinero.#$r 22 5 Mon_22#Es más "real" que vivir en la ciudad.#$r 211132 5 Mon_211132#Para seguir los pasos de mi abuelo.#$r 22 5 Mon_22#Quería escapar de mi antigua vida." #!String
+    Mon_old: "$p 21#Estas haciendo tanto dinero como esperabas?|Es muy gratificante pasar tiempo en la naturaleza." #!String
+    Mon_21: "Hmm. Eso parece algo superficial, ¿no?$s" #!String
+    Mon_22: "Esa es prácticamente la razón por la que vine aquí, también! $h" #!String
+    Mon_211132: "Es muy agradable que honre a su abuelo de ese modo." #!String
+    Tue4: "Hola. Oh, ¿quieres hablar?#$e#El paisaje que nos rodea me da un montón de ideas. El terreno es casi como una escultura en si misma.#$e#No busco ganar dinero con mi arte. Es como un instinto que tengo.#$e#La de granjero parece una profesión muy agradecida. ¡Puedes hacer comidas deliciosas para todos!$h#$e#Probablemente tengas cosas que hacer. Perdona." #!String
+    Tue: "Hola, vecino.#$e# Ambos vivimos fuera de la ciudad. ¿Significa eso algo?" #!String
+    Wed: "#$1 LeahBug#Esta mañana pise accidentalmente un insecto.$s#$e#A veces pienso que es imposible vivir sin destruir la naturaleza de alguna manera." #!String
+    Wed6: "Me encanta estar cerca de animales. Son tan inocentes. #$e #Los animales de la granja son maravillosos, demasiado. $h" #!String
+    Wed8: "Hola! Estaba pensando acerca de ti y tu granja. #$e#Fui imaginando lo bien que debe sentir tener un gran montón de cultivos de cosecha. $h#$e# ¿Aunque, no estaria bien tener algo de ayuda? $l" #!String
+    Thu: "De hecho hay muchos alimentos silvestres en esta zona, si sabes donde mirar.#$e#He tenido ensalada fresca casi todos los días.$h" #!String
+    Thu6: "Encontrar comida es una de mis especialidades. Algún día te haré una ensalada fresca.$h" #!String
+    Fri: "Es fácil ser amigo de los árboles. No tienen mucho que decir.$h" #!String
+    Fri2: "No podríamos sobrevivir sin la naturaleza. Es bueno recordar eso." #!String
+    Fri4: "Hola. Es un buen día, ¿no crees?#$e#Pasa por mi cabina si necesitas alguien con quien hablar. $h" #!String
+    Sat: "Me encanta decorar para las diferentes estaciones." #!String
+    Sat8: "Plantar suena tan divertido. Quiero intentarlo algún día. $l" #!String
+    Sun: "Si escuchas cualquier golpeteo saliendo de mi choza, es probable que sea yo trabajando en una de mis esculturas." #!String
+    Sun8: "Si alguna vez encuentras algo de madera flotando en el agua, podría usarla.$e#Seria genial que me la dieras.$l" #!String
+    event_sculpt1: "...¿Qué?$7#$b#Oh! Si, tiene toda la razón!$h" #!String
+    event_sculpt2: "No hay nada malo con eso... Creo que hay mucha belleza que se encuentra en bruto, en la misma naturaleza!#$b#Pero como ser humano, yo también estoy interesado en cómo nos forma e interpretar el mundo que nos rodea... Supongo que lo que estoy diciendo es que estoy interesado en el 'Arte'." #!String
+    event_sculpt3: "Cerdo!%fork$a^¡Oh! ¿Eres...? Yo también.$6#$b#¡Vete!$a^Es bueno saberlo.$l" #!String
+    event_parents1: "Tienes razón... No habría sido feliz así.$u#$b#Es lo mejor para los dos... poner fin a una relación insostenible mientras aun somos jovenes y podemos adaptarnos.$u" #!String
+    event_parents2: "Es un poco duro... pero, sí. Tuvimos distintas prioridades.$u" #!String
+    event_parents3: "Ah, ¿sí? Bueno quizás lo deje, entonces!%fork$a" #!String
+    event_parents4: "*suspiro*...$s#$b#Supongo que tienes razón... era un poco egoísta. Pero, ¿puedes culparme por querer ser feliz? Ugh... No sé.$s" #!String
+    event_parents5: "*suspiro*...$s#$b#Tal vez tengas razón... Los humanos son criaturas egoístas. No lo se.$s#$b#Probablemente no debería pensar en ello. Todos tenemos que tomar decisiones difíciles de vez en cuando.$s" #!String
+    summer_1: "¡Puedes decir que es verano por el dulce olor del néctar flotando en el aire!$h" #!String
+    summer_Mon: "Encontré algunos frutos silvestres esta mañana! #$e#Disculpa, pero, no me queda ninguno $s#$e#Sigue buscando, estoy seguro de que encontrarás algo." #!String
+    summer_Tue: "El sonido de los animales de la granja es genial, ¿no?" #!String
+    summer_Tue4: "Las cosas sencillas son lo mejor de la vida: una brisa suave de verano, unas nubes majestuosas y una copa llena de vino de Stardew Valley." #!String
+    summer_Thu6: "Tengo buen ojo para recolectar frutos silvestres. Algún día te haré una buena ensalada de frutas.$h" #!String
+    summer_Fri: "Puedes usar un grifo para recolectar sirope y otros fluidos útiles directamente de los arboles.#$e#Es un proceso lento, pero puede resultar muy valioso." #!String
+    summer_Fri2: "Odio ser contundente, pero si no tratamos a la naturaleza con respeto, nuestros nietos estarán condenados.#$e# ¿No crees?" #!String
+    summer_Fri6: "Hola, @. ¿Alguna vez te has sentido en soledad en esa granja tan grande?#$e#Pásate por mi cabaña si necesitas hablar con alguien.$h" #!String
+    summer_Sat: "El agua que fluye mantiene mi casa un poco más fresca en verano. #$e# No soporto muy bien el calor." #!String
+    summer_Sun: "¿Qué debería hacer en un día tan cálido y aburrido? *Suspiro*#$e#¿Alguna idea?" #!String
+    fall_1: "Que rápido cambian las estaciones!#$e#Es impresionante." #!String
+    fall_Mon: "#$c .5# ¡Este fin de semana he encontrado unas cuantas setas silvestres!#$e# Hoy he desayunado un plato muy grande de setas silvestres y huevazos para desayunar... Todavía estoy llena.#$e#Mantén la nariz en el suelo y encontrarás algunas setas por ti mismo... Estoy segura de ello." #!String
+    fall_Tue: "Me pregunto si podría hacer un bonito collage de hojas secas...#$e#Son tan coloridas... No puedo ayudar pero piensa en el potencial para proyectos de arte.$h" #!String
+    fall_Tue4: "Todo el mundo tiene una única e interesante perspectiva, crean en algo o no. ¿No crees?#$e#Aunque algunas personas tienen opiniones que no puedo respetar." #!String
+    fall_Wed: "Es tan agradable vivir junto al río.#$e#Me duermo con el sonido relajante del agua todas las noches." #!String
+    fall_Thu6: "Uno de estos días voy a tener que prepararte un salteado de setas silvestres.$h" #!String
+    fall_Fri: "¿Tienes cocina en tu casa?#$e#Si es asi puedes cocinar todo tipo de comida deliciosa.$h" #!String
+    fall_Fri6: "Pásate por mi cabaña si alguna vez necesitas hablar de algo.$h" #!String
+    fall_Sat: "La decoración acentúa las sensaciones de la estación. Creo que es una tradición que merece la pena." #!String
+    fall_Sun: "Hay muchos sitios buenos para pasear por aquí.#$e#Se siente bien al relajarse un poco." #!String
+    winter_Mon: "Me encanta la forma en la que se ve todo cuando está cubierto de nieve." #!String
+    winter_Tue: "En mi cabaña puede hacer mucho frío.$s#$e#Tan solo me acurruco bajo una sabana enorme y estoy bien" #!String
+    winter_Wed: "Vi un conejo de nieve esta madrugada! ¿Son raros, no?" #!String
+    winter_Thu: "Estoy pasándolo mal buscando comida fresca para comer.#$e#He estado comiendo mucho pan.$s" #!String
+    winter_Thu6: "*Suspiro*... Es difícil conseguir comida fresca en invierno.#$e#Seguro que tu granja esta bien aprovisionada con comida, ¿eh?" #!String
+    winter_Fri: "Parece que aquí el tiempo pasa mas lento.#$e#Cuando vivía en la ciudad, el año se pasaba volando." #!String
+    winter_Fri6: "¿Alguna vez pasas frío en tu casa de la granja?#$e#Pásate por mi cabaña si necesitas acurrucarte bajo uno de mis edredones y beber sidra.$h" #!String
+    winter_Sat: "Hola. ¿Necesitas algo?" #!String
+    winter_Sat2: "Hola, @. ¿Hay algo de lo que quieras hablar?" #!String
+    winter_Sun: "¿Haces eso todos los días?#$e#Tomate un descanso." #!String
 
