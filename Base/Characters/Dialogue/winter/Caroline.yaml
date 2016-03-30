@@ -16,12 +16,12 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "It's a good season to experiment with some new wallpapers or floors, don't you think?$h#$e#Sorry if Pierre and I are promoting those wallpapers too much." #!String
-    Tue: "Winter is harsh, but you can dig up some roots if you're lucky.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food." #!String
-    Wed: "Hi there. Do you have everything you need for the farm?#$e#If not, we might be able to help you out.#$e#We carry a variety of useful items." #!String
-    Thu: "Everyone has their own little routine they follow.#$e#It's not a very exciting place, but you always know what to expect." #!String
-    Fri: "Even though it's cold, I still check on the public garden beds every now and then.#$e#I just want to make sure they aren't damaged too much before spring returns." #!String
-    Sat: "Don't you think Abby would look better with her natural hair color?#$e#She used to have light chestnut-colored hair." #!String
-    Sun: "Today I'm just going to relax and think positively.#$e#Do you ever take a day off?" #!String
-    Wed6: "Are you excited for the new year?#$e#I predict that you'll be super-successful on your farm.$h" #!String
+    Mon: "Es una buena época para experimentar con algunos de los nuevos fondos o pisos, ¿no lo crees?$h#$e#Perdón si Pierre y yo estamos promoviendo demasiado los fondos." #!String
+    Tue: "El invierno es duro, pero si tienes suerte, puedes desenterrar algunas raíces.#$e#Recoger cosas del piso es una forma divertida de ganar algo de dinero. O puede utilizar lo que se encuentra como regalos o comida." #!String
+    Wed: "Hola. ¿Tienes todo lo necesario para la granja?#$e#Si no, quizá te podemos ayudar.#$e#Tenemos una gran variedad de artículos." #!String
+    Thu: "Todo el mundo tiene su pequeña rutina a seguir.#$e#No es algo muy emocionante, pero siempre sabes que esperarte." #!String
+    Fri: "A pesar de que hace frió, sigo comprobando las camas del jardín publico de vez en cuando.#$e#Para asegurarme que no estén muy dañadas antes de que la primavera regrese." #!String
+    Sat: "¿No crees que Abby se vería mejor con su color de pelo natural?#$e#Ella solía tener el pelo castaño claro." #!String
+    Sun: "Hoy sólo me voy a relajar y pensar positivamente.#$e#¿Has pensado en tomarte el día libre?" #!String
+    Wed6: "¿Estas emocionado por el nuevo año?#$e#Mi predicción es que seras muy exitoso en tu granja.$h" #!String
 
