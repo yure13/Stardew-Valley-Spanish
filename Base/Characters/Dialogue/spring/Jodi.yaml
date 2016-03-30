@@ -16,17 +16,17 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Hiya! I'm Jodi. Welcome to my humble little home.#$e#Sam is my son." #!String
-    2: "My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?" #!String
-    7: "Last night I visited Yoba's Altar to ask for my husband's safe return.#$e#The house seems so dreary without him.$s#$e#Sorry, I was rambling again...$s" #!String
-    Mon: "Maintaining a household is difficult work.$s#$e#But somebody's gotta do it!#$e#Yes?" #!String
-    Tue: "What? It's %time already? My goodness!#$e#I still have tons of work to do!$s" #!String
-    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!" #!String
-    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
-    Thu6: "Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?" #!String
-    Thu: "So you're a farmer, huh? Interesting.#$e#I've never met a farmer before." #!String
-    Fri: "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
-    Sat: "Hi.#$e#Need something?" #!String
-    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
-    Sun: "*yawn*... I could really go for a nap." #!String
+    1: "¡Hola! Soy Jodi. Bienvenido a mi humilde y pequeño hogar.^¡Hola! Soy Jodi. Bienvenida a mi humilde y pequeño hogar.#$e#Sam es mi hijo." #!String
+    2: "Mi marido Kent es un soldado que trabaja en el extranjero, por eso no esta aquí ahora mismo.#$b#Sé que volverá sano y salvo una vez terminado su servicio.#$e#¿Necesitas algo?" #!String
+    7: "La otra noche fui al Altar de Yoba para pedir que mi marido regrese sano y salvo.#$e#La casa parece tan triste sin él...$s#$e#Lo siento, ya estoy divagando otra vez...$s" #!String
+    Mon: "Mantener un hogar es un trabajo difícil$s#$e#¡Pero alguien tiene que hacerlo!#$e#¿Sí?" #!String
+    Tue: "¿Qué? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s" #!String
+    Wed4: "Me gustaría poder pasar más tiempo afuera, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener mis manos suaves.#$e#Cuanto más viejo te haces, más trabajo tienes que hacer para mantenerte saludable.#$e#Bueno, ¡Adiós!" #!String
+    Wed: "Um, sí. Hace buen tiempo, ¿eh? Lo siento, no sé de que hablar." #!String
+    Thu6: "Como pasa el tiempo. *suspiro*#$e#Recuerdo cuando Sam era un bebé con pañales.Era un niño tan lindo.$s#$e#No le digas que te lo dije.$h#$e#Te debe gustar hablar conmigo, ¿eh?" #!String
+    Thu: "Así que eres granjero, ¿eh? Interesante.^Así que eres granjera, ¿eh? Interesante.#$e#Nunca he conocido a alguien así antes." #!String
+    Fri: "Hoy me estoy tomando un descanso de las tareas.$h#$e#Si no paso un rato fuera, ¡me voy a volver loca!#$e#Además, no quiero que se me debiliten las piernas." #!String
+    Sat: "Hola.#$e#¿Necesitas algo?" #!String
+    Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
+    Sun: "*Bostezo*.... Podría ir a echarme una buena siesta." #!String
 
