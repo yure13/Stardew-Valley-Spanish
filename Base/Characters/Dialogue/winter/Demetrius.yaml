@@ -16,14 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "I'm taking a break from my research right now." #!String
-    Tue: "Talk to my wife if you want to increase the size of your house." #!String
-    Wed: "Do you have a kitchen in your house yet?#$e#Cooking is kind of like doing lab work." #!String
-    Thu: "Do you have any animals on your farm?" #!String
-    Fri: "Hello.#$e#Sorry... I'm thinking about something." #!String
-    Sat: "Let's see... if seasonal nitrogen levels could be modeled by a sinusoidal function...$u#$b#Oh! Sorry. I was analyzing data and I didn't notice you there.#$e#Do you need anything?" #!String
-    Sun: "Feel to harvest as much lumber and stone from this area as you please.#$e#Just don't try chopping any of the living trees." #!String
-    Fri4: "Thanks for stopping by. I need to think about something other than legumes for a while.#$e#So, what have you been doing lately?#$e#That sounds interesting." #!String
-    Event_tomato1: "Really? I figured a farmer would know the correct answer...$s" #!String
-    Event_tomato2: "See? @ agrees with me." #!String
+    Mon: "Estoy tomando un descanso de mi investigación en este momento." #!String
+    Tue: "Habla con mi mujer si quieres aumentar el tamaño de tu casa." #!String
+    Wed: "¿Tienes una cocina en tu casa ya?#$e# Cocinar es como hacer un trabajo de laboratorio." #!String
+    Thu: "Tienes algún animal en tu granja?" #!String
+    Fri: "Hola.#$e# Perdón... Estoy pensando en algo." #!String
+    Sat: "Veamos... Si el nivel de nitrógeno pueden ser modelado por una función sinusoidal...$u#$b#Oh! Lo siento, En lo que analizaba esto, no note que estabas allí.#$e#¿Necesitas algo?" #!String
+    Sun: "Siéntete libre cosechar tanta madera y piedra como tu desees.#$e#Solo no intentes talar algún árbol vivo." #!String
+    Fri4: "Gracias por la visita. Necesito pensar en algo que no sean legumbres por un tiempo. #$e #¿Así que, qué has estado haciendo últimamente?#$e#Eso suena interesante." #!String
+    Event_tomato1: "¿Enserio? Pensaba que un granjero sabría la respuesta correcta...$s" #!String
+    Event_tomato2: "¿Lo ves? Está de acuerdo conmigo." #!String
 
