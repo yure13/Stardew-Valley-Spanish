@@ -16,26 +16,26 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "I do a lot of walking. It's good exercise and it gives you time to think.$u#$e#Oh, and it's nice to meet you. $h#$e#Bye." #!String
-    Mon: "The trees look nice today, don't they?#$q 21/22 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tons of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 21 0 Mon_21#It seemed like a funny thing to do.#$r 22 5 Mon_22#I wanted to connect with nature." #!String
-    Mon_old: "$p 21#So are you making as much money as you hoped?|The call of nature brought you here, so I'm sure you understand.$u#$e#Spending time in nature is very rewarding." #!String
-    Mon_21: "Hmm. That seems kind of superficial, doesn't it?$s" #!String
-    Mon_22: "That's pretty much the reason I came here, too!$h" #!String
-    Tue4: "Hi. Oh, you want to talk?#$e#The beauty of this area gives me ideas for making art.#$e#I'm not trying to make money with art. It's just an urge that I have.$u#$e#Farming seems like a very rewarding profession. You get to create delicious food for everyone!$h#$e#You're probably busy. Sorry.$u" #!String
-    Tue: "Hello, neighbor.#$e#We both live outside of town. Does that mean something?" #!String
-    Wed: "I accidentally stepped on a bug.$s#$e#I guess its impossible not to cause some kind of destruction.#$e#I'll just have to be more careful next time." #!String
-    Wed6: "I love being around animals. They're so innocent.#$e#I hope you raise a lot of nice animals on your farm.$h" #!String
-    Wed8: "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?$l" #!String
-    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
-    Thu6: "I'm good at finding wild food. Someday I'll make you a fresh salad.$h" #!String
-    Fri: "You could spend your whole life just getting to know the people in this little town.#$e#It's simpler to be friends with the trees. They don't have much to say.$h" #!String
-    Fri2: "We wouldn't be able to survive without nature. It's good to remember that." #!String
-    Fri4: "Hello, @. It's a nice day, isn't it?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
-    Sat: "Apples are crisp and cool like the spring.#$e#Sorry, that's just a thought I had.$u#$e#Alright, I'll see you around." #!String
-    Sat8: "Farming sounds so fun. I want to try it, someday.$l" #!String
-    Sun: "Today I'm going to work on my sculptures.$u#$e#I like sculptures because they exist in all three dimensions.#$e#Okay, you probably have plants to water or something. Bye." #!String
-    Sun8: "If you ever find any interesting looking driftwood, I could use it for my sculptures.#$e#It would be special that you gave it to me.$l" #!String
-    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
-    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
-    event_parents3: "Oh, is that what you think?$a" #!String
+    1: "Camino un montón. Es un buen ejercicio y te da tiempo para pensar.$u#$e#Ah, y encantada de conocerte.$h#$e#Adiós." #!String
+    Mon: "Hoy los árboles están radiantes, ¿verdad?#$q 21/22 Mon_old#Bueno, ¿por qué te hiciste granjero?^Bueno, ¿por qué te hiciste granjera?#$r 21 -5 Mon_21#Quiero conseguir un montón dinero.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 21 0 Mon_21#Me parecía divertido.#$r 22 5 Mon_22#Quería conectar con la naturaleza." #!String
+    Mon_old: "$p 21#¿Y estás consiguiendo todo el dinero que esperabas?|La llamada de la naturaleza te trajo aquí, así que estoy segura de que lo entenderás.$u#$e#Pasar tiempo en la naturaleza es muy gratificante.Spending time in nature is very rewarding." #!String
+    Mon_21: "Um... Eso parece un poco superficial, ¿no?$s" #!String
+    Mon_22: "¡Esa también es una muy buena razón para venir aquí!$h" #!String
+    Tue4: "Hola. Oh, ¿quieres hablar?#$e#La belleza de este lugar me dá ideas para crear arte.#$e#No intento ganar dinero con el arte. Es sólo una necesidad que tengo.$u#$e#La agricultura parece una profesión muy gratificante. ¡Haces crecer comida deliciosa para todos!$h#$e#Probablemente estés ocupado. Perdón.^Probablemente estés ocupada. Perdón.$u" #!String
+    Tue: "Hola vecino.^Hola vecina.#$e#Ambos vivimos en las afueras del pueblo. ¿Significará eso algo?" #!String
+    Wed: "Pisé sin querer un bicho.$s#$e#Imagino que es imposible no causar ese tipo de destrucción.#$e#Tendré más cuidado la próxima vez." #!String
+    Wed6: "Me encanta estar rodeada de animales, son tan inocentes.#$e#Espero que estés criando muchos animales en tu granja.$h" #!String
+    Wed8: "¡Hola @! Estaba pensando en tí y tu granja.#$e#Imaginaba cómo de gratificante debe ser recoger una gran cosecha.$h#$e#Aunque, no estaría mal tener ayuda, ¿no?$l" #!String
+    Thu: "Si sabes buscar bien, encontrarás muchos alimentos en esta zona.#$e#He tenido ensaladas frescas casi todos los días.$h#$e#Me pregunto si a las plantas les molestará que les quite las ojas...$s" #!String
+    Thu6: "Me gusta encontrar alimentos. Algundía te haré una ensalada.$h" #!String
+    Fri: "Podrías pasarte una vida para tratar de conocer a todos en este pueblo tan pequeño.#$e#Es más fácil trabar amistad con los árboles. Tampoco es que tengan mucho que decir.$h" #!String
+    Fri2: "No podríamos sobrevivir sin la naturaleza. Es bueno recordarlo." #!String
+    Fri4: "Hola @. Bonito día, ¿no?#$e#Pásate por mi casa si necesitas hablar.$h" #!String
+    Sat: "Las manzanas son crujientes y frescas, como la primavera.#$e#Perdona, pensaba en voz alta.$u#$e#Bueno, nos vemos." #!String
+    Sat8: "Trabajar en una granja parece tan divertido. Me gustaría intentarlo algún día.$l" #!String
+    Sun: "Voy a trabajar en mis esculturas.$u#$e#Me gustan porque existen en las tres dimensiones.#$e#Bueno, seguro que tienes que regar las plantas o algo. Adiós." #!String
+    Sun8: "Si encuentras algo interesante en las maderas flotantes, podría usarlo para mis esculturas.#$e#Sería un bonito gesto que me las dieras.$l" #!String
+    event_parents1: "No, eso no es verdad. A ellos les encanta el arte.$s" #!String
+    event_parents2: "Sí... Supongo que tienes razón. Es sólo que me gustaría que supieran cómo me siento.$s" #!String
+    event_parents3: "Oh, ¿eso es lo que piensas?$a" #!String
 
