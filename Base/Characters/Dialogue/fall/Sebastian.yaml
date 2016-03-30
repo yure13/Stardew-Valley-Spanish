@@ -16,23 +16,23 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hey.#$e#So, do you like, milk cows and stuff?" #!String
-    Mon4: "You're probably making a lot of money on your farm, huh?#$e#I guess I should get a job soon...$s" #!String
-    Tue: "Uh, hi.#$e#People are like leaves.#$b#Eventually we're going to fall in the dirt." #!String
-    Tue6: "The more I learn about computers the more powerful I'll become.#$e#I want to use my powers for good, of course." #!String
-    Wed: "Hi, I'm bored." #!String
-    Wed8: "I'm glad you showed up. I was starting to get bored.#$e#Now I feel a lot more energetic." #!String
-    Thu: "I kind of wish I had a window in my room." #!String
-    Fri: "I've been reading a new book lately.#$q 62/63 Fri_old#What kind of books do you read?#$r 62 -30 Fri_bad#Classics#$r 63 30 Fri_good#Sci-fi and Fantasy#$r 62 0 Fri_bad#Romance#$r 63 -30 Fri_bad#I don't read books" #!String
-    Fri_old: "$p 62#You probably wouldn't like it.$s|I think you would like it. It's an epic sci-fi novel set 300 years in the future." #!String
-    Fri_good: "Those are my favorites, too. I'm actually about to start reading a new sci-fi book.$h" #!String
-    Fri_bad: "Huh. Sounds boring." #!String
-    Fri6: "I've been reading a book about a farmer.#$e#Sorry if that creeps you out.$h" #!String
-    Sat: "If you ever want to watch the complete first season of 'Cave Saga 2X' in one sitting, just let me know.#$e#...what?" #!String
-    Sun: "What kind of stuff do you grow on your farm?" #!String
-    Event_game1: "Okay, that'll work." #!String
-    Event_game2: "Good choice. That works well with my role." #!String
-    Event_cave1: "Not so fast! I want to know what it is." #!String
-    Event_cave2: "Really? It was making a lot of noise!" #!String
-    Event_cave3: "It's too dangerous without a sword. But I like your sense of adventure.$h" #!String
+  Mon: "Ey.#$e#Así que... ¿Te gusta la leche de vaca y esas cosas?" #!String
+  Mon4: "Seguramente estás haciendo un montón de dinero con tu granja, ¿Eh?#$e#Supongo que debería conseguir un trabajo pronto...$s" #!String
+  Tue: "Oh, hola.#$e#Las personas son como las hojas.#$b#En algún momento caeremos en la tierra." #!String
+  Tue6: "Cuanto más aprenda sobre ordenadores más poderoso me volveré.#$e#Quiero usar mis poderes para el bien, por supuesto." #!String
+  Wed: "Hola, me aburro." #!String
+  Wed8: "Me alegro de que hayas aparecido, me estaba empezando a aburrir.#$e#Ahora me siento mucho más activo." #!String
+  Thu: "Me gustaría tener una ventana en mi habitación." #!String
+  Fri: "Últimamente he estado leyendo un nuevo libro.#$q 62/63 Fri_old#¿Qué clase de libros lees?#$r 62 -30 Fri_bad#Clásicos#$r 63 30 Fri_good#Ciencia ficción y fantasía#$r 62 0 Fri_bad#Románticos#$r 63 -30 Fri_bad#No leo libros" #!String
+  Fri_old: "$p 62#Seguramente no te gustaría.$s|Creo podría gustarte, Es una novela épica de ciencia ficción ambientada 300 años en el futuro." #!String
+  Fri_good: "Esos son mis favoritos también. Estoy por empezar a leer un nuevo libro de ciencia ficción.$h" #!String
+  Fri_bad: "Huh. Suena aburrido." #!String
+  Fri6: "He estado leyendo un libro sobre un granjero.#$e#Perdóna si te da mal rollo.$h" #!String
+  Sat: "Si alguna vez quieres ver la primera temporada completa de " #!StringCave Saga 2X" #!String de una sola vez, házmelo saber.#$e#¿...Qué?" #!String
+  Sun: "¿Qué clase de cosas haces crecer en tu granja?" #!String
+  Event_game1: "Está bien, eso funcionará." #!String
+  Event_game2: "Buena elección. Eso va bien con mi papel." #!String
+  Event_cave1: "¡No tan rápido! Quiero saber qué es." #!String
+  Event_cave2: "¿De verdad? ¡Estaba haciendo un montón de ruido!" #!String
+  Event_cave3: "Es muy peligroso sin una espada. Pero me gusta tu espíritu aventurero.$h" #!String
 
