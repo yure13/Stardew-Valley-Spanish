@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "You've come to visit me in the cold?#$e#I could do with a respite from my lonely labors." #!String
-    Mon4: "@, you've trudged through the snow to visit me?#$e#I'm honored!$h" #!String
-    Tue: "People have scraped a living off the sea for thousands of years.#$e#I just go to the grocery store.$s" #!String
-    Tue10: "@, I hade a feeling that you would show up.#$e#Perhaps we're connected by an other-worldly thread.$l" #!String
-    Wed: "A day can never be boring when you follow the whims of your imagination.$u#$e#Sorry, am I babbling on about nonsense?#$e#I have a habit of spouting lofty nonsense, don't I?" #!String
-    Thu: "Breathe deeply. Do you notice it? That's the smell of the sea.#$e#How does it make you feel?" #!String
-    Thu6: "Breathe deeply. Do you notice it? That's the smell of the sea.#$e#Whenever I smell the sea, it reminds me of being a child. The ocean really impressed me as a child." #!String
-    Fri: "I have to brush my hair daily, or else it'll clump up into messy knots.#$e#It's a lot of work.#$e#I'm surprised I haven't just shaved it off in a fit of passion.$h#$e#I suppose I am too vain." #!String
-    Sat: "I've been doing little indoor exercises, since it's often too cold to go out.#$e#Sorry if it's a little humid in the cabin.$s" #!String
-    Sun: "I really should scrub my floorboards today. I think an algae is starting to form.$s#$e#Do you make time for cleaning?" #!String
-    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
-    event_toast1: "Well...okay.#$b#Here's to @!" #!String
-    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
-    event_toast3: "Hmmph...forget it.$a" #!String
+    Mon: "¿Has venido a visitarme con este frío?#$e#Lo que podría hacer con un descanso de mis trabajos solitarios." #!String
+    Mon4: "@, ¿te has abierto paso entre la nieve para visitarme?#$e#¡Me honras!$h" #!String
+    Tue: "La gente ha sobrevivido del mar durante miles de años. #$e#Yo tan solo voy a la tienda de comestibles.$s" #!String
+    Tue10: "@, tenía la sensación de que aparecerías.#$e#Quizás estamos conectados por un hilo de otro mundo.$l" #!String
+    Wed: "Un día nunca puede ser aburrido cuando sigues los caprichos de la imaginación.$u#$e#Perdona, ¿estoy parloteando sobre tonterías?#$e#Tengo la costumbre de soltar muchos sinsentidos, ¿verdad?" #!String
+    Thu: "Respira profundamente. ¿Lo notas? Es el olor del mar.#$e#¿Cómo te hace sentir?" #!String
+    Thu6: "Respira profundamente. ¿Lo notas? Es el olor del mar.#$e#Siempre que huelo el mar, me recuerda como era ser pequeño. El océano me impresiona como a un niño." #!String
+    Fri: "Tengo que cepillarme el pelo diariamente, o si no se me enreda y me salen nudos.#$e#Es mucho trabajo.#$e#Me sorprende que no me lo haya afeitado en un arrebato de pasión.$h#$e#Supongo que soy demasiado presumido." #!String
+    Sat: "He estado haciendo pequeños ejercicios dentro desde que suele hacer frío como para ir fuera.#$e#Perdona si el camarote está un poco húmedo.$s" #!String
+    Sun: "Debería fregar el suelo. Creo que están empezando a brotar algas en él.$s#$e#¿Tienes tiempo para limpiar?" #!String
+    event_idea1: "Es una idea interesante... La tendré en cuenta." #!String
+    event_toast1: "Bueno... Está bien.#$b#¡Brindemos por @!" #!String
+    event_toast2: "¡Es una gran idea!$h#$b#¡Brindemos por nosotros!" #!String
+    event_toast3: "Hmm...Olvídalo.$a" #!String
 
