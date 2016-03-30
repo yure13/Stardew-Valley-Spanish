@@ -16,23 +16,22 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "...$u#$b#Hi...$u" #!String
-    Mon: "Oh...Are you looking for Aunt Marnie?$u" #!String
-    Mon4: "Hi, Mr. @.^Hi, Ms. @.#$e#It's fun to live on a farm.$h" #!String
-    Tue: "What? *giggle*$h#$e#...hi." #!String
-    Tue6: "You can play with my dolls if you want to. Just make sure to brush their hair when you're done." #!String
+    Introduction: "...$u#$b#Hola...$u" #!String
+    Mon: "Oh... ¿estás buscando a la tía Marnie?$u" #!String
+    Mon4: "Hola, Sr. @.^Hola, Sra. @.#$e#Es divertido vivir en una granja.$h" #!String
+    Tue: "¿Qué? *risita*$h#$e#... Hola." #!String
+    Tue6: "Tú puedes jugar con mis muñecas si quieres. Solo asegúrate de cepillarles el pelo cuando hayas terminado." #!String
     Wed: "...$u" #!String
-    Wed2: "...Hi.$u" #!String
-    Wed4: "Aunt Marnie won't let me go out after 6 o'clock. It's not fair!$s#$e#I'm not afraid of the dark anymore!" #!String
-    Thu: "I'm not supposed to talk to strangers...$u" #!String
-    Thu2: "Miss Penny is teaching me how to write in cursive.$h#$e#She has such pretty handwriting." #!String
-    Fri: "... I don't know you.$u" #!String
-    Fri2: "Do you like my bow?" #!String
-    Fri4: "I like living on the farm... my favorite is the fresh ice cream from our cows' milk." #!String
-    Sat: "You smell like grass.$u" #!String
-    Sat2: "Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once.#$e#She loved it." #!String
-    Sat8: "You're always so nice to me, Mr. @$h^You're always so nice to me, Ms. @.$h#$e#Grown-ups are usually mean and boring, but you're different." #!String
-    Sun: "Um... d...do you want something?$u#$e#I'm not supposed to talk to strangers.$u" #!String
-    Sun2: "Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games.#$e#I'm thankful for all my toys.$h" #!String
-    Sun10: "Did you know Shane's my godfather? He was a friend of my parents.$s#$e#...they died.*sniff*$s" #!String
-
+    Wed2: "...Hola.$u" #!String
+    Wed4: "Tía Marnie no me deja salir después de las seis en punto. ¡No es justo! ¡Ya no tengo miedo a la oscuridad!" #!String
+    Thu: "Supuestamente no debo hablar con extraños..." #!String
+    Thu2: "La señorita Penny me está enseñando como escribir en cursiva. Ella tiene una letra muy bonita." #!String
+    Fri: "... No te conozco." #!String
+    Fri2: "¿Te gusta mi arco?" #!String
+    Fri4: "Me gusta vivir en la granja... Lo que más me gusta es el helado de leche de nuestras vacas." #!String
+    Sat: "Hueles como a hierba." #!String
+    Sat2: "A veces busco cigalas en el rio. No se lo digas a tia Marnie... pero he alimentado a una vaca una vez. A ella le encanto." #!String
+    Sat8: "Siempre eres tan agradable conmigo, señor @$h^siempre eres tan agradable conmigo, señorita @.$h#$e# Normalmente los adultos son aburridos, pero tu eres diferente." #!String
+    Sun: "¿Um... qu..qui...quie quieres algo?$u#$e# Se supone que no debo hablar con extraños.$u" #!String
+    Sun2: "Shane tiene muchas cosas que hacer, y la tía Marnie esta ocupada todo el tiempo... así que me tengo que inventar mis propios juegos.#$e#Me alegro de tener tantos juguetes.$h" #!String
+    Sun10: "¿Sabías que Shane es mi padrino? El era amigo de mis padres.$s#$e#...ellos murieron.*sniff*$s" #!String
