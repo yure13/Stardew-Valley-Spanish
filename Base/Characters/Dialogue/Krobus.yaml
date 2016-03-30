@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    4: "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?" #!String
-    8: "A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides." #!String
-    15: "Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin." #!String
+    4: "¿Alguna vez has encontrado a otros como yo en las minas? Perdona si fueron hostiles contigo. Verás, hemos aprendido a temer a los humanos... Ha habido muchos... encuentros desagradables.#$e#No has... matado a ninguno de mis amigos, ¿no?" #!String
+    8: "Hace poco acabó la guerra entre mi gente y los enanos. Aún hay algo de resentimiento entre ambos bandos." #!String
+    15: "Por favor, mantén mi localización en secreto. Si los enanos saben algo de mi, seguramente manden un asesino." #!String
     Fri: "..." #!String
-    Wed: "I find things here and I sell them. Care to buy anything?" #!String
-    Thu: "Please don't tell anyone about me.#$b#Humans tend to destroy things they can't understand." #!String
-    Tue: "I am too sensitive to sunlight to go out during the day.#$b#The conditions in here are perfect.#$e#Care to buy anything?" #!String
-    Mon: "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?" #!String
-    Mon2: "Back again? I suppose it does fit into my theory of human behavior." #!String
-    Mon6: "'Krobus' means 'bridge-crosser' in our language." #!String
-    Sat: "On Fridays I stay silent as a sign of devotion to Yoba." #!String
-    Sun: "...Sorry, I'm still a little wary of humans. My shop is still open to you, however." #!String
-    Sun4: "You're not like the other humans, are you?" #!String
-    Sun8: "You've opened my eyes to the world of humans. I appreciate that." #!String
+    Wed: "Encuentro cosas por aquí y las vendo. ¿Te interesa comprar algo?" #!String
+    Thu: "Por favor, no le hables a nadie sobre mi.#$b#Los humanos tienden a destruir las cosas que no pueden entender." #!String
+    Tue: "Soy demasiado sensible a la luz como para salir de día.#$b#Las condiciones aquí son perfectas.#$e#¿Te interesa comprar algo?" #!String
+    Mon: "Por favor, no te alarmes. Soy diferente a los otros.#$e#He pasado mucho tiempo observando a los humanos. Se que os gusta comprar. ¿Te interesa ver mi mercancía?" #!String
+    Mon2: "¿Has vuelto? Supongo que eso encaja en mi teoría sobre el comportamiento humano." #!String
+    Mon6: "'Krobus' significa 'cruzador de puentes' en nuestro idioma." #!String
+    Sat: "Los viernes me quedo en silencio, como signo de devoción hacia Yoba." #!String
+    Sun: "...Lo siento, aun soy cauteloso con los humanos. No obstante, mi tienda sigue abierta para ti." #!String
+    Sun4: "No eres como los otros humanos, ¿verdad?" #!String
+    Sun8: "Me has abierto los ojos al mundo de los humanos. Te lo agradezco." #!String
 
