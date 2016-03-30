@@ -16,31 +16,32 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    9: "Hmm. What brand is your shirt?#$e#Oh. Um, nevermind." #!String
-    Mon: "I want to move somewhere warmer." #!String
-    Tue: "Hi. Do you need something from me?#$e#..." #!String
-    Wed: "I wish someone would bring me a peppermint coffee.#$e#Don't even bother, I know you won't be able to make one." #!String
-    Thu: "I'm going to start writing a list of all the clothes I need for next spring." #!String
-    Fri: "Do you have a pony on your farm?$h#$e#Oh. That's disappointing...$s" #!String
-    Sat: "The only good thing about winter is I get to sleep more.#$e#I like at least 10 hours of sleep every night." #!String
-    Sun: "Will you say hi to Josh for me?#$e#Thanks." #!String
-    Tue2: "Your name is @, right?#$e#I keep forgetting." #!String
-    Tue4: "Hi @.#$e#Is anything exciting happening on your farm?" #!String
-    Wed6: "I think I'm starting to realize that how you look isn't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?" #!String
-    Thu6: "Maybe I'll donate some of my skirts to a charity this spring.#$e#I mean, I do have over 1,000 skirts.$h#$e#...what?" #!String
-    Sun6: "Um, if you see Josh could you tell him I'm busy today?#$e#Thanks." #!String
-    Mon8: "I wish it were warmer here in Stardew Valley.#$e#I could move somewhere else, but..." #!String
-    Fri8: "Do you think you'll ever have a pony on your farm?" #!String
-    Sat8: "I'm glad you have less work to do in the winter.#$e#It must be nice to have a break, huh?" #!String
-    Sun10: "@, you look rugged today. I like it.^@, you look pretty today.#$e#...$h" #!String
-    Event_clean1: "Hmmmmm... #$b#Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it." #!String
-    Event_clean2: "NO!! I'm not going to do it!$a#$b#You guys are both stupid!$a" #!String
-    Event_clean3: "She should take the 'high road'? What's that supposed to mean?#$b#You think I'm being a baby, huh?" #!String
-    Event_jar1: "Great, then you shouldn't have any problem opening this jar for me!$h" #!String
-    Event_jar2: "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?" #!String
-    Event_beach1: "No, you won't! This bracelet was passed down to me by my great-grandmother!$a" #!String
-    Event_beach2: "...Maybe someone across the sea will find it.$s" #!String
-    Event_room1: "Him? No!#$b#...Well, I guess I used to like Josh. But not anymore! He's immature." #!String
-    Event_room2: "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..." #!String
-    Event_room3: "Huh? What's an android?" #!String
+    9: "Hmm. ¿De qué marca es tu camiseta?#$e#Oh. Um, no importa." #!String
+    Mon: "Quiero mudarme un lugar más cálido." #!String
+    Tue: "Hola. ¿Necesitas algo?#$e#..." #!String
+    Wed: "Ójala alguien me trajera un café de menta.#$e#No importa, sé que no puedes hacer uno." #!String" #!String
+    Thu: "Voy a empezar a escribir una lista de todas las prendas que necesitaré para la siguiente primavera." #!String
+    Fri: "¿Tienes un pony en tu granja?$h#$e#Oh. Qué decepción...$s" #!String
+    Sat: "Lo único bueno del invierno es que duermo más.#$e#Me gusta dormir al menos 10 horas cada día." #!String
+    Sun: "¿Podrías saludar a Josh de mi parte?#$e#Gracias." #!String
+    Tue2: "Tu nombre es @,¿no?#$e#Siempre se me olvida." #!String
+    Tue4: "Hola @. ¿Ha pasado algo emocionante en tu granja?" #!String
+    Wed6: "Creo que estoy empezando a darme cuenta que la apariencia no es lo más iportante, ¿verdad?#$e#Pero aún me encanta la ropa. Quiero decir, ¿Qué pasa por expresarse un poco?" #!String
+    Thu6: "Quizá done algunas de mis faldas a la caridad en primavera.#$e#Quiero decir, tengo más de 1000.$h#$e#...¿Qué pasa?" #!String
+    Sun6: "Eh, si ves a Josh, ¿podrías decirle que hoy estoy ocupada?#$e#Gracias." #!String
+    Mon8: "Ójala hiciera más calor aquí en Stardew Valley.#$e#Podría mudarme a otro lado, pero..." #!String
+    Fri8: "¿Alguna vez has pensado en tener un pony en tu granja?" #!String
+    Sat8: "Estoy orgullosa de que tengas menos trabajo que hace en invierno.#$e#Tiene que ser bueno tener un descanso, ¿no?" #!String
+    Sun10: "@, hoy te veo con ganas. Eso me gusta.^@, además te ves más guapo.#$e#...$h" #!String
+    Event_clean1: "Hmmmmm... #$b#Vale, tu ganas. Éste podría ser mi trabajo todas las semanas. No hay más que decir." #!String
+    Event_clean2: "¡¡NO!! ¡No voy a hacer eso!$a#$b#Los chicos sois todos unos estúpidos!$a" #!String
+    Event_clean3: "¿Debería tomar el 'camino fácil'? ¿Qué se supone que eso significa?#$b#Crees que sigo siendo un niño, ¿no?" #!String
+    Event_jar1: "Genial, ¡entonces no deberías tener problema alguno para abrirme este tarro!$h" #!String
+    Event_jar2: "Oh... ¿no lo estás? Hmmm...$s#$b#Da igual, ¿me abres el tarro de todas formas?" #!String
+    Event_beach1: "¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a" #!String
+    Event_beach2: "...Tal vez alguien al otro lado del mar lo encuentre.$s" #!String
+    Event_room1: "¿Él? ¡No!#$b#... Bueno, supongo que antes me gustaba Josh. ¡Pero ya no! Es un inmaduro." #!String
+    Event_room2: "¿Qué? Eso suena divertido, pero no me gustaría dejar Stardew Valley ahora mismo..." #!String
+    Event_room3: "¿Eing? ¿Qué es un androide?" #!String
+   
 
