@@ -16,20 +16,20 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hello @.#$e#Make sure and take breaks from your work now and then." #!String
-    Mon4: "Come visit me if you need a break from your labors.$h#$e#I'm usually at my house." #!String
-    Tue: "It's been said that a pirate's ship, full of plundered gold, shipwrecked here a long time ago.#$e#That might explain the gold coin I found buried in the sand." #!String
-    Tue8: "@, I was just thinking about you.$l#$e#Maybe you sensed it.$h#$e#So! Tell me about your day." #!String
-    Wed: "It must be satisfying to follow your crop from seed to harvest.#$e#It's as if your essence is infused into the fruit." #!String
-    Wed8: "I wouldn't mind trying my hand at farming.#$e#Living on a farm might be good source of literary inspiration, nay?$h" #!String
-    Thu: "Oh dear! A tiny crab appears to have made his home in my shirt pocket.$l#$e#That's the trouble with living on the beach." #!String
-    Fri4: "My legs are stiff from sitting at my writing desk all night.$s#$e#Sometimes I envy you, @." #!String
-    Fri: "My legs are stiff from sitting at my writing desk all morning.$s" #!String
-    Fri10: "@, when you're around...I feel unusually creative.$l#$e#I'm sorry, but it's true." #!String
-    Sat: "It gets windy this time of year. I love it!$h" #!String
-    Sun: "I have to remember to water my plants today. And not with sea water this time!" #!String
-    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
-    event_toast1: "Well...okay.#$b#Here's to @!" #!String
-    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
-    event_toast3: "Hmmph...forget it.$a" #!String
+    Mon: "Hola @.#$e# Asegúrate de tomarte algún descanso de vez en cuando." #!String
+    Mon4: "Ven a visitarme si necesitas un respiro en tus tareas.$h#$e#Normalmente estoy en casa." #!String
+    Tue: "Se dice que un barco pirata, con un botín de oro, naufragó por aquí hace mucho tiempo.#$e#Puede que eso explique la moneda de oro que encontré enterrada en la tierra." #!String
+    Tue8: "@, estaba pensando en ti.$l#$e#Quizá lo sentiste.$h#$e# Bueno, cuéntame, que tal te ha ido el día." #!String
+    Wed: "Debe ser satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas. #$e #Es como si una parte de ti se mezclase con la fruta." #!String
+    Wed8: "No me importaría trabajar un poco como agricultor.#$e #Vivir en una granja puede ser una buena fuente de inspiración literaria, ¿no? $h" #!String
+    Thu: "¡Anda, mira! Parece que un pequeño cangrejo se ha quedado a vivir en mi bolsillo.$l#$e# Esto es lo malo de vivir en la playa." #!String
+    Fri4: "Me duelen las piernas de estar sentado en mi escritorio durante toda la noche.$s#$e#Aveces te envidio, @." #!String
+    Fri: "Me duelen las piernas de estar sentado en mi escritorio durante toda la mañana.$s" #!String
+    Fri10: "@, cuando estas por aquí... me siento sorprendentemente creativo.$l#$e# Lo siento, pero es la verdad." #!String
+    Sat: "Hace viento en esta época. ¡Me encanta!$h" #!String
+    Sun: "Tengo que acordarme de regar mis plantas hoy. ¡Y esta vez no será con agua de mar!" #!String
+    event_idea1: "Suena interesante... Lo tendré en cuenta." #!String
+    event_toast1: "Vale...está bien.#$b#¡Brindemos por @!" #!String
+    event_toast2: "¡Excelente idea!$h#$b#¡Brindemos por nosotros!" #!String
+    event_toast3: "Hmmph... olvídalo.$a" #!String
 
