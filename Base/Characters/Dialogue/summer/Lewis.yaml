@@ -16,13 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Gardening is a hobby of mine, so I'm excited for this warm weather." #!String
-    Tue: "How did I become Mayor in the first place? It's a long story.#$e#We're both too busy for stories right now." #!String
-    Wed: "I've just started learning how to use these newfangled cell-~BRIINNNG~#$b#Hello? Yes! Can I put you on hold for a second? (Sorry @, I've got to take this call!)$u#$e#Uh huh... yes... Ok, that sounds perfect!$u" #!String
-    Thu: "The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti." #!String
-    Fri: "If you dig around on the beach you can find glass shards. Gunther trades complete glass panes for those shards.#$e#I guess some of the glass is really old.$h" #!String
-    Sat: "Everyone seems a little happier on the weekends, don't you think?#$e#I guess it's pretty obvious why!$h#$e#I'm on the job seven days a week, though." #!String
-    Sun: "Say, are you growing any blueberries on your farm?#$e#I do enjoy a fresh blueberry." #!String
-    event_secret1: "Thank you @. I won't forget this." #!String
-    event_secret2: "*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s" #!String
+  Mon: "La jardinería es mi pasatiempo, así que me emociona este clima cálido." #!String
+  Tue: "¿Cómo hizo para ser el primer alcalde? Es una larga historia.#$e#Estamos ocupados para estas historias." #!String
+  Wed: "¿Apenas he empezado a aprender a usar estos teléfonos-~ BRIINNNG ~ #$b #Hola? ¡ Sí! ¿Puedo ponerlo en espera un segundo? (Lo siento tengo que tomar esta llamada!) $u #$e #Uh EH... sí... OK, eso suena perfecto! $u" #!String
+  Thu: "El salón se anima mucho por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día. Y para probar los auténticos espaguetis de Gus." #!String
+  Fri: "Si cavas alrededor de la playa puedes encontrar fragmentos de vidrio. Gunther cambia paneles de vidrio por esos fragmentos. #$e#Supongo que algunos fragmentos son muy viejos.$h" #!String
+  Sat: "Todos parecen un poco más feliz los fines de semana, ¿no crees?#$e#¡Creo que es bastante obvio el porqué!$h#$e#Yo, sin embargo, trabajo toda la semana." #!String
+  Sun: "Dime, ¿vas a plantar arándanos en tu granja?#$e#Me encantan los arándanos frescos." #!String
+  event_secret1: "Gracias @. No olvidare esto." #!String
+  event_secret2: "*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres horrible.$s" #!String
+
 
