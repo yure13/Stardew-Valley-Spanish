@@ -16,16 +16,16 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Hey, you're pretty good at mining, for a human." #!String
-    Mon: "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?" #!String
-    Tue: "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?" #!String
-    Wed: "Hey, wanna buy something?" #!String
-    Wed_6: "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered..." #!String
-    Thu_4: "I feel most comfortable underground.#$e#The deeper underground the better." #!String
-    Fri: "You've never seen a dwarf before, have you?" #!String
-    Sat_8: "The mines can be a treacherous place. Be careful, friend." #!String
-    Sat: "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?" #!String
-    Sun: "One day you'll have to tell me about this beverage you call \"milk\"." #!String
-    Thu: "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you." #!String
-    Fri_2: "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy." #!String
+    Introduction: "Eh, eres bastante bueno en la minería, para un ser humano." #!String
+    Mon: "Tengo todas estas cosas de la superficie. Las cojo de tu gente por la noche.#$e#¿Hmm? ¿Qué es ese concepto al que llamáis \"propiedad privada\"?" #!String
+    Tue: "Ah... guiso de zanahoria de cueva, zanahoria de cueva asada, sopa de zanahoria de cueva y zanahoria de cueva gratinada.#$e#...Y una cazuela de zanahoria de cueva quemada para endulzar la noche.#$e#¿Qué?" #!String
+    Wed: "Eh, ¿quieres comprar algo?" #!String
+    Wed_6: "Hace mucho tiempo, mi pueblo conocía los secretos de una tecnología avanzada. Las evidencias arqueológicas lo demuestran.#$e#Pero me pregunto de donde provenía, ¿y dónde acabó todo? Supongo que algunas preguntas nunca serán respondidas..." #!String
+    Thu_4: "Me siento mas cómodo bajo tierra.#$e#Cuanto más profundo, mejor." #!String
+    Fri: "No habías visto un enano antes, ¿verdad?" #!String
+    Sat_8: "Las minas pueden ser un lugar traicionero. Ten cuidado, amigo." #!String
+    Sat: "Las minas son peligrosas. ¿Por qué no compras algunas cosas en mi tienda para estar más seguro?" #!String
+    Sun: "Algún día vas a tener que hablarme sobre esa bebida a la que llamáis \"leche\"." #!String
+    Thu: "No serás un espía enviado por la gente sombría, ¿verdad?#$e#No te quitaré el ojo de encima." #!String
+    Fri_2: "La mayoría de humanos temen a lo desconocido... y por eso he escondido mi tienda aquí.#$e#Tus habilidades mineras demuestran que eres digno de confianza." #!String
 
