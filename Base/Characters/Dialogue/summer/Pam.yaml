@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
-    Tue: "Hi, stranger." #!String
-    Tue2: "Oh, it's Mr. @.^Oh it's Miss @.#$e#Do you need my help or something?" #!String
-    Tue6: "I had hopes and dreams like you, once... But look at me now.$s#$e#Life doesn't always turn out like you expect.#$e#Ah well. There's no sense dwellin' on what you don't have." #!String
-    Wed: "Havin' a local farm is good for our town." #!String
-    Wed4: "Maybe if you do real well on your farm it'll boost the local economy.#$e#Then everyone will have a job and we'll all be happy, right?" #!String
-    Thu: "Oh, hi there, farmer.#$e#I don't often chit-chat with strangers." #!String
-    Thu4: "I always seem to end up at the saloon at some point.#$e#It's too close to my house. It ain't healthy." #!String
-    Fri: "...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What 're you wastin' your time talkin' to someone like me for?" #!String
-    Sat2: "Don't mind that ol' dog next to the house.#$b#He might look at you cross, but he'll never get up from that box in a hunderd years." #!String
-    Sat: "Someone's been complainin' about the mess in my yard. Was it you?$u#$e#Hmmm..." #!String
-    Sun: "Are you friends with Gus? He's a pretty good guy." #!String
-    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
-    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+  Mon: "Me gustaría comer comida más sana si pudiera.#$e#¡Oye!, probablemente tengas un montón de sabrosa comida creciendo en tu granja, ¿hm?" #!String
+  Tue: "Hola, forastero." #!String
+  Tue2: "¡Anda!, si es el señor @.^¡Anda!, si es la señorita @.#$e#¿Necesitas ayuda o algo?" #!String
+  Tue6: "Tuve esperanzas y sueños como tú, alguna vez... Pero mírame ahora.$s#$e#La vida no siempre resulta como esperas.#$e#Oh bien. No tiene ningún sentido fijarse en lo que no tienes." #!String
+  Wed: "Tener una granja aquí es bueno para nuestro pueblo." #!String
+  Wed4: "Quizás si lo haces realmente bien en tu granja esto empujará la economía local.#$e#¿Entonces todos tendrán un trabajo y seremos felices, verdad?" #!String
+  Thu: "Hey, hola granjero.#$e#Usualmente no charlo con extraños." #!String
+  Thu4: "Parece que siempre termino en el salón en algún momento.#$e#Está muy cerca de mi casa. No es saludable." #!String
+  Fri: "...Si?#$e#Eres un chico joven y apuesto. ¿Por qué estas perdiendo tu tiempo hablándole a una chica mayor como yo?^Eres una chica bonita. ¿Por qué estás perdiendo tu tiempo hablándole a alguien como yo?" #!String
+  Sat2: "No te preocupes por ese viejo perro junto a la casa.#$b#El podrá mirarte enfadado, pero nunca saldrá de esa caja ni en cien años." #!String
+  Sat: "Alguien se ha estado quejando sobre el desorden en mi patio. Fuiste tú?$u#$e#Hmmm..." #!String
+  Sun: "¿Son amigos de Gus? Es un chico bastante bueno." #!String
+  event_credit1: "¡Oye, vigila tu lengua! ¡Nadie me dice qué hacer!$u" #!String
+  event_credit2: "...es así? Es terrible!$s#$b#...Oh.$s" #!String
 
