@@ -16,13 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Summer is nice, but it also means more work.#$e#I'll have to keep the garden in shape on top of working in the house!" #!String
-    Tue: "Hello.#$e#Do you need something? I'm a little busy." #!String
-    Wed4: "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Okay. Bye!" #!String
-    Wed: "Um, yea. Nice weather, huh? Sorry, I don't really know what to talk about." #!String
-    Thu: "Housework is frustrating because you're never finished.#$e#The day after I sweep the floor, it's dirty again." #!String
-    Fri: "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." #!String
-    Sat: "Hi.#$e#Need something?" #!String
-    Sat4: "I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." #!String
-    Sun: "What in the world am I going to make for dinner?#$e#*sigh*..." #!String
+  Mon: "El verano es agradable, pero también significa más trabajo.#$e#¡Tendré que mantener el jardín en forma además de trabajar en la casa!" #!String
+  Tue: "Hola.#$e#¿Necesitas algo? Estoy un poco ocupada." #!String
+  Wed4: "Quisiera poder estar más tiempo afuera, pero hay tanto trabajo por hacer.#$e#Empecé a usar guantes de caucho para mantener mis manos suaves.#$e#Entre más mayor te pones, más trabajo tienes que hacer para mantenerte sano.$s#$e#Okay. ¡Adiós!" #!String
+  Wed: "Umm, si. Lindo clima, ¿eh? Lo siento, en realidad no sé de qué hablar." #!String
+  Thu: "Las labores domésticas son frustrantes porque nunca terminas.#$e#El día luego de barrer el piso, está sucio de nuevo." #!String
+  Fri: "Me tomé un respiro de las labores de la casa hoy.$h#$e#Si no salgo de vez en cuando, enloqueceré!#$e#Además, no quiero que mis piernas se pongan blandas." #!String
+  Sat: "Hola.#$e#¿Necesitas algo?" #!String
+  Sat4: "Me siento tan feliz de que estés intentando mejorar esa vieja granja.#$e#Una vez pongas todo en orden, aportará mucho a nuestra comunidad!$h#$e#Sin embargo, será mucho trabajo para ti.#$e#Adiós." #!String
+  Sun: "¿Qué rayos haré para cenar?#$e#*suspiro*..." #!String
+
 
