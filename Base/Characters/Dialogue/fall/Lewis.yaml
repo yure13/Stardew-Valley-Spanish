@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you.#$e#Just be persistent and you'll get through to them.$h" #!String
-    Tue: "It was around this time of year when I first became Mayor, over twenty years ago.#$e#That makes me feel really old.$s" #!String
-    Wed: "If you have any suggestions for the town, just drop a note into my suggestion box." #!String
-    Wed_2: "Remember when I told you about my suggestion box?#$b#...Well, I don't actuall have one.$s#$b#Sorry about that little fib. Sometimes I'm not the best role-model." #!String
-    Thu: "The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things." #!String
-    Fri: "I hope things are going well for you on the farm." #!String
-    Fri_4: "So... Have you tried Gus' 'secret' spaghetti sauce?$s#$b#...The ingredients may be secret but the smell isn't.#$b#I'll see you later." #!String
-    Sat: "Everyone seems a little happier on the weekends, don't you think?#$e#I guess it's pretty obvious why!$h#$e#I'm on the job seven days a week, though." #!String
-    Sun: "Are you doing your best on the farm, @? You'll have to accomplish things in many areas if you want to become Stardew Hero." #!String
-    event_secret1: "Thank you @. I won't forget this." #!String
-    event_secret2: "*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s" #!String
+  Mon: "Algunos vecinos son recelosos de los extraños. Tendrás que ganarte su confianza.#$e#Se persistente y lo conseguirás.$h" #!String
+  Tue: "Era esta época del año cuando me convertí en alcalde, hace más de veinte años.#$e#Eso me hace sentir muy viejo.$s" #!String
+  Wed: "Si tienes alguna sugerencia para la ciudad solo tienes que dejar una nota en mi buzón de sugerencias." #!String
+  Wed_2: "¿Recuerdas cuando te hablé de mi buzón de sugerencias?#$b#...Bueno, en realidad no tengo ninguno.$s#$b#Perdona por la mentirijilla. A veces no soy el mejor modelo a seguir." #!String
+  Thu: "Por la noche el bar se anima bastante.#$e#Me gusta ir una vez a la semana para ponerme al día." #!String
+  Fri: "Espero que las cosas te estén yendo bien en la granja." #!String
+  Fri_4: "Entonces... ¿Has probado la salsa secreta de Gus para espaguetis?$s#$b#... Quizá los ingredientes sean un secreto, pero el olor no lo es.#$b#Nos vemos." #!String
+  Sat: "Todos parecen un poco más feliz los fines de semana, ¿no crees?#$e#¡Creo que es bastante obvio el porqué!$h#$e#Yo, sin embargo, trabajo toda la semana." #!String
+  Sun: "¿Te estás esforzando con la granja, @? Deberás hacer de todo si quieres convertirte en una leyenda de Stardew." #!String
+  event_secret1: "Gracias @. Nunca lo olvidaré." #!String
+  event_secret2: "*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres terrible.$s" #!String
 
