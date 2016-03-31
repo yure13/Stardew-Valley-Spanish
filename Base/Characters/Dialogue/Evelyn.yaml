@@ -16,32 +16,31 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Why, hello and welcome to our little community, dear! #$b#You can call me 'Granny' if you like.$h" #!String
-    Mon: "Oh my! What a lovely day.$u" #!String
-    Tue: "Don't mind my husband, George. He isn't very friendly to strangers.#$e#If you get to know him better he'll warm up to you.#$e#I'm sure you two could become good friends one day!$h#$e#Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year." #!String
-    Wed: "#$1 evelynGarden1#I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.$k#$e#The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for weeks, so don't step on them!" #!String
-    Thu: "I'll be baking cookies today. I like to make flower shapes in the spring.$h#$e#Maybe I'll tell you my recipe one of these days." #!String
-    Fri: "George spends the whole day in front of that darned television set.#$e#I wish he'd go outside more. Some fresh air would do him good." #!String
-    Sat: "I used to love looking at the clouds, but I have trouble seeing them these days.#$e# My eyes just don't work as well as they used to.$s" #!String
-    Sun: "It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier.#$e#As kids we hunted for seashells after the tide went out. Those were the days..." #!String
-    Tue6: "It's nice of you to take the time to visit George and I.#$e#Without young people around, we'd age much faster.$h" #!String
-    Event_cookies1: "Thank you!$h" #!String
-    Event_cookies2: "What was that, dear? I could've sworn you said 'hockey puck'. *sigh* My ears aren't what they used to be.$s" #!String
-    summer_Mon: "I feel more energetic in this wonderful weather.$u" #!String
-    summer_Wed: "The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for months, so don't step on them!" #!String
-    summer_Thu: "I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee.$h#$e#Maybe I'll tell you my recipe one of these days." #!String
-    summer_Sat: "Be careful out there, dear. You could get sunburnt!" #!String
-    summer_Sun: "Sweet peas are in bloom right now.#$e#They've got such a wonderful fragrance, haven't they?" #!String
-    summer_Thu4: "It seems like we always have more visitors when I start baking cookies.#$e#My mother taught me the recipe." #!String
-    fall_Mon: "With every year I appreciate the seasons more and more. For young people it's easy to let them slip by." #!String
-    fall_Wed: "The good Mayor put me in charge of the town's public gardens.#$e#The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do." #!String
-    fall_Thu: "Today I'm baking cookies. They're shaped like little pumpkins.$h#$e#Maybe I'll tell you my recipe one of these days." #!String
-    fall_Sat: "Are you friends with Alex?#$e#Sometime he worries me sick." #!String
-    fall_Sun: "My eyesight may be poor, but my nose hasn't failed me yet!#$e#I can smell fallen leaves and mushrooms. It reminds of the forests I used to play in as a girl." #!String
-    winter_Mon: "Be careful you don't slip on the ice, dear." #!String
-    winter_Wed: "I usually tend to the gardens, but they're covered in snow.#$e#I still like to check up on them now and then." #!String
-    winter_Sat: "We've lived here for over 30 years.#$e#We've seen a lot of people come and go. Your grandfather, for one. Bless him... *sigh*" #!String
-    winter_Sat6: "Oh... my dear. You have your grandfather's eyes...$s#$e#Yes... yes... I knew him very well." #!String
-    winter_Sun: "You should make some hot soup to stay warm.#$e#And make sure you wear a jacket!" #!String
-    winter_Sat8: "@, have I told you that George and I have lived here for 30 years?#$e#I hope you stay here for a while.$h" #!String
-
+    Introduction: "¿Por qué?, ¡hola y bienvenido a nuestra pequeña comunidad, cariño! #$b#Me puedes llamar 'Abuela' si tu quieres.$h" #!String
+    Mon: "¡Oh Dios mío! Que hermoso día.$u" #!String
+    Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
+    Wed: "#$1 evelynGarden1#1Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!" #!String
+    Thu: "Hoy haré galletas. Me gusta darles forma de flor en primavera.$h#$e#Puede que un día de estos te dé mi receta." #!String
+    Fri: "George está todo el día delante de esa maldita televisión.#$e#Me gustaría que saliese fuera un poco más. Un poco de aire fresco le vendría bien." #!String
+    Sat: "Me solía gustar mirar a las nubes, pero tengo problemas para verlas hoy en día.#$e# Mis ojos no funcionan igual de bien que antes.$s" #!String
+    Sun: "Me gusta estar tan cerca del océano. El sonido del mar hace acostarse mucho más fácil.#$e#Cuando eramos niños íbamos a coger conchas después de que bajara la marea. Qué tiempos aquellos..." #!String
+    Tue6: "Que amable por tu parte tomarte el tiempo para visitarnos a George y a mí.#$e#Sin gente joven alrededor, envejeceríamos mucho más deprisa.$h" #!String
+    Event_cookies1: "¡Gracias!$h" #!String
+    Event_cookies2: "¿Qué has dicho, cielo? Juraría haberte oído decir 'disco de hockey'. *suspiro* Mis oídos no son lo que eran.$s" #!String
+    summer_Mon: "Me siento más energética con este tiempo tan maravilloso.$u" #!String
+    summer_Wed: "El buen alcalde me puso a cargo de los jardines públicos.#$e#He estado trabajando en los macizos de flores por meses, ¡así que no los pises!" #!String
+    summer_Thu: "Voy a hacer galletas hoy. ¡Son delicias de coco con forma de pequeñas palmeras! Heehee.$h#$e#Puede que te dé mi receta un día de estos." #!String
+    summer_Sat: "Ten cuidado ahí fuera, cielo. ¡Te puedes quemar con el sol!" #!String
+    summer_Sun: "Los guisantes dulces están en flor ahora mismo.#$e#Tienen una fragancia maravillosa, ¿verdad?" #!String
+    summer_Thu4: "Parece que siempre tenemos más visitas cuando empiezo a hornear galletas.#$e#Mi madre me enseñó la receta." #!String
+    fall_Mon: "Cada año aprecio más las estaciones. Para la gente joven es fácil dejarlas pasar." #!String
+    fall_Wed: "El bueno del alcalde me puso a cargo de los jardines públicos del pueblo.#$e#Las flores de otoño son delicadas, ¡Así que no vayas pisándolas! Se que a los niños como tú les gustan." #!String
+    fall_Thu: "Hoy voy a hornear galletas. Tienen forma de pequeñas calabazas.$h#$e#Puede que te dé mi receta un día de estos." #!String
+    fall_Sat: "¿Eres amigo de Alex?#$e#A veces me preocupa mucho." #!String
+    fall_Sun: "Puede que tenga mal la vista, ¡pero mi nariz no me ha fallado aun!#$e#Puede oler hojas caídas y setas. Me recuerda al bosque en el que solía jugar de pequeña." #!String
+    winter_Mon: "Ten cuidado de no resbalar en el hielo, cielo." #!String
+    winter_Wed: "Normalmente cuido los jardines, pero están cubiertos de nieve.#$e#Aun así me gusta echarles un vistazo de vez en cuando." #!String
+    winter_Sat: "Hemos vivido aquí mas de 30 años.#$e#Hemos visto a mucha gente ir y venir. Tu abuelo, por ejemplo. Bendito sea...*suspiro*" #!String
+    winter_Sat6: "Oh... cielo. Tienes los ojos de tu abuelo....$s#$e#Sí... sí... lo conocía muy bien." #!String
+    winter_Sun: "Deberías hacer algo de sopa caliente para calentarte.¡#$e#Y asegúrate de ponerte una chaqueta!" #!String
+    winter_Sat8: "@, ¿te he dicho que Geroge y yo hemos vivido aquí durante 30 años?#$e#Espero que te quedes por aquí un tiempo.$h" #!String
