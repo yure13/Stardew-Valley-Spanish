@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Tomorrow I go back to the city again, to work at the stadium.#$e#I've got to surround myself with sports if I hope to break into the industry!$u#$e#Plus, I get to eat all the jalapeno chips I want!$h" #!String
-    Mon4: "Hey, buddy.^Hey, @.#$e#I wish you could grow jalapenos on that farm of yours." #!String
-    Mon10: "Hi @! It's been a while! How are you doing?$h#$e#I've been doing well at my new job, but I always look forward to coming home on Mondays" #!String
-    Tue: "Me Shane." #!String
-    Wed: "Me Shane." #!String
-    Thu: "Me Shane." #!String
-    Fri: "\n        Hey, I'm back. I just spent the last three days working at the stadium!#$e#We played some team from %place. It was a fun game!$h#$e#What? Oh. Yeah, our team lost.$s#$e#Alright, I'm gonna go put a frozen pizza in the oven or something.\n      " #!String
-    Sat: "*Sigh*... I was just daydreaming about sports again.$s#$e#I really really want to become a sports analyst. If I don't make it I'm going to be crushed.#$e#That reminds me, I need to update my sports website today." #!String
-    Sat4: "Oh, do you know that guy Josh? He thinks he's going to become a sports pro.#$e#At least my goals are a little bit more realistic." #!String
-    Sat8: "I'd like to start a small chicken farm someday.#$e#Well, I guess I'd like to have a large supply of jalapeno chips and pizza, too...#$e#Oh, sorry. I was getting carried away!" #!String
-    Sun: "I like staying here because I get to be around chickens.#$e#I like how excitable chickens are. Each one has a different personality, just like people!#$e#Maybe if I don't make it as a sports analyst I will become a chicken man. Whatever that means.$h" #!String
-    Sun6: "I do like chickens, but I don't want to live with my aunt forever...$s#$e#Oh well..." #!String
-    event_room1: "Yea... maybe you're right... maybe I should focus on something more practical, like chicken farming.$s" #!String
-    event_room2: "Really? It makes me so nervous... but I want to do it." #!String
+  Mon: "Mañana vuelvo de nuevo a la ciudad, para trabajar en el estadio.#$e#¡Tengo que rodearme de deportes si espero entrar en la industria! $u#$e#Además, ¡puedo comer todas las patatas fritas de jalapeño que me de la gana!$h" #!String
+  Mon4: "Ey, amigo.^Ey, @.#$e#desearía que pudieras hacer crecer jalapeños en tu granja." #!String
+  Mon10: "¡Hola @! ¡Cuánto tiempo! ¿Cómo estás?$h#$e#Yo he estado bien en mi nuevo trabajo, pero siempre estoy deseando llegar a casa los Lunes..." #!String
+  Tue: "Yo Shane." #!String
+  Wed: "Yo Shane." #!String
+  Thu: "Yo Shane." #!String
+  Fri: "Ey, he regresado. ¡Acabo de pasar los tres últimos días trabajando en el estadio!#$e#Hemos jugado contra un equipo de %place. ¡Fue un partido divertido!$h#$e#¿Qué? Ah. Sí, nuestro equipo perdió.$s#$e#Bien, iré a poner una pizza congelada o algo así en el horno." #!String          
+  Sat: "*Suspiro *... Sólo estaba fantaseando sobre deportes otra vez.$s#$e#Realmente quiero llegar a ser un analista deportivo. Si no lo consigo voy a estar destrozado.#$e#Eso me recuerda, necesito actualizar mi página web de deportes hoy." #!String
+  Sat4: "Oh, ¿conoces a un chico llamado Josh? Él piensa que va a ser un jugador profesional.#$e#Por lo menos mis objetivos son un poco más realistas." #!String
+  Sat8: "Me gustaría empezar una pequeña granja de pollos algún día.#$e#Bueno, supongo que me gustaría también tener una gran provisión de jalapeños, patatas fritas y pizzas...#$e#Oh, lo siento. ¡Me estaba dejando llevar!" #!String
+  Sun: "Me gusta estar aquí porque puedo estar rodeado de pollos.#$e#Me gusta lo nerviosos que son los pollos. ¡Cada uno tiene una personalidad diferente, como las personas!#$e#Tal vez, si no lo logro como analista deportivo, me convierta en un hombre pollo. Sea lo que sea lo que eso signifique.$h" #!String
+  Sun6: "Me gustan los pollos, pero no quiero vivir con mi tía para siempre...$s#$e#En fin..." #!String
+  event_room1: "Sí.. Puede que tengas razón... Quizá debería centrarme en algo más útil, como la avicultura.$s" #!String
+  event_room2: "¿En serio? Me pone muy nervioso... pero quiero hacerlo." #!String
 
