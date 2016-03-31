@@ -16,12 +16,13 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "On wednesdays the shop is closed.#$e#Keep that in mind if you're going to need anything." #!String
-    Tue: "I've been seeing wild fruits in the forest lately.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food." #!String
-    Wed: "Hi there. Do you have everything you need for the farm?#$e#If not, we might be able to help you out.#$e#We carry a variety of useful items." #!String
-    Thu: "Everyone has their own little routine they follow.#$e#It's not a very exciting place, but you always know what to expect." #!String
-    Fri: "It's a fine-looking day.#$e#On days like this I like to help Evelyn with the public gardens.#$e#She sure can use the help." #!String
-    Sat: "Is it just me, or does Abigail look a little pale?#$e#Maybe I'm just worrying about her too much." #!String
-    Sun: "Today I'm just going to relax and think positively.#$e#Do you ever take a day off?" #!String
-    Wed6: "Time goes by so fast. It makes me sad.$s#$e#Before I know it, I'll be an old lady." #!String
+  Mon: "Los miércoles la tienda está cerrada.#$e#Ten eso en cuenta si vas a necesitar algo." #!String
+  Tue: "He estado viendo frutos silvestres por el bosque últimamente.#$e#Buscar comida puede ser una forma divertida de ganar algo de dinero. O puedes usar lo que encuentres como regalos o comida." #!String
+  Wed: "Hola. ¿Tienes todo lo necesario para la granja?#$e#Si no, quizá te podemos ayudar.#$e#Tenemos una gran variedad de artículos." #!String
+  Thu: "Todo el mundo tiene su pequeña rutina a seguir.#$e#No es algo muy emocionante, pero siempre sabes que esperarte." #!String
+  Fri: "Hace un buen día.#$e#En días como éste me gusta ayudar a Evelyn con los jardines públicos.#$e#Le viene bien que le eche una mano." #!String
+  Sat: "¿Soy yo, o a Abigail se la ve un poco pálida?#$e#Quizá me preocupo demasiado por ella." #!String
+  Sun: "Hoy sólo me voy a relajar y pensar positivamente.#$e#¿Has pensado en tomarte el día libre?" #!String
+  Wed6: "El tiempo pasa rápido. Eso me entristece.$s#$e# Antes de darme cuenta, seré una anciana." #!String
+
 
