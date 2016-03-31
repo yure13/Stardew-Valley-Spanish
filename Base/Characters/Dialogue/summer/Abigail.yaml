@@ -16,33 +16,34 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Summer's here. It's not really my favorite season." #!String
-    6: "I went to the beach last night, after dark.$h#$e#Or maybe that was just a dream I had..." #!String
-    Mon: "I'm getting bored of this town.$s#$e#Something cool better happen soon..." #!String
-    Tue: "Ugh...I'm breaking a sweat just standing here, it's so hot.$u#$e#I probably look awful.$s" #!String
-    Wed: "Have you decorated your house at all?#$e#That's what I'd be doing if I were you." #!String
-    Thu: "If I had a sword I would be exploring those caves by the mountain lake.#$e#But I don't have a sword...$s" #!String
-    Fri: "I wish I had a cat." #!String
-    Sat: "I'm looking forward to fall.#$e#It's nice and cool." #!String
-    Sun: "I've been thinking about where I want to move.#$q 25/26 Sun_old#What's your favorite environment?#$r 25 0 Sun_25#Plains#$r 26 30 Sun_26#Caves#$r 26 30 Sun_26#Forest#$r 25 0 Sun_25#Shopping Mall" #!String
-    Sun_old: "$p 25#You probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. We both have pretty weird tastes.$h" #!String
-    Sun_25: "Huh. I think that would get old." #!String
-    Sun_26: "Yes, it's such a mysterious place.$h" #!String
-    Wed2: "I think it would be fun to decorate a farmhouse.#$e#Especially an old one, with creaking floorboards." #!String
-    Tue4: "I think we have a lot of the same interests.#$e#I'm glad you moved here.$h" #!String
-    Sat6: "I'm actually enjoying myself this summer.$h#$e#It's funny how easily my outlook can change." #!String
-    Mon8: "I used to think Stardew Valley was boring, but lately I'm starting to love some things about it.$h" #!String
-    Thu10: "@, you look nice today.$h#$e#We have so much future ahead of us. Isn't that great?" #!String
-    Fri6: "Would you ever like a cat, @?#$e#I've thought about it." #!String
-    Fri10: "Do you ever get lonely on your farm?" #!String
-    Event_VideoGame_Yes: "Great! I'm sure you'll be able to beat this level with ease.$h" #!String
-    Event_VideoGame_No: "Oh? *sigh*... I guess I'll never get past this level, then...$s" #!String
-    Event_Rain_1: "I see..." #!String
-    Event_Rain_2: "Yes, you're the kind of person who would appreciate the somber beauty of rain." #!String
-    Event_Tragic_1: "Yeah... I guess my own life is okay...$s" #!String
-    Event_Tragic_2: "...!$h" #!String
-    Event_Tragic_3: "I would feel better if I could believe that...#$b#But I don't.$s" #!String
-    Event_Cave_1: "...Yeah." #!String
-    Event_Cave_2: "I guess when you have something to lose, it's normal to be afraid..." #!String
-    Event_Cave_3: "...Um, okay. Sorry." #!String
+  1: "El verano está aquí. En realidad no es mi estación favorita." #!String
+  6: "Fui a la playa ayer, después del anochecer.$h#$e#O tal vez fue solo un sueño..." #!String
+  Mon: "Me estoy aburriendo de este pueblo.$s#$e#Espero que pase algo genial..." #!String
+  Tue: "Ugh...Estoy muriendo de calor aquí, es tan caliente.$u#$e#Debo lucir horrible.$s" #!String
+  Wed: "¿Aún no has decorado tu casa?#$e#Eso es lo primero que haría si fuera tu." #!String
+  Thu: "Si tuviera una espada estaría explorando las cuevas que hay en el lago al pie de la montaña.#$e#Pero no tengo una...$s" #!String
+  Fri: "Me gustaría tener un gato." #!String
+  Sat: "Estoy deseando que llegue el otoño.#$e#Es agradable y fresco." #!String
+  Sun: "Un cambio de ambiente no me caería mal.#$q 25/26 Sun_old#¿Cual es tu favorito?#$r 25 0 Sun_25#Llanuras#$r 26 30 Sun_26#Cuevas#$r 26 30 Sun_26#Bosques#$r 25 0 Sun_25#Centro comercial" #!String
+  Sun_old: "$p 25#Probablemente no te gusten los lugares en los que pienso... Tal vez seamos vecinos algún día. Ambos tenemos gustos muy extraños.$h" #!String
+  Sun_25: "Eh. Creo que envejecen." #!String
+  Sun_26: "Sí, es un lugar muy misterioso.$h" #!String
+  Wed2: "He pensado que sería divertido decorar la casa. Especialmente con algo viejo, con chirriantes tablas en el suelo." #!String
+  Tue4: "Creo que tenemos muchas cosas en común.#$e#Me alegro que te hayas mudado aquí.$h" #!String
+  Sat6: "En realidad, estoy disfrutando este verano.$h#$e#Es curioso lo fácil que cambio mi punto de vista." #!String
+  Mon8: "Yo solía pensar que Stardew Valley era aburrido, pero estoy empezando a amar algunas cosas de él.$h" #!String
+  Thu10: "@, te ves genial hoy.$h#$e#Tenemos mucho futuro por delante. ¿No es genial?" #!String
+  Fri6: "¿Has pensado en tener un gato, @?#$e#He estado pensando en ello." #!String
+  Fri10: "¿Alguna vez te sientes solo en la granja?" #!String
+  Event_VideoGame_Yes: "¡Estupendo! Estoy segura que superaras este nivel con facilidad.$h" #!String
+  Event_VideoGame_No: "¿Oh?*suspiro*... Supongo que nunca me pasaré este nivel, entonces...$s" #!String
+  Event_Rain_1: "Ya veo..." #!String
+  Event_Rain_2: "Si, eres el tipo de persona que sabe apreciar la belleza oculta de la lluvia." #!String
+  Event_Tragic_1: "Sí... Supongo que mi vida está bien...$s" #!String
+  Event_Tragic_2: "...!$h" #!String
+  Event_Tragic_3: "Me sentiría mejor si pudiera creerme eso...#$b#Pero no puedo.$s" #!String
+  Event_Cave_1: "...Está bien." #!String
+  Event_Cave_2: "Supongo que cuando tienes algo que perder, es normal tener miedo..." #!String
+  Event_Cave_3: "...Um, está bien. Lo siento." #!String
+
 
