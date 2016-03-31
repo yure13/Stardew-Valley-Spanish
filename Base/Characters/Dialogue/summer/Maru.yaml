@@ -16,28 +16,28 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "This is going to be a great year for stargazing.$u#$p 2#Oops! Sorry, I forgot that outer space makes you depressed.|I'm sure you're excited, too.$h" #!String
-    Mon: "I love machines.#$e#Isn't technology fascinating?$h" #!String
-    Tue: "Do you ever think about %nouns?#$e#It just popped into my head.#$e#See you later." #!String
-    Wed: "Are you enjoying the season?#$e#It's been so warm this year.$h" #!String
-    Thu: "Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#Some day I'm going to build a robot. How does that sound?#$r 35 30 Thu_0#That would be amazing!#$r 36 -50 Thu_01_01#It sounds like you're going to fail miserably#$r 35 40 Thu_01_02#It sounds difficult" #!String
-    Thu_01_old: "See you later." #!String
-    Thu_0: "I know. It's probably going to be extremely difficult, though..." #!String
-    Thu_01_01: "Wow. Thanks, jerk.$s" #!String
-    Thu_01_02: "You're right, but I love a challenge!$u" #!String
-    Fri: "Hey, have any interesting farm stories to tell me?#$e#Guess not." #!String
-    Sat: "I worked at the clinic yesterday. We didn't have a single patient.#$e#I guess people get sick less during summer." #!String
-    Sun: "I bet you're growing some interesting crops right now." #!String
-    Fri2: "Hey, tell me a story about farming.#$e#That's really interesting!" #!String
-    Wed4: "Is it just me or did it suddenly get really hot?#$e#I guess it's just me." #!String
-    Mon6: "Some day I'm going to be a world-class inventor.$u#$e#You're lucky to be friends with me!#$e#...just kidding." #!String
-    Tue8: "@, you're looking sharp today.$h" #!String
-    Thu10: "How do your hands stay so soft with all that farm work?" #!String
-    Event_Hospital_1: "Of course he'll know the difference! This sample is completely ruined!" #!String
-    Event_Hospital_2: "Okay. I'll blame it on you, then." #!String
-    Event_Hospital_3: "You're right. I should just tell him the truth." #!String
-    Event_Space1: "It's amazing, isn't it?" #!String
-    Event_Space2: "I guess you could see it like that...#$b#But it's still grand, isn't it?" #!String
-    Event_Cut1: "Oh no? Well that makes me feel a little better, then." #!String
-    Event_Cut2: "Oh no! I'm really really sorry.$s" #!String
+  1: "Este será un buen año para ver las estrellas.$u#$p 2#¡Uy! Perdón, se me olvidó que el espacio exterior te deprime.|Seguro que tú también estás emocionado.$h" #!String
+  Mon: "Me encantan las máquinas.#$e#¿no es la tecnología fascinante?$h" #!String
+  Tue: "¿Alguna vez piensas en %nombres?#$e#Simplemente me vino a la mente.#$e#Nos vemos luego." #!String
+  Wed: "¿Estás disfrutando de la estación?#$e#Este año ha sido muy calurosa.$h" #!String
+  Thu: "Lo siento, estaba pensando en algunos inventos que estoy haciendo.#$q 35/36 Thu_01_old#Algún construiré un robot. ¿Qué te parece?#$r 35 30 Thu_0#¡Eso sería increíble!#$r 36 -50 Thu_01_01#Me parece que vas a estrellarte miserablemente#$r 35 40 Thu_01_02#Parece difícil" #!String
+  Thu_01_old: "Nos vemos luego." #!String
+  Thu_0: "Lo sé. Probablemente va a ser muy difícil, aunque..." #!String
+  Thu_01_01: "Guau. Gracias, imbécil.$s" #!String
+  Thu_01_02: "Tienes razón, pero me encantan los retos! $u" #!String
+  Fri: "Hola, ¿Tienes alguna historia de la granja interesante que contarme?#$e#." #!String
+  Sat: "Trabajé en la clínica ayer. No tenemos un solo paciente.#$e#Las personas enferman menos durante el verano." #!String
+  Sun: "Apuesto que estas plantando algunos cultivos interesantes." #!String
+  Fri2: "Hey, cuéntame una historia sobre agricultura.#$e#¡Es realmente interesante!" #!String
+  Wed4: "¿Soy yo o de repente hace mucho calor?#$e#Supongo que soy yo." #!String
+  Mon6: "Algún día voy a ser un inventor de talla mundial.$u#$e#¡Tienes serte de ser mi amigo!#$e#...Solo bromeo." #!String
+  Tue8: "@, Te ves muy bien hoy.$h" #!String
+  Thu10: "¿Como tus manos siguen tan suaves con todo este trabajo de granja?" #!String
+  Event_Hospital_1: "¡Por supuesto que sabía la diferencia! ¡Este ejemplar está totalmente arruinado!" #!String
+  Event_Hospital_2: "Vale. Te culparé a ti entonces." #!String
+  Event_Hospital_3: "Tienes razón. Le debería decir la verdad." #!String
+  Event_Space1: "Es increible, ¿Verdad?" #!String
+  Event_Space2: "Supongo que puedes verlo de esa manera...#$b#Pero sigue siendo magnífico, ¿no?" #!String
+  Event_Cut1: "¿Oh, no? Bien, eso me hace sentir un poco mejor." #!String
+  Event_Cut2: "¡Oh, no! Lo siento, de verdad, perdona.$s" #!String
 
