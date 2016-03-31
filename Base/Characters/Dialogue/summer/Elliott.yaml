@@ -16,19 +16,20 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "This morning I awoke to the sun's gentle embrace.$u#$e#I'm sorry if that isn't very interesting to you." #!String
-    Mon4: "I know that I am kind of an 'oddball'.#$e#I hope you don't mind.$h" #!String
-    Mon6: "@, I know you have faith in my abilities as a writer. That means a lot to me.$h" #!String
-    Tue: "I've encountered some beautiful shells in front of my house.#$e#I would imagine the rarer varieties to be quite valuable." #!String
-    Tue6: "I write in hopes of connecting with others through time and space.$u#$e#*sigh*...times are changing, though. People don't read anymore.$s" #!String
-    Wed: "It must be satisfying to follow your crop from seed to harvest.#$e#It's as if your essence is infused into the fruit.$u" #!String
-    Thu: "Oh dear! My shoes are filled with sand.$s#$e#That's the trouble with living on the beach." #!String
-    Fri: "@? You look puzzled.#$b#I guess the hot summer air can make us a little dizzy." #!String
-    Sat: "Ugh... I hope I don't get sunburnt." #!String
-    Sun: "You came all the way here just to talk to me? How kind.$h" #!String
-    Sun4: "Visit my cabin whenever you like. I could use the company.$h" #!String
-    event_idea1: "That's an interesting thought... I'll take it into consideration." #!String
-    event_toast1: "Well...okay.#$b#Here's to @!" #!String
-    event_toast2: "That's a great idea!$h#$b#Here's to us!" #!String
-    event_toast3: "Hmmph...forget it.$a" #!String
+  Mon: "Esta mañana me desperté con el suave abrazo del sol.$u#$e#Perdona si esto no es muy interesante para ti." #!String
+  Mon4: "Sé que soy una especie de " #!Stringbicho raro" #!String. #$e#Espero que no te importe.$h" #!String
+  Mon6: "Yo sé que tienes fe en mi capacidad como escritor, @, y significa mucho para mí.$h" #!String
+  Tue: "Me he encontrado algunas conchas hermosas frente a mi casa.#$e#imagino que las variedades más raras pueden ser muy valiosas." #!String
+  Tue6: "Escribo con la esperanza de contactar con otros a través del tiempo y del espacio.$u#$e#*"Suspiro"... Los tiempos están cambiando. La gente ya no lee.$s" #!String
+  Wed: "Debe ser satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas. #$e #Es como si una parte de ti se mezclase con la fruta.$u" #!String
+  Thu: "Oh querido! Mis zapatos están llenos de arena.$s#$e#Ese es el problema de vivir en la playa." #!String
+  Fri: "@? Te vez perplejo,#$b#I creo que el aire caliente del verano nos puede marear un poco." #!String
+  Sat: "Ugh... Espero no quemarme con el sol." #!String
+  Sun: "¿Recorriste todo este camino solo para hablar con migo? Que amable de tu parte.$h" #!String
+  Sun4: "Visita mi cabina cuando quieras. me vendría bien la compañía.$h" #!String
+  event_idea1: "Suena interesante... Lo tendré en cuenta." #!String
+  event_toast1: "Bueno... Está bien.#$b# ¡Brindemos por @!" #!String
+  event_toast2: "Es una gran idea!$h#$b#Brindemos por nosotros!" #!String
+  event_toast3: "Hmmph... Olvidalo.$a" #!String
+
 
