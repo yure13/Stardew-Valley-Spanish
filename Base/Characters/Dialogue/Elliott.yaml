@@ -71,7 +71,7 @@ content:  #!Dictionary<String,String>
     winter_Mon: "¿Has venido a visitarme con este frío?#$e#Lo que podría hacer con un respiro de mis labores solitarias." #!String
     winter_Mon4: "@, ¿has atravesado la nieve para visitarme?#$e#¡Me siento honrado!$h" #!String
     winter_Tue: "La gente ha vivido del mas durante miles de años.#$e#Yo tan solo voy a la tienda de comestibles.$s" #!String
-    winter_Tue10: "@, tube la sensación de que aparecerías.#$e#Estamos conectados por un hilo de otra dimensión.$l" #!String
+    winter_Tue10: "@, @, tenía la sensación de que aparecerías.#$e#Tenemos una conexión como de otro mundo. .$l" #!String
     -winter_Wed: "Un día no puede ser aburrido cuando sigues los caprichos de tu imaginación.$u#$e#Perdona, ¿estoy balbuceando cosas sin sentido?" #!String
     winter_Thu: "Respira profundamente. ¿Te das cuenta? Ese es el olor del mar.#$e#¿Como te hace sentir?" #!String
     winter_Thu6: "Respira profundamente. ¿Te das cuenta? Ese es el olor del mar.#$e#Cada vez que huelo el mar, me recuerda a mi juventud. El océano siempre me sorprendió cuando era un niño." #!String
