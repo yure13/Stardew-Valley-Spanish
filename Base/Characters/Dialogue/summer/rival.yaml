@@ -16,11 +16,12 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    5: "So you're my competition for Stardew Valley Hero, huh? *Snort*... Looks like I'll be winning the trophy without much effort.#$b#You'd do well to learn my name, @. My farm is already producing the tastiest Parsnips this side of the Gem Sea.^My farm is already producing the sweetest Yellow Peppers this side of the Gem Sea... If we weren't competing for Stardew Hero maybe I'd give you some lessons on farming. Sorry! *heehee*$h#$e#Good luck.$h" #!String
-    19: "I've got some big plans for my farm, @. But first I have to figure out how to get my old hens to lay eggs faster.^Oh... you still wear overalls? *Snort*..." #!String
-    5_2: "By now this old fool of a Mayor should love me.^I always wear farming gloves so my hands stay nice. Here, let me see your han...#$b#...I made a significant contribution to his re-election campaign. Well, significant for him, not for me Heheh.$s^Oh. ...Ew.$s#$e#Bye." #!String
-    19_2: "Feelin' pretty good, @... I just purchased my twelfth chicken. Say, have you repaired your coop yet? Last time I walked by it looked pretty filthy...^You know, if you plan your day well you can put aside some time to at least run a brush through your hair." #!String
-    Fri: "Good Evening, @. I'm just taking a day off to win the hearts of the local population.#$b#*whisper* Just between you and me... These people seem like a bunch of ridiculous clowns! *sigh* ...But I'll need to win them over to get my Stardew Hero Trophy.#$e#So, have you grown any crops yet?" #!String
-    12_2: "Hi @. Wow, you look tired." #!String
-    26_2: "Hi @. How long have you had those boots?" #!String
+  5: "Así que eres mi competencia para el héroe de Stardew Valley, ¿eh? *Pff*... Parece que voy a ganar el trofeo sin mucho esfuerzo.#$b#Harías bien en aprenderte mi nombre, @. Mi granja ya está produciendo los más sabrosos Nabos Blancos de este lado del Mar de la Gema.^Mi granja ya está produciendo los pimientos amarillos más dulces de este lado del Mar de la Gema... Si no compitiéramos por el premio de héroe de Stardew quizá podría darte algunas lecciones para ser un granjero. ¡Lo siento! *heehee*$h#$e#Que tengas suerte.$h" #!String
+  19: "Tengo algunos planes grandes para mi granja, @. ¿Pero primero tengo que averiguar cómo hago que mis viejas gallinas pongan huevos más rapido. ^ Oh... usted todavía lleva pantalones de trabajo? * Snort *..." #!String
+  5_2: "Por ahora ese viejo alcalde debería apreciarme. Siempre uso guantes de cultivo para mantener mis manos agradables. Aquí, déjame ver tus man...#$b#... He hecho una significante contribución a su campaña de re-elección. Bueno, significante para él, no para mi ja ja. $s^Oh...Eh.$e#$e#Adiós." #!String
+  19_2: "Me siento mu' bien, @... Acabo de comprar mi doceavo pollo. Bueno ¿No ha reparado su corral aun? La última vez que pasé por ella se veía bastante mugroso. Sabes, si planeas bien tu día podrías dejar al lado un poco de tiempo para pasar un cepillo por su cabello." #!String
+  Fri: "Buenas noches, @. Me estoy tomando un día libre para ganar los corazones de la población local.#$b#*susurro *Entre tu y yo... ¡Estas personas me parece ridícula! *suspiro*... Pero debo ganármelas para tener mi trofeo de héroe de Stardew.#$e#Así que... ¿te ha crecido algún cultivo ya?" #!String
+  12_2: "Hola @. Wow, te ves cansado." #!String
+  26_2: "Hola @. ¿Cuanto tiempo has tenido esas botas?" #!String
+
 
