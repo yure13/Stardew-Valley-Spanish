@@ -16,19 +16,19 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Well, fall is here. Time to plant some new crops, huh?" #!String
-    Mon: "It's good weather for a picnic, isn't it?" #!String
-    Mon8: "If I didn't have to work I'd suggest we go on a nice picnic!" #!String
-    Tue: "Hello. Did you have a good summer?" #!String
-    Tue4: "Hi @! I bet your farm did great this summer, huh?#$e#You're an excellent farmer.$h" #!String
-    Wed: "My friend runs a shop in the desert. If you ever go there stop in and say hi for me.#$e#I think she sells some rare products." #!String
-    Thu: "Are you friends with Clint? He's a nice guy, if you get to know him.#$e#He gets lonely working in his shop all day. But he's so shy he has trouble making new friends." #!String
-    Fri: "Another beautiful fall day.#$e#It's a pity it'll soon be over." #!String
-    Sat: "Keep your mind open and some interesting things might take root.#$e#Anyway, how is your day going?" #!String
-    Sat6: "I don't have any huge plans. I prefer not to stress about the future too much.#$e#It's better to enjoy the present while you can.$h" #!String
-    Sun: "Nothing like a sunny sunday to lift the spirits!" #!String
-    Sun10: "You're such a nice person, @! Thanks for being my friend.$h" #!String
-    event_dance1: "Thank you!" #!String
-    event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
-    event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
+    1: "Bien, el otoño ya está aquí. Es hora de plantar una nueva cosecha, ¿no?" #!String
+    Mon: "Hace un buen día para un picnic, ¿Verdad?" #!String
+    Mon8: "¡Si no tuviera que trabajar propondría el ir a un buen picnic!" #!String
+    Tue: "Hola. ¿Disfrutaste del verano?" #!String
+    Tue4: "¡Hola @! Apuesto a que te fue genial en la granja este verano #$e# Eres un granjero excelente.$h" #!String
+    Wed: "Mi amiga tiene una tienda en el desierto. Si alguna vez pasas por allí, salúdala de mi parte.#$e#Creo que vende algunos productos raros." #!String
+    Thu: "¿Eres amigo de Clint? Él es un buen chico si lo conoces bien.#$e#Trabaja solo en su tienda todo el día. Pero es tan tímido que tiene problemas para hacer nuevos amigos." #!String
+    Fri: "Otro hermoso día de otoño.#$e#Es una lástima que termine tan pronto." #!String
+    Sat: "Mantén tu mente abierta y algunas cosas interesantes pueden florecer.#$e#De todas formas, ¿cómo te va el día?" #!String
+    Sat6: "No tengo grandes planes. Prefiero no pensar mucho en el futuro.#$e#Es mejor disfrutar el presente mientras puedas.$h" #!String
+    Sun: "No hay nada como un domingo soleado para levantar los ánimos!" #!String
+    Sun10: "¡Eres una buena persona, @! Gracias por ser mi amigo.$h" #!String
+    event_dance1: "¡Gracias!" #!String
+    event_dance2: "Um... vale. Siento que no te gustara. Supongo que estos tres meses de prácctica han sido una pérdida de tiempo...$s" #!String
+    event_dance3: "¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado." #!String
 
