@@ -16,14 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "You got any hogs on that farm?" #!String
-    Tue: "Do you want somethin' from me, kid? Best look somewhere else." #!String
-    Tue4: "I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My skin feels like old parchment." #!String
-    Wed: "Hey kid. What're you up to?#$e#I'm just passin' time, same as always." #!String
-    Thu: "It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.#$e#Why don't you swing by the saloon later for a taste of the Oh-Be-Joyful?" #!String
-    Fri: "Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.#$e#I'm glad." #!String
-    Sat: "I oughta take up fishin', seein' as how close the river is." #!String
-    Sun: "My front yard's a mess.$s" #!String
-    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
-    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+  Mon: "¿Tienes cerdos en la granja?" #!String
+  Tue: "¿Quieres algo de mí, chico? Mejor busca en otro sitio." #!String
+  Tue4: "Sólo espero que Penny tenga una buena vida por delante. Si alguna vez tiene hijos sabrá cómo me siento.#$e#... Es tan seco el invierno. Mi piel se queda como el viejo pergamino." #!String
+  Wed: "Hey chico. ¿Qué estás haciendo?#$e# Estoy pasando el tiempo , como siempre." #!String
+  Thu: "Hace un frio horrible. Una visita al salón debería calentarme , ¿no te parece ? Je je .#$e# ¿Por qué no pasas por el salón más tarde para una muestra de la Oh-Be-Joyful?" #!String
+  Fri: "A Penny le encantan los libros. Creo que es mucho mas lista de lo que yo he sido.#$e#Me alegro." #!String
+  Sat: "Viendo lo cerca que está el río debería empezar a pescar." #!String
+  Sun: "Mi patio es un desastre.$s" #!String
+  event_credit1: "¡Eh, vigila tu boca! ¿Nadie me dice lo que tengo que hacer!.$u" #!String
+  event_credit2: "¿...es así? ¡Es terrible!$s#$b#...Oh.$s" #!String
+
 
