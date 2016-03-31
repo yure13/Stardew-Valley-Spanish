@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Check out that table with the seed packets on it. You'll need seed to grow crops.#$e#I sell different kinds every season." #!String
-    Tue: "Eventually I'll have new items to sell, so make sure you check in now and then!#$e#It's a lot of work to run a shop.$h" #!String
-    Wed: "I'm so glad to have a day off from work.#$e#Sorry if it's an inconvenience for you." #!String
-    Thu: "Make sure and take a look at the daily wallpaper and flooring selection.#$e#You might find a design you really love.$h" #!String
-    Fri: "Hi there. Is your farm doing well?#$e#Maybe a few of my seeds will spruce things up." #!String
-    Sat: "Remember, you reap what you sow.$u#$e#So make sure to sow only Pierre's select seeds!$h#$e#Maybe that's a little too corny for a new slogan..." #!String
-    Sun: "If I didn't have this shop to run I would be outside right now.#$e#Maybe I should sell the shop and become a lumberjack.$s" #!String
-    Wed6: "Hi @! It's nice to have a friend in town." #!String
-    Thu4: "Hey, @. You're my number one customer!#$e#A nice new wallpaper would probably make your job more cheerful, don't you think?" #!String
-    Event_naga1: "Thanks, I appreciate that. Just forget this ever happened, okay?" #!String
-    Event_naga2: "You would really do that to me? You're terrible.$s" #!String
+  Mon: "Revisa la mesa que tiene paquetes de semillas encima. Necesitarás semillas para sembrar.#$e#Vendo de varios tipos según la estación del año." #!String
+  Tue: "Con el tiempo tendré nuevos artículos a la venta, ¡así que pásate de vez en cuando!#$e#Tener una tienda lleva mucho trabajo.$h" #!String
+  Wed: "Estoy tan contenta de tener un día libre en el trabajo.#$e#Perdona se que es un inconveniente para ti." #!String
+  Thu: "Asegúrate de echar un vistazo a la selección diaria de suelos y papel de pared.#$e#Puede que encuentres algún diseño que te guste.$h" #!String
+  Fri: "Ey, hola. ¿Va bien la granja?#$e#Puede que unas pocas de mis semillas te ayuden." #!String
+  Sat: "Recuerda, recoges lo que siembras.$u#$e#¡Así que asegúrate de sembrar solo la selección de semillas de Pierre!$h#$e#Quizá es demasiado cursi para un nuevo eslogan..." #!String
+  Sun: "Si no tuviera esta tienda me gustaría estar mas al aire libre.#$e#Tal vez debería vender la tienda y convertirme en un leñador.$s" #!String
+  Wed6: "¡Hola @! Es agradable tener un amigo en el pueblo." #!String
+  Thu4: "Ey, @. ¡Eres mi cliente número uno!#$e#Un bonito tapizado nuevo hará que trabajes mas alegremente, ¿no crees?" #!String
+  Event_naga1: "Gracias, soy consciente de ello. Olvídate de que esto ha pasado, ¿vale?" #!String
+  Event_naga2: "¿De verdad que me harías eso? Eres horrible.$s" #!String
 
