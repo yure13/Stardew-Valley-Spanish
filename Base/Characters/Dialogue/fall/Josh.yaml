@@ -16,28 +16,28 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Sure, it's getting colder... But it's still warm enough for sports!#$e#That's all I care about." #!String
-    Mon: "My Grandma told me I should spend more time studying.#$e#I was like, 'PSHHHAWW... Grams, don't fret. I'm turning pro!'$h#$e#Studying is for nerds, anyway." #!String
-    Tue: "Hey I saw they have this cool sports wallpaper at Pierre's shop.#$e#I would get it if I had money to waste." #!String
-    Wed: "$q 54/55 Wed_01_old#Hey man, do you think the girls dig my hair?^Hey, how do you like my new hairstyle?#$r 54 30 Wed_01_01#It looks very fashionable.#$r 55 -30 Wed_01_02#It looks like some kind of fungal growth." #!String
-    Wed_01_old: "I put too much gel in my hair today. It kind of hurts.#$e#Don't touch it!#$e#...what?" #!String
-    Wed_01_01: "Yeah, I know. That's why I have it like this." #!String
-    Wed_01_02: "Yeah right. You're just jealous that I look so good." #!String
-    Thu: "What's up?#$e#Isn't your name, like, %firstnameletter%name, or something?#$e#Oh. It's @? Okay. Sorry." #!String
-    Fri: "I'm going to do a ton of sit-ups tonight.#$e#I'm pretty dedicated, aren't I?#$e#Need anything else?" #!String
-    Sat: "I think you can find salmon in the river this time of year.#$e#At least that's what I heard." #!String
-    Sun: "Hey, the football game is on today!#e#Sundays are pretty awesome in the fall.$u" #!String
-    Thu2: "What's up, @?" #!String
-    Fri6: "I'm going to do a ton of sit-ups tonight.#$e#You have to work really hard if you want to achieve your maximum potential." #!String
-    Mon4: "My Grandma told me I should spend more time studying.#$e#Maybe she's right...$s" #!String
-    Wed8: "I've decided to stop putting gel in my hair.#$e#I wouldn't want to be friends with someone who only liked my because I have gel in my hair." #!String
-    Thu10: "@! Um... Hi.$l" #!String
-    Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
-    Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
-    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
-    Event_books2: "Yeah, I guess you're right...$s" #!String
-    Event_books3: "You were supposed to disagree with me.$a" #!String
-    Event_parents1: "That's an interesting thought..." #!String
-    Event_parents2: "They would never do that!$a" #!String
-    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+  1: "Claro, está empezando a refrescar... ¡Pero aún hace buen tiempo para hacer deporte!#$e#Eso es todo lo que me importa." #!String
+  Mon: "Mi abuela me aconsejó que estudiara más.#$e#Yo le dije: "Meeeh... Abu, no te preocupes. ¡Me convertiré en deportista profesional!"$h#$e#Estudiar es para pringados." #!String
+  Tue: "Ey, he visto que tienen ese tapizado deportivo tan genial en la tienda de Pierre.#$e#Me lo compraría si tuviese dinero." #!String
+  Wed: "$q 54/55 Wed_01_old#Ey, ¿crees que a las chicas les gustará mi pelo?^Ey, ¿te gusta mi nuevo corte de pelo?#$r 54 30 Wed_01_01#Parece muy a la moda.#$r 55 -30 Wed_01_02#Parece algún tipo de hongo." #!String
+  Wed_01_old: "Me puse demasiada gomina. Duele un poco.#$e#¡No lo toques!#$e#...¿Qué?" #!String
+  Wed_01_01: "Sí, lo sé. Por eso lo tengo así." #!String
+  Wed_01_02: "Si, claro. Sólo estás celoso de lo bien que estoy." #!String
+  Thu: "Eh, ¿qué pasa?#$e#Tu nombre era, %firstnameletter%name, o algo así, ¿no?#$e#Oh. ¿Es @? Vale. Lo siento." #!String
+  Fri: "Voy a hacer un montón de abdominales esta noche. Me lo tomo muy en serio, ¿verdad?#$e#¿Necesitas algo más?" #!String
+  Sat: "Creo que puedes encontrar salmones en el río en esta época.#$e#Al menos eso escuché." #!String
+  Sun: "Eh, ¡el partido de fútbol es hoy!#e #Los domingos son bastante impresionantes en otoño.$u" #!String
+  Thu2: "¿Qué te cuentas, @?" #!String
+  Fri6: "Voy a hacer un montón de abdominales esta noche.#$e#Tienes que trabajar muy duro para alcanzar tu máximo potencial." #!String
+  Mon4: "Mi abuela me dijo que estudiara más.#$e#Quizá tenga razón...$s" #!String
+  Wed8: "He decidido dejar de usar gomina.#$e#No me gustaría ser amigo de alguien a quien solo le gusto porque uso gomina." #!String
+  Thu10: "¡@! Um... Hola.$l" #!String
+  Event_beach1: "Por supuesto. Si no lo hicieses pensaría que estás loco. O que eres muy raro." #!String
+  Event_beach2: "¿En serio? Debes de ser uno de esos raritos.$a#$b#Lo siento." #!String
+  Event_books1: "¡No, no lo soy! Solo estas tratando de halagarme.$a" #!String
+  Event_books2: "Sí, supongo que tienes razón...$s" #!String
+  Event_books3: "Se supone que no deberías de estar de acuerdo conmigo.$a" #!String
+  Event_parents1: "Esa es una idea interesante..." #!String
+  Event_parents2: "¡Nunca harían eso!$a" #!String
+  Event_parents3: "...Quizá tengas razón... No sé.$s" #!String
 
