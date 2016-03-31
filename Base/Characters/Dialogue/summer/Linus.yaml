@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon4: "During all these years I've discovered a few secrets about life.#$e#You'll have to find out for yourself." #!String
-    Mon: "I'm not as feeble as you think." #!String
-    Tue: "...Have you come to ridicule me?#$e#I'm just minding my own business." #!String
-    Wed: "I don't know you well enough to trust you. Sorry." #!String
-    Thu: "...Hmm?#$e#Do you want something from me?" #!String
-    Fri: "Please don't destroy my tent.#$e#It's happened before.$s" #!String
-    Sat: "I'm happy by myself.#$e#I don't need new friends." #!String
-    Sun4: "It would be nice if the townspeople could accept me for who I am.$s" #!String
-    Tue4: "You might call me a poor man, but I have no desire for riches.#$e#I'm happy with my life." #!String
-    Wed6: "The summer reminds me of my old life. It was full of danger.#$e#...It's best not to talk about those things." #!String
-    Thu4: "I have my own reasons for living alone like this.#$e#Some things are best left unsaid...#$e#I should do some foraging." #!String
-    Fri4: "The bees and butterflies are my good friends.#$e#Treat them with respect." #!String
-    Sat4: "You can find rainbow trout in streams right now.#$e#Just make sure to thank the fish for its sacrifice." #!String
-    Sun: "This is an easier time of year for me. I don't have to worry about staying warm.#$e#Plus, the fruits of the wild are growing everywhere." #!String
+  Mon4: "Durante todos estos años he descubierto algunos secretos acerca de la vida.#$e#Tendrás que averiguarlos tú, sin ayuda." #!String
+  Mon: "No soy tan débil como piensan." #!String
+  Tue: "...¿Has venido a burlarte de mí?#$e#Yo sólo estoy pensando en mis cosas." #!String
+  Wed: "No te conozco lo suficiente para confiar en ti. Perdón." #!String
+  Thu: "...Hmm?#$e# ¿Quieres algo de mi?" #!String
+  Fri: "Por favor no destruyas mi carpa.#$e#Eso ya me paso antes.$s" #!String
+  Sat: "Estoy feliz por mi cuenta.#$e#No necesito nuevos amigos." #!String
+  Sun4: "Estaría bien que la gente del pueblo me aceptase tal y cómo soy.$s" #!String
+  Tue4: "Quizá pienses que soy pobre, pero no quiero ser rico.#$e#Estoy contento con mi vida." #!String
+  Wed6: "El verano me recuerda a mi antigua vida. Estaba llena de peligros.#$e#... Es mejor no hablar de esas cosas." #!String
+  Thu4: "Tengo mis propias razones para vivir solo.#$e#Algunas cosas son mejor no decirlas... #$e#Debería buscar algo de comida." #!String
+  Fri4: "Las abejas y mariposas son mis grandes amigas.#$e#Tratalas con respeto." #!String
+  Sat4: "Puedes encontrar una trucha arco iris en corrientes.#$e#Asegurate de agradecer a los peces su sacrificio." #!String
+  Sun: "Esta es una estación cómoda para mi. No tengo que preocuparme para estar caliente.#$e#Además, hay frutos salvajes creciendo por todas partes." #!String
 
