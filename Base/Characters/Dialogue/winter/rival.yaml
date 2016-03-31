@@ -16,11 +16,12 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    5: "I just got another upgrade on my house... It's so big I don't know what to do with the space!#$e#You're still living in that little hut, right? That's fine, not everyone has an eye for luxury." #!String
-    19: "I've been making so much money in the mines It's ridiculous. But I'll let you discover the secrets for yourself." #!String
-    5_2: "My goodness, the owner of this saloon is a bumbling fool! And he actually thinks his food is good! Haha!$h#$b#Hehe... It's good to see the humor in things, @." #!String
-    19_2: "Well, it's just about time to decide who the next Stardew Hero will be. I'm sure you tried your best." #!String
-    Fri: "Are you cold? Not me. I have a custom-made thermal coat from Zuzu City." #!String
-    12_2: "Hey champ... still trying to make ends meet, huh?^Hi there, hun. Still trying to make ends meet, huh?" #!String
-    26_2: "I'll see you at the Stardew Hero celebration. Make sure to bring your camera." #!String
+  5: "Acabo de recibir otra mejora en mi casa... ¡Es tan grande que ya no se que hacer con el espacio!#$e#Todavía estás viviendo en esa pequeña cabaña, ¿verdad? Eso esta bien, no todos tenemos ojo para el lujo." #!String
+  19: "He estado haciendo mucho dinero en las minas es ridículo. Pero te permitire descubrir los secretos por ti mismo." #!String
+  5_2: "Dios mio, ¡El dueño de este salón es estúpido! ¡Y realmente piensa que su comida es buena! jaja! $h#$b#jaja... Es bueno ver el humor en las cosas, @." #!String
+  19_2: "Bueno, es sólo de tiempo para decidir quién será el próximo héroe Stardew. Estoy seguro de que has dado lo mejor de ti." #!String
+  Fri: "¿Tienes frío? Yo no. Tengo una capa térmica por encargo de la ciudad de Zuzu." #!String
+  12_2: "Oye campeón... ¿aun intentando llegar a fin de mes?^Hola cariño. Aun intentando llegar a fin de mes, ¿eh?" #!String
+  26_2: "Nos vemos en la celebración del héroe Stardew. No te olvides de traer la cámara." #!String
+
 
