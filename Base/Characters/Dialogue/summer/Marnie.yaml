@@ -16,16 +16,16 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "I love animals, Mr. @. You'd better treat your animals well, or I'll be coming after you!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!" #!String
-    Mon4: "Animals are so innocent, so sweet. And If I don't look after them, who will?$s#$e#I just hope my chickens aren't too upset when I take their eggs.$s" #!String
-    Thu_2: "You've been here a while, now... how's your chicken coop doing?#$e#Taking care of animals is easy as long as you don't forget about them!$h" #!String
-    Tue: "My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining." #!String
-    Wed: "You can make feed out of corn or wheat.#$e#Or you can buy it from me, of course!$h#$e#I could use the cash...$u#$e#Adios." #!String
-    Thu: "Hi. Need something?#$e#I might be getting some different kinds of animals in the future.#$e#Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.#$e#Just keep treating your animals with respect and good things will come to you." #!String
-    Fri: "You can catch me at the saloon most nights.#$e#Animals are great company, but I need to spend time with people, too." #!String
-    Fri4: "I think someone in town has taken a liking to me. *teehee*$h#$e#Don't tell anyone, okay?" #!String
-    Fri6: "I wonder if Mr. Lewis gets lonely in that big house of his... $s#$e#It seems so empty in there, doesn't it?" #!String
-    Sat: "There's a strange man who lives in the woods near my house.#$e#One time I heard this terrible noise coming from his hut. It sounded... otherworldly.$s#$e#I would avoid that place if I were you..." #!String
-    Sun: "Hey there, it's good to see ya!#$e#Feel free to visit us any time you please." #!String
-    Sun8: "Hi @!$h#$e#I'm glad we've become friends. I know I can trust you to take good care of my dear animals." #!String
+  Mon: "Amo a los animales, Sr. @. ¡Será mejor que trate bien a sus animales, o iré detrás suyo!^Amo a los animales, Sra. @. Trátelos amablemente y seremos amigos, ¡Se lo aseguro!" #!String
+  Mon4: "Los animales son tan inocentes, tan dulces. Y si no cuidas de ellos, ¿Quién lo hará?$s#$e#Solo espero que mis gallinas no estén demasiado alteradas cuando me lleve sus huevos.$s" #!String
+  Thu_2: "Ya llevas un tiempo por aquí, ¿cómo te va con tu gallinero?#$e#¡Cuidar a los animales es fácil hasta que te olvidas de ellos!$h" #!String
+  Tue: "Mi sobrino Shane ha estado viviendo conmigo estos últimos meses.#$e#Él me ayuda con las gallinas, así que no me quejo." #!String
+  Wed: "Puedes alimentarlos con maíz o trigo. #$e#¡O puedes comprármelo a mí, claro!$h#$e#Podría usar el dinero...$u#$e#Adiós." #!String
+  Thu: "Hola. ¿Necesitas algo?#$e#Quizás consiga diferentes tipos de animales en el futuro.#$e#Aunque necesitaré asegurarme de que hay un mercado para ellos, así que primero tendrás que probar tus habilidades con los animales.#$e#Simplemente sigue tratando a tus animales con respeto y pasaran cosas buenas." #!String
+  Fri: "Puedes encontrarme en el bar la mayoría de las noches.#$e#Los animales son una gran compañía, pero también necesito pasar tiempo con gente." #!String
+  Fri4: "Creo que le gusto a alguien del pueblo. *Jijiji*$h#$e#No se lo digas a nadie, ¿eh?" #!String
+  Fri6: "Me pregunto si el Sr. Lewis se siente solo en su gran casa... $s#$e#Parece muy vacía, ¿no crees?" #!String
+  Sat: "Hay un hombre extraño que vive en el bosque cercano a mi casa.#$e#Una vez escuché un sonido horrible procedente de su cabaña. Parecía... del otro mundo.$s#$e#Si fuera tú, evitaría pasar por ahí..." #!String
+  Sun: "¡Eh!, ¡hola!, ¡que alegría verte!#$e#Ven a visitarnos cuando te plazca." #!String
+  Sun8: "Hola @!$h#$e#Me alegra que seamos amigos. Sé que puedo confiar en ti para que cuides de mis queridos animales." #!String
 
