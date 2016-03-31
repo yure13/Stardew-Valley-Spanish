@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
-    Tue: "If I knew you better, I'd be more inclined to chat." #!String
-    Tue4: "I used to be young, once. Hard to believe, huh?#$e#Time sure goes fast when you grow up.$s" #!String
-    Wed: "*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.$s" #!String
-    Thu: "Penny's the only one I've got, so you best treat her kindly." #!String
-    Fri: "Every day is the same old routine...$s#$e#Do you ever have that problem, farmer?" #!String
-    Sat: "Would you do me a kindness and clean up my house?#$e#Just kidding.$h" #!String
-    Sun: "Don't you have work to do?#$e#You should be thankful that you have a job rather than moping around town all the time." #!String
-    Sun4: "I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.#$e#Times sure do change." #!String
-    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
-    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+  Mon: "Preferiría comer comida más sana si pudiera permitírmelo.#$e#Espera, quizá tengas un montón de sabrosa comida creciendo en tu granja, ¿no?" #!String
+  Tue: "Si te conociera mejor, estaría más dispuesta a conversar." #!String
+  Tue4: "Una vez fui joven. Es difícil de creer, ¿eh?#$e#El tiempo pasa muy rápido cuando te haces mayor.$s" #!String
+  Wed: "*Suspiro*... Supongo que esta noche tendré que meter en el microondas otra comida congelada.$s" #!String
+  Thu: "Penny es lo único que tengo, así que será mejor que la trates con cariño." #!String
+  Fri: "Todos los días la misma vieja rutina...$s#$e#¿Nunca has tenido ese problema, granjero/a?" #!String
+  Sat: "¿Me harías un favor y limpiarías mi casa?#$e#Es broma.$h" #!String
+  Sun: "¿No tienes nada que hacer?#$e#Deberías estar agradecido por tener un trabajo en vez de estar por ahí todo el rato." #!String
+  Sun4: "Echo de menos mi viejo trabajo conduciendo camiones. Solía ir por todo el valle, conociendo gente, escuchando la radio. #$e#Los tiempos cambian." #!String
+  event_credit1: ¡Oye, vigila tu lengua! ¡Nadie me dice qué hacer!$u" #!String
+  event_credit2: "¿Eso es...? ¡Es terrible!$s#$b#...Oh.$s" #!String
 
