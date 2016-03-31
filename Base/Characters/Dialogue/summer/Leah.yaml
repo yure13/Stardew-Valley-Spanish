@@ -16,21 +16,22 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "The air is full of sweet smells. How wonderful!" #!String
-    Mon: "I found some wild fruits this morning!#$e#Sorry, I don't have any left.$s#$e#Keep looking, I'm sure you'll find something." #!String
-    Tue: "The sound of farm animals is great, isn't it?" #!String
-    Tue4: "Hi. Oh, you want to talk?#$e#I have simple tastes, @. Just give me a babbling brook, a shady nook, and a cup of Stardew Valley aged red wine!" #!String
-    Wed: "I accidentally stepped on a bug.$s#$e#I guess its impossible not to cause some kind of destruction.#$e#I'll just have to be more careful next time." #!String
-    Wed6: "I love being around animals. They're so innocent.#$e#I hope you raise a lot of nice animals on your farm.$h" #!String
-    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh fruit salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
-    Thu6: "I have a good eye for picking wild fruit. Some day I'll make you a nice fruit salad.$h" #!String
-    Fri: "Do you have a workbench in your house?#$e#If you have a workbench, you can make all kinds of useful items." #!String
-    Fri2: "If we don't treat nature with respect, our grandchildren will be doomed.#$e#Don't you think so?$h" #!String
-    Fri6: "Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
-    Sat: "Yellow peppers are hot like summer stones.#$e#Sorry, that thought just popped into my head." #!String
-    Sat8: "Farming sounds like so much fun. I want to try it, someday.$l" #!String
-    Sun: "What should I do on such a warm, lazy day? *sigh*#$e#Any ideas?" #!String
-    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
-    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
-    event_parents3: "Oh, is that what you think?$a" #!String
+  1: "El aire está lleno de olores dulces. ¡Qué maravilla!" #!String
+  Mon: "Encontré algunos frutos silvestres esta mañana! #$e #Disculpa, pero, no me queda ninguno $s #$e #Sigue buscando, estoy seguro de que encontrarás algo." #!String
+  Tue: "El sonido de los animales de la granja es genial, ¿no?" #!String
+  Tue4: "Hola. Oh, ¿quieres hablar?#$e#Tengo gustos sencillos, @. ¡Tan solo dame un arroyo arrullador, un rincón en sombras y una copa de vino tinto añejo de Stardew Valley!" #!String
+  Wed: "Pisé accidentalmente un bicho. $s #$e #Supongo que es imposible no causar algún tipo de destrucción. $e # #Tendré más cuidado la próxima vez." #!String
+  Wed6: "Me encanta estar cerca de animales. Son tan inocentes.#$e#Espero que tengas un montón de animalitos en tu granja.$h" #!String
+  Thu: "En realidad hay mucha comida silvestre en esta zona, si sabes donde mirar.#$e#He tenido ensalada fresca casi todos los dias.$h#$e#Me pregunto si las plantas se enfadan cuando les quito las hojas...$s" #!String
+  Thu6: "Tengo buen ojo para recolectar frutos silvestres. Algún día te haré una buena ensalada de frutas.$h" #!String
+  Fri: "¿Tienes una mesa de trabajo en tu casa??#$e#Si la tienes, puedes hacer todo tipo de objetos útiles." #!String
+  Fri2: "Si no tratamos a la naturaleza con respeto, nuestros nietos estarán condenados.#$e#¿No crees?$h" #!String
+  Fri6: "Hola, @. ¿Alguna vez te has sentido en soledad en esa granja tan grande?#$e#Pásate por mi cabaña si necesitas hablar con alguien.$h" #!String
+  Sat: "Los pimentones amarillos deben ser calientes como piedras de verano.#$e# Lo siento, solo se me ha ocurrido de repente." #!String
+  Sat8: "Granjero suena muy divertido. Me gustaría intentarlo... algún día.$l" #!String
+  Sun: "¿Qué debería hacer en un día tan cálido y aburrido? *Suspiro*#$e#¿Alguna idea?" #!String
+  event_parents1: "No, eso no es cierto. En realidad les gusta mucho el arte.$s" #!String
+  event_parents2: "Sí... Supongo que tienes razón. Solo deseo que pudieran entender cómo me siento.$s" #!String
+  event_parents3: "Oh, ¿eso es lo que crees?$a" #!String
+
 
