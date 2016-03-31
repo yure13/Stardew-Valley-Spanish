@@ -16,19 +16,19 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hello, farmer.#$e#I've been gone so long, I feel like a stranger." #!String
-    Mon4: "I don't know if I'll ever get used to being back home.#$e#The peacefulness of the town feels like a mask." #!String
-    Tue: "Things haven't changed much since I've been gone.#$e#Well, except that you're here." #!String
-    Tue2: "Things haven't changed much since I've been gone.#$e#Except that we have a new farmer in town.$h" #!String
-    Wed6: "Oh. Hi, @.#$e#...I lost a lot of friends in battle.$s#$e#I can't get their faces out of my head.#$e#..." #!String
-    Wed: "You've been here a while now, haven't you? Your farm must be thriving." #!String
-    Thu6: "Sam has really grown since I left. He's a young man now.#$e#I wish I could've been there for him.$s" #!String
-    Thu: "Are you friends with my son?#$e#You probably know him better than I do...$s" #!String
-    Fri: "It looks like a decent day for fishing, doesn't it?" #!String
-    Sat: "Hello, @.#$e#Jodi tells me you've really become a part of this community. I'm glad to hear it." #!String
-    Sat8: "I have trouble sleeping, so please excuse me if I seem tired.#$e#I'm sure you can understand." #!String
-    Sun: "I don't know what to do with myself now that I'm back.#$e#I'm used to having more structure in my day." #!String
-    event_popcorn1: "You keep quiet! Stop trying to turn me against my wife.$u" #!String
-    event_popcorn2: "...$s#$b#You're absolutely right, @.$s" #!String
-    event_popcorn3: "Don't lie to me! I hate lies more than anything!$u" #!String
+  Mon: "Hola granjero/a.#$e#Me fui por un tiempo, me siento como un extraño." #!String
+  Mon4: "No se si podré acostumbrarme a estar de vuelta en casa.#$e#La tranquilidad que inunda el pueblo me parece una ilusión. Aunque creo que probablemente sea yo." #!String
+  Tue: "Las cosas no han cambiado mucho desde que me fui.#$e#Bueno, excepto que estas aquí." #!String
+  Tue2: "Las cosas no han cambiado mucho desde que me fui. #$e#Excepto que tenemos un nuevo granjero en la ciudad.$h" #!String
+  Wed6: "Oh. Hola, @.#$e#...Perdí muchos amigos en batalla$s#$e#No se me olvidan sus rostros.#$e#..." #!String
+  Wed: "Ya llevas un tiempo aquí, ¿no? Debe irte bien en tu granja." #!String
+  Thu6: "Sam ha crecido mucho desde que me fui. Ahora es un hombrecito.#$e#Ojalá hubiera estado aquí.$s" #!String
+  Thu: "¿Sois amigos de mi hijo?#$e#Probablemente lo conozcáis mejor que yo...$s" #!String
+  Fri: "Parece un buen día para pescar, ¿no crees?" #!String
+  Sat: "Hola, @.#$e#Jodi me ha contado que te has convertido en una parte importante en esta comunidad. Me alegra oirlo." #!String
+  Sat8: "Tengo problemas para dormir, asi que, por favor, disculpa si parezco cansado.#$e#Estoy seguro de que lo entenderás." #!String
+  Sun: "No se que hacer ahora que he vuelto#$e#Solía tener mi día mas organizado." #!String
+  event_popcorn1: "¡Calla! Para de intentar volverme en contra de mi esposa.$u" #!String
+  event_popcorn2: "...$s#$b#Tienes toda la razón, @.$s" #!String
+  event_popcorn3: "¡No me mientas! ¡Odio las mentiras por encima de todo!$u" #!String
 
