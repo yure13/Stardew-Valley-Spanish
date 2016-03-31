@@ -16,14 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "You can make a lot of things out of wood." #!String
-    Tue: "If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h" #!String
-    Wed: "Hey there, @.#$e#I'm just thinking about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?" #!String
-    Thu: "You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains." #!String
-    Fri: "We're pretty insulated from the rest of the world here in Stardew Valley.#$e#It has its pros and cons." #!String
-    Sat: "Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains.#$e#Did you know that if you clean up the fields around here, there'll be more places for wild grapes to grow?" #!String
-    Sun: "I hope my husband doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants." #!String
-    Sun6: "Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?" #!String
-    event_wood1: "Great, then this blueprint should be a piece of cake for you!$h" #!String
-    event_wood2: "Well then I have the perfect blueprint for you to get started with!" #!String
+  Mon: "Puedes hacer un montón de cosas con madera." #!String
+  Tue: "Si necesitas cualquier construcción en tu granja mejorada, ¡Solo dímelo!#$e#Necesitarás traer suficiente madera y piedra para el proyecto, también cuesta dinero.#$e#¡Pero estoy segura de que estarás satisfecho con los resultados!$h" #!String
+  Wed: "Hey, ¿qué tal, @?#$e# Estoy pensando en nuevos proyectos de carpintería.#$e# ¿Te está yendo bien con tu terreno? ¿Cómo esta almacenada la madera en tu granero?" #!String
+  Thu: "Siempre serás bienvenido, ¡incluso si no estás en el mercado para actualizar tus construcciones!$h#$e#Puedes acabar sintiéndote solo aquí en las montañas." #!String
+  Fri: "Nosotros estamos bastante aislados del resto del mundo aquí en stardew valley. #$e # tiene sus pros y sus contras." #!String
+  Sat: "Nuestra casa está en una zona muy bonita, ¿no crees?#$e#Amo el aire fresco de las montañas.#$e#¿Sabes que si despejas los campos de alrededor habrá más espacio para que crezcan las uvas silvestres?" #!String
+  Sun: "Espero que mi marido no haga volar la casa por los aires con esos experimentos suyos.#$e#No tengo a penas idea de en qué está trabajando. Creo que tiene algo que ver con las plantas." #!String
+  Sun6: "¡Hola @! Me alegro de verte.#$e#Ahora eres un miembro más de la comunidad, ¿no crees?" #!String
+  event_wood1: "¡Genial, este plan debe ser realmente fácil para ti!$h" #!String
+  event_wood2: "Bien, ¡entonces tengo el proyecto perfecto para que puedas empezar!" #!String
+
 
