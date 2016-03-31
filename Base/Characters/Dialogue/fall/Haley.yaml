@@ -16,33 +16,33 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "It's fall already?$s" #!String
-    Mon: "It's gross when all these fallen leave get slimy." #!String
-    Tue: "Hmm... Something smells weird...#$e#You've been working on the farm, huh?" #!String
-    Wed: "I can't talk, I'm texting someone." #!String
-    Thu: "I feel the urge to go shopping." #!String
-    Fri: "Is that a grass stain on your knee?#$e#Sorry, I'm allergic to grass." #!String
-    Sat: "It's too cold to go to the beach anymore.#$q 44 Sat_old#*sigh*...what should I do today?#$r 44 10 Sat_12#Paint your nails#$r 44 20 Sat_12#Relax and read a magazine#$r 44 -30 Sat_13#Stop being a selfish crybaby" #!String
-    Sat_old: "I'll probably take a nap later." #!String
-    Sat_12: "Hmm... That's a pretty good idea, actually." #!String
-    Sat_13: "Get away from me, you stupid jerk.$a" #!String
-    Sun: "I've never been to the forest. It's muddy and I could get a blister on my foot." #!String
-    Tue2: "Something smells earthy...#$e#Oh, right. You work on a farm." #!String
-    Fri4: "You look like you've been doing a lot of hard work.#$e#Why don't you take the rest of the day off?" #!String
-    Wed4: "If you're ever bored, send me a text." #!String
-    Thu6: "Shopping just doesn't sound as fun as it used to.#$e#What's happening to me?#$e#Hmm..." #!String
-    Mon6: "$p 48#Did I ever tell you I found another one of my great-grandma's bracelets in the attic?|See this bracelet? It belonged to my great-grandmother.#$e#She was a really interesting lady." #!String
-    Sun6: "I've never been to the forest, you know.#$e#It might be interesting to explore it some day." #!String
-    Tue8: "I'm starting to like the smell of dirt. Isn't that weird?#$e#I think it's because you're around all the time.$h" #!String
-    Mon10: "@, I'm happy to see you today.$h" #!String
-    Event_clean1: "Hmmmmm... #$b#Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it." #!String
-    Event_clean2: "NO!! I'm not going to do it!$a#$b#You guys are both stupid!$a" #!String
-    Event_clean3: "She should take the 'high road'? What's that supposed to mean?#$b#You think I'm being a baby, huh?" #!String
-    Event_jar1: "Great, then you shouldn't have any problem opening this jar for me!$h" #!String
-    Event_jar2: "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?" #!String
-    Event_beach1: "No, you won't! This bracelet was passed down to me by my great-grandmother!$a" #!String
-    Event_beach2: "...Maybe someone across the sea will find it.$s" #!String
-    Event_room1: "Him? No!#$b#...Well, I guess I used to like Josh. But not anymore! He's immature." #!String
-    Event_room2: "What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..." #!String
-    Event_room3: "Huh? What's an android?" #!String
+   1: "¿Ya es otoño?$s" #!String
+   Mon: "Es asqueroso cuando todas esas hojas caídas se vuelven pegajosas." #!String
+   Tue: "Hmm... Algo huele raro...#$e#Has estado trabajando en tu granja, ¿no?" #!String
+   Wed: "No puedo hablar, estoy enviando mensajes de texto a alguien." #!String
+   Thu: "Noto las ganas de ir de compras." #!String
+   Fri: "¿Tienes una mancha de césped en tu rodilla?#$e#Perdona, soy alérgica al césped." #!String
+   Sat: "Ya hace demasiado frío para ir a la playa.#$q 44 Sat_old#*suspiro*...¿Que podría hacer hoy?#$r 44 10 Sat_12#Pintarte las uñas#$r 44 20 Sat_12#Relájate y lee una revista#$r 44 -30 Sat_13#Deja de ser un llorica egoísta" #!String
+   Sat_old: "Probablemente me eche una siesta después." #!String
+   Sat_12: "Hmm... La verdad es que es una buena idea." #!String
+   Sat_13: "Déjame en paz, cretino estúpido,$a" #!String
+   Sun: "Nunca he estado en el bosque. Está embarrado y puede salirme una ampolla en el pie." #!String
+   Tue2: "Algo huele a tierra...#$e# Oh, claro. Trabajas en una granja." #!String
+   Fri4: "Parece que has trabajado duro hoy.#$e#¿Por qué no te tomas el resto del día libre?" #!String
+   Wed4: "Si alguna vez te aburres, mándame un sms." #!String
+   Thu6: "Comprar ya no suena tan divertido como antes.#$e#¿Qué me está pasando?#$e#Hmm..." #!String
+   Mon6: "$p 48#¿Te dije que encontré otra de las pulseras de mi bisabuela en el ático?|¿Ves esta pulsera? Pertenecía a mi bisabuela.#$e#Era una señora muy interesante." #!String
+   Sun6: "Nunca he estado en el bosque, ¿sabes?.#$e#Puede que me interese explorarlo algún día." #!String
+   Tue8: "Me está empezando a gustar el olor a tierra. ¿No es raro?#$e#Creo que es porque siempre estás por aquí.$h" #!String
+   Mon10: "@, me alegra verte.$h" #!String
+   Event_clean1: "Hmmmmm...#$b#Vale, tú ganas. Supongo que puede ser mi trabajo. Nada más que discutir." #!String
+   Event_clean2: "¡¡NO!! ¡No lo haré!$a#$b#¡Sois estúpidos!$a" #!String
+   Event_clean3: "¿Debería tomar el "camino al éxito"? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿Eh?" #!String
+   Event_jar1: "Genial, ¡entonces no tendrás problema abriéndome este tarro!$h" #!String
+   Event_jar2: "Ah... ¿no? Hmmm...$s#$b#Bueno, de todas formas, podrías tratar de abrirme este tarro?" #!String
+   Event_beach1: "¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a" #!String
+   Event_beach2: "...Quizá la encuentre alguien al otro lado del mar.$s" #!String
+   Event_room1: "¿Él? ¡No!#$b#... Bueno, supongo que antes me gustaba Josh. ¡Pero ya no! Es un inmaduro." #!String
+   Event_room2: "¿Qué? Eso parece divertido, pero no querría dejar Stardew Valley ahora mismo..." #!String
+   Event_room3: "¿Eing? ¿Qué es un androide?" #!String
 
