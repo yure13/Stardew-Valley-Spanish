@@ -16,24 +16,25 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hey.#$e#Everyone is so happy in the sun. I don't get it." #!String
-    Mon6: "Everyone is so happy when it's sunny out...#$e#I don't feel the same way, but that's fine. Different people like different things." #!String
-    Tue: "I'm looking forward to the cold, damp season. I feel more at home." #!String
-    Wed: "What's the point of going outside? I've already seen it all.#$e#Life is more fun when you're a little kid. Things are still new.$s" #!String
-    Wed8: "I've been unusually happy lately.$l#$e#I'm not complaining.$h" #!String
-    Thu: "I definitely don't want to go swimming, if that's what you're going to ask.$u#$b#Oh, you just stopped by to say hi? Sorry." #!String
-    Thu10: "If you ever wanted to go swimming, I'd do it.$l" #!String
-    Fri: "Oh, hey. I was just listening to some music. *yawn*#$q 60/61 Fri_old#Guess what kind of music I was listening to?$h#$r 61 -30 Fri_bad#Smooth Jazz#$r 60 30 Fri_good#Metal#$r 60 30 Fri_good#Synthcore#$r 61 -30 Fri_bad#Boogie Woogie" #!String
-    Fri_old: "$p 60#You'd probably like this band.$h|You've probably never heard of this band.$u" #!String
-    Fri_good: "Hey, how'd you know?$h" #!String
-    Fri_bad: "L-O-L. Maybe if I was born 100 years ago." #!String
-    Fri6: "It's nice of you to take time out of your day to visit me.$h#$e#I like when you stop by.$l" #!String
-    Sat: "I've been playing this computer game all day... *sigh*#$b#I just need to find 12 more diamond ores. Then I'm done.#$e#My eyes hurt.$s" #!String
-    Sun: "I usually only go outside after dark. Does that sound weird to you?" #!String
-    Sun4: "Last night, I saw a group of bats flying around near the lake.#$e#It was really cool." #!String
-    Event_game1: "Okay, that'll work." #!String
-    Event_game2: "Good choice. That works well with my role.$h" #!String
-    Event_cave1: "Not so fast! I want to know what it is." #!String
-    Event_cave2: "Really? It was making a lot of noise!" #!String
-    Event_cave3: "It's too dangerous without a sword. But I like your sense of adventure.$h" #!String
+  Mon: "Oye.#$e#Todo el mundo es tan feliz bajo el sol. No lo entiendo." #!String
+  Mon6: "Todo el mundo es tan feliz cuando hace sol...#$e# no me siento de la misma manera, pero está bien. Diferentes personas tienen gustos diferentes." #!String
+  Tue: "Estoy deseando que llegue la temporada de frio y lluvia. Me siento como en casa." #!String
+  Wed: "¿Cuál es el punto de salir? Ya lo he visto todo. #$e #la vida es más divertida cuando eres un niño pequeño. Las cosas son todavía nuevas. $s" #!String
+  Wed8: "Últimamente he estado inusualmente feliz.$l#$e#no me quejo.$h" #!String
+  Thu: "Definitivamente no quiero ir a nadar, si eso es lo que has venido a preguntar.$u#$b#Oh, ¿Solo te has parado par decir hola?, Lo siento." #!String
+  Thu10: "Si alguna vez quisieras ir a nadar, lo haría.$l" #!String
+  Fri: "Oh, hey. Justo estaba escuchando algo de música. *bostezo*#$q 60/61 Fri_old#¿Adivina que tipo de música que estaba escuchando?$h#$r 61 -30 Fri_bad#Jazz Suave#$r 60 30 Fri_good#Metal#$r 60 30 Fri_good#Synthcore#$r 61 -30 Fri_bad#Boogie Woogie" #!String
+  Fri_old: "$p 60#Quizas te guste esta banda.$h| Probablemente nunca has oído de ella.$u" #!String
+  Fri_good: "Hey, ¿Cómo lo sabes? $h" #!String
+  Fri_bad: "L-O-L.Quizás si hubiese nacido hace 100 años." #!String
+  Fri6: "Es agradable que uses tiempo de tu dia para visitarme.$h#$e#Me gusta cuando te pasas por aqui.$l" #!String
+  Sat: "He estado jugando este juego de PC todo el dia... *sigh*#$b#Solo necesito encontrar 12 diamantes mas.Entonces terminare.#$e#Me duelen los ojos.$s" #!String
+  Sun: "Yo normalmente solo salgo después del anochecer. ¿Ese sonido es raro para ti?" #!String
+  Sun4: "Anoche, vi un grupo de murciélagos volando alrededor del lago.#$e#Fue genial." #!String
+  Event_game1: "Está bien, con eso servirá." #!String
+  Event_game2: "Buena elección. Eso me ayudara con mi trabajo.$h" #!String
+  Event_cave1: "¡No tan rápido! Quiero saber qué es." #!String
+  Event_cave2: "¿De verdad? ¡Estaba haciendo un montón de ruido!" #!String
+  Event_cave3: "Es muy peligroso sin una espada. Pero me gusta tu espíritu aventurero.$h" #!String
+
 
