@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "How quickly the seasons change!#$e#It's shocking." #!String
-    Mon: "I found some wild mushrooms!#$e#Sorry, I already fried them up with a little bit of onion.$h#$e#Keep looking, I'm sure you'll find some." #!String
-    Tue: "I wonder if I could make a nice collage out of dried leaves?#$e#They're just so colorful... I can't help but think of the potential for art projects.$h" #!String
-    Tue4: "Hi @! Do you want to talk?#$e#It's better to be yourself than to follow trends. Don't you think so?#$e#Who knows, maybe you'll end up being a trend-setter yourself." #!String
-    Wed: "It's so nice to live by the river.#$e#I fall asleep to the soothing sound of water every night." #!String
-    Thu: "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h#$e#I wonder if plants get upset when we pull their leaves off?$s" #!String
-    Thu6: "I have a good eye for wild mushrooms. Maybe someday I'll fry some up for you, with some kale and garlic.$h" #!String
-    Fri: "Do you have a kitchen in your house?#$e#If you have a kitchen, you can cook all kinds of delicious meals.$h" #!String
-    Fri6: "Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h" #!String
-    Sat: "Beets are red and earthy like autumn.#$e#Sorry, that thought just popped into my head." #!String
-    Sun: "There's a lot of good places to walk around here.#$e#It feels good to stretch your legs." #!String
-    event_parents1: "No, that's not true. They actually like a lot of art.$s" #!String
-    event_parents2: "Yeah... I guess you're right. I just wish they could understand how I feel.$s" #!String
-    event_parents3: "Oh, is that what you think?$a" #!String
+  1: "Que rápido cambian las estaciones!#$e#Es impactante." #!String
+  Mon: "¡Encontré algunas setas!#$e#Perdón, ya las freí con un poco de cebolla.#$e#Sigue mirando, seguro que encuentras algunas." #!String
+  Tue: "Me pregunto si podré hacer un bonito collage de hojas secas...#$e#Son tan coloridas... No puedo evitar pensar en las posibilidades para proyectos de arte.$h" #!String
+  Tue4: "¡Hola @! ¿Te apetece hablar?#$e#Lo mejor es ser tu mismo, no seguir las tendencias. ¿No crees?#$e#Quien sabe, quizá acabes siendo pionero/a en la moda." #!String
+  Wed: "Es tan agradable vivir junto al río.#$e#Me duermo con el sonido relajante del agua todas las noches." #!String
+  Thu: "En realidad hay muchos alimentos en esta zona, si sabes donde mirar.#$e#He tenido ensaladas frescas casi todos los dias.$h#$e# Me pregunto si las plantas se molestan cuando les quito sus hojas...$s" #!String
+  Thu6: "Tengo buen ojo para las setas. Quizá algún día te fría algunas, con un poco de col y ajo.$h" #!String
+  Fri: "¿Tienes cocina en tu casa?#$e#Si es asi puedes cocinar todo tipo de comida deliciosa.$h" #!String
+  Fri6: "Hola, @. ¿Alguna vez te has sentido solo/a en esa granja tan grande?#$e#Pásate por mi cabaña si necesitas hablar con alguien.$h" #!String
+  Sat: "La remolacha es roja y terrosa como el otoño.#$e#Perdona, dije lo primero que se me vino a la mente." #!String
+  Sun: "Hay muchos sitios buenos para pasear por aquí.#$e#Se siente bien al estirarse un poco." #!String
+  event_parents1: "No, eso no es verdad. En realidad les gusta mucho el arte.$s" #!String
+  event_parents2: "Sí... Supongo que llevas razón. Solo esperaba que pudieras entender como me siento.$s" #!String
+  event_parents3: "Ah, ¿eso es lo que piensas?$a" #!String
 
