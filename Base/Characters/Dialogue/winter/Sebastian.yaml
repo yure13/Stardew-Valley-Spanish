@@ -16,23 +16,23 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "I'm enjoying this gloomy weather." #!String
-    Tue: "Uh, hi.#I don't really have anything to say." #!String
-    Tue4: "It's hard to think of new things to talk about.#$e#Even when you get to know someone.#$e#...Sorry." #!String
-    Tue6: "I've been working on this video game.#$b#It has a guy in it who is making a video game about a guy who starts to realize he is a character in a video game. Think about it." #!String
-    Tue10: "You came here to see me?$l#$e#...$h" #!String
-    Wed: "I wonder what Sam is doing.#$e#Sam and I are trying to start a band." #!String
-    Wed4: "Do you want to play a board game or something?#$e#I guess you probably have work to do." #!String
-    Thu: "I wonder what's for dinner tonight." #!String
-    Thu6: "I should learn how to cook. That would be useful." #!String
-    Fri: "This has got to be the most boring town in the world." #!String
-    Fri8: "This town actually isn't as boring as I once thought.#$e#It's gotten better recently.$l" #!String
-    Sat: "My computer is the only connection I have with the outside world.#$e#Otherwise I'd be alone with a bunch of farmers and old people. No offense." #!String
-    Sat6: "Do you have any llamas on your farm?#$e#Have you ever noticed that the word 'llama' kind of looks like a llama?" #!String
-    Sun: "I built a snow zombie but Demetrius made me get rid of it.#$e#It was totally bogus of him.$u#$e#So... what's going on with you?" #!String
-    Event_game1: "Okay, that'll work." #!String
-    Event_game2: "Good choice. That works well with my role." #!String
-    Event_cave1: "Not so fast! I want to know what it is." #!String
-    Event_cave2: "Really? It was making a lot of noise!" #!String
-    Event_cave3: "It's too dangerous without a sword. But I like your sense of adventure.$h" #!String
+  Mon: "Me gusta mucho este clima triste." #!String
+  Tue: "Eh, hola. #En realidad no tengo nada que decir." #!String
+  Tue4: "Es difícil pensar en cosas nuevas de las que hablar.#$e#Incluso cuando llegas a conocer a alguien.#$e#...Lo siento." #!String
+  Tue6: "He estado trabajando en este videojuego.#$b#Va de un chico que está creando un videojuego sobre un chico que comienza a darse cuenta de que es un personaje de un videojuego. Piensa en ello." #!String
+  Tue10: "Has venido aca para verme?$l #$e #... $h" #!String
+  Wed: "Me pregunto que estara haciendo Sam.#$e#Sam y yo estamos tratando de empezar una banda." #!String
+  Wed4: "¿Te apetece jugar a un juego de mesa o algo así?#$e#Supongo que probablemente tienes trabajo que hacer." #!String
+  Thu: "Me pregunto qué comida abra en la cena esta noche." #!String
+  Thu6: "Deberia aprender a cocinar. Me seria muy util." #!String
+  Fri: "Esto tiene que ser la ciudad más aburrida del mundo." #!String
+  Fri8: "Esta ciudad no es tan aburrida como pensaba.#$e#Ha mejorado recientemente.$l" #!String
+  Sat: "Mi ordenador es la única conexión que tengo con el mundo exterior.#$e#De lo contrario estaría solo con un puñado de campesinos y personas de avanzada edad. Sin ánimo de ofender." #!String
+  Sat6: "¿Tienes algunas llamas en tu granja? #$e #¿Has notado que la palabra " #!Stringllama" #!String se parece a una llama?"
+  Sun: "Hice un zombie de nieve pero Demetrius hizo que me deshiciera de él. #$e#Era una buena recreación suya.$u#$e#Así que... ¿qué pasa contigo?" #!String
+  Event_game1: "Está bien, eso servirá." #!String
+  Event_game2: "Buena elección, eso funciona bien con mi rol." #!String
+  Event_cave1: "¡No tan rápido! Quiero saber qué es." #!String
+  Event_cave2: "¿De verdad? ¡Estaba haciendo un montón de ruido!" #!String
+  Event_cave3: "Es muy peligroso sin una espada. Pero me gusta tu espíritu aventurero.$h" #!String
 
