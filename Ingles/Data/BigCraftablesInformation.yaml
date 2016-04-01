@@ -20,14 +20,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<Int32,String>
-    0: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    1: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    2: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    3: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    4: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    5: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    6: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
-    7: "House Plant/50/-300/Crafting -9/Añade un poco de carácter a tu hogar o granja./true/true/0" #!String
+    0: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    1: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    2: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    3: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    4: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    5: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    6: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
+    7: "House Plant/50/-300/Crafting -9/Adds some character to your home or farm./true/true/0" #!String
     8: "Scarecrow/50/-300/Crafting -9/Prevents crows from attacking your crops. Has a limited radius (about 8 \"tiles\")./true/true/0" #!String
     9: "Lightning Rod/50/-300/Crafting -9/Collects energy from lightning storms and turns it into battery packs./true/true/0" #!String
     10: "Bee House/50/-300/Crafting -9/Place outside and wait for delicious honey! (Except in Winter)./true/true/0" #!String
