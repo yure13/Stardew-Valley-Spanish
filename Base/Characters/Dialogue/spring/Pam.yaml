@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine." #!String
-    Mon: "You know, I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" #!String
-    Tue: "Hey, you! Don't be snoopin' around the trailer when I'm out. Got it?$u#$e#Sorry, but I gotta be cautious with strangers." #!String
-    Tue2: "I was reading the newspaper this morning but then I got depressed.#$e#Keep your head screwed on right and you'll make it through in one piece.#$e#That's what my Pappy always used to say. Heh heh heh.$h" #!String
-    Wed: "Times have been tough lately. I got laid off from my job as a bus driver.$s#$e#If I got my job back I could drive you to the desert." #!String
-    Thu: "My house ain't pretty but at least it's by the river.#$e#Penny's my daughter. Be nice to her or leave her alone." #!String
-    Thu4: "My house ain't pretty but at least it's by the river.#$e#Penny's my daughter. Be nice to her or leave her alone.#$e#Penny says I spend too much time at the saloon...$s" #!String
-    Fri2: "I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#Scrapbooking? What's that?#$e#...Ehh. Maybe I'll play checkers against myself." #!String
-    Fri: "The last farmer who lived here was very popular with everyone in town.#$e#You've got some pretty big shoes to fill, kid." #!String
-    Sat: "Make sure your boots are clean before you go stompin' around in my house.$u#$e#It's annoying to clean a mess. You should know that by now." #!String
-    Sat4: "I wish a team of elves would come during the night and tidy up my house. Hahahaha.$h#$e#I could sure go for some parsnips.#$e#If my legs weren't so stiff I'd visit the mountains every now and then." #!String
-    Sun: "Are you friends with Gus? He's a pretty good guy." #!String
-    event_credit1: "Hey, watch your mouth! No one tells me what to do!$u" #!String
-    event_credit2: "...it is? That's terrible!$s#$b#...Oh.$s" #!String
+    1: "Eh, tú. Mi nombre es Pam.#$e#No seas idiota y nos llevaremos bien." #!String
+    Mon: "Comería más sano si me lo pudiera permitir, ¿sabes?.#$e#Oye, probablemente tengas un montón de cultivos riquísimos creciendo en tu granja, ¿Eh?" #!String
+    Tue: "¡Oye, tú! No te fisgonees por mi caravana cuando no estoy, ¿Entendido?$u#$e#Lo siento, pero debo ser precavido con los extraños." #!String
+    Tue2: "Estaba leyendo el periódico esta mañana hasta que me deprimí.#$e#\"Mantén la cabeza bien amueblada y estarás bien\".#$e#Es lo que mi papá solía decir. Je je je.$h" #!String
+    Wed: "Llevo una temporada difícil. Me han despedido de mi trabajo como conductora de autobús.$s#$e#Si recuperara mi trabajo podría llevarte al desierto." #!String
+    Thu: "Mi casa no es bonita, pero por lo menos está junto al río.#$e#Penny es mi hija. Compórtate con ella o déjala en paz." #!String
+    Thu4: "Mi casa no es bonita, pero por lo menos está junto al río.#$e#Penny es mi hija. Compórtate con ella o déjala en paz.#$e#Penny dice que paso demasiado tiempo en el Salón de Gus...$s" #!String
+    Fri2: "He estado pensando... Me gustaría tener una afición. Algo mejor que hacer en lugar de ir al Salón de Gus todas las noches.#$e#¿Tienes alguna idea?#$e#¿Un álbum de recortes? ¿Qué es eso?#$e#...Eh, quizás juegue a las damas yo sola." #!String
+    Fri: "El último granjero que vivió aquí fue muy conocido por todo el pueblo.#$e#Te han dejado el listón muy alto, chico.^Te han dejado el listón muy alto, chica." #!String
+    Sat: "Asegúrate de limpiarte las botas antes de entrar a mi casa.$u#$e#Es un fastidio limpiarlo, ya deberías saberlo." #!String
+    Sat4: "Ojalá un grupo de duendecillos apareciera en mi casa por la noche para arreglarla.Jajajajaja.$h#$e#Iría a por algunos nabos...#$e#Si mis piernas no me dolieran tanto iría a las montañas de vez en cuando." #!String
+    Sun: "¿Eres amigo de Gus? Es muy buena persona.^¿Eres amiga de Gus? Es muy buena persona." #!String
+    event_credit1: "¡Oye, vigila tu lengua! ¡Nadie me dice qué hacer!$u" #!String
+    event_credit2: "...¿Es cierto? ¡Eso es horrible!$s#$b#...Oh.$s" #!String
 
