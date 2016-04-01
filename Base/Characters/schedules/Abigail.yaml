@@ -22,6 +22,7 @@ content:  #!Dictionary<String,String>
     25: "NOT friendship Sebastian 6/GOTO 11" #!String
     rain: "900 SeedShop 9 5 0/1100 SeedShop 13 20 0/1300 SeedShop 39 5 0/1500 SeedShop 7 9 2/1900 SeedShop 6 4 0/2200 SeedShop 1 9 3" #!String
     rain2: "900 SeedShop 34 5 0/1100 SeedShop 9 17 3/1400 Saloon 42 17 2 abigail_sit_down/2000 SeedShop 1 9 3" #!String
+    marriageFun: "830 SeedShop 6 19 0 \"Dad seems to be doing okay without me around.\"/1300 Town 47 87 0 \"Hey, @. I like hanging out here. It's peaceful.\"/1700 Saloon 33 18 0 \"Urgh... I still can't beat it by myself.$s\"/2030 BusStop -1 23 3" #!String
     fall_Mon: "900 SeedShop 10 5 0/1100 Beach 13 39 2/1800 SeedShop 1 9 3" #!String
     spring_4: "900 SeedShop 11 5 0 \"Ugh... Más tarde tengo una cita con el doctor.$s\"/1230 Hospital 13 14 0 \"¡Solo he venido para mi revisión anual! No te preocupes, no estoy embar... Quiero decir, ¡enferma! Heh.$9\"/1330 Hospital 4 6 1 \"¿Cuánto tiempo vas a tardar, doctor? Tengo hambre.$s\"/1600 SeedShop 10 5 0/2000 SeedShop 1 9 3" #!String
     Sun: "900 SeedShop 4 5 0/1030 SeedShop 20 5 1 \"Nos escondemos aquí para no tener que hablar con nadie.\"/1300 Forest 14 40 2/2000 SeedShop 1 9 3" #!String
