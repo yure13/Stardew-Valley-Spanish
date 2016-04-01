@@ -194,9 +194,9 @@ content:  #!Dictionary<String,String>
     spouseRoom_Haley: "#$c .5#Go ahead and start your day, honey. I'm just putting on my make-up.#$e#Have any plans for the day?" #!String
     spouseRoom_Leah: "#$c .5#One of these days I'll have to do your portrait.#$e#The view from this window is inspiring, don't you think?" #!String
     spouseRoom_Penny: "#$c .5#I always wanted my very own library. This is so charming.$h#$e#I like to do a little reading first thing in the morning. It gets my brain into gear." #!String
-    spouseRoom_Sebastian: "#$c .5#I kind of miss the motorcycle... but hey, it's too dangerous for a married man.$h#$e#Do we have any pizza in the freezer? I'm hungry." #!String
+    spouseRoom_Sebastian: "#$c .5#I'm debating whether I should work or just read comics all day.#$e#Hey, do we have any pizza in the freezer? I'm hungry." #!String
     spouseRoom_Harvey: "#$c .5#No air-traffic this morning, honey. But it's still fun to break out the equipment now and then.#$e#I'm working on a new model plane. It's so much more relaxing here than in my old apartment." #!String
-    spouseRoom_Elliott: "#$c .5#I think I might do some writing today.#$e#Will you be okay without my help today?" #!String
+    spouseRoom_Elliott: "#$c .5#I think I might do some writing today.#$e#Will you be okay without my help?" #!String
     spouseRoom_Alex: "#$c .5#Don't ever let me get lazy. I want to stay in good shape for you!#$e#There's lots of room here to do my exercises. I'm making more progress than ever!" #!String
     spouseRoom_Sam: "#$c .5#The old guitar... I just don't have the drive to play it anymore. That's fine.#$e#What's on your agenda today?" #!String
 
