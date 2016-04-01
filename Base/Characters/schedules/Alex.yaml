@@ -17,6 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     rain: "800 JoshHouse 8 19 2 alex_football/1300 JoshHouse 14 5 2 alex_lift_weights/1600 Town 50 68 1/1830 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1" #!String
+    marriageFun: "830 JoshHouse 6 18 2 \"I'm going to hang out here all day. My grandparents aren't getting any younger...\"/1800 BusStop -1 23 3" #!String
     summer_16: "800 Town 64 64 2 alex_football/1030 Hospital 15 15 3 alex_sit_left \"Eh, solo me he torcido el tobillo. Voy a ver si me lo vendan.\"/1330 Hospital 4 6 1 \"Sí, sí... Estoy bien, doctor. Sólo póngame una venda, ¿vale?\"/1600 JoshHouse 15 4 2" #!String
     winter: "900 BathHouse_MensLocker 3 5 2 alex_lift_weights/1500 JoshHouse 14 5 2/1800 Town 50 68 1/1930 JoshHouse 8 19 2/2100 JoshHouse 17 5 0/2240 JoshHouse 21 4 1" #!String
     Wed_6: "GOTO season" #!String
