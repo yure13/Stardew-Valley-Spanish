@@ -16,19 +16,19 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "A stranger?... Hello.#$e#Don't mind me. I just live out here alone." #!String
-    Mon: "The crisp air of the wilderness is all I know.#$e#I live out here by choice." #!String
-    Tue: "...Have you come to ridicule me?#$e#I'm just minding my own business." #!String
-    Wed: "I don't know you well enough to trust you. Sorry." #!String
-    Thu: "...Hmm?#$e#Do you want something from me?" #!String
-    Fri: "Please don't destroy my tent.#$e#It's happened before.$s" #!String
-    Sat: "I'm happy by myself, you know.#$e#I don't need new friends." #!String
-    Sun4: "It would be nice if the townspeople could accept me for who I am.$s" #!String
-    Tue4: "You can learn to survive in the wild. I have.#$e#I think we all have a hidden urge to return to nature." #!String
-    Wed6: "I spend a lot of time thinking.#$e#If you can fully understand the reasons behind your thoughts, you'll have reached a new level of being." #!String
-    Wed2: "I have to be weary of strangers. Most people don't like a wild man." #!String
-    Thu4: "The people here seem nice, but they avoid me.#$e#People are afraid of the unknown.$u" #!String
-    Fri4: "You can learn a lot from trees.#$e#Spend time with them and they will tell you their secrets.#$e#Go in peace, young one." #!String
-    Sat4: "I have everything I need to survive.#$e#Nature and books could keep me busy for ten thousand years.#$e#Unfortunately, I can't stick around for that long.$s" #!String
-    Sun: "I don't like to stay in one place for too long. There's just too much to experience in the world." #!String
+    1: "¿Un forastero?... Hola.^¿Una forastera?... Hola.#$e#No te preocupes por mí. Vivo solo aquí fuera." #!String
+    Mon: "El aire fresco de la naturaleza es todo lo que conozco.#$e#Vivo aquí fuera por que quiero." #!String
+    Tue: "¿Has venido a burlarte de mí?#$e#Yo sólo estoy pensando en mis cosas." #!String
+    Wed: "No te conozco lo suficiente para confiar en tí. Lo siento." #!String
+    Thu: "¿Um?#$e#¿Quieres algo?" #!String
+    Fri: "Por favor no destruyas mi tienda.#$e#Ya me ha pasado...$s" #!String
+    Sat: "Estoy feliz yo solo, ¿sabes?#$e#No necesito hacer nuevos amigos." #!String
+    Sun4: "Sería genial que la gente del pueblo me aceptara tal y como soy.$s" #!String
+    Tue4: "Puedes aprender a sobrevivir en la naturaleza, como yo.#$e#Creo que todos tenemos el instinto de volver a la naturaleza." #!String
+    Wed6: "Paso mucho rato pensando.#$e#Cuando puedas entender las razones que se ocultan tras tus pensamientos alcanzarás un nuevo nivel de ser." #!String
+    Wed2: "Desconfío de los extraños. A la mayoría de la gente no le gustan los \"salvajes\"." #!String
+    Thu4: "La gente de aquí parece agradable, pero me evitan.#$e#La gente teme a lo desconocido.$u" #!String
+    Fri4: "Puedes aprender mucho de los árboles.#$e#Pasa tiempo con ellos y te dirán sus secretos.#$e#Ve en paz joven." #!String
+    Sat4: "Tengo todo lo necesario para sobrevivir.#$e#La naturaleza y los libros podrian mantenerme ocupado por diez mil años.#$e#Desafortunadamente, no tengo tanto tiempo.$s" #!String
+    Sun: "No me gusta quedarme en un mismo lugar durante mucho tiempo. Hay demasiadas experiencias en el mundo." #!String
 
