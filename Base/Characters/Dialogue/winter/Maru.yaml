@@ -16,27 +16,27 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Oh man, it's so cold...$s#$e#You must be glad no crops grow in winter, huh?" #!String
-    Mon: "Did you see the snowman I built?$h" #!String
-    Tue: "Hmmm... I don't really know what to do today.$s#$b#Do you ever have that problem?" #!String
-    Wed: "I guess winter is a good time to work on my gadgets.#$e#I wonder if I could make anything useful for farmers?" #!String
-    Thu: "Hey! What's up?#$q 37 Thu_01_old#How do you like the snowman I made?#$r 37 30 Thu_0#I think it looks great#$r 37 -50 Thu_1#That lumpy mound in your yard is a snow man?" #!String
-    Thu_01_old: "It's a good time of year to explore the mines." #!String
-    Thu_0: "Thanks, I put a lot of work into it!$h" #!String
-    Thu_1: "How can you be so rude?$s" #!String
-    Fri: "I hope I don't catch the flu this year." #!String
-    Sat: "Have you built a furnace yet?#$e#You can use them to turn raw material like ores into more useful products.$u" #!String
-    Sun: "I get so sleepy when it's cold..." #!String
-    Sat2: "Hey, if any of your farming machines need to be fixed, just let me know.$h" #!String
-    Tue4: "Hey, do you have any ideas for a new gadget I can make?#$e#Mhmm. I trust your opinion." #!String
-    Fri6: "You look fresh today. I guess it's that crisp winter air." #!String
-    Mon8: "Hi @!$h#$e#Hey, don't you think my snowman looks kind of like you?" #!String
-    Thu10: "I was hoping to see you today.$h#$e#You can hang out with me as long as you want." #!String
-    Event_Hospital_1: "Of course he'll know the difference! This sample is completely ruined!" #!String
-    Event_Hospital_2: "Okay. I'll blame it on you, then." #!String
-    Event_Hospital_3: "You're right. I should just tell him the truth." #!String
-    Event_Space1: "It's amazing, isn't it?" #!String
-    Event_Space2: "I guess you could see it like that...#$b#But it's still grand, isn't it?" #!String
-    Event_Cut1: "Oh no? Well that makes me feel a little better, then." #!String
-    Event_Cut2: "Oh no! I'm really really sorry.$s" #!String
+  1: "Venga ya, ¡Hace mucho frío!...$s#$e#Debes estar contento, no hay cultivos en invierno, ¿eh?" #!String
+  Mon: "¿Has visto el muñeco de nieve que construí?$h" #!String
+  Tue: "Hmmm... Realmente no sé que hacer hoy.$s#$b#¿Alguna vez tuviste ese problema?" #!String
+  Wed: "Supongo que el invierno es una buena época para trabajar en mis aparatos.#$e#Me pregunto si podría crear algo útil para los granjeros." #!String
+  Thu: "¡Hey! ¿Qué tal?#$q 37 Thu_01_old#¿Qué te parece el muñeco de nieve que he hecho?#$r 37 30 Thu_0#Yo creo que está genial#$r 37 -50 Thu_1#¿Ese montón grumoso que hay en tu jardín es tu muñeco de nieve?" #!String
+  Thu_01_old: "Es un buen momento del año para explorar las minas." #!String
+  Thu_0: "Gracias, ¡he puesto mucho esfuerzo en ello!$h" #!String
+  Thu_1: "¿Cómo puedes actuar de forma tan grosera?$s" #!String
+  Fri: "Espero no coger la gripe este año." #!String
+  Sat: "¿Has construido un horno ya?#$e#Puedes usarlo para convertir materiales en bruto como menas en productos más útiles.$u" #!String
+  Sun: "Me da tanto sueño cuando hace frio..." #!String
+  Sat2: "Hey, si alguna de tus máquinas de cultivo necesita un arreglo, házmelo saber.$h" #!String
+  Tue4: "Hey,¿Tienes alguna idea para un nuevo aparato que pueda hacer?#$e#Mhmm. Confío en tu opinión." #!String
+  Fri6: "Pareces despejado hoy. Supongo que es el aire fresco del invierno." #!String
+  Mon8: "Hola @!$h#$e#Hey, ¿No te crees que mi muñeco de nieve se parece un poco a ti?" #!String
+  Thu10: "Esperaba verte hoy.$h#$e#Puedes pasar el rato conmigo el tiempo que quieras." #!String
+  Event_Hospital_1: "¡Claro que él sabía la diferencia! ¡Este ejemplo está completamente arruinado!" #!String
+  Event_Hospital_2: "Vale. Te culparé a ti entonces." #!String
+  Event_Hospital_3: "Tienes razón. Le debería decir la verdad." #!String
+  Event_Space1: "Es increible, ¿Verdad?" #!String
+  Event_Space2: "Supongo que puedes verlo de esa manera...#$b#Pero sigue siendo magnífico, ¿no?" #!String
+  Event_Cut1: "Oh, ¿no? Bueno, eso me hace sentir un poco mejor." #!String
+  Event_Cut2: "¡Oh, no! Lo siento, de verdad, perdona.$s" #!String
 
