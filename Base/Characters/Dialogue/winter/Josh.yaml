@@ -16,24 +16,24 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Winter is kind of lame. There's too much snow to do anything fun.#$e#I guess some people like it." #!String
-    Mon: "I'm just looking forward to spring." #!String
-    Tue: "Hey, can you go find Haley and tell her I said 'hi'?" #!String
-    Wed: "People stay indoors a lot during the winter.#$e#If I read a book maybe I'd be less bored... nah." #!String
-    Thu: "When I turn pro, I'll be so rich that I'll get a vacation home in the tropics.#$e#Then I won't have to deal with these boring winters." #!String
-    Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
-    Sat: "There's some weird people living in this town.#$e#...like that girl Abigail. Is she a 'goth' or something?#$e#I don't understand it." #!String
-    Sun: "Hey, the football game is on today!#e#This might be my favorite day of the week." #!String
-    Fri4: "You came all the way through the snow to see me?#$e#That's nice of you.$h" #!String
-    Sat6: "The world is full of different kinds of people. It's interesting.#$e#Sometimes I don't understand why others act the way they do, but that's fine." #!String
-    Tue4: "Hey, @. Could you do me a favor?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks." #!String
-    Wed8: "People stay indoors a lot during the winter.#$e#You know what? I'm going to start reading a book!" #!String
-    Thu6: "I wish I could control the weather." #!String
-    Thu10: "If I ever make a lot of money, I'll make sure all my friends and family are taken care of.#$e#That means you, too.$h" #!String
-    Event_books1: "No, I'm not! You're just trying to flatter me.$a" #!String
-    Event_books2: "Yeah, I guess you're right...$s" #!String
-    Event_books3: "You were supposed to disagree with me.$a" #!String
-    Event_parents1: "That's an interesting thought..." #!String
-    Event_parents2: "They would never do that!$a" #!String
-    Event_parents3: "...Maybe you're right... I dunno.$s" #!String
+  1: "El invierno no es muy común. Hay demasiada nieve para hacer algo divertido.#$e#Supongo que a algunas personas les gusta." #!String
+  Mon: "Tengo ganas de que llegue la primavera." #!String
+  Tue: "Hola, ¿puedes buscar a Haley y decirle hola de mi parte?" #!String
+  Wed: "Las personas permanecen dentro mucho durante el invierno. $e # #leer un libro tal vez sería menos aburrido... nah." #!String
+  Thu: "Cuando sea un jugador profesional, seré tan rico que tendré una casa de vacaciones en el trópico.#$e#Así no tendré que aguantar estos inviernos tan aburridos." #!String
+  Fri: "¿Viniste a través de la nieve sólo para verme?#$e#Supongo que tiene sentido." #!String
+  Sat: "En esta ciudad vive gente muy rara.#$e#....como Abigail. ¿Es gótica o algo?#$e#No lo entiendo." #!String
+  Sun: "Hey, ¡hoy es el partido de fútbol!#$e#Éste podría ser mi día favorito de la semana." #!String
+  Fri4: "¿Viniste a través de la nieve sólo para verme?#$e#Eso está bien por tu parte.$h" #!String
+  Sat6: "El mundo está lleno de diferentes tipos de personas. Es interesante.#$e#A veces no entiendo por qué otros actúan del modo que lo hacen, pero eso está bien." #!String
+  Tue4: "Oye, @. ¿Podrias hacerme un favor?$l#$b#Si ves a Haley, dile que estoy ocupado.$l#$e#Gracias." #!String
+  Wed8: "La gente se queda en casa en invierno.#$e#¿Sabes qué? ¡Voy a leerme un libro!" #!String
+  Thu6: "Ójala pudiera controlar el clima." #!String
+  Thu10: "Si alguna vez gano mucho dinero, me aseguraré de mantener a todos mis amigos y familia.#$e#También te incluyo a ti.$h" #!String
+  Event_books1: "¡No, no lo soy! Sólo estás tratando de halagarme.$a" #!String
+  Event_books2: "Si, creo que tienes razón...$s" #!String
+  Event_books3: "Se supone que no estabas de acuerdo conmigo.$a" #!String
+  Event_parents1: "Eso es una idea interesante..." #!String
+  Event_parents2: "¡Ellos nunca lo harían!$a" #!String
+  Event_parents3: "...Quizá tienes razón... No sé.$s" #!String
 
