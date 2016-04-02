@@ -58,7 +58,7 @@ content:  #!Dictionary<String,String>
     summer_Thu: "Si te quedas al sol mucho tiempo, tu pelo se aclarará.#$e#¡Está bien que lo sepas!" #!String
     summer_Fri: "Me pregunto qué estará haciendo hoy Alex...#$e#¿Eh? No me había dado cuenta de que estabas ahí." #!String
     summer_Sat: "Ser granjero suena tan aburrido...#$q 42/43 summer_Sat_old#¿Qué es lo que haces todo el día?#$r 42 10 summer_Sat_12#Cuidar las plantas#$r 42 10 summer_Sat_12#Explorar las cuevas#$r 43 -10 summer_Sat_13#Curiosear en tu habitación#$r 42 10 summer_Sat_12#Buscar tesoros" #!String
-    summer_Sat_old: "Oye, ¡será mejor que no sigas fisgoneando en mi cuarto"$a|Aunque supongo que te podría poner en buena forma." #!String
+    summer_Sat_old: "Oye, ¡será mejor que no sigas fisgoneando en mi cuarto!$a|Aunque supongo que te podría poner en buena forma." #!String
     summer_Sat_12: "Hum... Parece mucho trabajo." #!String
     summer_Sat_13: "¿Qué? ¡Será mejor que no estés haciendo eso!$a" #!String
     summer_Sun: "Emily suele hacer la cena... Pero prepara cosas raras, como la quinoa." #!String
