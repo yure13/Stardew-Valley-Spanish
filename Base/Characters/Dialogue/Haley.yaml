@@ -34,7 +34,7 @@ content:  #!Dictionary<String,String>
     Thu6: "Anoche estuve cocinando, ¡quedó bastante bien!#$e#Pero provoqué un gran desastre en la cocina..." #!String
     Sun6: "Estoy pensando en donar un montón de ropa... Debo de tener cien pares de zapatos." #!String
     Sat8: "#$1 haleySeagull#Ayer me encontré una gaviota con el ala atascada en una red. La liberé, por supuesto. Parecía tan indefensa, la pobre.$k$s#$e#¿Sabes? Debería ponerme a hacer un poco más de ejercicio... Este juvenil metabolismo no durará para siempre." #!String
-    Fri10: "@, podemos ir de camping algún día?#Se#El sitio más exótico que he visitado es la ciudad de Zuzu." #!String
+    Fri10: "@, podemos ir de camping algún día?#$e#El sitio más exótico que he visitado es la ciudad de Zuzu." #!String
     Event_clean1: "*suspiro*...$u" #!String
     Event_clean2: "¡¡NO!! ¡No pienso hacerlo!$a#$b#¡Sois estúpidos!%fork$a" #!String
     Event_clean3: "¿Cómo que debería de tomar el 'camino fácil'? ¿Que se supone que significa?#$b#Crees que sigo siendo un bebe, ¿no?%fork$a" #!String
