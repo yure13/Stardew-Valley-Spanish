@@ -20,7 +20,7 @@ content:  #!Dictionary<String,String>
     15: "GOTO 11" #!String
     rain: "1030 Beach 12 39 2 \"El océano se disfruta mejor en soledad... ¿No crees?\"/1700 SebastianRoom 11 9 1" #!String
     rain2: "1030 SebastianRoom 9 4 3 sebastian_computer/1500 Saloon 43 20 3/2110 SebastianRoom 11 9 1" #!String
-    marriageFun: "830 Mountain 58 35 1 \"Standing at this spot really makes me want a smoke... but I'm determined to quit now.\"/1300 ScienceHouse 6 20 0 \"Mom's face lit up when I walked in. She deserves to be happy.$7\"/1700 BusStop -1 23 3" #!String
+    marriageFun: "830 Mountain 58 35 1 \"Este sitio me da muchas ganas de fumar... Pero estoy decidido a dejarlo.\"/1300 ScienceHouse 6 20 0 \"Mi madre se ha alegrado de verme. Merece ser feliz.$7\"/1700 BusStop -1 23 3" #!String
     fall: "1030 SebastianRoom 9 4 3 sebastian_computer/1200 Mountain 57 33 1/1400 Mountain 64 14 2/1500 Mountain 42 13 1 sebastian_smoking/1600 ScienceHouse 27 9 0/1730 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1" #!String
     summer_4: "900 SebastianRoom 10 7 1 \"Maldita sea... Casi olvido que hoy tenía cita con el doctor Harvey.\"/1000 Hospital 15 16 3 sebastian_cardsLeft/1330 Hospital 4 6 1 \"¿Qué haces ahí? ¡Podría haber estado desnudo!$a\"/1600 SebastianRoom 11 9 1" #!String
     11_6: "GOTO spring" #!String
