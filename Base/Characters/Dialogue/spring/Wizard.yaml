@@ -16,12 +16,12 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands." #!String
-    Mon: "I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences.$s" #!String
-    Tue: "If you have nothing important to tell me, leave me be. I have much work to do.$s" #!String
-    Wed: "It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me...$s" #!String
-    Thu: "There are many mysteries around us, inquisitive @. You must be patient if you wish to discover them." #!String
-    Fri: "The townsfolk are afraid of me.#$e#It is unfortunate, but I suppose humans are always afraid of the unknown." #!String
-    Sat: "You are standing above a potent magical field.#$e#I built my hut right here on purpose, you know." #!String
-    Sun: "I sometimes obvserve the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue." #!String
+    1: "Ah, si. Predije tu llegada hace algún tiempo, joven @.#$e#Como sea, al final tu destino se encuentra en tus propias manos." #!String
+    Mon: "He visto algunas cosas acerca de tu futuro, joven @.#$e#Si te las contara, podrían haber graves consecuencias$s" #!String
+    Tue: "Si no tienes nada importante que decirme, déjame en paz. Tengo mucho trabajo que hacer$s" #!String
+    Wed: "Toma años de estudio para entender el lenguaje de los elementales.#$e#Para poder hablar su idioma requiere una vida de gran dedicación.#$e#Ahora, si me disculpas...$s" #!String
+    Thu: "Muchos misterios nos rodean, curioso @. Debes ser paciente si deseas descubrirlos." #!String
+    Fri: "Los ciudadanos me temen.#$e#Es lamentable, pero supongo que los humanos siempre temen a lo desconocido." #!String
+    Sat: "Estás parado encima de un potente campo mágico.#$e#Yo construí mi refugio aquí apropósito, sabes." #!String
+    Sun: "Aveces observo a los ciudadanos en secreto.#$e#Tengo la esperanza de encontrar un aprendiz. Algún día dejaré este plano mortal, pero mi búsqueda arcana debe continuar." #!String
 
