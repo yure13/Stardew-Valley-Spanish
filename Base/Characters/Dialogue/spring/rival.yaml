@@ -16,10 +16,10 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    5_2: "Whew, a whole year gone already! Well, I can safely say I exceeded my expectations for profits this past year...#$b#Did you break even at least?#$e#Maybe I'll go on a fishing trip this year... give you some time to catch up. Hehe.^Maybe I'll do a luxury spa getaway this year... " #!String
-    19_2: "$q 846/847 19_2_old#I swear, some of these townsfolk are so stupid... Don't you think?#$r 846 0 19_2_1#Yes...#$r 847 0 19_2_2#No. They are my friends!" #!String
+    5_2: "Uf, el año está terminando! Bien, puedo decir con seguridad que excedí mis expectativas de ganancias este año...#$b#¿Tú las cumpliste?#$e#Tal vez vaya de pesca este año... darte algo de tiempo para ponerte al día, jeje.^Tal vez me haga una escapada a un spa de lujo este año..." #!String
+    19_2: "$q 846/847 19_2_old#Lo juro, algunos ciudadanos son tan estúpidos... ¿No crees?#$r 846 0 19_2_1#Si...#$r 847 0 19_2_2#No. Ellos son mis amigos" #!String
     19_2_old: "..." #!String
-    19_2_1: "...Man, the things you have to do to get this Stardew Hero trophy...^I'll have to remember and tell the Mayor you said that.#$e#...$h" #!String
-    19_2_2: "...Heh. Birds of a feather...#$e#Why don't you go chat with your country pals?^Why don't you go talk to some of your country pals, honey?" #!String
-    Fri: "Hey, since I'm so generous I'll give you a little tip, even though we're opponents: Don't forget to water your crops." #!String
+    19_2_1: "...Amigo, las cosas que tienes que hacer para obtener el trofeo de héroe de Stardew...^Tengo que recordar y decirle al Alcalde que dijiste esto#$e#...$h" #!String
+    19_2_2: "...Je. Pájaros con plumas...#$e#¿Por qué no vas a chatear con tus amigos del país?^¿Por qué no vas a hablar con algunos de tus amigos del país, honey?" #!String
+    Fri: "Hey, como soy tan generoso te daré un pequeño consejo, aunque seamos enemigos: No olvides regar tus cultivos." #!String
 
