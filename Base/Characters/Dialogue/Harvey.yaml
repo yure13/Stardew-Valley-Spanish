@@ -18,10 +18,10 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "Es un placer conocerte. Soy Harvey, el doctor local.#$e#Realizo chequeos regulares y procedimientos médicos a todos los residentes del pueblo Pelican. Es un trabajo gratificante.#$e#Espero que usted encuentre su trabajo igual de gratificante, con el tiempo.$h" #!String
     danceRejection: "¡Oh! Lo siento... Yo, eh... tengo planes para invitar a otra persona.$s" #!String
-    Mon: "Vendemos algunos medicamentos en la clínica... no dudes en pasar si te sientes cansado. $b # #Sé que ser un agricultor es bastante agotador... ¡no te sobreesfuerzes!" #!String
-    Mon2: "Me siento responsable de la salud de toda esta comunidad... puede ser estresante a veces. #$e# Es una comunidad muy pequeña, así que puedo construir una buena relación con mis pacientes." #!String
-    Mon6: "Me gustaría quedarme en Stardew Valley por un tiempo. Por fin estoy empezando a sentirme involucrado en la comunidad #$e#. Se siente bien saber que eres útil." #!String
-    Mon10: "¡Oh! Hola, @. ¿Tu tienes... alguna pregunta médica?$l" #!String
+    Mon: "Vendemos algunos medicamentos en la clínica... no dudes en pasar si te sientes cansado.#$b#Sé que ser un agricultor es bastante agotador... ¡no te sobreesfuerzes!" #!String
+    Mon2: "Me siento responsable de la salud de toda esta comunidad... puede ser estresante a veces.#$e#Es una comunidad muy pequeña, así que puedo construir una buena relación con mis pacientes." #!String
+    Mon6: "Me gustaría quedarme en Stardew Valley por un tiempo. Por fin estoy empezando a sentirme involucrado en la comunidad.#$e#Se siente bien saber que eres útil." #!String
+    Mon10: "¡Oh! Hola, @.$l#$e#¿Tu tienes... alguna pregunta médica?$l" #!String
     Tue: "Sientete libre de pasar por mi oficina, si alguna vez te sientes enfermo, #$e#. Aunque eres joven. Probablemente te mantendras sano sin tratar.$" #!String
     Tue8: "No te sobreesfuerces, @. ¡Órdenes del médico!#$e#Tu salud es importante para mí.$l" #!String
     Wed4: "Me gustaría llegar a conocerte mejor, @. Dejemos de lado nuestra relación médico-paciente." #!String
