@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     rain: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1330 ElliottHouse 1 5 0/1800 ElliottHouse 7 7 2/2000 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
-    marriageFun: "830 Beach 46 11 2 \"Hola, @. Solo estoy mirando las olas.Hello, @.\"/1700 BusStop -1 23 3" #!String
+    marriageFun: "830 Beach 46 11 2 \"Hola, @. Solo estoy mirando las olas.\"/1700 BusStop -1 23 3" #!String
     summer_9: "900 ElliottHouse 1 5 0/1030 Hospital 12 14 0 \"Ey, hola. ¿Qué te trae por este terrible lugar?\"/1330 Hospital 4 6 1 \"Me ha estado doliendo la espalda, doctor... Ya sabe, por estar inclinado mientras escribo mi novela.\"/1600 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
     winter: "GOTO fall" #!String
     fall: "800 ElliottHouse 1 5 0/1000 ElliottHouse 6 4 0/1100 ElliottHouse 1 5 0/1130 ArchaeologyHouse 21 11 2 elliott_read/1730 ElliottHouse 7 7 2/2100 ElliottHouse 1 5 0/2400 ElliottHouse 13 4 1" #!String
