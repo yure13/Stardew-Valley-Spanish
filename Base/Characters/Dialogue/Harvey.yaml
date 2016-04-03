@@ -51,6 +51,6 @@ content:  #!Dictionary<String,String>
     summer_Thu: "El ejercicio es importante, pero no te agotes demasiado, ¡o tu podrías terminar en mi clínica!#$e#Asegúrate y escucha a su cuerpo." #!String
     summer_Fri: "Las personas no enferman mucho durante el verano. Eso es bueno, pero también significa menos negocio para mí." #!String
     fall_Fri: "¿Tienes que ir a las minas, @?#$e#Es un lugar peligroso. No te lo recomiendo." #!String
-    fall_Sat: "Cuando comas ciertos alimentos, tu obtendras un mayor rendimiento.#$e#¡Comer un "Almuerzo de granjero" te dara los nutrientes que necesitas para regar y cosechar mejor los cultivos!" #!String
+    fall_Sat: "Cuando comas ciertos alimentos, tu obtendras un mayor rendimiento.#$e#¡Comer un 'Almuerzo de granjero' te dara los nutrientes que necesitas para regar y cosechar mejor los cultivos!" #!String
     winter_Wed: "Es temporada de gripe, por lo que debes ser extra cuidadoso.#$e#Asegúrate de lavarte las manos a menudo." #!String
     winter_Sun: "Odio decir esto, pero gano mucho más dinero durante la temporada de gripe.#$e#Supongo que si la gente dejase de enfermar, me quedaria sin negocio.#$e#¡No te hagas una idea equivocada! ¡Quiero que la gente este sana... de verdad!" #!String
