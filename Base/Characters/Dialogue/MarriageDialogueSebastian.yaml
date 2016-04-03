@@ -16,70 +16,70 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "Finally... some heavy rain. I get bored of sunny weather easily." #!String
-    Rainy_Day_1: "Hey. I was just thinking about my old room in the basement. I felt comfortable there, but this is a lot more interesting. And I don't miss the smell...#$e#I felt kind of embarrassed living in my mom's house for so long." #!String
-    Rainy_Day_2: "Hey. I couldn't sleep last night so I took a walk to the caves. I found this... want it?[575 769 767 84 66 78]#$e#I just have trouble sleeping sometimes, it has nothing to do with you. I love you.$7" #!String
-    Rainy_Day_3: "Seems like a pretty good day to just lay around, maybe read a book or something... what do you think?" #!String
-    Rainy_Day_4: "Hey, another rainy day... perfect.#$e#You look cold... here, come closer.$l" #!String
-    Rainy_Night_0: "I'm trying my best to quit smoking now that we're married... I don't wanna die on you. It's a bad habit.#$e#I want to have a future together.$l" #!String
-    Rainy_Night_1: "I did some work on the laptop today. I was actually brainstorming some ideas for a game I want to make.#$e#With your farming income, I can afford to do what I want with my life. It's pretty amazing. Thank you.$h" #!String
-    Rainy_Night_2: "Sorry, I didn't make any dinner. We might have a frozen pizza in the fridge or something.#$e#I dunno, my mind was elsewhere. It's hard to remember to do chores..." #!String
-    Rainy_Night_3: "How was your day? Did you slay any monsters?$h#$e#It feels good to take out your aggression now and then, doesn't it?" #!String
-    Rainy_Night_4: "Maybe a witch will visit us tonight? Hah.. if only life was that interesting..." #!String
-    Indoor_Day_0: "The older I get, the less I'm drawn to the city. It had a certain mystique to it, once. But it turns out that was just a romantic fantasy.#$e#The city's so busy, so full of people... I don't belong there. I'm a loner." #!String
-    Indoor_Day_1: "Hey... want some coffee?[395]$7#$e#I needed some... woke up early from a nightmare and I just couldn't fall back asleep." #!String
-    Indoor_Day_2: "I couldn't sleep last night so I went for a night ride on the motorcycle.#$e#I need to stay independent, even though we're married. That's just how I am. I still love you, though.$7" #!String
-    Indoor_Day_3: "Hey. How'd you sleep last night? I heard you mumbling.#$e#You seemed scared, but I have to admit... it was kind of cute.$l" #!String
-    Indoor_Day_4: "Living here with you is teaching me to come out of my shell a little bit. I think it's good for me.$7" #!String
-    Indoor_Night_0: "Hey. I just hung out around the house, today. Nothing interesting...#$e#...#$e#The view from our house is perfect. You can see the sun setting over Pelican Town from the front porch." #!String
-    Indoor_Night_1: "Maybe I drank too much coffee... I don't feel very tired.#$e#I'm still trying to adjust to the farm schedule. I used to stay up until 5am and sleep in until 2pm, sometimes.$h" #!String
-    Indoor_Night_2: "It's really cool to have our own place. I can do whatever I feel like and not have people nagging at me all the time.#$e#I'm sure Maru's happy that I'm gone." #!String
-    Indoor_Night_3: "I spotted a bat out the window earlier. It's kind of hard to see, but if you stay focused you can often catch them flittering about. They're out there." #!String
-    Indoor_Night_4: "I often felt unappreciated back home... but here I feel like I really belong. Thanks for making me feel welcome, @.$l" #!String
-    Outdoor_0: "I feel like I want to do something today... but I'm not sure what. Do you ever have that problem, @?" #!String
-    Outdoor_1: "Hmm... sometimes I have to force myself to stay outside for health.#$e#I dunno what it is, but I like being indoors. Maybe I'm just so used to my dark basement." #!String
-    Outdoor_2: "I'll just watch you from here.$h#$e#I enjoy watching you." #!String
-    Outdoor_3: "I don't want to get soft now that I'm a married guy. Maybe I should start eating more hot pepper and working out?#$e#Just an idea...$h" #!String
-    Outdoor_4: "We should raise more slimes... In big quantities they can be pretty profitable. And they're so easy to raise.#$e#Also, different colored slimes produce different items. I dunno, I think it'd be kind of a fun hobby for us." #!String
-    OneKid_0: "I'm still getting used to being a father. Don't worry, I'll take good care of %kid1! It's just... something new." #!String
-    OneKid_1: "Maybe when %kid1 is a little older, I'll get a sidecar for the bike and we can all go for a ride.$h" #!String
-    OneKid_3: "Have you smelled %kid1? Maybe it's time for a bath..." #!String
-    TwoKids_0: "Don't worry, I already fed the kids... %kid2 spilled the chocolate milk all over my shirt again." #!String
-    TwoKids_1: "I hope %kid1 and %kid2 are nice to each other. Maru and I always fought as kids.#$e#If I think back on it, it was mostly my fault..." #!String
-    TwoKids_2: "I've had this recurring dream that %kid2 is wearing a shadow shaman costume and sitting on a glowing pumpkin. Weird, huh?" #!String
-    TwoKids_3: "We've come a long way, @. Look at our family. To be honest, I never really thought I'd end up in this situation.#$e#Now that I'm here, I like it...$l" #!String
-    Good_0: "Hey. Look at me. Never forget that I love you... you're everything to me.$l#$b#Now go make us some money.$h" #!String
-    Good_1: "Hey... come here. You look great today.$l" #!String
-    Good_2: "You always look great, even after slopping around in the yard all day.$l" #!String
-    Good_3: "I don't often show it, but I'm really happy that I'm your husband. Marrying you was the best decision I ever made.$l" #!String
-    Good_4: "You don't ever have to worry about me. I like to spend a lot of time alone." #!String
-    Good_5: "Sometimes I feel so angry... but when you show up I always start to calm down.$7#$e#Maybe I'll mellow out with age." #!String
-    Good_6: "I know you're tough, but I still worry about you, sometimes. Don't ever go monster hunting without a life elixir and some sturdy boots, okay?" #!String
-    Good_8: "I don't really feel like doing work today. Maybe I'll see what's on TV." #!String
-    Good_9: "I don't really need friends. You're the only person I need in my life. Is that weird?#$e#I guess I'm not like most people." #!String
-    Neutral_0: "When I take walks I do my best to avoid everyone. I hate being pressured into small talk." #!String
-    Neutral_2: "Why don't you tell me about your day when we're in bed tonight? I'm kind of busy right now..." #!String
-    Neutral_3: "Are you going into town today? Why, what are you up to?" #!String
-    Neutral_4: "I guess I can do the laundry today... You probably have your hands full with running the farm." #!String
-    Neutral_5: "Are we doing okay on money? I don't want to have to sell my laptop..." #!String
-    Neutral_6: "If you need to go see your friends in town, go ahead. I like being alone, anyways." #!String
-    Neutral_8: "House-cleaning isn't fun, but when I listen to music and it goes by pretty fast." #!String
-    Bad_5: "Look, I just want to be alone. Why don't you go outside and do your own thing for a while?" #!String
-    Bad_6: "What do you want? You sound like my step-dad. Go away.$a" #!String
-    Bad_7: "This place is starting to feel like a tomb.$s" #!String
-    Bad_8: "I started smoking again... I've just been really stressed out lately.$s" #!String
-    funLeave_Sebastian: "I'm going to take a walk today. I need some time to myself. I'll see you in the evening." #!String
-    funReturn_Sebastian: "My day was fine, nothing much to tell you about. Why don't you tell me about yours?" #!String
-    spring_1: "Oohh... my head. Happy new year...$h" #!String
-    spring_12: "Are you excited for tomorrow's festival? It'll be good to see Sam again." #!String
-    spring_23: "Oh... tomorrow's the flower dance, isn't it? Do we have to go?#$e#I hate wearing that ridiculous tight jumpsuit. Why does Lewis make us do this?$s" #!String
-    summer_1: "Summer's here... I need to start slathering the sunscreen pretty thick if I want to maintain my pale complexion..." #!String
-    summer_10: "Have you thought about what you're going to put in the luau soup?#$e#I have no idea what's good... you're the chef!$7" #!String
-    summer_27: "The weather's starting to cool off. It feels great.#$e#Should we go to the festival tomorrow night? It's actually a tradition I kind of enjoy.$7" #!String
-    fall_1: "It seems like the whole valley's changed overnight... I guess fall's finally here." #!String
-    fall_15: "The Stardew Valley Fair is a little crowded for my tastes... but I'll just hang out with Sam. It'll be good to catch up with him.#$e#You should play some carnival games, though! Don't worry about me.$7" #!String
-    fall_26: "I'm excited for the Spirit's Eve tomorrow. I wonder what horrors we'll find there.$h" #!String
-    winter_1: "What are you plans this winter? I know it's more of a laid-back time for you." #!String
-    winter_7: "Are you going to enter the fishing contest tomorrow?" #!String
-    winter_28: "It's been a great year, @. We should celebrate a little. [346]$h#$e#I'm sure next year will be even better.$7" #!String
+    Rainy_Day_0: "Por fin... Una buena tormenta. Me canso muy pronto de los días soleados." #!String
+    Rainy_Day_1: "Ey, estaba pensando en mi vieja habitación del sótano. Estaba muy a gusto allí, pero esto es mucho más interesante. Y no hecho de menos el olor...#$e#Me siento un poco avergonzado de haber estado viviendo tanto tiempo en casa de mi madre." #!String
+    Rainy_Day_2: "Ey. La otra noche no pude dormir, así que di una vuelta por las cuevas. Encontré esto... ¿Lo quieres?[575 769 767 84 66 78]#$e#A veces me cuesta dormir, pero no es culpa tuya. Te quiero.$7" #!String
+    Rainy_Day_3: "Parece un buen día para descansar. Quizá leer un libro o algo así... ¿Qué crees?" #!String
+    Rainy_Day_4: "Eh, otro día lluvioso... Perfecto.#$e#Parece que tienes frío... Ven, acércate.$l" #!String
+    Rainy_Night_0: "Estoy intentando dejar de fumar ahora que estamos casados... No quiero morir. Es una mala costumbre.#$e#Quiero tener un futuro contigo.$l" #!String
+    Rainy_Night_1: "Hoy he estado trabajando un poco con el ordenador. Estaba reuniendo ideas para un juego que quiero hacer.#$e#Con tus ingresos de la granja, puedo hacer lo que quería con mi vida. Es genial. Gracias.$h" #!String
+    Rainy_Night_2: "Lo siento, no he hecho nada para cenar. Quizás tengamos pizza congelada o algo así.#$e#No sé, tenía la cabeza en otra cosa. Es difícil recordar las tareas de casa..." #!String
+    Rainy_Night_3: "¿Qué tal tu día? ¿Has matado algún monstruo?$h#$e#Está bien desahogarse de vez en cuando, ¿verdad?" #!String
+    Rainy_Night_4: "¿Y si esta noche nos visita una bruja? Ja... Si la vida fuese tan interesante..." #!String
+    Indoor_Day_0: "Cuanto más viejo soy, menos me atrae la ciudad. Antes sentía algo casi místico, pero ahora veo que era solo una especie de fantasía romántica.#$e#La ciudad está llena de gente... No pertenezco allí. Soy un chico solitario." #!String
+    Indoor_Day_1: "Ey... ¿Quieres un poco de café?[395]$7#$e#Yo necesitaba un poco... Me he despertado temprano por una pesadilla y no podía volver a dormir." #!String
+    Indoor_Day_2: "Anoche no podía dormir, así que fui a dar una vuelta en moto.#$e#Aunque estemos casado, necesito algo de tiempo para mi. Así es como soy. Pero aún así, te quiero.$7" #!String
+    Indoor_Day_3: "Ey. ¿Cómo dormiste anoche? Te oí murmurar algo.#$e# Parecía que tenías miedo, pero tengo que admitir que... me encantó.$l" #!String
+    Indoor_Day_4: "Vivir aquí contigo me está enseñando a salir un poco de mi caparazón. Creo que eso es bueno para mí.$7" #!String
+    Indoor_Night_0: "Ey. Estaba pasando el rato por la casa. Nada interesante...#$e#...#$e#Las vistas desde nuestra casa son perfectas. Desde la entrada puedes ver la puesta de sol sobre Pueblo Pelícano." #!String
+    Indoor_Night_1: "Puede que haya bebido demasiado café... No estoy cansado.#$e#Aún estoy acostumbrandome al horario de la granja. Antes solía quedarme despierto hasta las 5am, y a veces dormía hasta las 2pm.$h" #!String
+    Indoor_Night_2: "Es genial tener tu propio espacio. Puedo hacer lo que quiera sin que me regañen todo el día.#$e#Estoy seguro de que Maru se alegra de que me haya ido." #!String
+    Indoor_Night_3: "Antes he visto un murciélago por la ventana. Son difíciles de ver, pero si te concentras puedes verlos revoloteando por ahí. Están ahí fuera." #!String
+    Indoor_Night_4: "En mi casa, a veces sentía que me despreciaba... pero ahora siento que pertenezco aquí. Muchas gracias por hacerme sentir bienvenido, @.$l" #!String
+    Outdoor_0: "Quiero hacer algo hoy... pero no sé el qué. ¿Alguna vez te ha pasado, @?" #!String
+    Outdoor_1: "Hmm... A veces me obligo a mí mismo a estar fuera, por mi salud.#$e#No sé por qué, pero me gusta estar dentro. Quizá esté muy acostumbrado a mi viejo sótano." #!String
+    Outdoor_2: "Te miraré desde aquí.$h#$e#Me gusta mirarte." #!String
+    Outdoor_3: "No quiero ablandarme ahora que estoy casado. ¿Debería empezar a comer más guindillas y a hacer ejercicio?#$e#Es solo una idea...$h" #!String
+    Outdoor_4: "Deberíamos criar más slimes... En grandes cantidades son muy rentables. Y son muy fáciles de criar.#$e#Además, los de colores diferentes producen objetos diferentes. No sé, creo que sería una afición divertida para nosotros." #!String
+    OneKid_0: "Todavía estoy acostumbrándome a ser padre. No te preocupes, ¡yo cuidaré de %kid1! Solo es... algo nuevo." #!String
+    OneKid_1: "Quizá cuando %kid1 sea un poco más grande, compraré un sidecar para moto. Así podremos dar todos un paseo.$h" #!String
+    OneKid_3: "¿Has olido a %kid1? Creo que es hora de darle un baño..." #!String
+    TwoKids_0: "No te preocupes, ya he dado de comer a los niños... %kid2 me ha tirado todo el chocolate encima de nuevo." #!String
+    TwoKids_1: "Espero que %kid1 y %kid2 se lleven bien. Maru y yo siempre nos peleábamos cuando eramos niños.#$e#Ahora que lo pienso, normalmente era mi culpa..." #!String
+    TwoKids_2: "He vuelto a tener ese sueño donde %kid2 lleva un disfraz de chaman de las sombras y está sobre una calabaza brillante. Extraño, ¿eh?" #!String
+    TwoKids_3: "Hemos recorrido un largo camino, @. Mira nuestra familia. Siendo sincero, nunca pensé que acabaría así.#$e#Ahora que estoy aquí, me gusta...$l" #!String
+    Good_0: "Ey. Mírame. Nunca olvides que te quiero... Lo eres todo para mí.$l#$b#Ahora ve a ganar algo de dinero.$h" #!String
+    Good_1: "Ey... Ven aquí. Hoy estás genial.$l" #!String
+    Good_2: "Siempre estás genial, aunque lleves todo el día en el campo.$l" #!String
+    Good_3: "Normalmente no lo demuestro, pero estoy muy feliz de ser tu esposo. Casarme contigo ha sido la mejor decisión que he tomado en mi vida.$l" #!String
+    Good_4: "No tienes que preocuparte por mí. Me gusta pasar mucho tiempo a solas." #!String
+    Good_5: "A veces estoy muy enfadado... pero cuando apareces empiezo a calmarme.$7#$e#Quizá me tranquilice con la edad." #!String
+    Good_6: "Sé que eres fuerte, pero aún así me preocupo por ti a veces. Nunca vayas a cazar monstruos sin un elixir de vida y unas buenas botas, ¿vale?" #!String
+    Good_8: "Hoy no tengo muchas ganas de trabajar. Puede que ve lo que echan por la televisión." #!String
+    Good_9: "En realidad, no necesito amigos. Tú eres la única persona a la que necesito. ¿Es raro?#$e#Supongo que no soy como los demás." #!String
+    Neutral_0: "Cuando paseo intento evitar a todo el mundo. Odio tener esas conversaciones tan cortas." #!String
+    Neutral_2: "¿Por qué no me cuentas tu día cuando estemos esta noche en la cama? Ahora estoy ocupado..." #!String
+    Neutral_3: "¿Vas a ir al pueblo hoy? ¿Por qué? ¿Qué vas a hacer?" #!String
+    Neutral_4: "Supongo que hoy puedo hacer la colada... Seguramente tengas muchas cosas que hacer en la granja." #!String
+    Neutral_5: "¿Vamos bien de dinero? No quiero tener que vender mi ordenador..." #!String
+    Neutral_6: "Si quieres ir a ver a tus amigos a la ciudad, adelante. De todas formas, me gusta estar solo." #!String
+    Neutral_8: "Limpiar la casa no es divertido, pero cuando escucho música se me pasa muy rápido." #!String
+    Bad_5: "Mira, quiero estar solo. ¿Por qué no te vas fuera un rato a hacer tus cosas?" #!String
+    Bad_6: "¿Qué quieres? Suenas como mi padrasto. Vete.$a" #!String
+    Bad_7: "Este sitio empieza a parecer una tumba.$s" #!String
+    Bad_8: "He empezado a fumar de nuevo... He estado muy estresado últimamente.$s" #!String
+    funLeave_Sebastian: "Hoy voy a dar un paseo. Necesito algo de tiempo para mí. Nos vemos esta noche." #!String
+    funReturn_Sebastian: "Mi día ha estado bien, pero no hay mucho que contar. ¿Por qué no me hablas del tuyo?" #!String
+    spring_1: "Oohh... Mi cabeza. Feliz año nuevo...$h" #!String
+    spring_12: "Estoy emocionado por el festival de mañana, ¿y tú? Estará bien ver a Sam de nuevo." #!String
+    spring_23: "Oh... Mañana es el baile de las flores, ¿verdad? ¿Tenemos que ir?#$e#Odio ponerme ese ridículo traje tan apretado. ¿Por qué nos hace Lewis hacer eso?$s" #!String
+    summer_1: "El verano está aquí... Necesito empezar a echarme una buena cantidad de protector solar si quiero mantener mi piel pálida..." #!String
+    summer_10: "¿Has pensado qué vas a poner en la sopa de la Luau?#$e#Yo no tengo ni idea de lo que es mejor... ¡Tú eres quien sabe de cocina!$7" #!String
+    summer_27: "Empieza a hacer frío. Genial.#$e#¿Deberíamos ir al festival de mañana? De hecho, es una tradición que me gusta.$7" #!String
+    fall_1: "Parece como si todo el valle hubiese cambiado de la noche a la mañana... Supongo que el otoño ya está aquí." #!String
+    fall_15: "En la feria de Stardew Valley hay demasiada gente para mi gusto... Pero quedaré con Sam. Estarán bien ponerme al día con él.#$e#¡Y tú deberías jugar a algunos juegos de la feria! No te preocupes por mí.$7" #!String
+    fall_26: "Estoy emocionado por la Vispera de los Espíritus de mañana. Me pregunto que horrores nos encontraremos.$h" #!String
+    winter_1: "¿Qué planes tienes para el invierno? Sé que es una época relajada para ti." #!String
+    winter_7: "¿Vas a participar en el concurso de pesca de mañana?" #!String
+    winter_28: "Ha sido un gran año, @. Deberíamos celebrarlo. [346]$h#$e#Estoy seguro de que el año que viene será aún mejor.$7" #!String
 
