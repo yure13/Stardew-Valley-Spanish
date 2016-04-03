@@ -16,18 +16,18 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h" #!String
-    Tue: "You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.#$e#They're oooh-yummy, too. Heeee!~$h" #!String
-    Wed: "Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'?#$e#Thanks!$h" #!String
-    Thu: "That shady-looking guy in the back? I'm not supposed to talk about it.#$e#Anyway... what's the weather like in the valley?" #!String
-    Fri: "You wouldn't have much luck farming out here, honey.#$e#Well, unless you were a cactus farmer.$h" #!String
-    Sat: "Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!#$e#*whisper* Did I sound professional?$h#$e#Make sure to check out our seasonal seed selection.#$e#You look really thirsty. Here, have a taste of this ice cold milk. [184]#$e#Tasty, huh?$h" #!String
-    Sun: "It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.$s" #!String
-    Thu2: "That shady-looking guy in the back? I'm really not supposed to talk about it.#$e#Anyway... what's the weather like in the valley" #!String
-    Thu4: "Hey... I think I can trust you. You can keep a secret, right?#$b#*whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions.#$e#SOOOOoo! How's that Stardew Valley weather right now?" #!String
-    Fri4: "My name's not really Sandy, you know. It's just good for business.#$e#But everyone calls me Sandy anyway, so I've just gotten used to it." #!String
-    Wed8: "Isn't it expensive, coming to the desert so often like you do?#$e#You must really like to see me, huh? Hmmm... $h" #!String
-    Sun8: "Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him." #!String
-    Wed10: "Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h" #!String
-    Tue10: "Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?" #!String
+    Mon: "¡Hola hola, cariño!#$b#Estoy muy contenta de que el autobús vuelva a estar de servicio. Empezaba a sentirme muy sola aquí fuera.#$e#...Casi quiebra mi negocio.$s#$e#Oye, pero ahora estas aquí para comprar un montón de semillas... ¿verdad, cariño?$h" #!String
+    Tue: "Puedes encontrar cocos y frutas de cactus fuera. Siéntete libre de coger todos los que puedas encontrar.#$e#Están riquísimas. ¡Mmmmmm!~$h" #!String
+    Wed: "¡Hola! Si ves a mi amiga Emily en el pueblo, ¿le podrías decir "Hola" de mi parte?#$e#¡Gracias!$h" #!String
+    Thu: "¿Ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#De todas formas... ¿cómo es el tiempo en el valle?" #!String
+    Fri: "No tendrías mucha suerte cultivando por aquí, cariño.#$e#Bueno, a no ser que cultives cactus.$h" #!String
+    Sat: "¡Hola! Bienvenido al Oasis de Sandy, ¡el destino número uno en el Desierto de Calico!#$e#*susurra* ¿He sonado profesional?$h#$e#Asegúrate de comprobar nuestra selección de semillas de temporada.#$e#Parece que tienes sed. Toma, prueba esta leche helada. [184]#$e#Sabrosa, ¿eh?$h" #!String
+    Sun: "Siempre está soleado por aquí, ¡incluso en invierno!#$e#De hecho, hace un poco de calor para mi gusto... Mi delicada piel se quema rápidamente al sol.$s" #!String
+    Thu2: "¿Ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#De todas formas... ¿cómo es el tiempo en el valle?" #!String
+    Thu4: "Oye... Creo que puedo confiar en ti. Puedes guardar un secreto, ¿no?#$b#*susurra* Ese hombre en el fondo... es de un club exclusivo. Nunca he estado dentro, pero me dan una generosa paga mensual para que no haga ninguna pregunta.#$e#¡Bueeeeeno! ¿Como está el tiempo en Stardew Valley ahora mismo?" #!String
+    Fri4: "Mi nombre en realidad no es Sandy, ya sabes. Es bueno para el negocio.#$e#De todas formas. todo el mundo me llama Sandy, así que me he acostumbrado a él." #!String
+    Wed8: "¿No es caro venir al desierto tan a menudo como tú haces?#$e#Debe gustarte mucho verme, ¿eh? Mmmm... $h" #!String
+    Sun8: "Hola, cariño. Sip, solo yo, sola en esta tienda vieja y grande. Mmmm...#$e#Bueno, excepto por ese tipo espeluznante del fondo. Pero nunca mueve un solo músculo, asi que me suelo olvidar de él." #!String
+    Wed10: "¡Anda, es @! Me alegra verte. ¡Empezaba a pensar que no volverías!#$e#Si no tuviera que llevar esta tienda, volvería al valle contigo durante uno o dos días... solos tú y yo en la vieja granja.$s#$e#Tendrás que visitarme mas a menudo para que no me deprima.$h" #!String
+    Tue10: "¡Hola!~ Quédate todo el tiempo que quieras.#$e#El aire acondicionado sienta bien, ¿no crees?" #!String
 
