@@ -27,10 +27,10 @@ content:  #!Dictionary<String,String>
     Pierre: "Mi tienda tiene los productos de mejor calidad en todo el valle. ¡Revisa el expositor de mi granja y compruébalo tu mismo!" #!String
     Caroline: "Pierre se ha tomado muy en serio lo de su expositor. Ha estado dejando de lado los mejores productos durante semanas para prepararse.#$e#¡Hey, buena suerte si participas!" #!String
     Linus: "Los animales nunca juzgan a la gente por sus apariencias. No se puede decir lo mismo de los humanos." #!String
-    Alex: "He probado el juego de "Fuerza" muchas veces, y ahora mis brazos parecen de goma." #!String
+    Alex: "He probado el juego de 'Fuerza' muchas veces, y ahora mis brazos parecen de goma." #!String
     George: "Hmm... ¿Pata de pavo ahumada? Creo que este festival no está del todo mal.$h" #!String
-    Evelyn: Ojalá Gus incluyese una opción vegetariana. ¿Brochetas de calabacín, quizás?" #!String
-    Lewis: "Bueno @, es el gran día... Nuestro festival más importante del año, la "Feria de Stardew Valley".#$b#Si quieres participar poniendo tu expositor, he dejado un espacio vacío para ti. Solo házmelo saber después de que lo hayas dispuesto todo, para que podamos valorarlo." #!String
+    Evelyn: "Ojalá Gus incluyese una opción vegetariana. ¿Brochetas de calabacín, quizás?" #!String
+    Lewis: "Bueno @, es el gran día... Nuestro festival más importante del año, la 'Feria de Stardew Valley'.#$b#Si quieres participar poniendo tu expositor, he dejado un espacio vacío para ti. Solo házmelo saber después de que lo hayas dispuesto todo, para que podamos valorarlo." #!String
     Clint: "Me quejo a veces de mi trabajo, pero en realidad estoy muy orgulloso.#$b# Estas son algunas de mis mejores piezas. Espero que te gusten." #!String
     Emily: "¿Sabes? Habría hecho bien de payaso. Creo que perdí la vocación." #!String
     Penny: "He ganado diez veces seguidas en la ruleta, y ahora el hombre no me deja seguir jugando...$s" #!String
