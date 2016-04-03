@@ -16,19 +16,19 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Hola granjero.#$e#Hace mucho que no venía, me siento como si fuera un extraño." #!String
+    Mon: "Hola.#$e#Hace mucho que no venía, me siento como si fuera un extraño." #!String
     Mon4: "No se si podré acostumbrarme a estar de vuelta en casa.#$e#La tranquilidad que inunda el pueblo me parece una ilusión. Aunque creo que probablemente sea yo." #!String
-    Tue: "Las cosas no han cambiado mucho desde que me fui.#$e#Bueno, excepto que tu estas aquí." #!String
-    Tue2: "Las cosas no han cambiado mucho desde que me fui.#$e#Excepto por que tenemos un nuevo granjero en la ciudad.$h" #!String
+    Tue: "Las cosas no han cambiado mucho desde que me fui.#$e#Bueno, excepto que tú estas aquí." #!String
+    Tue2: "Las cosas no han cambiado mucho desde que me fui.#$e#Excepto por que tenemos a alguien nuevo en la ciudad.$h" #!String
     Wed6: "... Perdí muchos amigos en la batalla.$s#$e#Qué triste es que ya no recuerde sus rostros.#$e#..." #!String
     Wed: "Ya llevas un tiempo aquí, ¿no? Debe irte bien en tu granja." #!String
-    Thu6: "#$1 Kent1#Estoy despierto desde las 4... a veces me pregunto si alguna vez voy a volver a una rutina normal.$k#$ #Sam ha crecido mucho desde que me marché. Está hecho todo un hombre.#$e#Desearía haber estado aquí para él.$s" #!String
-    Thu: "¿Sois amigos de mi hijo?#$e#Probablemente lo conozcáis mejor que yo...$s" #!String
+    Thu6: "#$1 Kent1#Estoy despierto desde las 4... A veces me pregunto si alguna vez voy a volver a hacer vida normal.$k#$ #Sam ha crecido mucho desde que me marché. Está hecho todo un hombre.#$e#Desearía haber estado aquí para él.$s" #!String
+    Thu: "¿Conoces a mi hijo?#$e#Probablemente lo conozcas mejor que yo...$s" #!String
     Fri: "Parece un buen día para pescar, ¿no crees?" #!String
     Sat: "Jodi me dijo que te has convertido en parte de esta comunidad. Me alegro de oírlo." #!String
-    Sat8: "Tengo problemas para dormir, así que disculpa si parezco cansado,#$e#Estoy seguro de que lo entenderás." #!String
-    Sun: "No se que hacer ahora que he vuelto#$e#Solía tener mi día mas organizado." #!String
+    Sat8: "Tengo problemas para dormir, así que disculpa si parezco cansado.#$e#Estoy seguro de que lo entenderás." #!String
+    Sun: "No sé que hacer ahora que he vuelto.#$e#Solía organizarme más mis días." #!String
     event_popcorn1: "¡Calla! Deja de intentar ponerme en contra de mi mujer.$u" #!String
     event_popcorn2: "...$s#$b#Tienes toda la razón, @.$s" #!String
-    event_popcorn3: "¡No me mientas! ¡Odio las mentiras más que a cualquier cosa!$u" #!String
+    event_popcorn3: "¡No me mientas! ¡Odio las mentiras más que cualquier cosa!$u" #!String
 
