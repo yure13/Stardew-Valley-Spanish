@@ -16,25 +16,25 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¿Alguien nuevo?... Hola.#$e#No te preocupes por mi. Vivo solo, aquí afuera." #!String
-    Mon: "El aire fresco del paramo es todo que se. $e # #vivo aqui por eleccion." #!String
+    Introduction: "¿Alguien nuevo?... Hola.#$e#No te preocupes por mí. Vivo solo, aquí afuera." #!String
+    Mon: "El aire fresco del páramo es todo lo que me importa.$e##Vivo aqui por eleccion propia." #!String
     Tue: "...¿Has venido a burlarte de mí?#$e#Yo sólo estoy en mis asuntos." #!String
     Wed: "No te conozco lo suficiente para confiar en ti. Lo siento." #!String
     Thu: "... ¿Hmm? ¿Quieres algo de mí?" #!String
     Fri: "Por favor no destruyas mi carpa.#$e#Eso ya me paso antes.$s" #!String
-    Sat: "Me siento feliz por mí mismo, ya sabes. #$e# No necesito nuevos amigos." #!String
-    Sun4: "Sería bueno si la gente del pueblo pudiera aceptarme por lo que soy . $S$#b# Me gusta vivir aquí, en el aire libre. Eso es lo que no entienden." #!String
+    Sat: "Me siento feliz por mí mismo, ya sabes.#$e#No necesito nuevos amigos." #!String
+    Sun4: "Sería bueno si la gente del pueblo pudiera aceptarme por lo que soy.$S$#b#Me gusta vivir aquí, en el aire libre. Eso es lo que no entienden." #!String
     Tue4: "Puedes aprender a sobrevivir en la naturaleza.#$e#Creo que todos tenemos un impulso oculto de regresar a la naturaleza. Simplemente da un poco de miedo dar el paso." #!String
-    Wed6: "Pasé mucho tiempo pensando.#$e#Si puede comprender el sentido que hay detrás de sus pensamientos, habrá alcanzado un nuevo nivel de ser." #!String
+    Wed6: "Pasé mucho tiempo pensando.#$e#Si puedes comprender el sentido que hay detrás de tus pensamientos, habrás alcanzado un nuevo nivel como persona." #!String
     Wed2: "Desconfío de los extraños. La mayoría de las personas no quieren a un 'hombre salvaje'." #!String
     Thu4: "La gente de aquí parece agradable, pero ellos me evitan.#$e#La gente teme a lo desconocido.$u" #!String
     Fri4: "Puedes aprender mucho de los árboles.#$e#Pasa tiempo con ellos y te dirán sus secretos.#$e#Ve en paz, joven." #!String
-    Sat4: "Tengo todo lo que necesito para sobrevivir y mucho más. La naturaleza emite una melodía maravillosa si simplemente aprendes a escucharla.#$e#También paso mucho tiempo leyendo. Una de las razones por las que dejé el valle fue la gran biblioteca." #!String
+    Sat4: "Tengo todo lo que necesito para sobrevivir y mucho más. La naturaleza emite una melodía maravillosa si aprendes a escucharla.#$e#También paso mucho tiempo leyendo. Una de las razones por las que me quedé en el valle fue la gran biblioteca." #!String
     Sun: "#$1 linusVandal#Alguien estuvo tirándole piedras a mi tienda anoche... Sólo tuve que esperar.$s$k#$e#No me gusta quedarme mucho tiempo en un mismo sitio. Hay demasiado que experimentar por el mundo." #!String
     summer_Mon4: "Durante todos estos años he descubierto algunos secretos acerca de la vida.#$e#Tendrás que averiguarlos tú, sin ayuda." #!String
-    summer_Mon: "#$1 LinusHeron#Vi una garza planeando elegantemente sobre el agua con la niebla matutina. Estos son los tesoros de una vida tranquila.$k#$e#Es difícil de ver en la ruidosa vida moderna. Tus mejores años pasaran sin darte cuenta. Por eso hay que aprender a frenar." #!String
-    summer_Tue4: "¿Cómo has estado, mi joven amigo?" #!String
-    summer_Wed6: "Ah... el verano. El cálido sol calienta las latas para mi.#$b#Así que por la noche tengo la comida caliente que esperamos." #!String
+    summer_Mon: "#$1 LinusHeron#Vi una garza volando elegantemente sobre el agua con la niebla matutina. Esos son los tesoros de una vida tranquila.$k#$e#Es algo difícil de ver en la ruidosa vida moderna. Tus mejores años pasarán sin darte cuenta. Por eso hay que aprender a frenar." #!String
+    summer_Tue4: "¿Cómo has estado?" #!String
+    summer_Wed6: "Ah... el verano. El cálido sol calienta las latas para mí.#$b#Así que por la noche me espera una comida caliente." #!String
     summer_Thu4: "Tengo mis propias razones para vivir solo.#$e#Algunas cosas son mejor no decirlas... #$e#Debería buscar algo de comida." #!String
     summer_Fri4: "En el momento que atrapes un pez, tómate un momento para agradecerle su sacrificio.#$b#Aunque no creas en el espíritu del pez, es un buen ejercicio mental. Tenemos que ser conscientes de nuestro efecto sobre el entorno." #!String
     summer_Sat4: "Puedes encontrar una trucha arco iris en los arroyos ahora mismo." #!String
