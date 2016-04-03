@@ -16,56 +16,56 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "On rainy days my thoughts always drift toward cinnamon and cookies." #!String
-    Rainy_Day_1: "I wonder if Maru and Dr. Harvey will ever get together? I'm sure Harvey likes her...#$e3#I think Maru will have to make the first move, though.$h" #!String
-    Rainy_Day_2: "Hi, honey! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of the those." #!String
-    Rainy_Day_3: "Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, honey?#$e#What was it called... 'Chili de @'?" #!String
-    Rainy_Day_4: "On days like this, I love to curl up with a good book." #!String
-    Rainy_Night_0: "How was your day, honey? I spent my afternoon reading a novel." #!String
-    Rainy_Night_1: "I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands." #!String
-    Rainy_Night_2: "I was just thinking about that night we met in the bathhouse.$l#$e#I'll never forget that night...$l" #!String
-    Rainy_Night_3: "The sound of rain used to bother me, when I lived in that old metal trailer. But it's quite soothing here." #!String
-    Rainy_Night_4: "I felt like making a nice dinner. I hope you like it. [212 214 225 209 200]$h" #!String
-    Indoor_Day_0: "It's so peaceful here. I used to have the most horrific nightmares, but now I sleep like a baby." #!String
-    Indoor_Day_1: "Good morning, @! I made you a hot breakfast.[195 210 211]#$e#It's important to me that you leave here with a full belly.$h" #!String
-    Indoor_Day_2: "You know, I think I'll read a book today. I picked up something new from the library last time I was there.#$e#Gunther asked me to say hi." #!String
-    Indoor_Day_3: "I love to hear about all the artifacts you've found. Archaeology is fascinating!#$e#To think... there may have been farmers at this very spot 10,000 years ago." #!String
-    Indoor_Day_4: "Was I shy when we first met? It's funny to think about, now that we've come so far.$h" #!String
-    Indoor_Night_0: "Good evening, honey. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!" #!String
-    Indoor_Night_1: "Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt." #!String
-    Indoor_Night_2: "We have it good here. We should always try and remember those less fortunate than us.#$e#I'm just very grateful for what we have." #!String
-    Indoor_Night_3: "Mom's probably pretty lonely now that I'm gone. I just hope she doesn't visit the saloon more to make up for it.#$e#You shouldn't feel bad! Mom has to solve her own problems. " #!String
-    Indoor_Night_4: "Ready to tuck in? I made the bed and everything..." #!String
-    Outdoor_0: "I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#I was so miserable back home.$s" #!String
-    Outdoor_1: "Isn't this a perfect place to raise children?#$e#I would've been so happy growing up on a farm." #!String
-    Outdoor_2: "Hi, honey! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h" #!String
-    Outdoor_3: "I just saw a songbird flying due west. In Stardew Valley that's a very good omen.$h" #!String
-    Outdoor_4: "Ahh... It feels great to be outside. I could spend all day right here, observing every little thing." #!String
-    OneKid_0: "Have you had any time to play with %kid1 today? Maybe a second child will make things better." #!String
-    OneKid_1: "Little %kid1 is going to have such a great childhood here." #!String
-    OneKid_3: "I feel a lot older now that we have a child. Maybe it's just this new responsibility weighing on me.#$e#It's not bad! I've wanted this for a long time." #!String
-    TwoKids_0: "I already gave %kid1 and %kid2 their food. They're such hungry children!" #!String
-    TwoKids_1: "We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them." #!String
-    TwoKids_2: "I've had this dream that %kid2 grew wings and flew into the night sky. What does it mean?" #!String
-    TwoKids_3: "A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate." #!String
-    Good_0: "@...I still can't believe we're married...$l" #!String
-    Good_1: "I had dreams of marrying you for such a long time.$l" #!String
-    Good_2: "I knew you were the one from the moment you moved here...$l" #!String
-    Good_3: "Wow, you look really handsome today! Did you shave?$l^Wow, you look beautiful today. Did you do something different with your hair?$l" #!String
-    Good_4: "This place is really starting to feel like home.$l" #!String
-    Good_6: "Be careful out there! Sometimes I worry that you aren't eating enough wholesome food." #!String
-    funLeave_Penny: "I'm going to head into town today, just for fun. I'll be back in a while!" #!String
-    funReturn_Penny: "I had a nice time... It's good to stay in contact with everyone. Tell me about your day." #!String
-    spring_8: "Spring is probably my favorite season. There's a certain freshness in the air that fills me with hope." #!String
-    spring_1: "We've got a long, warm year to look forward to. Let's make it a productive one." #!String
-    spring_15: "Ah, the 'spring cleaning'... I'm actually going to enjoy this." #!String
-    summer_16: "*phew*... I need to eat more melon to combat this heat!" #!String
-    summer_1: "Summer may be searing hot, but the humidity feels great on the skin." #!String
-    summer_2: "In summer, the ants become very active. I could watch them for hours... they have a pretty complex civilization from the looks of it!" #!String
-    fall_5: "The smell of fall reminds me of the smell of books... weird, isn't it?" #!String
-    fall_1: "Fall... It makes me think of colored paper and glue. Maybe I'm spending too much time with the children.$h" #!String
-    fall_2: "Will you grow any giant pumpkins this year?" #!String
-    winter_1: "Winter's a good time to unwind a bit. You deserve it after the long year!" #!String
-    winter_6: "The falling snow reminds me of grandma, rocking by the fire. I mostly remember her shadow flickering against the orange wood. That was long ago." #!String
-    winter_3: "How will we stay afloat this winter? Oh, you don't have to tell me... I trust you to make the right decisions." #!String
+    Rainy_Day_0: "En los días de lluvia siempre me vienen a la mente la canela y las galletas." #!String
+    Rainy_Day_1: "Me pregunto si Maru y el Dr. Harvey acabarán juntos... Estoy segura de que a Harvey le gusta ella...#$e#Pero creo que será Maru quien tenga que dar el primer paso.$h" #!String
+    Rainy_Day_2: "¡Hola, cielo! He ido de compras esta mañana y te compré esto.[186 180 770 535]#$e#Creo que podrías necesitar algo de esto." #!String
+    Rainy_Day_3: "Um... Quizás debería experimentar con una nueva receta. Te gustó la última receta que te cociné, ¿verdad cielo?#$e#¿Cómo se llamaba... 'Chile de @'?" #!String
+    Rainy_Day_4: "En días así me encanta acurrucarme y leer un buen libro." #!String
+    Rainy_Night_0: "¿Cómo te ha ido el día, cielo? Yo estuve leyendo una novela." #!String
+    Rainy_Night_1: "Estoy segura de que mamá está en el salón ahora mismo... Pero no ya no me siento mal por ello, no puedo hacer nada." #!String
+    Rainy_Night_2: "Estaba pensando en la noche que quedamos en las termas.$l#$e#Nunca olvidaré esa noche...$l" #!String
+    Rainy_Night_3: "El sonido de la lluvia solía molestarme cuando vivía en la vieja caravana. Pero aquí es bastante relajante." #!String
+    Rainy_Night_4: "Tenía ganas de hacer una buena cena. Espero que te guste. [212 214 225 209 200]$h" #!String
+    Indoor_Day_0: "Se está tan tranquilo aquí... Solía tener pesadillas horribles y ahora duermo como un bebé." #!String
+    Indoor_Day_1: "¡Buenos días @! Te hice un desayuno caliente.[195 210 211]#$e#Para mí es importante que te vayas con el estómago lleno.$h" #!String
+    Indoor_Day_2: "¿Sabes? Creo que voy a leer un libro. Cogí algo nuevo de la biblioteca la última vez que fui.#$e#Gunther me dio saludos para ti.'" #!String
+    Indoor_Day_3: "Me encanta enterarme de todos los artefactos que has encontrado. ¡La arqueología es fascinante!#$e#Piénsalo, puede que hubiera granjeros en este mismo lugar hace 10.000 años." #!String
+    Indoor_Day_4: "¿Era tímida cuando te conocí? Es curioso ver lo lejos que hemos llegado.$h" #!String
+    Indoor_Night_0: "Buenas noches cielo. ¿Has hecho todo lo que tenías pensado hoy?#$e#Si no, no pasa nada. ¡Tenemos todo el tiempo del mundo!" #!String
+    Indoor_Night_1: "Um... ¿Qué me pongo mañana, falda o pantalón? Bah, a quién pretendo engañar, siempre llevo falda." #!String
+    Indoor_Night_2: "A nosotros nos va bien, pero deberíamos pensar en los menos afortunados.#$e#Estoy verdaderamente agradecida por lo que tenemos." #!String
+    Indoor_Night_3: "Mamá seguramente se sentirá sola ahora que me he ido. Sólo espero que para poder superarlo no visite el salón más de lo normal.#$e#¡No deberías sentirte mal! Mamá tiene que resolver sus problemas ella sola." #!String
+    Indoor_Night_4: "¿Listo para acostarte? Hice la cama y todo...^¿Lista para acostarte? Hice la cama y todo..." #!String
+    Outdoor_0: "Siempre soñé vivir en un lugar tan hermoso como este, y ahora se ha vuelto realidad.#$e#Estaba tan triste en casa.$s" #!String
+    Outdoor_1: "¿No es un lugar perfecto para criar hijos?#$e#Podría haber sido tan feliz si hubiera crecido en una granja." #!String
+    Outdoor_2: "¡Hola cielo! Si supiera más sobre el trabajo en la granja te ayudaría más. ¡Lo siento!#$e#Estaré pensando en ti.$h" #!String
+    Outdoor_3: "Acabo de ver un pájaro cantor volando hacia el oeste. En Stardew Valley es un muy buen augurio.$h" #!String
+    Outdoor_4: "Ah... Es genial estar fuera. Podría pasarme el día aquí observando cualquier pequeñez." #!String
+    OneKid_0: "¿Has jugado con %kid1 hoy? Quizás un segundo hijo ayudaría con eso." #!String
+    OneKid_1: "%kid1 va a tener una infancia estupenda aquí." #!String
+    OneKid_3: "Me siento mucho mayor ahora que somos padres. Quizás sólo es el peso por la nueva responsabilidad.^Me siento mucho mayor ahora que somos madres. Quizá sólo es el peso por la nueva responsabilidad.#$e#¡No es malo! He querido esto por mucho tiempo." #!String
+    TwoKids_0: "Ya les di a %kid1 y %kid2 la comida. ¡Tenían mucha hambre!" #!String
+    TwoKids_1: "Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos que haya celos entre ellos." #!String
+    TwoKids_2: "He tenido un sueño en el que a %kid2 le crecían alas y volaba por el cielo nocturno. ¿Qué significará?" #!String
+    TwoKids_3: "Una casa bonita, dos hijos maravillosos y un hermoso terreno. Somos tan afortunados." #!String
+    Good_0: "@... Aún no me creo que nos hayamos casado...$l" #!String
+    Good_1: "He soñado casarme contigo durante mucho tiempo.$l" #!String
+    Good_2: "Sabía que eras el elegido desde el momento en que te mudaste aquí...$l^Sabía que eras la elegida desde el momento en que te mudaste aquí...$l" #!String
+    Good_3: "¡Vaya! Estás muy guapo hoy, ¿te has afeitado?$l^Vaya, estás preciosa hoy. ¿Te has hecho algo diferente en el pelo?$l" #!String
+    Good_4: "Estoy empezando a sentir este lugar como mi hogar.$l" #!String
+    Good_6: "¡Ten cuidado ahí fuera! A veces me preocupa que no estés comiendo lo suficientemente sano." #!String
+    funLeave_Penny: "Hoy voy a ir al pueblo a divertirme un poco. ¡Volveré en un rato!" #!String
+    funReturn_Penny: "Lo he pasado bien... es bueno estar en contacto con todos. Cuéntame tu día." #!String
+    spring_8: "Seguramente la primavera sea mi estación favorita. Hay cierta frescura en el aire que me llena de esperanza." #!String
+    spring_1: "Tenemos un largo y cálido año por delante. Hagamos que sea productivo." #!String
+    spring_15: "Ah, la 'limpieza de primavera'... En realidad me encanta." #!String
+    summer_16: "*uff*... ¡Con este calor voy a necesitar un melón para refrescarme!" #!String
+    summer_1: "Puede que en verano haga mucho calor, pero la humedad es buena para la piel." #!String
+    summer_2: "En verano, las hormigas se vuelven muy activas. Podría observarlas durante horas... ¡Parece que tienen una civilización bastante compleja!" #!String
+    fall_5: "El olor del otoño me recuerda al de los libros... Es raro, ¿a que sí?" #!String
+    fall_1: "El otoño... Me hace pensar en papeles pintados y pegamento. Quizá pase demasiado tiempo con los niños.$h" #!String
+    fall_2: "¿Vas a cultivar alguna calabaza gigante este año?" #!String
+    winter_1: "El invierno es perfecto para relajarse un poco. ¡Te lo mereces después de todo este año!" #!String
+    winter_6: "La nieve cayendo me recuerda a mi abuela, sentada cerca del fuego. Sobre todo recuerdo su sombra, parpadeando en la madera naranja. Eso fue hace mucho." #!String
+    winter_3: "¿Cómo vamos a ganar dinero este invierno? Oh, no tienes por qué decírmelo... Confío en que tomes las decisiones adecuadas." #!String
 
