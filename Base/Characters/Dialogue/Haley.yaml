@@ -19,22 +19,22 @@ content:  #!Dictionary<String,String>
     Introduction: "Ah... tu eres el nuevo granjero, ¿no?^Ah... Tu eres la nueva granjera, o lo que sea. ¿no?#$e#¿Eh? Ah... Soy Haley.#$e#Hum... De no ser por esa ropa horrenda, podrías ser mono.^Hum... De no ser por esa ropa horrenda, podrías ser mona... Da igual.$h" #!String
     danceRejection: "Eh... No." #!String
     Mon: "Este pueblo es tan pequeño. Apesta..$u#$e#Tengo que conducir unos 30 km para poder comprar ropa decente.$s#$e#Es por eso que usualmente la compro online.#$e#¿Qué?" #!String
-    Tue: "Bonitos zapatos.^Bonito maquillaje.#$e#¿Están hechos de plástico?^Espera... ¿Llevas siquiera zapatos?#$e#Estoy aburrida." #!String
+    Tue: "Bonitos zapatos.^Bonito maquillaje.#$e#¿Están hechos de plástico?^Espera... ¿Llevas siquiera algo?#$e#Estoy aburrida." #!String
     Wed: "Lo único que me gusta de esta ciudad es su playa.$u" #!String
     Thu: "#$1 HaleyClothes#He decidido que hoy voy a organizar mi ropa. ¡Tendré que deshacerme de la ropa pasada de moda para hacerle sitio a las nuevas!#$e#*suspiro* Iría a por un cupcake ahora.#$e#¿Necesitas algo?" #!String
     Fri: "%Haley te está ignorando." #!String
-    Fri2: "¿No te cansas de correr de un lado para otro en la granja, o de lo que quiera que hagas?#$e#Yo sería incapaz de mancharme tanto.#$e#Aunque es probable que consigas bronceado." #!String
+    Fri2: "¿No te cansas de correr de un lado para otro en la granja, o de lo que quiera que hagas?#$e#Yo sería incapaz de mancharme tanto.#$e#Aunque es probable que consigas un gran bronceado." #!String
     Sat: "Necesito ir de compras. ¡Uf! Ojalá hubiese un centro comercial aquí." #!String
     Sun: "My hermana es superextraña. A veces me pregunto si estamos emparentadas de verdad.$u#$b#" #!String
     Wed8: "Solo hay dos cosas que me encantan de este pueblo.#$b#Una es la playa.#$e#¡Y la otra es un secreto!*risilla*$h" #!String
     Tue2: "Me pregunto si esta mañana habrán llegado conchas en la playa que valgan la pena.#$e#De todos modos esta no es la mejor época del año para las conchas." #!String
     Wed4: "Me alegro de que las flores comiencen a florecer.#$e#Esas de tonos rosados huelen tan bien.$h" #!String
-    Fri6: "Tengo que encontrar algún tipo de hobby que no sea comprar.#$e#He decidido que quiero expandir mis horizontes.#Se#Quizás debería aprender a tocar el mini-arpa." #!String
+    Fri6: "Tengo que encontrar algún tipo de hobby que no sea comprar.#$e#He decidido que quiero expandir mis horizontes.#Se#¿Quizás debería aprender a tocar el mini-arpa?" #!String
     Mon6: "Solía quejarme de que el pueblo era demasiado pequeño, pero ha empezado a gustarme.#$e#Si fuese mucho más grande no me sentiría como en una comunidad." #!String
     Thu6: "Anoche estuve cocinando, ¡quedó bastante bien!#$e#Pero provoqué un gran desastre en la cocina..." #!String
     Sun6: "Estoy pensando en donar un montón de ropa... Debo de tener cien pares de zapatos." #!String
-    Sat8: "#$1 haleySeagull#Ayer me encontré una gaviota con el ala atascada en una red. La liberé, por supuesto. Parecía tan indefensa, la pobre.$k$s#$e#¿Sabes? Debería ponerme a hacer un poco más de ejercicio... Este juvenil metabolismo no durará para siempre." #!String
-    Fri10: "@, podemos ir de camping algún día?#$e#El sitio más exótico que he visitado es la ciudad de Zuzu." #!String
+    Sat8: "#$1 haleySeagull#Ayer me encontré una gaviota con el ala atrapada en una red. La liberé, por supuesto. Parecía tan indefensa, la pobre.$k$s#$e#¿Sabes? Debería ponerme a hacer un poco más de ejercicio... Este juvenil metabolismo no durará para siempre." #!String
+    Fri10: "@, podemos ir de camping algún día?#Se#El sitio más exótico que he visitado es la ciudad de Zuzu." #!String
     Event_clean1: "*suspiro*...$u" #!String
     Event_clean2: "¡¡NO!! ¡No pienso hacerlo!$a#$b#¡Sois estúpidos!%fork$a" #!String
     Event_clean3: "¿Cómo que debería de tomar el 'camino fácil'? ¿Que se supone que significa?#$b#Crees que sigo siendo un bebe, ¿no?%fork$a" #!String
@@ -107,4 +107,4 @@ content:  #!Dictionary<String,String>
     winter_Mon8: "Ojalá hiciese más calor en Stardew Valley.#$e#Podría mudarme a otro sitio, pero..." #!String
     winter_Fri8: "¿Crees que algun día tendrás un pony en tu granja?" #!String
     winter_Sat8: "Me alegra que tengas menos trabajo en invierno.#$e#Tiene que estar bien tomarse un descanso, ¿no?" #!String
-    winter_Sun10: "@, hoy te veo robusto. Me gusta.^@, estás guapo hoy.#$e#...$h" #!String
+    winter_Sun10: "@, hoy te veo robusto. Me gusta.^@, estás guapa hoy.#$e#...$h" #!String
