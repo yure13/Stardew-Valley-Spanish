@@ -37,7 +37,7 @@ content:  #!Dictionary<String,String>
    Mon10: "@, me alegra verte.$h" #!String
    Event_clean1: "Hmmmmm...#$b#Vale, tú ganas. Supongo que puede ser mi trabajo. Nada más que discutir." #!String
    Event_clean2: "¡¡NO!! ¡No lo haré!$a#$b#¡Sois estúpidos!$a" #!String
-   Event_clean3: "¿Debería tomar el "camino al éxito"? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿Eh?" #!String
+   Event_clean3: "¿Debería tomar el 'camino al éxito'? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿Eh?" #!String
    Event_jar1: "Genial, ¡entonces no tendrás problema abriéndome este tarro!$h" #!String
    Event_jar2: "Ah... ¿no? Hmmm...$s#$b#Bueno, de todas formas, podrías tratar de abrirme este tarro?" #!String
    Event_beach1: "¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a" #!String
