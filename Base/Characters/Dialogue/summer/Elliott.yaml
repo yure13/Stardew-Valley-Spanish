@@ -17,10 +17,10 @@ xnbData:
 
 content:  #!Dictionary<String,String>
   Mon: "Esta mañana me desperté con el suave abrazo del sol.$u#$e#Perdona si esto no es muy interesante para ti." #!String
-  Mon4: "Sé que soy una especie de " #!Stringbicho raro" #!String. #$e#Espero que no te importe.$h" #!String
+  Mon4: "Sé que soy una especie de 'bicho raro'.#$e#Espero que no te importe.$h" #!String
   Mon6: "Yo sé que tienes fe en mi capacidad como escritor, @, y significa mucho para mí.$h" #!String
   Tue: "Me he encontrado algunas conchas hermosas frente a mi casa.#$e#imagino que las variedades más raras pueden ser muy valiosas." #!String
-  Tue6: "Escribo con la esperanza de contactar con otros a través del tiempo y del espacio.$u#$e#*"Suspiro"... Los tiempos están cambiando. La gente ya no lee.$s" #!String
+  Tue6: "Escribo con la esperanza de contactar con otros a través del tiempo y del espacio.$u#$e#*Suspiro*... Los tiempos están cambiando. La gente ya no lee.$s" #!String
   Wed: "Debe ser satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas. #$e #Es como si una parte de ti se mezclase con la fruta.$u" #!String
   Thu: "Oh querido! Mis zapatos están llenos de arena.$s#$e#Ese es el problema de vivir en la playa." #!String
   Fri: "@? Te vez perplejo,#$b#I creo que el aire caliente del verano nos puede marear un poco." #!String
