@@ -16,16 +16,16 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-  1: "Pues bien, ¡el invierno está aquí! Eso significa que la gente del pueblo va a pasar la mayor parte del tiempo en sus casas.#$e#¡Por lo menos ya sabes dónde encontrarlos!$h" #!String
-  Mon: "¡Casi se acaba otro año!!#$e#¡Espero que haya sido un año productivo!" #!String
-  Tue: "¡Tengo que empezar a pensar en un plan para mejorar el pueblo el próximo año!" #!String
-  Wed: "Seguiré visitando tu granja a las 4 en punto todos los días, incluso si hay nieve.#$e#¡Necesitas seguir ganando dinero en invierno!" #!String
-  Thu: "El salón se pone muy animado por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día." #!String
-  Fri: "Espero que las cosas te estén yendo bien en la granja." #!String
-  Fri6: "Nunca he estado casado. No tengo familia. Todo lo que hago es para ser Lewis.$s#$e#¿Merece la pena?$s#$e#...*suspiro*...$s" #!String
-  Sat: "Todos parecen un poco mas felices los fines de semana, ¿no te parece?#$e#Creo que es bastante obvio el por qué!$h#$e#Yo, sin embargo, trabajo los siete días de la semana." #!String
-  Sun: "¿Hola, @! ¿Como te va hoy?$h#$e#Si ves a Marnie, dile " #!Stringhola" #!String de mi parte." #!String
-  event_secret1: "Gracias @. No olvidare esto." #!String
-  event_secret2: "*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres detestable.$s" #!String
+    1: "Pues bien, ¡el invierno está aquí! Eso significa que la gente del pueblo va a pasar la mayor parte del tiempo en sus casas.#$e#¡Por lo menos ya sabes dónde encontrarlos!$h" #!String
+    Mon: "¡Casi se acaba otro año!!#$e#¡Espero que haya sido un año productivo!" #!String
+    Tue: "¡Tengo que empezar a pensar en un plan para mejorar el pueblo el próximo año!" #!String
+    Wed: "Seguiré visitando tu granja a las 4 en punto todos los días, incluso si hay nieve.#$e#¡Necesitas seguir ganando dinero en invierno!" #!String
+    Thu: "El salón se pone muy animado por la noche.#$e#Me gusta visitarlo una vez a la semana para ponerme al día." #!String
+    Fri: "Espero que las cosas te estén yendo bien en la granja." #!String
+    Fri6: "Nunca he estado casado. No tengo familia. Todo lo que hago es para ser Lewis.$s#$e#¿Merece la pena?$s#$e#...*suspiro*...$s" #!String
+    Sat: "Todos parecen un poco mas felices los fines de semana, ¿no te parece?#$e#Creo que es bastante obvio el por qué!$h#$e#Yo, sin embargo, trabajo los siete días de la semana." #!String
+    Sun: "¿Hola, @! ¿Como te va hoy?$h#$e#Si ves a Marnie, dile 'hola'." #!String
+    event_secret1: "Gracias @. No olvidare esto." #!String
+    event_secret2: "*sollozo* ... No puedo creer que hicieras eso...$s#$b#Eres detestable.$s" #!String
 
 
