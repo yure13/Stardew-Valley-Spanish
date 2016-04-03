@@ -16,15 +16,15 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon4: "The Dwarves would have you believe that my people are the \"bad guys\". We see it differently.#$e#The Dwarves droves us out of our homes many years ago... Many of us died. We've been working to reclaim our land ever since.$s" #!String
-    Tue6: "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?" #!String
-    Wed4: "I'm not upset at you for slaying our king. Most of my people considered him a tyrant. He was too quick to suspect people of being dwarvish spies.#$e#I'm sure the dwarves were happy to hear it." #!String
-    Thu2: "The dwarves have scavenger parties that come to the surface at night. They sneak into your homes and take what they need.#$e#I live here so I can keep track of their movements." #!String
+    Mon4: "Los Enanos te han hecho creer que mi gente son los "tipos malos". Nosotros lo vemos de manera diferente.#$e#Los enanos nos echaron de nuestros hogares hace muchos años... Muchos de los nuestros murieron. Desde entonces hemos estado trabajando para reclamar nuestras tierras.$s" #!String
+    Tue6: "...¿Alguna vez has encontrado a otros como yo en las minas? Perdona si fueron hostiles contigo. Verás, hemos aprendido a temer a los humanos... Ha habido muchos... encuentros desagradables.#$e#No has... matado a ninguno de mis amigos, ¿no?" #!String
+    Wed4: "No estoy enfadado contigo por matar a nuestro rey. La mayoría de mi gente lo consideraba un tirano. No tardaba mucho en sospechar de que la gente fueran espías enanos.#$e#Estoy seguro que los enanos se alegraron de escuchar eso." #!String
+    Thu2: "Los enanos tienen grupos de recolectores que salen a la superficie por la noche. Se cuelan en los hogares y cogen lo que necesitan.#$e#Vivo aquí, así que puedo seguir sus movimientos." #!String
     Fri: "..." #!String
-    Wed: "You're the one who defeated the \"shadow king\", correct?#$e#..." #!String
-    Thu: "Please don't tell anyone about me.#$e#Humans tend to destroy things they can't understand." #!String
-    Tue: "I am too sensitive to sunlight to go out during the day.#$e#The conditions in here are perfect." #!String
-    Mon: "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans." #!String
-    Sat: "On Fridays we stay silent as a sign of devotion to Yoba." #!String
-    Sun: "...Sorry, I'm still a little wary of humans." #!String
+    Wed: "Eres el que derrotó al 'Rey de las Sombras', ¿correcto?#$e#..." #!String
+    Thu: "Por favor, no le hables a nadie de mi.#$e#Los humanos tienden a destruir las cosas que no pueden entender." #!String
+    Tue: "Soy demasiado sensible a la luz como para salir de día.#$e#Las condiciones aquí son perfectas." #!String
+    Mon: "Por favor, no te alarmes. Soy diferente a los otros.#$e#He pasado mucho tiempo observando a los humanos." #!String
+    Sat: "Los viernes nos quedamos en silencio como signo de devoción hacia Yoba.." #!String
+    Sun: "...Lo siento, aún soy cauteloso con los humanos." #!String
 
