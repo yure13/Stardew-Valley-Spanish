@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¡Mira! No eres exactamente como te imaginaba... ¡pero está bien! soy Jodi.#$e#Es un pueblo pequeño y tranquilo, ¡así que es muy emocionante cuando alguien nuevo se muda por aquí! Tener a un granjero con nosotros realmente podría cambiar las cosas." #!String
+    Introduction: "¡Mira! No eres exactamente como te imaginaba... ¡Pero está bien! Soy Jodi.#$e#Es un pueblo pequeño y tranquilo, ¡así que es muy emocionante cuando alguien nuevo se muda por aquí! Tener a alguien nuevo entre nosotros realmente podría cambiar las cosas." #!String
     Mon: "¿Mantener un hogar es difícil... pero alguien tiene que hacerlo.#$e#si?" #!String
     2_1: "Mi marido Kent es un soldado que trabaja en el extranjero, por eso no esta aquí ahora mismo. ¡$·%& Sé que volverá sano y salvo una vez terminado su recorrido!!#$e#¿Necesitas algo?" #!String
     Tue: "Ejercitarse es importante para mantenerse saludable. Siempre me aseguro de reservar un momento para ello.#$e#Como padre, no tengo mucho tiempo que dedicarme a mí mismo. Así que lo intento y hago que cada minuto valga la pena." #!String
@@ -24,7 +24,7 @@ content:  #!Dictionary<String,String>
     Wed: "¿Qué has dicho? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s" #!String
     Thu6: "Como pasa el tiempo *sigh*#$e#Recuero cuando Sam era un bebe con pañales. Era un niño tan lindo.$s#$e#No le digas que te lo dije.$h#$e# Te debe gustar hablar conmigo eh?" #!String
     Thu: "Eres un granjero, ¿eh? Interesante.#$c .5#Nunca conocí a un granjero antes.$k#$e#Tal vez algún día me puedas enseñar a cultivar vegetales.$h" #!String
-    Fri: "$d Joja #La comida de JojaMart no podría ser más saludable para mi familia, pero con esos precios tan bajos sería una locura comprar en otra parte! | La comida de Pierre es mucho más fresca y más sana que cualquier cosa que compre alguna vez en JojaMart. Echo de menos esos precios baratos de Joja, aunque." #!String
+    Fri: "$d Joja #La comida de JojaMart podría ser más saludable para mi familia, ¡pero con esos precios tan bajos sería una locura comprar en otra parte! | La comida de Pierre es mucho más fresca y más sana que cualquier cosa que compre alguna vez en JojaMart. Aunque echo de menos esos precios baratos de Joja." #!String
     Sat: "Hola.#$e#¿Necesitas algo?" #!String
     Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
     Mon2: "#$1 JodiAltar#Ayer visité el Altar de Yoba para rogar porque mi marido vuelva sano y salvo.#$e#Trato de mantenerme positiva, pero a veces ese me hace muy duro.$s" #!String
