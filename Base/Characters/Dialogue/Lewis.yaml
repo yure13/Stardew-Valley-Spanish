@@ -50,7 +50,7 @@ content:  #!Dictionary<String,String>
     fall_Fri: "Espero que las cosas te estén yendo bien en la granja." #!String
     fall_12: "¿Tienes alguna colmena de abejas en tu granja?#$e#Si las pones cerca de las flores puedes conseguir diferentes tipos de miel." #!String
     fall_19: "A veces puedes ver si hay algo enterrado bajo tierra. Solo tienes que tener los ojos bien abiertos." #!String
-    fall_Fri4: "¿Has probado la salsa "secreta" de espaguetis de Gus?$s#$b#...Los ingredientes quizás sean secretos, pero el olor no.#$b#Te veo luego." #!String
+    fall_Fri4: "¿Has probado la salsa 'secreta' de espaguetis de Gus?$s#$b#...Los ingredientes quizás sean secretos, pero el olor no.#$b#Te veo luego." #!String
     fall_Sun: "¿Estas haciéndolo lo mejor que puedes en la granja, @? Tendrás que hacer muchas cosas en diferentes áreas si quieres convertirte en ciudadano bien formado." #!String
     winter_1: "Bueno, ¡el invierno esta aquí! Eso significa que la gente del pueblo pasará la mayor parte de sus días en casa.#$e#¡Al menos sabrás donde encontrarlos!$h" #!String
     winter_Mon: "¡Casi se acaba otro año!!#$e#¡Espero que haya sido un año productivo!" #!String
