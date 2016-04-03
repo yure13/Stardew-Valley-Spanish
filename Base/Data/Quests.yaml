@@ -21,7 +21,7 @@ xnbData:
 
 content:  #!Dictionary<Int32,String>
     1: "Location/Meet The Wizard/Recibiste una carta del mago local. Dice tener información sobre el viejo centro comunitario./Entra en la torre del mago./WizardHouse/-1/0/-1/false" #!String
-    2: "Basic/The Mysterious Qi/Dentro de la caja fuerte, encontraste una nota con instrucciones extrañas. Está firmada por "Sr. Qi"./Deja una concha arcoíris en la caja que está en el andén./null/-1/0/-1/false" #!String
+    2: "Basic/The Mysterious Qi/Dentro de la caja fuerte, encontraste una nota con instrucciones extrañas. Está firmada por \"Sr. Qi\"./Deja una concha arcoíris en la caja que está en el andén./null/-1/0/-1/false" #!String
     3: "Basic/The Mysterious Qi/Has encontrado otra carta del \"Sr. Qi\". Lo que pide es más raro esta vez./Coloca 10 remolachas dentro de la nevera del alcalde Lewis./null/-1/0/-1/false" #!String
     4: "Basic/The Mysterious Qi/Encontraste otra nota extraña en la nevera del alcalde. Esta vez, las instrucciones son mas crípticas./\"Dale al dragón de arena su última comida.\"/null/-1/0/-1/false" #!String
     5: "Basic/The Mysterious Qi/Encontraste otra nota en el ojo del dragón. Parece que la búsqueda del señor Qi ha llegado a su fin./Inspecciona la pila de madera al lado de tu casa./null/-1/0/-1/false" #!String
