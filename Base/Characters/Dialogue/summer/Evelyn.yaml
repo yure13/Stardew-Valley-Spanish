@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
   Mon: "Siento más energía con este tiempo tan maravilloso" #!String
-  Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: "¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
+  Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
   Wed: "El buen alcalde me puso a cargo de los jardines públicos.#$e#He estado trabajando en los macizos de flores por meses, ¡así que no camines sobre ellos!" #!String
   Thu: "Hoy hornearé galletas. ¡Son maravillas de coco en forma de pequeñas palmeras! Jeje. $h#$e#Quizás te diga mi receta algún día de estos." #!String
   Fri: "George se pasa el día entero delante de esa condenada televisión.#$e# Me gustaría que saliera más. Un poco de aire fresco le vendría bien." #!String
