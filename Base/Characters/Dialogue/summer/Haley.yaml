@@ -16,35 +16,35 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-  10: "¿Tienes conejitos bebé en tu granja? ¡Los conejos son tan bonitos! <" #!String
-  Mon: "Este verano voy a conseguir un buen bronceado." #!String
-  Tue: "Ew, estás todo sucio." #!String
-  Wed: "Um... ¿Qué?#$e# No te he escuchado, estoy pensando en otra cosa." #!String
-  Thu: "Si te quedas al sol mucho tiempo, tu pelo se aclarará.#$e#¡Está bien que lo sepas!" #!String
-  Fri: "Me pregunto que hará Josh hoy...#$e#¿Qué? No sabía que estabas ahí parado." #!String
-  Sat: "Ser granjero suena tan aburrido#$q 42/43 Sat_old#¿Qué es lo que haces todo el día?#$r 42 10 Sat_12#Cuidar plantas#$r 42 10 Sat_12#Explorar cuevas#$r 43 -10 Sat_13#Curiosear en tu habitación#$r 42 10 Sat_12#Excavar para encontrar un tesoro" #!String
-  Sat_old: "Oye, ¡sera mejor que ya no estés curioseando en mi habitación!$a|Pero supongo que te podría poner en buena forma." #!String
-  Sat_12: "Hmm... suena a mucho trabajo." #!String
-  Sat_13: "¿Qué? ¡Sera mejor que no estés haciendo eso!$a" #!String
-  Sun: "Emily suele preparar el almuerzo.#$e#Pero prepara comidas raras como quinua." #!String
-  Tue2: "¿Usas esa ropa todos los días?" #!String
-  Tue4: "$p 47#Oye, encontré esta herramienta para abrir frascos. Asi ya no necesitaré que me ayudes.$h|Hoy no hay ninguna nube en el cielo.$h" #!String
-  Wed4: "¡Hace mucho calor hoy!#$e#Ojalá tuviera un poco de helado.$s" #!String
-  Fri4: "Hoy me he pasado 3 horas practicando mi firma.#$e#¿Vaya tontería, no?" #!String
-  Thu6: "Si te quedas al sol mucho tiempo, tú pelo se aclarará.#$e#Pero tampoco querrás quemarte.#$e#Solo quiero una cantidad saludable de luz solar." #!String
-  Mon6: "Debería empezar a leer libros.#$e#Es bueno para aprender cosas, ¿No lo crees?#$e#Sólo miro revistas. Principalmente las fotos." #!String
-  Sun6: "Hablé con mi hermana un rato ayer por la noche. De hecho lo disfruté un poco.#$e#No le digas que lo dije." #!String
-  Sat6: "Parece n buen día para ir a nadar." #!String
-  Tue8: "Será muy bonito vivir en el campo.#$e#Si viviese en la ciudad empezaría a echar de menos todos estos árboles.#$e#@, Creo que he pasado demasiado tiempo contigo.$h" #!String
-  Fri10: "Oh, hola @!#$e#¿Te gustan los niños?$I" #!String
-  Event_clean1: "Hmmmmm...#$b#Vale, tu ganas. Supongo que puede ser mi trabajo de cada semana. Entonces no habrá razón para discutir sobre ello." #!String
-  Event_clean2: "¡¡NO!! ¡no pienso hacerlo!$a#$b#¡Sois unos tontos!$a" #!String
-  Event_clean3: "¿Cómo que debería de tomar el " #!Stringcamino facil" #!String? ¿Que se supone que significa?#$b#Crees que sigo siendo un bebe, ¿no?" #!String
-  Event_jar1: "Genial, ¡entonces no deberías tener problema abriéndome este tarro!$h" #!String
-  Event_jar2: "Oh... no? Hmmm...$s#$b#Da igual, ¿Me abres el tarro de todas formas?" #!String
-  Event_beach1: "¡No, ni pensarlo! ¡Esta pulsera es herencia de mi bisabuela!$a" #!String
-  Event_beach2: "...Quiza lo encuentre alguien al otro lado del mar.$s" #!String
-  Event_room1: "¿Él? ¡No!#$b#... Bueno, supongo que me solía gustar Josh. ¡Pero ahora no! Es muy inmaduro." #!String
-  Event_room2: "¿Qué? Eso suena divertido, pero no querría dejar Stardew Valley ahora mismo..." #!String
-  Event_room3: "¿Eh? ¿Qué es un androide?" #!String
+    10: "¿Tienes conejitos bebé en tu granja? ¡Los conejos son tan bonitos! <" #!String
+    Mon: "Este verano voy a conseguir un buen bronceado." #!String
+    Tue: "Ew, estás todo sucio." #!String
+    Wed: "Um... ¿Qué?#$e# No te he escuchado, estoy pensando en otra cosa." #!String
+    Thu: "Si te quedas al sol mucho tiempo, tu pelo se aclarará.#$e#¡Está bien que lo sepas!" #!String
+    Fri: "Me pregunto que hará Josh hoy...#$e#¿Qué? No sabía que estabas ahí parado." #!String
+    Sat: "Ser granjero suena tan aburrido#$q 42/43 Sat_old#¿Qué es lo que haces todo el día?#$r 42 10 Sat_12#Cuidar plantas#$r 42 10 Sat_12#Explorar cuevas#$r 43 -10 Sat_13#Curiosear en tu habitación#$r 42 10 Sat_12#Excavar para encontrar un tesoro" #!String
+    Sat_old: "Oye, ¡sera mejor que ya no estés curioseando en mi habitación!$a|Pero supongo que te podría poner en buena forma." #!String
+    Sat_12: "Hmm... suena a mucho trabajo." #!String
+    Sat_13: "¿Qué? ¡Sera mejor que no estés haciendo eso!$a" #!String
+    Sun: "Emily suele preparar el almuerzo.#$e#Pero prepara comidas raras como quinua." #!String
+    Tue2: "¿Usas esa ropa todos los días?" #!String
+    Tue4: "$p 47#Oye, encontré esta herramienta para abrir frascos. Asi ya no necesitaré que me ayudes.$h|Hoy no hay ninguna nube en el cielo.$h" #!String
+    Wed4: "¡Hace mucho calor hoy!#$e#Ojalá tuviera un poco de helado.$s" #!String
+    Fri4: "Hoy me he pasado 3 horas practicando mi firma.#$e#¿Vaya tontería, no?" #!String
+    Thu6: "Si te quedas al sol mucho tiempo, tú pelo se aclarará.#$e#Pero tampoco querrás quemarte.#$e#Solo quiero una cantidad saludable de luz solar." #!String
+    Mon6: "Debería empezar a leer libros.#$e#Es bueno para aprender cosas, ¿No lo crees?#$e#Sólo miro revistas. Principalmente las fotos." #!String
+    Sun6: "Hablé con mi hermana un rato ayer por la noche. De hecho lo disfruté un poco.#$e#No le digas que lo dije." #!String
+    Sat6: "Parece n buen día para ir a nadar." #!String
+    Tue8: "Será muy bonito vivir en el campo.#$e#Si viviese en la ciudad empezaría a echar de menos todos estos árboles.#$e#@, Creo que he pasado demasiado tiempo contigo.$h" #!String
+    Fri10: "Oh, hola @!#$e#¿Te gustan los niños?$I" #!String
+    Event_clean1: "Hmmmmm...#$b#Vale, tu ganas. Supongo que puede ser mi trabajo de cada semana. Entonces no habrá razón para discutir sobre ello." #!String
+    Event_clean2: "¡¡NO!! ¡no pienso hacerlo!$a#$b#¡Sois unos tontos!$a" #!String
+    Event_clean3: "¿Cómo que debería tomar el 'camino facil'? ¿Que se supone que significa?#$b#Crees que sigo siendo un bebe, ¿no?" #!String
+    Event_jar1: "Genial, ¡entonces no deberías tener problema abriéndome este tarro!$h" #!String
+    Event_jar2: "Oh... no? Hmmm...$s#$b#Da igual, ¿Me abres el tarro de todas formas?" #!String
+    Event_beach1: "¡No, ni pensarlo! ¡Esta pulsera es herencia de mi bisabuela!$a" #!String
+    Event_beach2: "...Quiza lo encuentre alguien al otro lado del mar.$s" #!String
+    Event_room1: "¿Él? ¡No!#$b#... Bueno, supongo que me solía gustar Josh. ¡Pero ahora no! Es muy inmaduro." #!String
+    Event_room2: "¿Qué? Eso suena divertido, pero no querría dejar Stardew Valley ahora mismo..." #!String
+    Event_room3: "¿Eh? ¿Qué es un androide?" #!String
 
