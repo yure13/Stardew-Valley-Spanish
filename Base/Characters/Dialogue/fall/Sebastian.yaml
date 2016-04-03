@@ -28,7 +28,7 @@ content:  #!Dictionary<String,String>
   Fri_good: "Esos son mis favoritos también. Estoy por empezar a leer un nuevo libro de ciencia ficción.$h" #!String
   Fri_bad: "Huh. Suena aburrido." #!String
   Fri6: "He estado leyendo un libro sobre un granjero.#$e#Perdóna si te da mal rollo.$h" #!String
-  Sat: "Si alguna vez quieres ver la primera temporada completa de " #!StringCave Saga 2X" #!String de una sola vez, házmelo saber.#$e#¿...Qué?" #!String
+  Sat: "Si alguna vez quieres ver la primera temporada completa de 'Cave Saga 2X' de una sola vez, házmelo saber.#$e#¿...Qué?" #!String
   Sun: "¿Qué clase de cosas haces crecer en tu granja?" #!String
   Event_game1: "Está bien, eso funcionará." #!String
   Event_game2: "Buena elección. Eso va bien con mi papel." #!String
