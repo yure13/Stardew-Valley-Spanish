@@ -45,7 +45,7 @@ content:  #!Dictionary<String,String>
     OneKid_1: "%kid1 tendrá una infancia perfecta aquí. Hay tanto que explorar." #!String
     OneKid_3: "Cuidar bebés no es exactamente mi fuerte... pero haré lo mejor que pueda por ser un buen padre." #!String
     TwoKids_0: "Ya les di de comer a %kid1 y %kid2. ¡Cuánto comen!" #!String
-    TwoKids_1: "Antes estaba con %kid1 y juraría que he oído "Pa...pa".$h" #!String
+    TwoKids_1: "Antes estaba con %kid1 y juraría que he oído 'Pa...pa'.$h" #!String
     TwoKids_2: "¡Voy a enseñar a %kid1 a leer tan pronto como sea posible! Es una forma estupenda para que los niños aprendan del mundo." #!String
     TwoKids_3: "Lo hemos hecho bien @. La granja va genial y nuestros hijos son una gran alegría. No podría ser más feliz." #!String
     Good_0: "@... Estoy tan orgulloso de tu dedicación. Qué afortunado soy al tenerte.$l" #!String
