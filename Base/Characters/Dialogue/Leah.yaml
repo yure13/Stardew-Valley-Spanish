@@ -19,7 +19,7 @@ content:  #!Dictionary<String,String>
     Introduction: "Hola, encantada de conocerte.$h#$e#Has elegido un buen momento para mudarte aquí... La primavera es hermosa." #!String
     danceRejection: "Siéndote honesto. No quiero bailar contigo.$u" #!String
     Beach: "Vine por el sonido del océano. Bonito, ¿verdad?" #!String
-    Mon: "Los árboles están bonitos hoy, ¿no crees?#$q 21/22/211132 Mon_old#¿Por qué te volviste granjero?#$r 21 -5 Mon_21#Quiero hacer montones y montones de dinero.#$r 22 5 Mon_22#Es más "real" que vivir en la ciudad.#$r 211132 5 Mon_211132#Para seguir los pasos de mi abuelo.#$r 22 5 Mon_22#Quería escapar de mi antigua vida." #!String
+    Mon: "Los árboles están bonitos hoy, ¿no crees?#$q 21/22/211132 Mon_old#¿Por qué te volviste granjero?#$r 21 -5 Mon_21#Quiero hacer montones y montones de dinero.#$r 22 5 Mon_22#Es más 'real' que vivir en la ciudad.#$r 211132 5 Mon_211132#Para seguir los pasos de mi abuelo.#$r 22 5 Mon_22#Quería escapar de mi antigua vida." #!String
     Mon_old: "$p 21#Estas haciendo tanto dinero como esperabas?|Es muy gratificante pasar tiempo en la naturaleza." #!String
     Mon_21: "Hmm. Eso parece algo superficial, ¿no?$s" #!String
     Mon_22: "Esa es prácticamente la razón por la que vine aquí, también! $h" #!String
