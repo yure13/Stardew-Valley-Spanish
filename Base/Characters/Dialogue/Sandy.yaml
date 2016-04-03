@@ -18,7 +18,7 @@ xnbData:
 content:  #!Dictionary<String,String>
     Mon: "¡Hola hola, cariño!#$b#Estoy muy contenta de que el autobús vuelva a estar de servicio. Empezaba a sentirme muy sola aquí fuera.#$e#...Casi quiebra mi negocio.$s#$e#Oye, pero ahora estas aquí para comprar un montón de semillas... ¿verdad, cariño?$h" #!String
     Tue: "Puedes encontrar cocos y frutas de cactus fuera. Siéntete libre de coger todos los que puedas encontrar.#$e#Están riquísimas. ¡Mmmmmm!~$h" #!String
-    Wed: "¡Hola! Si ves a mi amiga Emily en el pueblo, ¿le podrías decir "Hola" de mi parte?#$e#¡Gracias!$h" #!String
+    Wed: "¡Hola! Si ves a mi amiga Emily en el pueblo, ¿le podrías decir 'Hola' de mi parte?#$e#¡Gracias!$h" #!String
     Thu: "¿Ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#De todas formas... ¿cómo es el tiempo en el valle?" #!String
     Fri: "No tendrías mucha suerte cultivando por aquí, cariño.#$e#Bueno, a no ser que cultives cactus.$h" #!String
     Sat: "¡Hola! Bienvenido al Oasis de Sandy, ¡el destino número uno en el Desierto de Calico!#$e#*susurra* ¿He sonado profesional?$h#$e#Asegúrate de comprobar nuestra selección de semillas de temporada.#$e#Parece que tienes sed. Toma, prueba esta leche helada. [184]#$e#Sabrosa, ¿eh?$h" #!String
