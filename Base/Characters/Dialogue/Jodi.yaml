@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¡Mira! No eres exactamente como te imaginaba... ¡pero está bien! soy Jodi.#$e#Es un pueblo pequeño y tranquilo, ¡así que es muy emocionante cuando alguien nuevo se muda por aquí! Tener a un granjero con nosotros realmente podría cambiar las cosas." #!String
-    Mon: "¿Mantener un hogar es difícil... pero alguien tiene que hacerlo $e # #si?" #!String
+    Mon: "¿Mantener un hogar es difícil... pero alguien tiene que hacerlo.#$e#si?" #!String
     2_1: "Mi marido Kent es un soldado que trabaja en el extranjero, por eso no esta aquí ahora mismo. ¡$·%& Sé que volverá sano y salvo una vez terminado su recorrido! ¿"·$% Necesitas algo?" #!String
     Tue: "Ejercitarse es importante para mantenerse saludable. Siempre me aseguro de reservar un momento para ello.#$e#Como padre, no tengo mucho tiempo que dedicarme a mí mismo. Así que lo intento y hago que cada minuto valga la pena." #!String
     Wed4: "Me gustaría poder pasar más tiempo afuera, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener mis manos suaves.#$e#Cuanto más viejo te haces, más trabajo tienes que hacer para mantenerte saludable.#$e#Bueno, ¡Adiós!" #!String
