@@ -19,7 +19,7 @@ content:  #!Dictionary<String,String>
     9: "Hmm. ¿De qué marca es tu camiseta?#$e#Oh. Um, no importa." #!String
     Mon: "Quiero mudarme un lugar más cálido." #!String
     Tue: "Hola. ¿Necesitas algo?#$e#..." #!String
-    Wed: "Ójala alguien me trajera un café de menta.#$e#No importa, sé que no puedes hacer uno." #!String" #!String
+    Wed: "Ójala alguien me trajera un café de menta.#$e#No importa, sé que no puedes hacer uno." #!String
     Thu: "Voy a empezar a escribir una lista de todas las prendas que necesitaré para la siguiente primavera." #!String
     Fri: "¿Tienes un pony en tu granja?$h#$e#Oh. Qué decepción...$s" #!String
     Sat: "Lo único bueno del invierno es que duermo más.#$e#Me gusta dormir al menos 10 horas cada día." #!String
