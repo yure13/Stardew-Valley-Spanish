@@ -33,8 +33,8 @@ content:  #!Dictionary<String,String>
     Thu6: "Ojalá pudiera tener un huerto, pero nuestro patio esta hecho un asco.$u#$e#En fin. Algún día viviré en un lugar donde pueda tener uno.#$e#¡Quizá viva en una granja! *risita*$h" #!String
     Fri: "Si cavas en la tierra puedes encontrar cosas interesantes.#$e#Una vez encontré una pieza muy vieja de cerámica. Se la llevé a Gunther y me dijo que tenia mas de mil años." #!String
     Fri2: "Si cavas en la tierra puedes encontrar cosas interesantes.#$e#Una vez encontré una pieza muy vieja de cerámica. Se la lleve a Gunther y me dijo que tenia mas de mil años." #!String
-    Fri4: "Platos, platos, platos. Ugh... Si mi madre no estuviera siempre con la resaca de sus largas noches en el bar, quizá podria ayudar un pocoen casa.$s" #!String
-    Sat: "Este es un pueblo muy pequeño. No puedes evitar encontrarte con todo el mundo#$e#¿Cómo será vivir en la ciudad?" #!String
+    Fri4: "Platos, platos, platos. Ugh... Si mi madre no estuviera siempre con la resaca de sus largas noches en el bar, quizá podría ayudar un poco en casa.$s" #!String
+    Sat: "Este es un pueblo muy pequeño. No puedes evitar encontrarte con todo el mundo.#$e#¿Cómo será vivir en la ciudad?" #!String
     Sat2: "$d Joja#Las cosas han cambiado mucho desde que JojaMart apareció. Ha sido horrible para la tienda de Pierre. Pero mamá adora JojaMart. Los precios son baratos, y se puede permitir muchas más cosas de las que podía en la tienda de Pierre.|Mamá ha estado quejándose desde que JojaMart cerró, aunque creo que es bueno para ella. Quizás ahora beba menos Joja Cola." #!String
     Sun: "Hola. Ummm...#$e#Hoy hace un tiempo interesante, ¿no crees?#$e#Lo siento... $u" #!String
     Sun4: "He intentado mantener nuestra casa limpia, pero siempre se ensucia de nuevo.$s#$e#Es duro llevar una casa tú sola.$u" #!String
@@ -66,21 +66,21 @@ content:  #!Dictionary<String,String>
     event_family3: "Ya veo.$s" #!String
     summer_Mon: "Hola... Um, hace buen tiempo, ¿verdad?" #!String
     summer_Mon4: "$d cc#Gracias por reparar el centro comunitario. Supongo que eres una especie de héroe del pueblo.|Hola, @. Es agradable ver que lo estas haciendo bien." #!String
-    summer_Fri: "$d bus#He oído que eras el responsable de reparar el autobús de vuelta. Gracias.|Mi madre solía conducir el autobús a el desierto calico... pero dejo de funcionar hace algunos años. El alcalde dice que no hay sufucuente dinero en las reservas del pueblo, de lo contrario ya estaria reparado.$u" #!String
+    summer_Fri: "$d bus#He oído que has sido quién ha reparado el autobús. Gracias.|Mi madre solía conducir el autobús a el Desierto Calico... pero dejó de funcionar hace algunos años. El alcalde dice que no hay suficuente dinero en las reservas del pueblo, de lo contrario ya estaría reparado.$u" #!String
     summer_Sun: "Así que, ¿te gusta decorar tu granja?#$e#Debe ser agradable tener tu propio lugar para decorar." #!String
     summer_Sat: "Hola. Umm...#$b#¿Hoy las montañas se ven bonitas, verdad?$u" #!String
     fall_Mon: "Hola... Um, ¿estas bien?$u" #!String
-    fall_Mon4: "Es un poco embarazoso ser la unica familia del pueblo que vive en una caravana.$u#$e#Me gustaria poder vivir en una bonita casa, algun dia.$s" #!String
+    fall_Mon4: "Es un poco embarazoso ser la única familia del pueblo que vive en una caravana.$u#$e#Algún día me gustaría poder vivir en una bonita casa.$s" #!String
     fall_Tue4: "Tu granja se ve muy bonita ahora.$h" #!String
-    fall_Thu6: "Mama no se cuida demasiado...#$e#Me preocupo por ella.$u" #!String
-    fall_Fri: "El otoño es una epoca triste para mi...$s" #!String
-    fall_Fri6: "Cuando era pequeña, mi padre nos abandonó porque dijo que se sentía 'atrapado'. No le hemos visto desde entonces.$s#$b#Siento causarte incomodidad... Es que esta época del año me hace pensar en ello por algún motivo$u#$e#En cualquier caso... ¿Cómo va la vida de granjero?" #!String
-    fall_Sun10: "¡@! Estaba pensando sobre el futuro...#$e#¿Donde te ves dentro de diez anos?$l#$e#Yo ya tengo alguna que otra idea...$u" #!String
-    fall_Sat8: "Hola @.$h#$e#¿Tu casa debe ser muy fácil de limpiar, eh?" #!String
-    winter_Fri: "...¿si?$u" #!String
-    winter_Fri2: "¿Linus y tú sois amigos? Vive en una tienda en lo alto de las montañas.#&e#Todo el mundo le ignora, pobrecito. En realidad es muy agradable... Simplemente es un poco extraño.#$e#Debe hacer mucho frío como para vivir en una tienda en esta época del año." #!String
-    winter_Tue4: "Estoy deseando ver como es tu granja en primavera..#$e#Va a ser tan fresca y hermosa.$h" #!String
-    winter_Tue: "Trato de permanecer en el interior tanto como sea posible durante el invierno. Odio el frió." #!String
+    fall_Thu6: "Mamá no se cuida demasiado...#$e#Me preocupo por ella.$u" #!String
+    fall_Fri: "El otoño es una epoca triste para mí...$s" #!String
+    fall_Fri6: "Cuando era pequeña, mi padre nos abandonó porque dijo que se sentía 'atrapado'. No le hemos visto desde entonces.$s#$b#Siento molestarte con esto... Es que, por algún motivo, esta época del año me hace pensar en eso.$u#$e#En cualquier caso... ¿Cómo va la vida en la granja?" #!String
+    fall_Sun10: "¡@! Estaba pensando sobre el futuro...#$e#¿Dónde te ves dentro de diez anos?$l#$e#Yo ya tengo alguna que otra idea...$u" #!String
+    fall_Sat8: "Hola @.$h#$e#Tu casa debe ser muy fácil de limpiar, ¿eh?" #!String
+    winter_Fri: "...¿Sí?$u" #!String
+    winter_Fri2: "¿Linus y tú sois amigos? Vive en una tienda, en lo alto de las montañas.#&e#Todo el mundo le ignora, pobrecito. En realidad es muy agradable... Simplemente es un poco extraño.#$e#En esta época del año hace mucho frío como para vivir en una tienda." #!String
+    winter_Tue4: "Estoy deseando ver como es tu granja en primavera.#$e#Va a ser tan fresca y hermosa.$h" #!String
+    winter_Tue: "Durante el invierno intento estar en casa tanto tiempo como pueda. Odio el frío." #!String
     winter_Thu: "Oh... hola. ¿Quieres hablar?$u#$e#Si encuentras algún artefacto interesante o minerales, Gunther los expondrá con mucho gusto en el museo.#$e#Me dijo que tiene regalos especiales para la gente que hace donaciones." #!String
-    winter_Mon: "El día 25 tendremos el Festival de la Estrella del Invierno. Es uno de mis acontecimientos favoritos.#$e#Se supone que es una ocasión para mostrar gratitud por todas las cosas buenas en nuestras vidas... pero para la mayoría de las personas es momento para relajarse e intercambiar regalos." #!String
+    winter_Mon: "El día 25 tendremos el Festival de la Estrella Invernal. Es uno de mis acontecimientos favoritos.#$e#Se supone que es una ocasión para mostrar gratitud por todas las cosas buenas en nuestras vidas... pero para la mayoría de las personas es momento para relajarse e intercambiar regalos." #!String
 
