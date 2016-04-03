@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Bueno, ¡como fue tu primera noche en la vieja granja?#$e#Tu abuelo solía quejarse sobre la vieja y endeble cama. Pero, de hecho, creo que en el fondo le encantaba esa casa." #!String
+    Introduction: "Bueno, ¿como fue tu primera noche en la vieja granja?#$e#Tu abuelo solía quejarse sobre la vieja y endeble cama. Pero, de hecho, creo que en el fondo le encantaba esa casa." #!String
     Mon: "Es una buena estación para empezar a pensar en la agricultura, incluso para nosotros los no granjeros.#$e# ¡El valle es conocido por producir algunas de las mejores flores de primavera!$h" #!String
     Tue: "Tan solo deposita cualquier cosa que quieras vender en la caja de envío al lado de tu casa.#$e#Estaré interesado en ver que tipo de cosas depositas ahí." #!String
     Saloon_Entry: "¡Hola, Gus!" #!String
