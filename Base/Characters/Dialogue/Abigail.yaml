@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     4: "Oh, hola." #!String
-    Introduction: "Oh, es verdad... Oí que alguien nuevo se mudo a la vieja granja.#$e#Que lastima. Siempre me ha gustado explorar esos campos de maleza por mi cuenta.$9" #!String
+    Introduction: "Oh, es verdad... Oí que alguien nuevo se mudó a la vieja granja.#$e#Que lástima. Siempre me ha gustado explorar esos campos de maleza por mi cuenta.$9" #!String
     danceRejection: "Me halagas... Pero tengo que decir que no, lo siento." #!String
     Mon: "Oh, hola. ¿Descansando del trabajo?" #!String
     Mon2: "Oh, ¡hola!#$e#¿Alguna vez has estado en el cementerio? Es un sitio tranquilo para estar a solas." #!String
