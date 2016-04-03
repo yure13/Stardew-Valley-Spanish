@@ -16,76 +16,76 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "I sometimes find inspiration in the most unlikely of places." #!String
-    Rainy_Day_1: "I used to find rain depressing when I lived in the city. But here in Stardew Valley it's beautiful." #!String
-    Rainy_Day_2: "Good morning! I got up early and did some mushroom hunting. Here, take one.[281 404 420 257]#$e#Searching for mushrooms is like going on a treasure hunt. It's a lot of fun.$h" #!String
-    Rainy_Day_3: "It's days like this I'm really happy about my heavy-duty boots.$h" #!String
-    Rainy_Day_4: "The trees have been begging for this rain... I'm happy for them." #!String
-    Rainy_Night_0: "How was your day? Did you see any animals out there?" #!String
-    Rainy_Night_1: "I usually go for salad... but a wet night like this gives me cravings for hot soup.$h" #!String
-    Rainy_Night_2: "It's going to be relaxing to fall asleep on a night like this...$l" #!String
-    Rainy_Night_3: "I made a little wood sculpture today, but it was so ugly I threw it into the fire.$u#$e#I think to become a great artist, you have to be critical of your own work." #!String
-    Rainy_Night_4: "I'm glad you're home... It's a good night to get under the covers and stay warm." #!String
-    Rainy_Night_Leah: "How was your day today, dear? Muddy?" #!String
-    Indoor_Day_0: "This house is a lot nicer than my old cabin! I don't miss it." #!String
-    Indoor_Day_1: "Good morning, @. I've planted these in a little pot out back... [16 18 20 22 90 259 396 402]#$e#I grew that with great love and attention. Enjoy it." #!String
-    Indoor_Day_2: "Always remember to keep your eyes peeled for wild food! There's lots out there." #!String
-    Indoor_Day_3: "I was thinking... life's too short to eat bad food. Luckily, we live in one of the best regions for fresh greens and vegetables!#$e#Here, I made you a healthy salad. [196]#$e#I'm surprised you aren't sick of my salad yet!" #!String
-    Indoor_Day_4: "Good morning, @! I made us some coffee.[395]$h#$e#My morning just wouldn't be complete without a hot cup of coffee." #!String
-    Indoor_Night_0: "Something about this time of night makes me thirsty." #!String
-    Indoor_Night_1: "The flow of time is so delicate... even the tiniest decision changes the future forever." #!String
-    Indoor_Night_2: "It's so much lovelier here at night than the garish glow of the city.#$e#Everything worked out perfectly for me. I'm very luck." #!String
-    Indoor_Night_3: "I never thought I'd receive a mermaid's pendant so soon after moving here! I'm happy about it, though.$l" #!String
-    Indoor_Night_4: "I saw a wild rabbit today. I just wish I could pet one someday. They look so soft..." #!String
-    Outdoor_0: "The cool breeze feels nice. It reminds me of living by the river." #!String
-    Outdoor_1: "Hmm... I'm going to do some maintenance over here. I just get the urge to do some hammering now and then." #!String
-    Outdoor_2: "It's going to be a special day, I can sense it." #!String
-    Outdoor_3: "Ah... that smell of fresh dirt. There's nothing quite like it.$h#$e#You can just tell the air is clean here... it feels good in the lungs." #!String
-    Outdoor_4: "Don't overwork yourself, dear.#$e#Make sure and take a break every now and then, or get something to eat.$h" #!String
-    funLeave_Leah: "I'm going to take a nature walk today. I need to get out of the house." #!String
-    funReturn_Leah: "I had a nice, relaxing time today. How did your day go?" #!String
-    OneKid_3: "It's fun to be a parent. I want to make sure %kid1 grows up to have a love for the outdoors." #!String
-    TwoKids_3: "We've got a wonderful farm and a full family. Our new life has really turned out well, hasn't it?" #!String
-    Good_0: "Living here, I feel like I'm on the summit of a great mountain." #!String
-    Good_1: "Did I ever tell you... when you first moved here I had a dream that we'd be together someday." #!String
-    Good_2: "Sometimes it's hard not to believe in destiny... the fact that I decided to move here, and that we found each other.#$b#It could've gone entirely differently at any point." #!String
-    Good_3: "Wow, you look full of energy today!$l^You look beautiful today.$l" #!String
-    Good_4: "Mmm... You smell nice today." #!String
-    Good_5: "I was just admiring my wedding amulet... I'll cherish this treasure for the rest of my life.$l" #!String
-    Good_6: "Be careful out there! Sometimes I worry about you falling into a mine shaft." #!String
-    Good_7: "@? I just want to say that I appreciate all the hard work you do for our household.$h" #!String
-    Good_8: "Don't worry about me... I know you've got a lot of responsibilities outside of the house. I'm fine in here by myself!$l" #!String
-    Good_9: "Oh, I'm not bored... I'm just enjoying what we have here.#$e#It's a simple life, but I like it.$h" #!String
-    Neutral_0: "I hope you'll still like me when I'm old and gray." #!String
-    Neutral_1: "I wonder who lived here before us?" #!String
-    Neutral_2: "Don't you have anything to do today?" #!String
-    Neutral_3: "If you go into town, make sure and say hi to everyone for me." #!String
-    Neutral_4: "I'll do the laundry tomorrow morning before you get up... that way you won't have any down-time." #!String
-    Neutral_5: "Are we doing okay on money, @?" #!String
-    Neutral_6: "I wonder what everyone in town is doing today?" #!String
-    Neutral_7: "I don't really feel like doing anything today." #!String
-    Neutral_8: "No matter how much I clean, the house keeps getting dirty again.#$e#I guess farms can be kind of dirty." #!String
-    Neutral_9: "I wonder if we'll live here our entire lives?" #!String
-    Bad_0: "...Do you still love me?$s" #!String
-    Bad_1: "*sigh*... Maybe we got married too young.$s" #!String
-    Bad_2: "Are you still happy with me?s" #!String
-    Bad_3: "Did I do something wrong? You've been acting different lately.$s" #!String
-    Bad_4: "Do you ever wonder what else is out there?$s" #!String
-    Bad_5: "You used to be romantic... what happened?$s#$e#I know I'm not as young as I used to be... is that what you married me for?$a" #!String
-    Bad_6: "We only have one short life to live... is this the best way to do it?$s" #!String
-    Bad_7: "I used to be your sweetie... now you only seem to put up with me when I make a hot dinner.$s" #!String
-    Bad_8: "You've been so cold to me lately...$s" #!String
-    Bad_9: "I wonder if I could've done better.$s" #!String
-    spring_2: "So, what are we planting this season?" #!String
-    spring_1: "That was some way to ring in the new year last night...$l" #!String
-    spring_15: "*sigh*... I guess it's time for the 'spring cleaning' again.$s" #!String
-    summer_1: "Ah, summer... I can smell the spice berries already.$h" #!String
-    summer_9: "Sorry if I'm wet to the touch... I was sweating all night in the heat." #!String
-    summer_2: "It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them." #!String
-    fall_1: "I love fall for the mushroom hunting opportunities. It comes and goes pretty fast." #!String
-    fall_20: "Have you planned for winter at all? It's good to have a stockpile of hay." #!String
-    fall_2: "I know harvest season is a busy time for you. I'll try and help out as much as I can." #!String
-    winter_1: "Winter's here, and that means crystal fruit is in season. It has such a unique flavor, don't you think?" #!String
-    winter_7: "I'm looking forward to carving ice sculptures tomorrow. I only get to do it once a year, but it's a lot of fun!" #!String
-    winter_28: "Hey, here's to another great year at %farm farm! Let's have some fun tonight! [348]$h#$e#Next year is going to be great, I can feel it." #!String
+    Rainy_Day_0: "A veces encuentro inspiración en los lugares menos esperados." #!String
+    Rainy_Day_1: "Solía encontrar la lluvia deprimente cuando vivía en la ciudad. Pero aquí, en Stardew Valley, es hermosa." #!String
+    Rainy_Day_2: "¡Buenos días! Me he levantado temprano para buscar setas. Toma, prueba una.[281 404 420 257]#$e#Buscar setas es como ir a la caza del tesoro. Es muy divertido.$h" #!String
+    Rainy_Day_3: "En días como estos me alegro mucho de tener mis botas reforzadas.$h" #!String
+    Rainy_Day_4: "Los árboles estaban pidiendo que lloviera... Me alegro por ellos." #!String
+    Rainy_Night_0: "¿Cómo te fue el día? ¿Viste algún animal ahí fuera?" #!String
+    Rainy_Night_1: "Suelo tomar ensalada... pero en noches húmedas como estas me entran ganas de sopa caliente.$h" #!String
+    Rainy_Night_2: "Va a ser relajante dormirse en una noche así...$l" #!String
+    Rainy_Night_3: "He hecho una pequeña escultura de madera, pero era tan fea que la tiré al fuego.$u#$e#Creo que para convertirte en una gran artista, tienes que ser crítico contigo mismo." #!String
+    Rainy_Night_4: "Me alegro de que estés en casa... Es una buena noche para meterse bajo las sábanas y mantenerse caliente." #!String
+    Rainy_Night_Leah: "¿Cómo te ha ido el día, cariño? ¿Embarrado?" #!String
+    Indoor_Day_0: "¡Esta casa es mucho más bonita que mi vieja cabaña! No la echo de menos." #!String
+    Indoor_Day_1: "Buenos días @. He plantado estas en una pequeña maceta atrás... [16 18 20 22 90 259 396 402]#$e#Han crecido con mucho amor y mucha atención. Disfrútalas." #!String
+    Indoor_Day_2: "¡Recuerda estar atento por si hay alimentos! Hay muchos por ahí.^¡Recuerda estar atenta por si hay alimentos! Hay muchos por ahí." #!String
+    Indoor_Day_3: "Estaba pensando... la vida es demasiado corta para comer mal. Por suerte, ¡vivimos en una de las mejores regiones para las verduras y hortalizas frescas!#$e#Toma, te hice una saludable ensalada. [196]#$e#¡Me sorprende que no te hayas hartado de mis ensaladas aún!" #!String
+    Indoor_Day_4: "¡Buenos días, @! He hecho algo de café.[395]$h#$e#Mi mañana no estaría completa sin una taza de café caliente." #!String
+    Indoor_Night_0: "Hay algo en estas noches que me da sed..." #!String
+    Indoor_Night_1: "El flujo del tiempo es tan delicado... incluso la decisión más pequeña cambia el futuro para siempre." #!String
+    Indoor_Night_2: "Es mucho más encantador estar aquí por la noche que en la luminosa y estridente ciudad.#$e#Soy muy afortunada, todo me va perfecto." #!String
+    Indoor_Night_3: "¡Nunca pensé que recibiría tan pronto un colgante de sirena después de haberme mudado! Aunque me alegra.$l" #!String
+    Indoor_Night_4: "He visto un conejo. Ojalá pudiera acariciar uno algún día. Parecen tan suavitos..." #!String
+    Outdoor_0: "La brisa fresca es agradable. Me recuerda a cuando vivía junto al río." #!String
+    Outdoor_1: "Um... Voy a hacer un poco de mantenimiento por aquí. Me entran ganas de dar algunos martillazos de vez en cuando." #!String
+    Outdoor_2: "Hoy va a ser un día especial, lo presiento." #!String
+    Outdoor_3: "Ah... el olor a tierra fresca. No hay nada como eso.$h#$e#Puedes decir que el aire por aquí es limpio... se nota en los pulmones." #!String
+    Outdoor_4: "No trabajes demasiado cariño.#$e#Asegúrate de tomar un descanso de vez en cuando, o comer algo.$h" #!String
+    funLeave_Leah: "Hoy voy a dar un paseo por la naturaleza. Necesito salir de casa." #!String
+    funReturn_Leah: "Hoy tuve un día genial y relajante. ¿Cómo te ha ido el día?" #!String
+    OneKid_3: "Es divertido ser madre. Quiero asegurarme de que %kid1 crece amando la naturaleza." #!String
+    TwoKids_3: "Tenemos una granja maravillosa y una familia completa. Nuestra nueva vida ha salido genial, ¿verdad?" #!String
+    Good_0: "Siento como si estuviera en la cima de una gran montaña viviendo aquí." #!String
+    Good_1: "¿Te he contado alguna vez que... cuando te mudaste aquí soñaba con que algún día estuviéramos juntos?" #!String
+    Good_2: "Decidí mudarme aquí y entonces nos encontramos el uno al otro... A veces es difícil no creer en el destino.#$b#Podría haber sido totalmente diferente." #!String
+    Good_3: "¡Vaya, hoy pareces lleno de energía!$l^Hoy estás hermosa.$l" #!String
+    Good_4: "Mm... Hueles bien." #!String
+    Good_5: "Sólo estaba admirando mi amuleto de la boda... Amaré este tesoro por el resto de mi vida.$l" #!String
+    Good_6: "¡Ten cuidado ahí fuera! A veces me preocupa que caigas en algún pozo minero." #!String
+    Good_7: "¿@? Sólo quería decirte que aprecio lo duro que trabajas por nuestro hogar.$h" #!String
+    Good_8: "No te preocupes por mi... Sé que tienes muchas responsabilidades fuera de casa. ¡Estoy bien aquí sola!$l" #!String
+    Good_9: "Oh, no estoy aburrida... Estoy disfrutando de lo que tenemos.#$e#Es una vida simple, pero me gusta.$h" #!String
+    Neutral_0: "Espero seguir gustándote cuando sea vieja y canosa." #!String
+    Neutral_1: "Me pregunto quién vivía aquí antes..." #!String
+    Neutral_2: "¿No tienes nada que hacer hoy?" #!String
+    Neutral_3: "Si vas al pueblo asegúrate de saludar a todos de mi parte." #!String
+    Neutral_4: "Haré la colada mañana por la mañana antes de que te levantes, así no te entretendré." #!String
+    Neutral_5: "¿Vamos bien de dinero @?" #!String
+    Neutral_6: "¿Me pregunto qué estarán haciendo hoy en el pueblo?" #!String
+    Neutral_7: "Hoy no tengo ganas de hacer nada." #!String
+    Neutral_8: "No importa cuanto limpie, la casa se ensucia otra vez.#$e#Las granjas son bastante sucias." #!String
+    Neutral_9: "Me pregunto si viviremos aquí siempre..." #!String
+    Bad_0: "...¿Aún me amas?$s" #!String
+    Bad_1: "*suspiro*... Quizá nos casamos demasiado jóvenes.$s" #!String
+    Bad_2: "¿Sigues siendo feliz a mi lado?$s" #!String
+    Bad_3: "¿He hecho algo mal? Has estado diferente últimamente.$s" #!String
+    Bad_4: "¿Alguna vez te preguntas que más hay ahí fuera?$s" #!String
+    Bad_5: "Antes eras romántico... ¿qué ha pasado?$s^Antes eras romántica... ¿qué ha pasado?$s#$e#Sé que no soy tan joven como antes, ¿por eso te casaste conmigo?$a" #!String
+    Bad_6: "Solo tenemos una vida, y es corta... ¿lo estamos haciendo mal?$s" #!String
+    Bad_7: "Solía ser tu 'amorcito'... ahora solo parece que me quieres cuando te hago una cena caliente.$s" #!String
+    Bad_8: "Has estado tan frío últimamente...$s^Has estado tan fría últimamente...$s" #!String
+    Bad_9: "Me pregunto si podría haberlo hecho mejor...$s" #!String
+    spring_2: "Bueno, ¿qué plantamos esta temporada?" #!String
+    spring_1: "Anoche celebramos bien el año nuevo...$l" #!String
+    spring_15: "*suspiro*...supongo que ya es hora de hacer la 'limpieza de primavera' de nuevo.$s" #!String
+    summer_1: "Ah, el verano... Ya puedo oler las bayas picantes.$h" #!String
+    summer_9: "Perdona si me notas sudorosa... He estado sudando toda la noche por el calor." #!String
+    summer_2: "Es verano... eso significa que la casa se llenará de moscas#$e#No te preocupes, yo me ocupo." #!String
+    fall_1: "Me encanta el otoño por las oportunidades de recoger setas. Viene y se va bastante rápido." #!String
+    fall_20: "¿Has planeado el invierno? Siempre es bueno tener reservas de heno." #!String
+    fall_2: "Sé que la temporada de cosecha te ocupa mucho tiempo. Intentaré ayudarte tanto como pueda." #!String
+    winter_1: "Ya llegó el invierno y eso significa que es la temporada de la fruta de cristal. Su sabor es único, ¿no crees?" #!String
+    winter_7: "Estoy pensando en esculpir hielo mañana. Sólo puede hacerlo una vez al año, ¡pero es muy divertido!" #!String
+    winter_28: "Bueno, ¡otro gran año para la granja %farm! ¡Divirtámonos esta noche! [348]$h#$e#El año que viene va a ser genial, puedo sentirlo." #!String
 
