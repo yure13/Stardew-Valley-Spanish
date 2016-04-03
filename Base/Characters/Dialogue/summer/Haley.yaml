@@ -38,7 +38,7 @@ content:  #!Dictionary<String,String>
     Tue8: "Será muy bonito vivir en el campo.#$e#Si viviese en la ciudad empezaría a echar de menos todos estos árboles.#$e#@, Creo que he pasado demasiado tiempo contigo.$h" #!String
     Fri10: "Oh, hola @!#$e#¿Te gustan los niños?$I" #!String
     Event_clean1: "Hmmmmm...#$b#Vale, tu ganas. Supongo que puede ser mi trabajo de cada semana. Entonces no habrá razón para discutir sobre ello." #!String
-    Event_clean2: "¡¡NO!! ¡no pienso hacerlo!$a#$b#¡Sois unos tontos!$a" #!String
+    Event_clean2: "¡¡NO!! ¡no pienso hacerlo!$a#$b#¡Son unos idiotas!$a" #!String
     Event_clean3: "¿Cómo que debería tomar el 'camino facil'? ¿Que se supone que significa?#$b#Crees que sigo siendo un bebe, ¿no?" #!String
     Event_jar1: "Genial, ¡entonces no deberías tener problema abriéndome este tarro!$h" #!String
     Event_jar2: "Oh... no? Hmmm...$s#$b#Da igual, ¿Me abres el tarro de todas formas?" #!String
