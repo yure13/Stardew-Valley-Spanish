@@ -22,7 +22,7 @@ content:  #!Dictionary<String,String>
   Wed: "No llueve mucho en verano, no? tan sólo significa más trabajo y riego para usted, ¿Eh?¿te gusta el tiempo soleado?" #!String
   Thu: "Las abejas y las mariposas son mis amigos!" #!String
   Fri: "Si yo no estaba tan ocupado vendría ayudarte en la granja! Gus se molesta si tuviera otro trabajo" #!String
-  Sat: "No trabaje en exceso usted mismo podría terminar en la clínica de Harvey!
+  Sat: "No trabaje en exceso usted mismo podría terminar en la clínica de Harvey!" #!String
   Sun: "¡Hola @!" #!String
   event_dance1: "¡Gracias!" #!String
   event_dance2: "Um.... Bueno. siento que no te gustase. Creo que esos tres meses de practica fueron una perdida completa de tiempo...$s" #!String
