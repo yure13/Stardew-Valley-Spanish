@@ -16,11 +16,11 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "Keep it up, kid. I think you're gonna be a star.#$e#Just ask me if you need anything.$h" #!String
-    Tue: "I knew you'd get a club card someday. Of course, I had to make it a little difficult so you'd have an incentive to do well." #!String
-    Wed: "If you run out of club coins you can buy a 10-pack at the machine outside my door. Good luck." #!String
-    Thu: "Hey. Don't tell anyone about this place, okay? I want to keep it... exclusive.#$e#You'd keep a secret for your old pal Mr. Qwee, wouldn't you?$s" #!String
-    Fri: "Kid, there's more to me than meets the eye. Remember that." #!String
-    Sat: "Stop by whenever you wanna relax." #!String
-    Sun: "Keep working hard and maybe you'll end up like me someday.$h" #!String
+    Mon: "Sigue así. Creo que vas a ser una estrella.#$e#Si necesitas algo, pregúntame.$h" #!String
+    Tue: "Sabía que acabarías aquí algún día. Por supuesto, tuve que ponértelo un poco difícil, para que tuvieras un incentivo para alcanzar la excelencia." #!String
+    Wed: "Si te quedas sin monedas del club, puedes comprar un pack de 10 en la máquina, al salir de mi puerta. Buena suerte." #!String
+    Thu: "Oye. No le hables a nadie sobre este lugar, ¿entendido? Quiero mantenerlo... exclusivo.#$e#Guardarías un secreto para tu amigo, el señor Qi, ¿verdad?$s" #!String
+    Fri: "Chico, hay mas en mí de lo que ves a simple vista. Recuérdalo." #!String
+    Sat: "Pásate cuando quieras relajarte." #!String
+    Sun: "Sigue trabajando duro y quizás, algún día, acabes como yo.$h" #!String
 
