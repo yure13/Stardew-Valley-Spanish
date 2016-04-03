@@ -16,33 +16,33 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Hey ¿qué pasa? Tenía la esperanza de que funcionaría en ti! Eres el nuevo granjero que se acaba de mudar, cierto? #$e #Me llamo Sam. Bueno, es un gusto conocerte. $h" #!String
-    7: "Acabo de terminar de leer un libro sobre la vida extraterrestre... Es un tema muy divertido en realidad. $e # # ¿Crees que tengan también guitarras eléctricas?" #!String
-    14: "Me encantaría conocer un planeta alienígena... Sólo imagina su cultura, su música, su comida, SU CINE! *suspiro* #$e #... Nací en el siglo equivocado, @. $s" #!String
-    21: "A veces esos pétalos de primavera que flotan en el aire me dan alergia. $s #$e #Me encanta el verano, por mi mismo." #!String
-    Mon2: "Hey, ¿qué tal te va? #$e #he estado practicando guitarra toda la noche. Mis dedos están locamente lastimados. $s #$e #No pasa nada, creo. Eso significa que podré practicar más la próxima vez. $u #$e #Chao, tengo algo que hacer..." #!String
-    Mon: "Tu herramienta es la azada, y la mía es la guitarra OH YEAH!. #$e #ambos requieren de un toque maestro, ¿O a caso no estoy en lo correcto? Chee-hee-hee! $h" #!String
-    Mon8: "Te diré un secreto... mi nombre 'Sam' es la abreviatura de 'Samson'. $l #$e #La mayoría de las personas no lo saben, así que no lo cuentes!." #!String
-    Tue: "Oh, Hola! Es bueno verte otra vez. #$e #Relájate." #!String
-    Tue4: "Hola, @. ¿Te gustaría salir a caminar o algo por el estilo? #$e #Desearía no tener que dormir. No hay mucho tiempo para hacer todas las cosas que quisiera hacer #$e #¿Alguna ves has tenido el mismo problema?" #!String
-    Wed: "Da-Doo-doo doo-da-dop-da-doo. $u #$b #Oh, Hola! Estoy en proceso de idear una nueva canción para mi banda. $q # 19/20 Wed_old #Hmm... ¿De sobre qué crees que sería buena esta canción? #$r 20 30 Wed_19 #Cosechar, minar y cortar madera. #$r 20 30 Wed_20 #Gente dinosaurio. #$r 20 30 Wed_20 #Un picnic romántico en la playa. $r # 19 -50 Wed_19 #Bah, no elijas nada. Seguirá siendo una horrenda canción." #!String
-    Wed_old: "$p 19 #Pero si ya sé lo que piensas sobre ella$ s| Gracias por tu ayuda, justo he terminado ya con la letra! $h" #!String
-    Wed_19: "Um. Está bien... Perdón por preguntar. $s" #!String
-    Wed_20: "¡ Hey! Eso suena perfecto. Gracias! $h" #!String
-    Wed6: "He sido amigo de Sebastian por un tiempo. Es un chico muy cool.#$e# Si ustedes dos no estuvieran cerca, la verdad, no tendría ningún amigo en la ciudad." #!String
-    Wed10: "Hey compañero. Hoy te ves lleno de energia!^@.Um... Solo quería decirte que... Hoy te ves bien." #!String
-    Thu6: "Creo que mi papá podría regresar en un año más o menos.$e # #Supongo que podrías conocerlo, claro, si aún vives aquí#$e #No creo que fueras capaz de abandonar la granja después de tanto esfuerzo que le has dedicado!" #!String
-    Thu6_2: "... Tengo sentimientos encontrados... Mi padre está de regreso. Se siente raro.$s #$b #Pero supongo que es por que no lo he visto en 3 años... Eso puede explicarlo." #!String
-    Thu: "Mi padre está en el ejercito, luchando contra el Imperio de Gotoro. Es por eso que no está aquí. #$e #Sé que él volverá algún día. $e # #He escuchado un montón de cosas terribles sobre el Impero de Gotoro... $s" #!String
-    Thu_2: "Bueno, mi papá está de regreso. ¿Lo has conocido ya? #$b #Sólo me alegra que él esté bien." #!String
-    Fri: "Solía vivir en la ciudad, ya sabes... Es mucho más trabajo allí. #$e de #Hay muchísimas más cosas que hacer, pero mucho menos pacífico. $e # #Supongo que la situación que más te guste depende de tu personalidad." #!String
-    Fri10: "Creo que madurar ha hecho que ame realmente este lugar. $h $b # #Pero también creo que eso pudo perjudicarme. $l #$e #Y entonces.. Cómo te va hoy? $h" #!String
-    Sat4: "Acabo de recordar que mi guitarra está desafinada Okey, iré a ponerme esta banda de goma en mi muñeca para recordar que debo afinarla después de que te vayas. #$e#Tengo que hacer unos cuantos recordatorios o cualquier otra cosa, ya que suelo tener mala memoria.$h" #!String
-    Sat: "Hmm. Creo que estaba pensando en hacer algo... Pero lo olvidé.#$e#Suele pasarme todo el tiempo." #!String
-    Sun8: "Desearia que realmente algún día pudiesemos ver un platillo volador... Tú y yo.#$e#Claro, sería más sencillo si vivieramos en algún lugar con cielos más despejados.#$e#Pienso que el futuro estará lleno de grandes y geniales sorpresas.$h" #!String
-    Sun: "Entonces... ¿Estás interesado en los platillos voladores?#$e#Mi padre vio uno!, una ves. Aunque la verdad, parecía más un arma secreta del Imperio de Gotoro." #!String
-    Event_band1: "Eso realmente suena a una muy buena idea!$h" #!String
-    event_snack1: "Él dice la verdad, mamá.$s^Ella dice la verdad, mamá.$s" #!String
-    event_snack2: "Sí... Eso es justo lo que sucedió!" #!String
-    event_snack3: "¿¡Qué...!? ¡Él miente!$a^¿¡Qué...!? ¡Ella miente!$a" #!String
+    1: "Eh, ¿qué pasa? ¡Estaba esperando encontrarme contigo! Eres el nuevo granjero que se acaba de mudar, ¿no?^Eh, ¿qué pasa? ¡Estaba esperando encontrarme contigo! Eres la nueva granjera que se acaba de mudar, ¿no?#$e#Soy Sam, encantado de conocerte.$h" #!String
+    7: "Acabo de terminar de leer un libro sobre la vida extraterrestre... Es un tema muy divertido.#$e#Me pregunto si tendrán guitarras eléctricas en otros planetas." #!String
+    14: "Me encantaría conocer un planeta alienígena... Sólo imagina su cultura, su música, su comida, ¡su cine! *suspiro*#$e#...He nacido en el siglo equivocado @.$s" #!String
+    21: "A veces, en primavera, me dan alergia los pétalos que flotan en el aire.$s#$e#Prefiero el verano." #!String
+    Mon2: "Hola, ¿qué tal te va?#$e#He estado practicando con mi guitarra toda la noche. Me duelen los dedos un montón.$s#$e#No pasa nada, creo. Eso significa que podré practicar más la próxima vez.$u#$e#Adiós, tengo algo que hacer..." #!String
+    Mon: "Tu herramienta es la azada, y la mía es la guitarra.#$e#Ambos requieren habilidad, ¿verdad?.$h" #!String
+    Mon8: "Te diré un secreto... mi nombre 'Sam' es la abreviatura de 'Samson'.$l#$e#Casi nadie lo sabe, así que no lo cuentes." #!String
+    Tue: "Oh, ¡hola! Me alegro de verte de nuevo.#$e#Que te sea leve." #!String
+    Tue4: "Hola @. ¿Quieres dar una vuelta o algo?#$e#Desearía no tener que dormir. ¡No tengo suficiente tiempo para hacer todo lo que quiero!#$e#¿Has tenido ese problema alguna vez?" #!String
+    Wed: "Du-da-du du-da-dop-da-du.$u#$b#Oh, ¡hola! Estoy escribiendo una nueva canción para mi banda.#$q 19/20 Wed_old#Um... ¿Sobre qué crees que debería tratar la canción?#$r 20 30 Wed_19#Agricultura, minería y tala de árboles.#$r 20 30 Wed_20#Gente dinosaurio.#$r 20 30 Wed_20#Un picnic romántico en la playa.#$r 19 -50 Wed_19#Elige cualquier cosa. De todas formas será una canción malísima." #!String
+    Wed_old: "$p 19#Ya se lo que piensas.$s|¡Gracias por la ayuda, ya he acabado la letra!$h" #!String
+    Wed_19: "Um. Vale... Perdona por preguntar.$s" #!String
+    Wed_20: "¡Oye! Eso suena perfecto. ¡Gracias!$h" #!String
+    Wed6: "Soy amigo de Sebastian desde hace tiempo. Es un muy buen chico.#$e#Si vosotros dos no estuviérais, no tendría ningún amigo." #!String
+    Wed10: "Hola colega. ¡Parece que hoy estás rebosante de energía!^@. Um... Sólo quería decirte... Estás muy guapa hoy.$l" #!String
+    Thu6: "Creo que mi papá vendrá el año que viene.#$e#Supongo que podrás conocerlo. Si sigues viviendo aquí por entonces.#$e#No creo que fueras capaz de abandonar la granja después de haberle dedicado tanto esfuerzo." #!String
+    Thu6_2: "...Mi padre va a volver y tengo sentimientos encontrados. Para mí es un extraño.$s#$b#Pero llevo sin verlo tres años... supongo que eso podría explicarlo." #!String
+    Thu: "Mi padre está en el ejercito, luchando contra el Imperio de Gotoro. Por eso no está aquí.#$e#Volverá algún día.#$e#He escuchado un montón de cosas terribles sobre el Impero de Gotoro...$s" #!String
+    Thu_2: "Bueno, mi papá ya ha vuelto. ¿Lo has conocido ya?#$b#Me alegra que esté bien." #!String
+    Fri: "Antes vivía en la ciudad, hay mucho más ajetreo que en un pueblo.#$e#Hay muchísimas más cosas que hacer, pero hay menos tranquilidad.#$e#Supongo que lo que más te guste depende de tu personalidad." #!String
+    Fri10: "Creo que ha acabado encantándome este lugar.$h#$b#Aunque, obviamente, no estoy siendo objetivo.$l#$e#Bueno, ¿que haces?$h" #!String
+    Sat4: "Acabo de recordar que mi guitarra está desafinada. Vale, voy a ponerme esta goma elástica en mi muñeca para acordarme de afinarla después.#$e#Tengo que tener recordatorios para no olvidar nada.$h" #!String
+    Sat: "Um. Creo que iba a hacer algo... pero lo he olvidado.#$e#Me pasa siempre." #!String
+    Sun8: "Me encantaría poder ver un platillo volante... Bueno, que lo viéramos juntos.#$e#Sería más fácil si viviéramos en un lugar con el cielo más descubierto.#$e#Creo que el futuro nos depara grandes sorpresas.$h" #!String
+    Sun: "Así que, ¿te interesan los platillos volantes?#$e#Mi padre vio uno una vez. Aunque cree que es un arma secreta del Imperio Gotoro." #!String
+    Event_band1: "¡Eso parece una buenísima idea!$h" #!String
+    event_snack1: "Dice la verdad, mamá.$s" #!String
+    event_snack2: "Sí... ¡Eso fue lo que pasó!" #!String
+    event_snack3: "¿¡Qué!? ¡Está mintiendo!$a" #!String
 
