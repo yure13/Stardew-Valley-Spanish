@@ -20,7 +20,7 @@ content:  #!Dictionary<String,String>
   Tue: "Eh, hola. #En realidad no tengo nada que decir." #!String
   Tue4: "Es difícil pensar en cosas nuevas de las que hablar.#$e#Incluso cuando llegas a conocer a alguien.#$e#...Lo siento." #!String
   Tue6: "He estado trabajando en este videojuego.#$b#Va de un chico que está creando un videojuego sobre un chico que comienza a darse cuenta de que es un personaje de un videojuego. Piensa en ello." #!String
-  Tue10: "Has venido aca para verme?$l #$e #... $h" #!String
+  Tue10: "Has venido aca para verme?$l#$e#... $h" #!String
   Wed: "Me pregunto que estara haciendo Sam.#$e#Sam y yo estamos tratando de empezar una banda." #!String
   Wed4: "¿Te apetece jugar a un juego de mesa o algo así?#$e#Supongo que probablemente tienes trabajo que hacer." #!String
   Thu: "Me pregunto qué comida abra en la cena esta noche." #!String
@@ -28,7 +28,7 @@ content:  #!Dictionary<String,String>
   Fri: "Esto tiene que ser la ciudad más aburrida del mundo." #!String
   Fri8: "Esta ciudad no es tan aburrida como pensaba.#$e#Ha mejorado recientemente.$l" #!String
   Sat: "Mi ordenador es la única conexión que tengo con el mundo exterior.#$e#De lo contrario estaría solo con un puñado de campesinos y personas de avanzada edad. Sin ánimo de ofender." #!String
-  Sat6: "¿Tienes algunas llamas en tu granja? #$e #¿Has notado que la palabra " #!Stringllama" #!String se parece a una llama?"
+  Sat6: "¿Tienes algunas llamas en tu granja?#$e#¿Has notado que la palabra 'llama' se parece a una llama?" #!String
   Sun: "Hice un zombie de nieve pero Demetrius hizo que me deshiciera de él. #$e#Era una buena recreación suya.$u#$e#Así que... ¿qué pasa contigo?" #!String
   Event_game1: "Está bien, eso servirá." #!String
   Event_game2: "Buena elección, eso funciona bien con mi rol." #!String
