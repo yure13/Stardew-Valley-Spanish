@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¿Por qué?, ¡hola y bienvenido a nuestra pequeña comunidad, cariño! #$b#Me puedes llamar 'Abuela' si tu quieres.$h" #!String
+    Introduction: "Oh, ¡te doy la bienvenida a nuestra pequeña comunidad, cariño! #$b#Me puedes llamar 'Abuela', si quieres.$h" #!String
     Mon: "¡Oh Dios mío! Que hermoso día.$u" #!String
     Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
     Wed: "#$1 evelynGarden1#1Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!" #!String
