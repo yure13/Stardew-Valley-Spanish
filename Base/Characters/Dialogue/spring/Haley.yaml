@@ -38,8 +38,8 @@ content:  #!Dictionary<String,String>
     Sat8: "El otro día estaba en la playa y encontré a una gaviota que tenía las ala atrapadas en una red de plástico #$e#La liberé.#$e#Fue bastante triste. Parecía tan inocente.$s" #!String
     Fri10: "@, ¿podemos ir de aventuras algún día?#$e#Nunca he ido de aventuras." #!String
     Event_clean1: "Um... #$b#Vale, tú ganas. Podría hacer esto todas las semanas. No hay razón por la que discutir." #!String
-    Event_clean2: "¡¡NO!! ¡No voy a hacerlo!$a#$b#¡Sois idiotas!$a" #!String
-    Event_clean3: "¿Debería tomar el "camino al éxito"? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿eh?" #!String
+    Event_clean2: "¡¡NO!! ¡No voy a hacerlo!$a#$b#¡Son unos idiotas!$a" #!String
+    Event_clean3: "¿Debería tomar el 'camino al éxito'? ¿Qué se supone que significa eso?#$b#Crees que estoy actuando como un bebé, ¿eh?" #!String
     Event_jar1: "Genial, ¡no creo que tengas ningún problema en abrirme este tarro!$h" #!String
     Event_jar2: "Oh... ¿No lo eres? Hmmm...$s#$b#Bueno, de todas formas, ¿podrías intentar abrirme este tarro?" #!String
     Event_beach1: "¡No hagas eso! ¡Esta pulsera es una herencia de mi bisabuela!$a" #!String
