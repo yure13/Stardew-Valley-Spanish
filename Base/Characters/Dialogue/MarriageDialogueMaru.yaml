@@ -16,60 +16,60 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "I wonder how Penny is doing? Maybe I'll give her a call later today." #!String
-    Rainy_Day_1: "I was just daydreaming... do you think MARILDA is okay? I hope she finds some place where she truly belongs..." #!String
-    Rainy_Day_2: "Hey! I had trouble sleeping last night so I fiddled around in my workshop for a bit. Here, I made this for you. [688 369 338 325 287]#$e#I hope you can find some use for it." #!String
-    Rainy_Day_3: "The only thing I dislike about rain is the fact that I can't do any stargazing!" #!String
-    Rainy_Day_4: "Do I hear a leak in the roof? I'll have to check it out. I know a thing or two about carpentry from watching my mother." #!String
-    Rainy_Night_0: "Make sure you don't leave your tools out in the rain! You wouldn't want them to get all rusty." #!String
-    Rainy_Night_1: "Hi @. How was your day... soggy?#$e#This weather gives me gadget ideas... maybe if I funnel the rainwater it could power a mill?" #!String
-    Rainy_Night_2: "Dad's been tracking the weather patterns for the last twenty years.#$e#It's a little too early to tell, but the results have revealed some abnormal trends." #!String
-    Rainy_Night_3: "Can we have spaghetti in bed tonight?" #!String
-    Rainy_Night_4: "I made some dessert! Make sure to brush your teeth before bed, though. [232 234 223 220]$h" #!String
-    Rainy_Night_5: "My day wasn't all that exciting... I stayed inside because of the weather.#$e#It was relaxing, though. I kicked back with the latest 'Schematics Weekly'." #!String
-    Indoor_Day_0: "Hmm? Sorry, sometimes I get so lost in thought that I don't even realize what I'm doing." #!String
-    Indoor_Day_1: "I found this in my scrap pile. Think you could find a use for it? [286 287 205 732]" #!String
-    Indoor_Day_2: "Finally, you're up! I was getting so hungry... *rumble*$h" #!String
-    Indoor_Day_3: "One of the best things about living on the farm is waking up to a chorus of songbirds." #!String
-    Indoor_Day_4: "How do you keep your hands so soft with all that farmwork?" #!String
-    Indoor_Night_0: "Did you see the moon tonight? It always looks spectacular on the horizon." #!String
-    Indoor_Night_1: "I saw a shooting star earlier. I like to pretend it's MARILDA stopping by to check on us.$h" #!String
-    Indoor_Night_2: "I can't decide if I'm craving chocolate cake or ripe strawberries. Or maybe both...?#$e#Be honest... am I gaining weight?$s" #!String
-    Indoor_Night_3: "You did good work today! You deserve to relax the rest of the evening." #!String
-    Indoor_Night_4: "I'm really starting to love this old house. It's so cozy at night.#$e#Mom's done a great job improving the place.$h" #!String
-    Outdoor_0: "Ahh... the farm smells great, it reminds me of the mountains near my parent's house." #!String
-    Outdoor_1: "With a little planning, we could automate most of the farm work and just relax!" #!String
-    Outdoor_2: "It's going to be clear tonight... I wonder if the %noun constellation will be visible?" #!String
-    Outdoor_3: "Don't worry, I won't mind if you track mud into the house. It's fun to get a little dirty now and then." #!String
-    Outdoor_4: "I never realized the amount of care and planning necessary to run a farm! It's a lot like working in the laboratory." #!String
-    OneKid_0: "Have you spent any time with %kid1 today? Kids need playtime in order reach their full potential." #!String
-    OneKid_1: "What do you think... will %kid1 grow up to be a farmer? Or an engineer?" #!String
-    OneKid_3: "I have high hopes for our child. I've been reading all the scientific data on the best ways to raise children." #!String
-    TwoKids_3: "My own workshop, two wonderful kids, and a beautiful plot of land. Life is pretty good." #!String
-    Good_1: "Now that we live together, it's hard to imagine being alone again." #!String
-    Good_2: "Taking a break? That's good!" #!String
-    Good_3: "There's a lot of strategy to planning and running a farm. It's more intellectually stimulating than I thought!" #!String
-    Good_4: "For a while there I was considering building a robotic husband. But you're a lot more fun!$h^For a while there I was considering building a robotic wife. But you're a lot more fun!$h" #!String
-    Good_5: "I was just admiring my wedding amulet... The shell is flawless. This is a very rare specimen!$l" #!String
-    Good_6: "Last night, I had a dream that I was looking through a gigantic telescope. I saw something moving in the %noun nebula. Kind of spooky." #!String
-    Neutral_0: "I hope you'd still like me even if I gained weight." #!String
-    Neutral_8: "I feel uninspired today.$s" #!String
-    funLeave_Maru: "I think I'll visit my parents today. I haven't seen them in a while." #!String
-    funReturn_Maru: "Mom and Dad are doing just fine. Their routine is still the same, even with me gone. How was your day?" #!String
-    spring_2: "So, what's your strategy for optimizing the farm this year?" #!String
-    spring_1: "It's wonderful to see all the plants and animals come back to life during the spring." #!String
-    spring_22: "If my brother wasn't such a hermit I'd invite him over for dinner sometime." #!String
-    summer_20: "I wonder if my brother will ever have the courage to ask Abigail out?" #!String
-    summer_2: "I like to catalogue the different insects I see in summer." #!String
-    fall_1: "With every season, a new section of the night sky becomes prominent. It's fascinating to witness." #!String
-    fall_25: "Winter's just around the corner. We need to double check the heating system, turn off the valves, and check all the insulation in the house.#$e#Don't worry, dear. I'll take care of it all." #!String
-    fall_3: "Fall aways reminds me of going out woodcutting with my mom... it might be that smell of freshly cut wood and sap." #!String
-    winter_15: "The winters have been disturbingly mild lately." #!String
-    winter_5: "I hope Dad's doing okay... he can get depressed in winter, when there's less opportunity for field research." #!String
-    winter_2: "So, what are your plans for maintaining our income this winter?#$e#You could do some fishing or foraging...#$e#If you do any mining, promise me you'll be careful." #!String
-    spring_Maru: "I'm feeling excited for a new year of farming, @!$h" #!String
-    summer_Maru: "The evenings are so warm, it's really the best time of year for stargazing. Who knows what might up there?" #!String
-    fall_Maru: "The farm life is great, but I'm glad I still work at the clinic... It's an important service for the community." #!String
-    winter_Maru: "I'm really looking forward to having rhubarb pie in the spring. Oh... that tang, that zest!" #!String
-    spouseRoom_Maru: "#$c .5#I got up early to do a little stargazing.#$e#I hope you don't mind if I spend some time on my projects today, honey." #!String
+    Rainy_Day_0: "Me pregunto cómo le irá a Penny... Quizá la llame después." #!String
+    Rainy_Day_1: "Estaba fantaseando... ¿crees que MaruDAIL está bien? Espero que encuentre el lugar a dónde pertenece..." #!String
+    Rainy_Day_2: "¡Hola! Esta noche he tenido problemas para dormir, así que he hecho unos arreglos en mi taller. Toma, lo hice para ti. [688 369 338 325 287]#$e#Espero que veas algo de esto útil." #!String
+    Rainy_Day_3: "¡Lo único que no me gusta de la lluvia es el hecho de que no puedo hacer ninguna observación!" #!String
+    Rainy_Day_4: "¿Hay una gotera en el techo? Tendré que comprobarlo, sé alguna cosa sobre carpintería gracias a mi madre." #!String
+    Rainy_Night_0: "¡Asegúrate de no dejar tus herramientas bajo la lluvia! No querrás que se oxiden." #!String
+    Rainy_Night_1: "Hola @. ¿Cómo te ha ido el día... empapado?#$e#Este tiempo me da ideas para artilugios... ¿crees que si canalizo el agua de lluvia pueda alimentar un molino?" #!String
+    Rainy_Night_2: "Papá ha estado siguiendo los patrones del tiempo los últimos veinte años.#$e#Es un poco pronto para decirlo pero, los resultados han revelado algunas tendencias anormales." #!String
+    Rainy_Night_3: "¿Podemos comer espaguetis en la cama esta noche?" #!String
+    Rainy_Night_4: "¡He hecho postre! Pero asegúrate de cepillarte los dientes antes de ir a la cama. [232 234 223 220]$h" #!String
+    Rainy_Night_5: "Mi día no ha sido tan emocionante... estuve aquí dentro por culpa del tiempo.#$e#Aunque me relajé leyendo la última entrega de 'Esquemas semanales'." #!String
+    Indoor_Day_0: "¿Um? Perdón, a veces me pierdo en mis pensamientos, tanto que no me doy cuenta lo que hago." #!String
+    Indoor_Day_1: "Encontré esto en mi montón de chatarra. Creo que podrías encontrarle algún uso... [286 287 205 732]" #!String
+    Indoor_Day_2: "¡Por fin te despiertas! Me muero de hambre... *rugido de estómago*$h" #!String
+    Indoor_Day_3: "De lo mejor de vivir en una granja es levantarte con el canto de los pájaros." #!String
+    Indoor_Day_4: "¿Cómo mantienes tus manos tan suaves con todo el trabajo de la granja?" #!String
+    Indoor_Night_0: "¿Has visto la luna esta noche? Siempre se ve increíble en el horizonte." #!String
+    Indoor_Night_1: "Antes vi una estrella fugaz. Me gusta fingir que es MARILDA que pasa a vernos.$h" #!String
+    Indoor_Night_2: "No puedo decidir si mi antojo es de pastel de chocolate o de fresas maduras, ¿quizá ambos...?#$e#Sé sincero... ¿estoy ganando peso?$s^Sé sincera... ¿estoy ganando peso?$s" #!String
+    Indoor_Night_3: "¡Hoy hiciste un buen trabajo! Mereces relajarte el resto de la tarde." #!String
+    Indoor_Night_4: "Estoy empezando a amar de verdad esta vieja casa. Tan acogedora por la noche...#$e#Mamá ha hecho un trabajo excepcional mejorándola.$h" #!String
+    Outdoor_0: "Ah... la granja huele genial, me recuerda a las montañas cerca de la casa de mis padres." #!String
+    Outdoor_1: "Organizándonos un poco, podemos automatizar la mayoría de los trabajos en la granja ¡y relajarnos!" #!String
+    Outdoor_2: "Va a ser noche despejada, me pregunto si la constelación %noun será visible..." #!String
+    Outdoor_3: "No me importa si dejas un rastro de barro en la casa. Es divertido ensuciarse de vez en cuando." #!String
+    Outdoor_4: "¡Nunca me había dado cuenta de la cantidad de cuidados y organización que se necesitan para llevar una granja! Es bastante parecido a trabajar en el laboratorio." #!String
+    OneKid_0: "¿Has estado con %kid1 hoy? Los niños necesitan jugar para alcanzar su máximo potencial." #!String
+    OneKid_1: "Tú que crees, ¿que a %kid1 le gustará la granja o la ingeniería?" #!String
+    OneKid_3: "Tengo grandes esperanzas en %kid1. He estado leyendo toda la información científica sobre las mejores formas de criar hijos." #!String
+    TwoKids_3: "Mi propio taller, dos niños maravillosos y un hermoso terreno. La vida está bastante bien." #!String
+    Good_1: "Ahora que vivimos juntos es difícil imaginarse sola de nuevo.^Ahora que vivimos juntas es difícil imaginarse sola de nuevo." #!String
+    Good_2: "¿Tomando un descanso? ¡Bien!" #!String
+    Good_3: "Hay mucha estrategia en organizar y llevar una granja. ¡Estimula intelectualmente más de lo que pensaba!" #!String
+    Good_4: "Por un tiempo consideré hacerme un marido robot. ¡Pero tú eres mucho más divertido!$h^Por un tiempo consideré hacerme una esposa robot. ¡Pero tú eres mucho más divertida!$h" #!String
+    Good_5: "Estaba admirando mi amuleto de la boda... La concha es impecable. ¡Es un espécimen muy raro!$l" #!String
+    Good_6: "Anoche tuve un sueño en el que estaba mirando a través de un telescopio gigante. Veía algo moverse en la nebulosa %noun. Espeluznante." #!String
+    Neutral_0: "Espero que me sigas queriendo aunque gane peso." #!String
+    Neutral_8: "Me siento poco inspirada hoy.$s" #!String
+    funLeave_Maru: "Creo que voy a ir a ver a mis padres. Hace tiempo que no los veo." #!String
+    funReturn_Maru: "Mamá y papá están genial. Su rutina es la misma, incluso sin mi. ¿Cómo te fue el día?" #!String
+    spring_2: "¿Cuál es tu estrategia para optimizar la granja este año?" #!String
+    spring_1: "Es maravilloso ver a todas las plantas y los animales volver a la vida en la primavera." #!String
+    spring_22: "Si mi hermano no fuera un ermitaño lo invitaría a cenar algún día." #!String
+    summer_20: "Me pregunto si mi hermano tendrá el coraje de pedir salir a Abigail algún dia..." #!String
+    summer_2: "Me gusta catalogar los distintos insectos que veo en verano." #!String
+    fall_1: "Con cada estación, una nueva sección del cielo nocturno se vuelve prominente. Es fascinante ser testigo." #!String
+    fall_25: "El invierno está a la vuelta de la esquina. Necesitamos comprobar que funciona el sistema de calefacción, desactivar las válvulas y comprobar todo el aislamiento de la casa.#$e#No te preocupes cariño, yo me ocupo de todo." #!String
+    fall_3: "El otoño siempre me recuerda a cuando iba a cortar madera con mi mamá... Puede que sea por el olor a madera recién cortada y a savia." #!String
+    winter_15: "Últimamente los inviernos han sido extrañamente suaves." #!String
+    winter_5: "Espero que le esté yendo bien a papá... llega a deprimirse en invierno porque hay menos oportunidades para investigar." #!String
+    winter_2: "Bueno, ¿cómo piensas mantener estabilidad económica este invierno?#$e#Podrías pescar o recolectar...#$e#Si vas a la mina, prométeme que tendrás cuidado." #!String
+    spring_Maru: "¡@, me siento emocionada por el nuevo año de agricultura!$h" #!String
+    summer_Maru: "Las noches cálidas como esta son el mejor momento del año para observar las estrellas. ¿Quién sabe qué habrá allí arriba?" #!String
+    fall_Maru: "La vida en la granja es genial pero me alegro de seguir trabajando en la clínica. Es un servicio importante para la comunidad." #!String
+    winter_Maru: "Estoy deseando tener tarta de ruibarbo en primavera. Oh... ¡ese olor... ese sabor...!" #!String
+    spouseRoom_Maru: "#$c .5#Me levanté temprano para observar un poco las estrellas.#$e#Espero que no te importe si hoy me tomo un rato para mis proyectos cariño." #!String
 
