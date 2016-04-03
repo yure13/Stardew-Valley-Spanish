@@ -16,14 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Ah, la persona a la que todos estábamos esperando... ¡Y cuya llegada ha desatado muchas conversaciones! $b##Soy Elliott... Vivo en la casa que hay en la playa. Es un placer conocerte." #!String
+    Introduction: "Ah, la persona a la que todos estábamos esperando... ¡Y cuya llegada ha desatado muchas conversaciones!$b##Soy Elliott... Vivo en la casa que hay en la playa. Es un placer conocerte." #!String
     danceRejection: "Disculpame... No es mi día.$s" #!String
     Mon: "Soy relativamente nuevo en el pueblo, ¡pero me siento como en casa!$h#$e#Llegué aquí hace solo un año." #!String
-    Mon4: "Espero que hayas pensado en este lugar como tu'hogar'." #!String
+    Mon4: "Espero que hayas pensado en este lugar como tu 'hogar'." #!String
     Tue: "Las grandes ideas aparecen cuando menos te lo esperas... pero si tu mente está muy ocupada tal vez te las pierdas. Bueno, tengo que volver a mi trabajo." #!String
     Tue6: "El dulce sonido del lápiz contra el papel es música para mis oídos.$u#$b#Por eso elegí esta playa como mi hogar, así podía tener paz y tranquilidad para hacer mi trabajo." #!String
     Wed: "El bosque es un lugar maravilloso. ¿Has estado allí?" #!String
-    Wed8: "Lo siento, hoy me siento triste.$s#$e# Me gustaría saber más sobre el futuro.$s#$e# No quisiera hacerme viejo en esta playa, como un ermitaño solitario...$s" #!String
+    Wed8: "Lo siento, hoy me siento triste.$s#$e#Me gustaría saber más sobre el futuro.$s#$e#No quisiera hacerme viejo en esta playa, como un ermitaño solitario...$s" #!String
     Thu2: "No he podido encontrar la inspiración para empezar a escribir mi novela...$s" #!String
     Thu4: "Tengo un buen presentimiento. Quizás es el cambio de tiempo." #!String
     Thu6: "A veces me pregunto si tan solo tengo una imagen exagerada de mi mismo, y no tengo ningún talento...$s#$e#No, no... No estoy buscando cumplidos. Aunque se aprecian..." #!String
@@ -40,18 +40,18 @@ content:  #!Dictionary<String,String>
     event_idea1: "Misterio, ¿eh? Definitivamente es un género emocionante. Lo recordaré." #!String
     event_idea2: "Oh, uno de esos géneros clásicos. Lo recordaré." #!String
     event_idea3: "¡Nunca lo habría adivinado! Supongo que incluso los que trabajan la tierra a veces tienen la cabeza en las estrellas.$h#$b#Lo recordaré." #!String
-    event_boat1: "... Estaba preocupado que no sientieses eso. Yo también.$l" #!String
+    event_boat1: "... Estaba preocupado de que no sientieses eso hacia otro hombre.$l^Yo también.$l" #!String
     event_boat2: "¡Oh! Lo siento.$8%fork" #!String
-    event_toast1: "Bueno... Está bien.#$b# ¡Brindemos por @!" #!String
+    event_toast1: "Bueno... Está bien.#$b#¡Brindemos por @!" #!String
     event_toast2: "¡Es una gran idea!$h#$b#¡Brindemos por nosotros!" #!String
     event_toast3: "Hmm...Olvídalo.$a" #!String
     event_toast4: "Ah, por un harmonioso futuro para la comunidad... que idea tan virtuosa.#$b#¡Aquí está para Pelican Town!" #!String
     summer_Mon: "Un delicado rayo de sol me ha despertado esta mañana. Nunca me había sentido con tanta energía.$u#$e#Perdona, si no te resulta muy interesante." #!String
-    summer_Mon4: "Sé que soy un 'bicho raro'. #$e#Espero que no te importe. $h" #!String
+    summer_Mon4: "Sé que soy un 'bicho raro'. #$e#Espero que no te importe.$h" #!String
     summer_Mon6: "Sé que tienes fe en mi capacidad como escritor. Significa mucho para mí.$h" #!String
     summer_Tue: "Me he encontrado algunas conchas hermosas frente a mi casa.#$e#Imagino que más raras pueden ser muy valiosas." #!String
     summer_Tue6: "Escribo con la esperanza de contactar con otros a través del tiempo y del espacio.$u#$e#*Suspiro*... Los tiempos cambian. La gente ya no lee." #!String
-    summer_Wed: "Debe ser muy satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas. #$e#Es como si una parte de ti se mezclase con la fruta.$u" #!String
+    summer_Wed: "Debe ser muy satisfactorio seguir tus cultivos desde que los plantas hasta que los cosechas.#$e#Es como si una parte de ti se mezclase con la fruta.$u" #!String
     summer_Thu: "¡Oh, vaya! Mis zapatos están llenos de arena.$s#$e#Ese es el problema de vivir en la playa." #!String
     summer_Fri: "¿@? ¿Estás bien?#$b#Creo que el aire caliente del verano nos puede marear un poco." #!String
     summer_Sat: "El sol está furioso hoy... Mi piel es un poco delicada, y eso me preocupa." #!String
@@ -59,19 +59,19 @@ content:  #!Dictionary<String,String>
     summer_Sun4: "Visítame cuando quieras. Me vendría bien la compañía.$h" #!String
     fall_Mon: "Hola, @.#$e# Asegúrate de descansar de vez en cuando." #!String
     fall_Mon4: "Ven a visitarme si necesitas descansar un poco.$h#$e#Normalmente estoy en casa." #!String
-    fall_Tue: "Se dice un barco pirata, lleno de oro robado, encallo aquí hace mucho tiempo." #!String
-    fall_Tue8: "@, estaba pensando en ti.$l#$e#Quizá lo has sentido.$h#$e# Bueno, cuéntame, ¿qué tal te ha ido el día?" #!String
+    fall_Tue: "Se dice que hay un barco pirata, lleno de oro robado, encallo aquí hace mucho tiempo." #!String
+    fall_Tue8: "@, estaba pensando en ti.$l#$e#Quizá lo has sentido.$h#$e#Bueno, cuéntame, ¿qué tal te ha ido el día?" #!String
     fall_Wed8: "No me importaría probar a ser granjero.#$e#La silenciosa atmósfera de una granja debe ser una buena fuente de inspiración, ¿no crees?$h" #!String
     fall_Thu: "¡Anda, mira! Parece que un pequeño cangrejo se ha quedado a vivir en mi bolsillo.$l#$e# Esto es lo malo de vivir en la playa." #!String
     fall_Fri4: "Me duelen las piernas de estar sentado en mi escritorio durante toda la noche.$s#$e#A veces te envidio, @." #!String
     fall_Fri: "Me duelen las piernas de estar sentado en mi escritorio durante toda la mañana.$s" #!String
-    fall_Fri10: "@, cuando estás cerca... Me siento inusualmente creativo. $l#$e#l Lo sé... es raro, pero cierto." #!String
+    fall_Fri10: "@, cuando estás cerca... Me siento inusualmente creativo.$l#$e#Lo sé... es raro, pero cierto." #!String
     fall_Sat: "El clima se pone ventoso en esta época del año. ¡Maravilloso!$h" #!String
     fall_Sun: "Tengo que acordarme de regar mis plantas hoy. ¡Y esta vez no será con agua de mar!" #!String
     winter_Mon: "¿Has venido a visitarme con este frío?#$e#Lo que podría hacer con un respiro de mis labores solitarias." #!String
     winter_Mon4: "@, ¿has atravesado la nieve para visitarme?#$e#¡Me siento honrado!$h" #!String
-    winter_Tue: "La gente ha vivido del mas durante miles de años.#$e#Yo tan solo voy a la tienda de comestibles.$s" #!String
-    winter_Tue10: "@, tenía la sensación de que aparecerías.#$e#Tenemos una conexión como de otro mundo. .$l" #!String
+    winter_Tue: "La gente ha vivido del mar durante miles de años.#$e#Yo tan solo voy a la tienda de comestibles.$s" #!String
+    winter_Tue10: "@, @, tenía la sensación de que aparecerías.#$e#Tenemos una conexión como de otro mundo.$l" #!String
     -winter_Wed: "Un día no puede ser aburrido cuando sigues los caprichos de tu imaginación.$u#$e#Perdona, ¿estoy balbuceando cosas sin sentido?" #!String
     winter_Thu: "Respira profundamente. ¿Te das cuenta? Ese es el olor del mar.#$e#¿Como te hace sentir?" #!String
     winter_Thu6: "Respira profundamente. ¿Te das cuenta? Ese es el olor del mar.#$e#Cada vez que huelo el mar, me recuerda a mi juventud. El océano siempre me sorprendió cuando era un niño." #!String
