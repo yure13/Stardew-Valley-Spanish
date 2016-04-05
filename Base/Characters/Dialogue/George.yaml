@@ -20,6 +20,8 @@ content:  #!Dictionary<String,String>
     Mon: "No soy una persona muy habladora. Y menos con extraños, si me permites" #!String
     Tue: "Hmm... Parece otro día nublado.$s" #!String
     Wed: "Josh es mi nieto. ¿Te lo he contado ya?#$e#¿Qué? Habla más alto." #!String
+    Wed_inlaw_Alex: "How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...^You're part of the family, now. I'm glad that my grandson found such a nice wife." #!String
+    Wed10_inlaw_Alex: "I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud." #!String
     Thu: "No puedo hablar contigo, joven.^No puedo hablar ahora, vete.#$e#Están echando mi programa favorito." #!String
     Fri: "Entonces tu eres granjero, ¿no? Por lo menos es un trabajo honrado." #!String
     Sat: "El fin de semana es un día cualquiera para mí.#$e#Es lo que pasa cuando estás jubilado." #!String
