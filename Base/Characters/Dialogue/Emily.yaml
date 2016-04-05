@@ -19,6 +19,7 @@ content:  #!Dictionary<String,String>
     Introduction: "¡Ooh!... Puedo verlo en tu cara. Te va a encantar estar aquí en Pueblo Pelícano.#$b#Si alguna vez buscas algo que hacer por la noche, pásate por el salón. ¡Ahí es donde trabajo!" #!String
     Mon: "¿Te dicho que Haley y yo somos hermanas? Extraño, ¿no?" #!String
     Mon6: "Me gustaria que Haley encontrara un trabajo o, al menos, que ayudara a cocinar y limpiar.$s#$e#Creo que esta esperando a casarse con algún ricachón." #!String
+    Mon6_inlaw_Haley: "I have to say, now that Haley's gone I've had a much easier time keeping things in order." #!String
     Tue: "Trabajo a tiempo parcial en el salón de Gus. Eso paga las facturas." #!String
     Tue4: "Estoy trabajando con Gus para llegar a fin de mes... pero mi verdadera pasión es la sastrería.#$e#He hecho esta ropa desde cero." #!String
     Wed: "He escuchado rumores sobre extraños y poderosos anillos mágicos, forjados hace mucho tiempo por civilizaciones olvidadas. No estoy segura de si es verdad o solo un cuento de hadas." #!String
@@ -31,6 +32,7 @@ content:  #!Dictionary<String,String>
     event_dance2: "Um... Vale. Perdón si no te gustó. Supongo que estos tres meses de práctica han sido en vano...$s" #!String
     event_dance3: "¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado." #!String
     summer_Mon: "Haley es muy delicada comiendo. Es muy difícil cocinar para ella." #!String
+    summer_Mon_inlaw_Haley: "Haley and I get along much better now that she's moved out. I look forward to her visits!" #!String
     summer_Tue: "Hola, @.#$e#me siento perezosa hoy. $h" #!String
     summer_Sun6: "¡Hola, @! Nos hemos vuelto buenos amigos, ¿verdad?^¡Hola, @! Nos hemos vuelto buenas amigas, ¿verdad?$h#$e#Eso esta perfecto por mi. Eres guay.^Me alegra.$h" #!String
     summer_Wed: "No llueve mucho en verano, ¿No?#$e#Eso significa para ti más trabajo regando, ¿Eh?#$e#¿O te gusta que esté soleado?" #!String
@@ -60,3 +62,4 @@ content:  #!Dictionary<String,String>
     winter_Sat: "¿Sabes como preparar 'estofado de judías'?#$e#Me gusta un montón ese plato.$h#$e#Pero es difícil conseguir ingredientes frescos en invierno, ¿verdad?" #!String
     winter_Sun: "¡Hola!#$e#... ¿Sí?" #!String
     winter_Sun6: "Mi hermana y yo peleamos a veces, pero la echaría de menos si se fuera.#$e#Creo que se convertirá en una jovencita muy agradable algún día... No le digas que he dicho esto.$h#$e#Bueno, ¿Hay algo de lo que quieras hablar?" #!String
+    winter_Sun6_inlaw_Haley: "Say hi to my sister for me! And remind her to visit me tomorrow." #!String
