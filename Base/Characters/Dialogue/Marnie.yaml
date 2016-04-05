@@ -35,5 +35,5 @@ content:  #!Dictionary<String,String>
     Fri6: "Me pregunto si el Sr. Lewis se siente solo en esa casa suya tan grande... $s#$e#Parece muy vacía, ¿no crees?" #!String
     Sat: "¿Has estado en esa torre tan extraña al oeste de mi casa?#$e#Una vez escuché un terrible sonido, como de otro mundo, viniendo de ahí...$s#$e#Si yo fuera tú evitaría ese lugar..." #!String
     Sun: "¡Hola! ¡Me alegro de verte!#$e#Puedes visitarnos cuando quieras." #!String
-    Sun8: "¡Hola @!$h#$e#Me alegro de que nos hayamos hecho amigos. Se que puedo confiar en ti para cuidar de mis queridos animales." #!String
+    Sun8: "¡Hola @!$h#$e#Me alegro de que nos hayamos hecho amigos. Se que puedo confiar en ti para cuidar de mis queridos animales.^¡Hola @!$h#$e#Me alegro de que nos hayamos hecho amigas. Se que puedo confiar en ti para cuidar de mis queridos animales." #!String
 
