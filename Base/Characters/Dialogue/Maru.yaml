@@ -16,52 +16,52 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Oh! ¿no eres tu quien que acaba de mudarse?#$b#soy Maru, he estado esperando conocerte!$h#$e#Sabes, con un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡Es emocionante!" #!String
+    Introduction: "¡Oh! ¿no eres tu quien que acaba de mudarse?#$b#Soy Maru, ¡estaba esperando conocerte!$h#$e#Sabes, en un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡Es emocionante!" #!String
     danceRejection: "¡Me halagas! Pero... No." #!String
-    Mon: "Siempre que estoy luchando con un problema técnico, suelo tomar un paseo. #$e #es sorprendente cuanto un cambio de escenario puede ayudar." #!String
-    Tue: "¿Has conocido a mi mamá? Ella es la carpintera del pueblo." #!String
-    Wed: "Los martes y jueves trabajo en la clínica de Harvey.#$b#¡Él dice que le gusta tenerme cerca cuando su equipo médico se vuelve loco!$h#$e#Ser granjero debe ser bastante fácil, ¿eh?" #!String
+    Mon: "Siempre que estoy luchando con un problema técnico, suelo tomar un paseo.#$e#Es sorprendente cuanto puede ayudar un cambio de escenario." #!String
+    Tue: "¿Has conocido a mi mamá? Es la carpintera del pueblo." #!String
+    Wed: "Los martes y jueves trabajo en la clínica de Harvey.#$b#¡Él dice que le gusta tenerme cerca cuando su equipo médico se vuelve loco!$h#$e#Ser granjero debe ser bastante fácil, ¿eh?^Ser granjera debe ser bastante fácil, ¿eh?" #!String
     Thu: "Tengo pensado pasar mucho tiempo con mi telescopio este verano." #!String
-    Sat: "¿Conoces a mi papa, Demetrius? Es científico. Es muy divertido ayudarle en el laboratorio." #!String
-    Fri: "Hey, perdona si parece que esté de mal humor... Estoy un poco irritada con el trabajo de ayer.#$c.5#¡Tuve que cargar diez cajas de archivos médicos al ático!#$e#¡Tuve que clasificar registros de pacientes durante cuatro horas seguidas!" #!String
-    Sun: "Hola! $q # 3/4 Sun_01_old #¿Se divierte trabajando en la granja? #$r 3 0 Sun_01_01 #Si. $r # 4 0 Sun_01_02 #No." #!String
-    Sun_01_old: "$p 3#Hey, ¡has conseguido otra semana de avances en la granja! Parece que las cosas te van bien.$h|Otra agotadora semana en la granja, ¿eh? Debe haber mucho trabajo... $s" #!String
+    Sat: "¿Conoces a mi papá, Demetrius? Es científico. Es muy divertido ayudarle en el laboratorio." #!String
+    Fri: "Hola, perdona si parece que esté de mal humor... Estoy un poco irritada con el trabajo de ayer.#$c.5#¡Tuve que cargar diez cajas de archivos médicos al ático!#$e#¡Tuve que clasificar registros de pacientes durante cuatro horas seguidas!" #!String
+    Sun: "¡Hola!#$q 3/4 Sun_01_old#¿Se divierte trabajando en la granja?#$r 3 0 Sun_01_01#Sí.#$r 4 0 Sun_01_02#No." #!String
+    Sun_01_old: "$p 3#Oye, ¡has conseguido otra semana de avances en la granja! Parece que las cosas te van bien.$h|Otra agotadora semana en la granja, ¿eh? Debe haber mucho trabajo... $s" #!String
     Sun_01_01: "Bueno, eso es bueno, ¿no?$h" #!String
     Sun_01_02: "¡Huy! Lo siento. ¿Alguna vez has pensado en hacer algo distinto...?$s" #!String
-    Tue2: "Pase por nuestra casa cuando necesite mejorar sus construcciones. #$e#Siempre es bueno tener visitantes." #!String
+    Tue2: "Pasa por nuestra casa cuando necesites mejorar tus edificios.#$e#Siempre es bueno tener visita." #!String
     Fri4: "Mi madre es carpintera y mi padre científico. Supongo que tiene sentido que me dedique a construir aparatos." #!String
     Mon6: "A veces mi mente está tan abarrotada de tonterías que casi no puedo pensar. ¿Alguna vez te ha pasado?#$e#Tomar un poco de aire fresco suele ayudar." #!String
-    Wed8: "Trabajo en la clínica de Harvey los martes y los jueves.#$e #Es guapo, pero no es mi tipo..." #!String
-    Thu10: "Oh, @! ¿Hay algo de lo que quieras hablar conmigo? #l" #!String
-    Event_Hospital_1: "¡Por supuesto que sabía la diferencia! ¡Este ejemplar está totalmente arruinado!%fork$s" #!String
+    Wed8: "Trabajo en la clínica de Harvey los martes y los jueves.#$e#Es guapo, pero no es mi tipo..." #!String
+    Thu10: "¡Oh, @! ¿Hay algo de lo que quieras hablar conmigo?#l" #!String
+    Event_Hospital_1: "¡Por supuesto que sabrá la diferencia! ¡Esta muestra está totalmente arruinada!%fork$s" #!String
     Event_Hospital_2: "Vale. Te culparé a ti entonces.$u" #!String
     Event_Hospital_3: "Tienes razón. Debería decirle la verdad.%fork$u" #!String
-    Event_Space1: "Es increible, ¿Verdad?" #!String
+    Event_Space1: "Es increible, ¿verdad?" #!String
     Event_Space2: "Supongo que puedes verlo de ese modo...#$b#Pero aún así sigue siendo increíble, ¿no?" #!String
     Event_Cut1: "Ah, ¿no?$8#$b#Bueno, eso me hace sentir un poco mejor. Gracias." #!String
     Event_Cut2: "¡Oh, No! Aghh... Lo siento mucho" #!String
     event_robot1: "Gracias. Eso significa mucho para mi, @.#$b#Sé que los aparatos no son lo tuyo... pero aprecio que estés mostrando interés en lo que hago.#$b#Desearía poder devolverte el favor de alguna forma.$l" #!String
-    event_robot2: "¿Qué? Después de decir rotundamente que no quería ser una esclava? Que frió...%fork$a" #!String
-    event_robot3: "Heh...$8#$b#Sí supongo que de alguna forma sí dijo eso, ¿Verdad?$l#$b#...Um...$l" #!String
+    event_robot2: "¿Qué, después de decir rotundamente que no quería ser una esclava? Qué frío...%fork$a" #!String
+    event_robot3: "Je...$8#$b#Sí supongo que sí dijo eso, ¿verdad?$l#$b#...Um...$l" #!String
     event_robot4: "...$8#$b#@...$8" #!String
     event_robot_explain1: "$s#$b#Tienes razón, la programé para que actuará de forma humana... pero su red neuronal es muy compleja, no puedo estar segura de que la conciencia no haya aparecido por si sola.$8#$b#Además, no es un poco arrogante asumir que la conciencia humana es única forma de existencia? Los cerebros informáticos son diferentes a los nuestros, pero eso no quiere decir que no podamos respetarlos.$8" #!String
     event_robot_explain2: "Ya veo. Bueno no era un chiste muy gracioso.$a" #!String
     event_robot_explain3: "¡Eso es horrible! ¿Qué bicho te ha picado, @?$a#$b#Voy a olvidar que hayamos tenido esta conversación... no eres tú mismo.$a" #!String
     summer_1: "Esta va a ser una estación genial para observar las estrellas." #!String
-    summer_Mon: "Hmm... ¿Qué clase de aparato debería apañar para este verano?#$e#" #!String
+    summer_Mon: "Um... ¿Qué clase de aparato debería apañar para este verano?#$e#" #!String
     summer_Mon6: "Ven a mi habitación si alguna vez quieres juguetear con mis aparatos." #!String
-    summer_Tue: "Sebastian es mi medio-hermano, si no lo sabías ya. #$e#No nos parecemos en nada físicamente." #!String
+    summer_Tue: "Sebastian es mi medio-hermano, si no lo sabías ya.#$e#No nos parecemos en nada físicamente." #!String
     summer_Tue4: "Sebastian apenas me habla. Incluso me pregunto si le caigo bien.#$e#Qué triste, quiero tener un hermano pero el no actúa como uno." #!String
     summer_Wed: "¿Estás disfrutando esta estación?#$e#Este año ha sido muy caluroso.$h" #!String
-    summer_Thu: "Perdona, estaba pensando en algunos aparatos que estoy haciendo.#$q 35/36 Thu_01_old#He decidido que voy a fabricar un robot algún día.#$r 35 30 Thu_0#Eso debería ser muy fácil para ti#$r 36 -50 Thu_01_01#Deberías ser más realista#$r 35 40 Thu_01_02#Suena desafiante." #!String
+    summer_Thu: "Perdona, estaba pensando en algunos aparatos que estoy haciendo.#$q 35/36 Thu_01_old#He decidido que voy a fabricar un robot.#$r 35 30 Thu_0#Eso debería ser muy fácil para ti.#$r 36 -50 Thu_01_01#Deberías ser más realista#$r 35 40 Thu_01_02#Suena desafiante." #!String
     Thu_01_old: "Nos vemos luego." #!String
-    Thu_0: "¿Seguro? ¿Estás seguro de que no estás tratando de halagarme?" #!String
+    Thu_0: "¿En serio? ¿Seguro de que no estás tratando de halagarme?" #!String
     Thu_01_01: "¿No crees que pueda hacerlo?$s" #!String
     Thu_01_02: "Tienes razón, ¡pero me encantan los retos!$h" #!String
-    summer_Sat: "Hola, ¿Tienes alguna historia de la granja interesante que contarme?#$e#." #!String
+    summer_Sat: "Hola, ¿tienes alguna historia de la granja interesante que contarme?#$e#." #!String
     summer_Fri: "Trabajé en la clínica ayer. No tenemos un solo paciente.#$e#Las personas enferman menos durante el verano." #!String
     summer_Sun: "Apuesto a que estas cultivando una interesante cosecha ahora mismo.#$b#Mi padre dice que muchas planas exóticas crecen en el valle en esta época del año." #!String
-    summer_Fri2: "Hey, cuéntame una historia sobre agricultura.#$e#¡Es realmente interesante!" #!String
+    summer_Fri2: "Hola, cuéntame una historia sobre agricultura.#$e#¡Es realmente interesante!" #!String
     summer_Wed4: "¿Soy yo o derrepente hace mucho calor?#$e#Supongo que soy yo." #!String
     summer_Sun6: "Algún día seré una inventora a nivel mundial.$u#$e#¡Tienes suerte de que seamos amigos!#$b#...es broma." #!String
     summer_Tue8: "@, qué elegante vas hoy.$h" #!String
@@ -72,23 +72,23 @@ content:  #!Dictionary<String,String>
     fall_Wed: "Meh... No tengo ganas de trabajar mañana." #!String
     fall_Fri: "Apuesto que empezaremos a ver más gente en la clínica esta temporada.$s#$e#¡Espero que todos se mantengan en buena forma." #!String
     fall_Sat: "Todas estas hojas que caen darán alimento para hongos y otros organismos pequeños.$u#$e#Interesante, ¿verdad?" #!String
-    fall_Sun: "Hey, ¡por otra buena semana! *brindis*" #!String
-    fall_Tue2: "@, ¡Simplemente me encanta cómo se ven los árboles ahora!#$e#Sé que a ti también te gustan." #!String
+    fall_Sun: "Vamos, ¡por otra buena semana! *brindis*" #!String
+    fall_Tue2: "@, los árboles están resplandecientes, ¡me encantan!#$e#Sé que a ti también te gustan." #!String
     fall_Wed4: "Si tienes algo de metal extra por ahí, podría usarlo para uno de mis proyectos.#$e#Pero solo si no te hace falta." #!String
     fall_Fri6: "Me he sentido especialmente optimista últimamente... $h" #!String
     fall_Mon8: "Deberías venir a visitarme el viernes a la clínica. Trabajo de 10 a.m a 4 p.m$h" #!String
     fall_Thu10: "Tienes una hoja en el pelo. Deja que te la quite.#$e#...$h" #!String
-    winter_1: "Madre mía, que frió...$s" #!String
+    winter_1: "Madre mía, que frío...$s" #!String
     winter_Mon: "¿Has visto el muñeco de nieve que he hecho?$h" #!String
     winter_Tue: "Mi pelo se pone tan rizado en este clima seco. *Suspiro*" #!String
     winter_Wed: "Supongo que el invierno es una buena época para trabajar en mis aparatos.#$e#Me pregunto si podría crear algo útil para los granjeros?" #!String
-    winter_Thu: "¡Hey! ¿Qué tal?#$e#Es un buen momento para explorar las cuevas.#$e#Iría pero mi padre se volvería loco." #!String
+    winter_Thu: "¡Hola! ¿Qué tal?#$e#Es un buen momento para explorar las cuevas.#$e#Iría pero mi padre se volvería loco." #!String
     winter_Fri: "Espero no coger la gripe este año." #!String
     winter_Sat: "¿Has construido un horno ya?#$e#Puedes usarlo para convertir materiales en bruto como menas en productos más útiles.$u" #!String
     winter_Sun: "Me da tanto sueño cuando esta frio..." #!String
-    winter_Sat2: "Hey, si alguna de tus máquinas de cultivo necesita un arreglo, házmelo saber.$h" #!String
-    winter_Tue4: "Hey,¿Tienes alguna idea para un nuevo aparato que pueda hacer?#$e#Mhmm. Confío en tu opinión." #!String
+    winter_Sat2: "Oye, si alguna de tus máquinas de cultivo necesita un arreglo, házmelo saber.$h" #!String
+    winter_Tue4: "Hola, ¿tienes alguna idea para un nuevo aparato que pueda hacer?#$e#Mmm. Confío en tu opinión." #!String
     winter_Fri6: "Pareces despejado hoy. Supongo que es el aire fresco del invierno." #!String
-    winter_Mon8: "Hola @!$h#$e#Hey, ¿No te crees que mi muñeco de nieve se parece un poco a ti?" #!String
+    winter_Mon8: "¡Hola @!$h#$e#Oye, ¿No crees que mi muñeco de nieve se parece un poco a ti?" #!String
     winter_Thu10: "@, acércate más. Tengo frío.$l#$e#Mis manos están muy secas por el aire del invierno. Perdona por eso.$l" #!String
 
