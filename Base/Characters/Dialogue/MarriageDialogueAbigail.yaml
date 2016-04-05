@@ -58,7 +58,7 @@ content:  #!Dictionary<String,String>
     Good_3: "No puedo recordar la última vez que tinté mi pelo... Lo juro, nunca se me descolora..." #!String
     Good_4: "Me alegro de haber conseguido un par de botas antes de mudarme. Es difícil imaginar ir de puntillas por el barro con deportivas.$h" #!String
     Good_5: "Estaba admirando el colgante de sirena que me diste... Lo llevaré con orgullo hasta la tumba.$l" #!String
-    Good_6: "Oye, sé que eres listo, pero aún así me preocupo por ti a veces. El mundo está lleno de monstruos.$6#$e#Prométeme que tendrás cuidado. No quiero perderte." #!String
+    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you." #!String
     Good_7: "¿@? Solo quería decirte que aprecio lo duro que trabajas por nosotros. Estoy muy orgullosa de ti.$l" #!String
     Neutral_0: "Espero que todavía me quieras cuando este vieja y arrugada. ¡Algún día pasará!" #!String
     Neutral_1: "¿Crees que tu abuelo estará orgulloso de nosotros?" #!String
