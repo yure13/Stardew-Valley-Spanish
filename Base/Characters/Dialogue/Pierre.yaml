@@ -18,7 +18,9 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "¡Es el Sr. @, el nuevo granjero! Soy Pierre, dueño del almacén.^¡Es la Sra. @ la nueva granjera! Soy Pierre, dueño del almacén.#$b# Si buscas semillas, mi tienda es el lugar adecuado. ¡También puedo comprarte lo que produzcas por un buen precio!#$e#¡Una pequeña granja podría inyectar nueva vida a la economía local!" #!String
     Mon: "¡Bienvenido. si buscas semillas llegaste al lugar adecuado!" #!String
+    Mon_inlaw_Abigail: "Hello, er... my son?$s^Hello, er... daughter?$s" #!String
     Mon4: "Hola, @. ¿Necesitas alguna semilla o algún árbol frutal?" #!String
+    Mon4_inlaw_Abigail: "Hi, @. How's Abigail doing? The shop hasn't been the same without her..." #!String
     Tue: "A veces tengo nuevos artículos en stock, así que asegúrate de pasar seguido.#$e#Es mucho trabajo tener una tienda.$h" #!String
     Tue6: "Sabes, solía ser un buen boxeador hace tiempo... ¡Mi gancho derecho era una leyenda!$h" #!String
     Wed: "Es mi día libre.#$e#Hmmm...¿Qué puedo hacer?...$s" #!String
