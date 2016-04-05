@@ -28,13 +28,13 @@ content:  #!Dictionary<String,String>
   Thu: "El aire empieza a calentarse... Estoy ansioso" #!String
   Fri: "Ey, ¿qué pasa, granjero?^Eh, eres la chica de la granja. ¿Te has comprado pantalones nuevos? Eso está bien.#e#Oh, ¡casi se me olvida! ¡Es mi día de hacer flexiones!#e#Cada vez que hago flexiones trato de hacer una más que el día anterior. Buena estrategia, ¿eh?" #!String
   Sat: "Me duelen mucho los brazos pero, para alguien como yo, eso es un signo de progreso.#e#Ayer debí hacer unas mil flexiones." #!String
-  Sun: "Ey.#$e#¿Qué? ¿Qué quieres hablar conmigo? Estoy ocupado." #!String
-  Sun2: "Ey, @.#$e#Genial, recuerdo tu nombre." #!String
-  Sun4: "Hola, @.#$e#¿Qué tal el día?" #!String
-  Fri4: "Hola, @. Me alegra que te hayas pasado.#e#¡No me avergüenza decir que quiero a mi abuela!#$e#En cambio, a mi abuelo...#$e#Solo bromeo.$h" #!String
-  Tue6: "No hay nada mejor que un intenso día en la playa con tus amigos... ¿Verdad" #!String
+  Sun: "Hola.#$e#¿Qué? ¿Qué quieres hablar conmigo? Estoy ocupado." #!String
+  Sun2: "¿Qué pasa @?.#$e#Genial, recuerdo tu nombre." #!String
+  Sun4: "Hola @.#$e#¿Qué tal el día?" #!String
+  Fri4: "Hola @. Me alegra que te hayas pasado.#e#¡No me avergüenza decir que quiero a mi abuela!#$e#En cambio, a mi abuelo...#$e#Solo bromeo.$h" #!String
+  Tue6: "No hay nada mejor que un intenso día en la playa con tus amigos... ¿Verdad?" #!String
   Mon8: "Ya sabes, solía querer fama y fortuna, pero últimamente he empezado a pensar de forma distinta. Al final son las pequeñas cosas las que terminan por satisfacernos, ¿no crees?#$e#Todavía quiero ser el mejor, pero no es lo más importante en el mundo." #!String
-  Fri8: "Hola, @. Hoy te veo con ganas de hacer deporte.$h^Hola, @. ¿Te has hecho algo en el pelo? Hoy hay algo en ti que me llama la atención.$h" #!String
+  Fri8: "Hola @. Hoy te veo con ganas de hacer deporte.$h^Hola @. ¿Te has hecho algo en el pelo? Hoy hay algo en ti que me llama la atención.$h" #!String
   Sat10: "Últimamente he estado teniendo problemas para concentrarme.$" #!String
   Event_beach1: "Por supuesto que lo harás. Si no lo hicieses pensaría que se te ha ido la cabeza. O que eres un bicho raro" #!String
   Event_beach2: "¿De veras? Debes ser algún tipo de bicho raro.$a#$b#Perdona." #!String
@@ -43,30 +43,30 @@ content:  #!Dictionary<String,String>
   Event_books3: "Se supone que no estabas de acuerdo conmigo.$" #!String
   event_box1: "Sí... Lo sé. Por eso quiero tener éxito en lo deportivo... $9#$b#Lo consiga o no... Mientras me esfuerce al máximo, creo que estará orgullosa de mí. Gracias." #!String
   event_box2: "Guau... ¡Es el aniversario de la muerte de mi madre! Ten un poco de corazón...$" #!String
-  event_box3: "Gracias, @...#$b#Tú... eres diferente al resto de chicos. Más sensible.$l^Te has convertido en mi mayor amistad de toda la ciudad...#$b#Estoy feliz.^¿Es algo vergonzoso de decir?$l" #!String
+  event_box3: "Gracias, @...#$b#Tú... eres diferente al resto de chicos. Más sensible.$l^Te has convertido en mi mejor amiga...#$b#Estoy feliz.^¿Es algo vergonzoso de decir?$l" #!String
   event_box4: "Eso no me hace sentir mejor, idiota.$" #!String
   Event_parents1: "Es una idea interesante.." #!String
   Event_parents2: "¡Nunca harían eso!$" #!String
   Event_parents3: "...Quizá tienes razón... No sé.$" #!String
-  summer_1: "Ey. El verano es sin duda la mejor época del año.#$e#Por ahora es genial, porque tendremos la temperatura que estábamos esperando. Te veo luego." #!String
+  summer_1: "Hola. El verano es sin duda la mejor época del año.#$e#Por ahora es genial, porque tendremos la temperatura que estábamos esperando. Te veo luego." #!String
   summer_Mon: "Oye, granjero. Pareces que te has quemado un poco.^Oye, granjera. Tienes un buen bronceado.$h#$e#Cuanto más practique este verano, más fácil me será llegar a ser profesional.#$e#Entonces podrás decir que una vez me conociste. Es genial, ¿eh?" #!String
   summer_Tue: "Si mi pelo no tuviese tanto éxito entre las mujeres te juro que me lo afeitaría en un segundo.#$e#*Suspiro*... La vida puede ser dura." #!String
-  summer_Wed: "Ey, granjero, tengo una pregunta para ti.^Ey, granjera, tengo una pregunta para ti.#$b#$q 52/53 summer_Wed_01_old#¿Crees que alguna vez seré deportista profesional?#$r 52 30 summer_Wed_01_01#Estás destinado a ser una leyenda del deporte#$r 52 0 summer_Wed_01_02#Quizá, si prácticas mucho#$r 53 -50 summer_Wed_01_03#No, lo más probable es que termines convirtiéndote en dependiente." #!String
+  summer_Wed: "Oye, granjero, tengo una pregunta para ti.^Oye, granjera, tengo una pregunta para ti.#$b#$q 52/53 summer_Wed_01_old#¿Crees que alguna vez seré deportista profesional?#$r 52 30 summer_Wed_01_01#Estás destinado a ser una leyenda del deporte#$r 52 0 summer_Wed_01_02#Quizá, si prácticas mucho#$r 53 -50 summer_Wed_01_03#No, lo más probable es que termines convirtiéndote en dependiente." #!String
   summer_Wed_01_old: "$p 52 #Hey, cuando sea deportista profesional podrás decir que fuiste la primera persona en hacerse fan. No está mal, ¿eh?|Hey, he estado practicado el doble, y de forma tan intensa que podré convertirme en deportista profesional y demostrar que te equivocabas. Ya verás.$a" #!String
-  summer_Wed_01_01: "Hey, ¡de eso estoy hablando!$h#$e#Eres más genial de lo que pensaba." #!String
-  summer_Wed_01_02: "¡Sí! Si sigo siendo tan bueno no voy a tener que practicar tanto.$" #!String
-  summer_Wed_01_03: "Es una locura. Tienes envidia porque soy popula y tengo talento, y tú no.$a^Eso es ridículo. Estás celosa de que yo sea más popular de lo que tú serás jamás, friki.$a#$e#Mantente lejos de mí.$a" #!String
-  summer_Thu: "Hey, debes de estar poniéndote muy fuerte trabajando todo el día en la granja.^Hey, debes estar en forma de tanto trabajar en la granja.#$e#Quizás llegues algún día a mi nivel.#$e#¿Por qué me miras así?" #!String
+  summer_Wed_01_01: "Sí, ¡de eso estoy hablando!$h#$e#Eres mejor de lo que pensaba." #!String
+  summer_Wed_01_02: "¡Sí! Aunque soy tan bueno que no tendré que practicar tanto.$" #!String
+  summer_Wed_01_03: "Es una locura. Tienes envidia porque soy popular y tengo talento, y tú no.$a^Eso es ridículo. Estás celosa de que yo sea más popular de lo que tú serás jamás, friki.$a#$e#Mantente lejos de mí.$a" #!String
+  summer_Thu: "Hola, debes de estar poniéndote muy fuerte trabajando todo el día en la granja.^Hola, debes estar en forma de tanto trabajar en la granja.#$e#Quizás llegues algún día a mi nivel.#$e#¿Por qué me miras así?" #!String
   summer_Fri: "¿Qué quieres?#$e#Ahora mismo tengo cosas más importantes que hacer." #!String
   summer_Sat: "Mmmm... Huele a barbacoa.#$e#¡Maldición! Podría ir a por una hamburguesa." #!String
   summer_Sun: "Ayer me compré estos zapatos nuevos porque los viejos tenían una mancha marrón.#$b#Los tiré a la basura. Los habría donado, pero no me gusta la idea de que algún bicho raro se ponga mis zapatos, ¿sabes?#$e#...¿Qué?$a" #!String
   summer_Sun4: "Oh vaya... tus zapatos están un poco sucios... ¡Pero están bien!#$e#Cada persona tiene sus gustos... supongo." #!String
   summer_Thu4: "¡Parece que este verano te estás poniendo en forma!#$e#Todo ese trabajo en la granja esta dando sus frutos, ¿eh?" #!String
-  summer_Mon4: "Ey. Buen bronceado" #!String
+  summer_Mon4: "Oye, buen bronceado" #!String
   summer_Fri6: "Disculpa, mi cuarto está desordenado.$s#$e#Es difícil recordar que debo limpiarlo. De todas formas, estoy haciéndolo lo mejor que puedo." #!String
-  summer_Wed8: "¿Sabes? En realidad no me importaría ser granjero... de algún modo se parece mucho a practicar deporte.#$e#Me gusta estar al aire libre, y hacer cosas con las manos." #!String
+  summer_Wed8: "¿Sabes? En realidad no me importaría ser granjero... se parece mucho a practicar deporte.#$e#Me gusta estar al aire libre, y hacer cosas con las manos." #!String
   summer_Sat10: "He estado tratando de leer más últimamente... Siento como si hubiese descuidado el cerebro durante años por culpa de mi obsesión con el deporte" #!String
-  fall_1: "Claro, está empezando a hacer frío... ¡Pero aún hace buen tiempo para hacer deporte!#$e#Eso es todo lo que me importa." #!String
+  fall_1: "Sí, ya sé está empezando a hacer frío... ¡Pero aún hace buen tiempo para hacer deporte!#$e#Eso es todo lo que me importa." #!String
   fall_Mon: "Mi abuela me aconsejó que estudiara más.#$e#Yo le dije: 'Meeeh... Abu, no te preocupes. ¡Me convertiré en deportista profesional!'$h#$e#Estudiar es para frikis." #!String
   fall_Wed: "Oye, quiero preguntarte algo.^Oye, ¿puedo preguntarte algo?#$e#$q 54/55 fall_Wed_01_old#¿Crees que a las chicas les gusta mi corte de pelo?^¿Qué opinas de mi corte de pelo?#$r 54 30 fall_Wed_01_01#Parece que está a la moda.#$r 55 -30 fall_Wed_01_02#Parece una plantación de hongos." #!String
   fall_Wed_01_old: "Me he puesto demasiada gomina. Duele un poco.#$e#¡No lo toques!#$e#...¿Qué?" #!String
@@ -76,24 +76,24 @@ content:  #!Dictionary<String,String>
   fall_Fri: "Voy a hacer un montón de abdominales esta noche. Me lo tomo muy en serio, ¿sabes?#$e#¿Necesitas algo más?" #!String
   fall_Sat: "Creo que en esta época puedes encontrar salmones en el río.#$e#O al menos eso he oído." #!String
   fall_Sun: "Eh, ¡el partido de fútbol es hoy!#e #Los domingos de otoño son geniales.$u" #!String
-  fall_Thu2: "¿Qué pasa, @" #!String
+  fall_Thu2: "¿Qué pasa @?" #!String
   fall_Fri6: "Voy a hacer un montón de abdominales esta noche.#$e#Tienes que trabajar muy duro para alcanzar tu máximo potencial." #!String
   fall_Mon4: "Mi abuela me dijo que estudiara más.#$e#Quizá tenga razón...$s" #!String
   fall_Wed8: "Finalmente he tomado una decisión... Voy a dejar de usar gomina.#$e#No me gustaría ser amigo de alguien a quién solo le gusto porque uso gomina." #!String
   fall_Thu10: "¡@! Um... Hola.$" #!String
   winter_1: "El invierno no es la mejor época. Hay demasiada nieve para hacer algo divertido.#$e#Supongo que a algunas personas les gusta." #!String
-  winter_Mon: "You like the snow? Me... I'm just looking forward to spring." #!String
-  winter_Tue: "Hey, ¿puedes ir a buscar a Haley y decirle hola de mi parte" #!String
-  winter_Tue_inlaw_Haley: "Oh, hey. How's the married life coming along?$9" #!String
-  winter_Wed: "Las personas permanecen mucho tiempo en casa durante el invierno haciendo cosas aburridas.$s#$e#Tal vez si leo un libro estaría menos aburrido... Nah." #!String
+  winter_Mon: "¿Te gusta la nieve? A mí... Sólo espero que llegue pronto la primavera." #!String
+  winter_Tue: "Oye, ¿puedes ir a buscar a Haley y decirle hola de mi parte?" #!String
+  winter_Tue_inlaw_Haley: "Oh, hola. ¿Cómo te va la vida de casado?$9^Oh, hola. ¿Cómo te va la vida de casada?$9" #!String
+  winter_Wed: "La gente se queda en casa durante el invierno haciendo cosas aburridas.$s#$e#Tal vez si leo un libro estaría menos aburrido... Nah." #!String
   winter_Thu: "Cuando sea un jugador profesional, seré tan rico que tendré una casa de vacaciones en el trópico.#$e#Así no tendré que aguantar estos inviernos tan aburridos." #!String
-  winter_Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
-  winter_Sat: "There's some weird people living in this town.#$e#...like that guy Sebastian. Why does he wear black all the time?#$e#I don't get it." #!String
+  winter_Fri: "¿Has venido hasta aquí para verme con toda esta nieve?#$e#Supongo que tiene sentido." #!String
+  winter_Sat: "Hay gente rara en el pueblo.#$e#...Como Sebastian. ¿Por qué vestirá de negro siempre?#$e#No lo entiendo." #!String
   winter_Sun: "Eh, ¡hoy es el partido de fútbol!#$e#Éste va a ser mi día favorito de la semana." #!String
-  winter_Fri4: "¿Has venido a verme con todo esa nieve?#$e#Es un buen detalle por tu parte.$h" #!String
+  winter_Fri4: "¿Has venido a verme con toda esa nieve?#$e#Es un buen detalle por tu parte.$h" #!String
   winter_Sat6: "Creo que es interesante que algunas personas sean totalmente diferentes a nosotros, ¿sabes?$b##No siempre entiendo por qué otros actúan de la manera en que lo hacen, pero eso está bien." #!String
   winter_Tue4: "Oye, @. ¿Podrías hacerme un favor?$l#$b#Si ves a Haley, dile que estoy ocupado.$l#$e#Gracias." #!String
-  winter_Tue4_inlaw_Haley: "I'll admit... I was a little jealous when you and Haley got married. But, hey... It's a chance for me to learn something new about myself.$9" #!String
+  winter_Tue4_inlaw_Haley: "Lo tengo que admitir... Me puse un poco celoso cuando Haley y tú os casasteis.Pero, oye... para mí es una oportunidad de aprender algo nuevo de mí.$9" #!String
   winter_Wed8: "¿Sabes qué? ¡Voy a empezar a leer un libro" #!String
   winter_Thu6: "Ojalá pudiera controlar el clima" #!String
   winter_Thu10: "Si alguna vez gano mucho dinero, me aseguraré de mantener a todos mis amigos y familia.#$e#También te incluyo a ti.$h" #!String
