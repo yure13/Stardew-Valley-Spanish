@@ -17,38 +17,38 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¿Alguien nuevo?... Hola.#$e#No te preocupes por mí. Vivo solo, aquí afuera." #!String
-    Mon: "El aire fresco del páramo es todo lo que me importa.$e##Vivo aqui por eleccion propia." #!String
+    Mon: "El aire fresco de la naturaleza es todo lo que me importa.#$e#Vivo aqui por eleccion propia." #!String
     Tue: "...¿Has venido a burlarte de mí?#$e#Yo sólo estoy en mis asuntos." #!String
     Wed: "No te conozco lo suficiente para confiar en ti. Lo siento." #!String
-    Thu: "... ¿Hmm? ¿Quieres algo de mí?" #!String
-    Fri: "Por favor no destruyas mi carpa.#$e#Eso ya me paso antes.$s" #!String
-    Sat: "Me siento feliz por mí mismo, ya sabes.#$e#No necesito nuevos amigos." #!String
-    Sun4: "Sería bueno si la gente del pueblo pudiera aceptarme por lo que soy.$S$#b#Me gusta vivir aquí, en el aire libre. Eso es lo que no entienden." #!String
+    Thu: "... ¿Umm? ¿Quieres algo?" #!String
+    Fri: "Por favor no destruyas mi tienda.#$e#Ya me ha pasado antes.$s" #!String
+    Sat: "Me siento feliz solo, ¿sabes?#$e#No necesito nuevos amigos." #!String
+    Sun4: "Estaría bien que la gente del pueblo pudiera aceptarme por lo que soy.$s#$b#Me gusta vivir aquí, en el aire libre. Eso es lo que no entienden." #!String
     Tue4: "Puedes aprender a sobrevivir en la naturaleza.#$e#Creo que todos tenemos un impulso oculto de regresar a la naturaleza. Simplemente da un poco de miedo dar el paso." #!String
     Wed6: "Pasé mucho tiempo pensando.#$e#Si puedes comprender el sentido que hay detrás de tus pensamientos, habrás alcanzado un nuevo nivel como persona." #!String
     Wed2: "Desconfío de los extraños. La mayoría de las personas no quieren a un 'hombre salvaje'." #!String
-    Thu4: "La gente de aquí parece agradable, pero ellos me evitan.#$e#La gente teme a lo desconocido.$u" #!String
+    Thu4: "La gente de aquí parece agradable, pero me evitan.#$e#La gente teme a lo desconocido.$u" #!String
     Fri4: "Puedes aprender mucho de los árboles.#$e#Pasa tiempo con ellos y te dirán sus secretos.#$e#Ve en paz, joven." #!String
     Sat4: "Tengo todo lo que necesito para sobrevivir y mucho más. La naturaleza emite una melodía maravillosa si aprendes a escucharla.#$e#También paso mucho tiempo leyendo. Una de las razones por las que me quedé en el valle fue la gran biblioteca." #!String
     Sun: "#$1 linusVandal#Alguien estuvo tirándole piedras a mi tienda anoche... Sólo tuve que esperar.$s$k#$e#No me gusta quedarme mucho tiempo en un mismo sitio. Hay demasiado que experimentar por el mundo." #!String
     summer_Mon4: "Durante todos estos años he descubierto algunos secretos acerca de la vida.#$e#Tendrás que averiguarlos tú, sin ayuda." #!String
     summer_Mon: "#$1 LinusHeron#Vi una garza volando elegantemente sobre el agua con la niebla matutina. Esos son los tesoros de una vida tranquila.$k#$e#Es algo difícil de ver en la ruidosa vida moderna. Tus mejores años pasarán sin darte cuenta. Por eso hay que aprender a frenar." #!String
-    summer_Tue4: "¿Cómo has estado?" #!String
+    summer_Tue4: "¿Cómo te va, mi joven amigo?^¿Cómo te va, mi joven amiga?" #!String
     summer_Wed6: "Ah... el verano. El cálido sol calienta las latas para mí.#$b#Así que por la noche me espera una comida caliente." #!String
     summer_Thu4: "Tengo mis propias razones para vivir solo.#$e#Algunas cosas son mejor no decirlas... #$e#Debería buscar algo de comida." #!String
-    summer_Fri4: "En el momento que atrapes un pez, tómate un momento para agradecerle su sacrificio.#$b#Aunque no creas en el espíritu del pez, es un buen ejercicio mental. Tenemos que ser conscientes de nuestro efecto sobre el entorno." #!String
-    summer_Sat4: "Puedes encontrar una trucha arco iris en los arroyos ahora mismo." #!String
+    summer_Fri4: "Cuando atrapes un pez, tómate un momento para agradecerle su sacrificio.#$b#Aunque no creas en el espíritu del pez, es un buen ejercicio mental. Tenemos que ser conscientes de nuestro efecto sobre el entorno." #!String
+    summer_Sat4: "Puedes encontrar truchas arco iris en los arroyos." #!String
     summer_Sun: "Es una época del año fácil para mi. No tengo que preocuparme de calentarme.#$e#Además, hay frutas salvajes creciendo por todos lados." #!String
     fall_Mon: "Ya he explorado profundamente las cuevas.#$e#Hay algunos secretos ocultos.#$e#Ten cuidado si vas allí." #!String
-    fall_Tue4: "#$1 LinusFall1#Algún gracioso ha pintado con spray toda la casa durante la noche... He tardado horas en fregarlo todo esta mañana.$k#$e#Tengo que empezar a reunir madera para el invierno.#$e#¿Tienes suficiente madera para mantener tu casa caliente?" #!String
+    fall_Tue4: "#$1 LinusFall1#Algún gracioso ha pintado con spray toda la tienda durante la noche... He tardado horas en fregarlo todo.$k#$e#Tengo que empezar a reunir madera para el invierno.#$e#¿Tienes suficiente madera para mantener tu casa caliente?" #!String
     fall_Wed4: "No tengo muchas responsabilidades, por lo que gasto mi tiempo pensando.#$e#Tienes que entender tus pensamientos antes de controlarlos." #!String
     fall_Sun: "No me gusta permanecer en el mismo lugar por mucho tiempo." #!String
-    fall_Sun6: "No hay nada como una fiesta de setas en otoño.$h" #!String
-    winter_Mon: "Puedes llegar a pasar mucho frió si vives en una tienda de campaña.$s" #!String
-    winter_Tue4: "Gracias pro no ignorarme, @. Hace falta mucha sabiduría para ignorar tu instintos mas básicos.#$e#Soy un humano como otro cualquiera. Simplemente llevo un estilo de vida diferente." #!String
+    fall_Sun6: "No hay nada como un festín de setas en otoño.$h" #!String
+    winter_Mon: "Puedes llegar a pasar mucho frío si vives en una tienda de campaña.$s" #!String
+    winter_Tue4: "@, gracias por no ignorarme. Hace falta mucha sabiduría para ignorar tu instintos más básicos.#$e#Soy un humano como otro cualquiera. Simplemente llevo un estilo de vida diferente." #!String
     winter_Wed4: "Estoy seguro que entiendes porqué desconfío de los desconocidos.#$e#Pero eso es cosa del pasado, ¿vale? Ahora somos amigos, o eso creo." #!String
     winter_Thu4: "El invierno es duro, pero puedes seguir pescando y recolectando.#$e#Si tienes animales debes resguardarlos dentro." #!String
     winter_Fri4: "Los árboles duermen durante el invierno. Hace que estés un poco más solo.#$e#Pero no podría negarles su bonito descanso.$h" #!String
-    winter_Sat4: "Gracias por visitarnos. Realmente me sentía un poco sola esta mañana.#$e#So, ¿has descubierto algo interesante en la mina?" #!String
+    winter_Sat4: "Gracias por pasarte a verme. Me sentía un poco solo esta mañana.#$e#Bueno, ¿has descubierto algo interesante en la mina?" #!String
     winter_Sun: "Dormir en el suelo es bueno para mi espalda.#$e#Es mejor mirar el lado positivo de las cosas.$h" #!String
 
