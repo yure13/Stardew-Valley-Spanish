@@ -18,13 +18,14 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "¡Saludos! Soy Demetrius, científico del pueblo y padre. ¡Gracias por presentarte!#$e#Estoy estudiando las plantas y animales locales en el laboratorio de mi casa.#$b#¿Has conocido a mi hija, Maru? Está interesada en conocerte." #!String
     Mon: "Maru me ayuda a en el laboratorio a veces... Es una buena chica." #!String
+    Mon_inlaw_Maru: "It's hard to do good science without Maru's help...#$b#But her happiness is much more important than my experiment!" #!String
     Tue: "Este valle tiene un ecosistema muy vibrante y diverso. Esa es una razón por la que quería mudarme aquí." #!String
     Wed: "Seguro que en tu granja están creciendo muchas plantas interesantes, ¿eh?#$e#Tal vez me pase algún día a verlas." #!String
     Thu: "¿Cómo va el negocio? Es temporada de maíz, ¿verdad?#$e#Imagino que será bastante tranquilo, trabajando con las plantas al aire libre todo el día." #!String
     Fri: "Robin tiene un carácter muy fuerte. Es mejor estar de su parte.#$e#No le digas que te lo he dicho.$h" #!String
-    Sat: "Vamos a ver... Si los compuestos en la rizosfera contienen suficientes niveles de carbono-13, entonces...$u#$b#¡Oh! Lo siento. Estaba buscando algunos datos y no te vi.#$e#¿Necesitas algo?" #!String
+    Sat: "Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     Sun: "Es bueno tomarse un descanso de vez en cuando.#$e#Aunque, supongo que es un poco difícil cuando vives en una granja.#$e#Ey, al menos en invierno no tienes que preocuparte de los cultivos." #!String
-    Fri4: "Robin tiene un carácter muy fuerte. Es mejor estar de su parte.#$e#...Pero si pudiera cuantificar sus niveles de estado de ánimo, quizás podria modelar las fluctuaciones usando una curva sinusoidal.$h" #!String
+    Fri4: "Robin tiene un carácter muy fuerte. Es mejor estar de su parte.#$e#...Pero si solo pudiera cuantificar sus niveles de estado de ánimo, quizás podria modelar las fluctuaciones usando una curva sinusoidal.$h" #!String
     Wed6: "¡Hola, @! ¿Cómo te va hoy?#$e#Me gustaría poder hacerte el trabajo más llevadero." #!String
     Event_tomato1: "¿De veras? Pensaba que sabrías la respuesta correcta...$s" #!String
     Event_tomato2: "¿Ves? @ está de acuerdo conmigo." #!String
@@ -34,13 +35,15 @@ content:  #!Dictionary<String,String>
     summer_Tue: "Asegúrate de regar tus plantas cada día. #$e#Aunque si usas un conservador de agua no tienes que preocuparte por la frecuencia de riego.#$e#Es bastante conveniente." #!String
     summer_Thu: "¿Cómo va el negocio? Es temporada de tomates, ¿verdad?#$e#Imagino que será bastante tranquilo, trabajando todo el día con las plantas al aire libre." #!String
     summer_Fri: "$p 40#Así que he oído que Maru te dejó echar un vistazo por el telescopio de ahí detrás.|Si Maru y tú os hacéis amigos, seguro que te enseñará como usar ese telescopio.#$e#Emocionante, ¿eh?" #!String
-    summer_Sat: "Mmm... Si los niveles de estrigolactona pudieran aumentar, ¿tendría un efecto en el crecimiento de la micorriza?$u#$b#¡Oh! Perdona. Estaba buscando información y no me di cuenta de que estabas ahí.#$e#¿Necesitas algo?" #!String
+    summer_Fri_inlaw_Maru: "I hope my daughter's keeping up on her math and science!" #!String
+    summer_Sat: "Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth?$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     summer_Mon6: "Me hice científico porque quería contribuir a la evolución de nuestras especies.#$e#Por supuesto, nada sería posible sin granjeros como tú.$h" #!String
     fall_Mon: "Durante esta época del año me centro en los hongos." #!String
     fall_Tue: "Sabemos mucho acerca de la naturaleza gracias a la ciencia.#$e#Pero siempre hay mucho más que aprender." #!String
     fall_Thu: "¿Cómo va el negocio? Es temporada de maíz, ¿verdad?#$e#Supongo que está siendo bastante tranquilo, trabajando con las plantas al aire libre todo el día." #!String
     fall_Fri: "Maru pasa mucho tiempo trabajando en esos aparatos suyos.#$e#Me alegro que sea tan dedicada." #!String
-    fall_Sat: "Veamos... tal vez el nivel de fijación de nitrógeno se vea afectado por las secreciones de nematodos....$u#$b#¡Oh! Perdón. Estaba buscando algunos datos y no te he visto.#$e#¿Necesitas algo?" #!String
+    fall_Fri_inlaw_Maru: "I'm still flabbergasted about Maru's secret robot... was it all a dream?" #!String
+    fall_Sat: "Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     fall_Wed6: "Hola, @, siempre me alegra verte por aquí.#$e#Es bueno tener algo de compañía después de este solitario trabajo de laboratorio." #!String
     winter_Mon: "Justo ahora me he tomado un descanso en mi investigación." #!String
     winter_Tue: "Habla con mi mujer si quieres aumentar el tamaño de tu casa." #!String
