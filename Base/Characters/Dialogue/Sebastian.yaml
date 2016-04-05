@@ -23,6 +23,7 @@ content:  #!Dictionary<String,String>
     Tue: "Estaba pensando que... la gente es como las piedras saltando sobre el agua.#$b#Al final acaban hundiéndose." #!String
     Tue6: "¡Me gustan tus botas nuevas!$h^Tu pelo se ve muy bien hoy.$h#$e#¿Quieres salir un rato?" #!String
     Wed: "¿Qué voy a hacer hoy?#$e#Probablemente nada." #!String
+    Wed2_inlaw_Abigail: "Sam is probably my only friend in this town, anymore..." #!String
     Wed2: "Sam es, probablemente, mi único amigo en este pueblo.#$e#Bueno, Abby es también es simpática, pero...$h#$e#Umm... no importa." #!String
     Wed6: "Tu y Sam sois probablemente mis únicos amigos en este pueblo.$s" #!String
     Wed10: "Um... No tienes pareja, ¿verdad?#$e#¡Solo preguntaba!$l" #!String
@@ -90,7 +91,7 @@ content:  #!Dictionary<String,String>
     fall_Sat: "He estado a *esto* de quedarme el día entero en la cama. Ahora desearía haberlo hecho." #!String
     fall_Sun: "El sol sale cada vez menos estos días... maravilloso." #!String
     winter_Mon: "Disfruto de este clima sombrío... aunque, he de decirlo, hace un poco de frío." #!String
-    winter_Mon4: "Ya nada me sorprende... nada me hace reír.#$e#Estoy siendo un poco dramático." #!String
+    winter_Mon4: "Ya nada me sorprende... nada me hace reír.#$e#Si, lo se... Estoy siendo un poco dramático." #!String
     winter_Tue: "Mmm... La verdad es que no tengo nada que decir. Aún no te conozco muy bien." #!String
     winter_Tue4: "Oye...#$b$A veces es difícil pensar en nuevas cosas de las que hablar. Incluso tras conocer a alguien.#$e#...Perdón.." #!String
     winter_Tue6: "He estado tan cerca de gritarle a mamá por tirar mi colección de cómics... Pero algo me paró.#$e#Mmm... con la edad viene la sabiduría." #!String
@@ -99,10 +100,10 @@ content:  #!Dictionary<String,String>
     winter_Wed4: "Oye, no me dejes impedirte hacer tu trabajo.#$e#Si no estas haciendo nada no me importa que te quedes.$h" #!String
     winter_Thu: "Me pregunto qué habrá esta noche de cena...*gruñido*$s" #!String
     winter_Thu6: "Debería aprender a cocinar. Me sería muy útil." #!String
-    winter_Fri: "Es divertido vivir tan cerca de las vías del tren." #!String
+    winter_Fri: "Es divertido vivir tan cerca de las vías del tren. It's a reminder that there's a big world out there." #!String
     winter_Fri8: "Cuando era más pequeño corría a las vías del tren cada vez que oía que venía un tren.#$e#¿Que pasó con esos días...? *suspiro*$s" #!String
     winter_Sat: "Las ranas no están muy felices en invierno.#$e#Pobres pequeñinas.$s" #!String
-    winter_Sat6: "Me gusta el invierno pero me siento mal por todos los animales de ahí fuera.#$e#Supongo que estarán acostumbrados." #!String
+    winter_Sat6: "Me gusta el invierno pero me siento mal por todos los animales de ahí fuera.#$e#Supongo que estarán acostumbrados... como yo." #!String
     winter_Sun: "Hice un mapache de nieve, pero Demetrius me hizo deshacerme de él.#$e#¿Qué le pasa?$u" #!String
     winter_Sun6: "Hice un mapache de nieve, pero Demetrius me hizo deshacerme de él... ¡mientras tanto el pequeño y mono muñeco de nieve de Maru está intacto!$a#$e#Ridículo." #!String
 
