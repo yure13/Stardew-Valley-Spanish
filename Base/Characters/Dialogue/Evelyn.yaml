@@ -16,36 +16,36 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Oh, ¡te doy la bienvenida a nuestra pequeña comunidad, cariño! #$b#Me puedes llamar 'Abuela', si quieres.$h" #!String
+    Introduction: "Oh, ¡te doy la bienvenida a nuestra pequeña comunidad, cariño!#$b#Me puedes llamar 'Abuela', si quieres.$h" #!String
     Mon: "¡Oh Dios mío! Que hermoso día.$u" #!String
-    Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños. #$e# Te caerá mejor una vez que lo conozcas. #$e# ¡Sé que algún día serán buenos amigos! $h#$e# Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
+    Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños.#$e#Te caerá mejor una vez que lo conozcas.#$e#¡Sé que algún día seréis buenos amigos!$h#$e#Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
     Wed: "#$1 evelynGarden1#1Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!" #!String
     Thu: "Hoy haré galletas. Me gusta darles forma de flor en primavera.$h#$e#Puede que un día de estos te dé mi receta." #!String
     Fri: "George está todo el día delante de esa maldita televisión.#$e#Me gustaría que saliese fuera un poco más. Un poco de aire fresco le vendría bien." #!String
-    Sat: "Me solía gustar mirar a las nubes, pero tengo problemas para verlas hoy en día.#$e# Mis ojos no funcionan igual de bien que antes.$s" #!String
+    Sat: "Me solía gustar mirar a las nubes, pero tengo problemas para verlas hoy en día.#$e#Mis ojos no funcionan igual de bien que antes.$s" #!String
     Sun: "Me gusta estar tan cerca del océano. El sonido del mar hace acostarse mucho más fácil.#$e#Cuando eramos niños íbamos a coger conchas después de que bajara la marea. Qué tiempos aquellos..." #!String
     Tue6: "Que amable por tu parte tomarte el tiempo para visitarnos a George y a mí.#$e#Sin gente joven alrededor, envejeceríamos mucho más deprisa.$h" #!String
     Event_cookies1: "¡Gracias!$h" #!String
     Event_cookies2: "¿Qué has dicho, cielo? Juraría haberte oído decir 'disco de hockey'. *suspiro* Mis oídos no son lo que eran.$s" #!String
     summer_Mon: "Me siento más energética con este tiempo tan maravilloso.$u" #!String
-    summer_Mon_inlaw_Alex: "How's my grandson doing? I imagine he's quite happy living on the farm.#$e#He deserves to be happy... he's a good boy." #!String
-    summer_Tue: "George is always a little less grumpy in the summer. The warm weather softens his bones.#$e#You might not be able to tell, but I can. I've known him for sixty years!" #!String
-    summer_Wed: "El buen alcalde me puso a cargo de los jardines públicos.#$e#He estado trabajando en los macizos de flores por meses, ¡así que no los pises!" #!String
-    summer_Thu: "Voy a hacer galletas hoy. ¡Son delicias de coco con forma de pequeñas palmeras! Heehee.$h#$e#Puede que te dé mi receta un día de estos." #!String
+    summer_Mon_inlaw_Alex: "¿Cómo le va a mi nieto? Imagino que está muy feliz viviendo en la granja.#$e#Se merece ser feliz... es un buen chico." #!String
+    summer_Tue: "George siempre está un poco menos gruñón en verano. El tiempo cálido le reblandece los huesos.#$e#Puede que tú no lo notes, pero yo sí. ¡Le conozco desde hace sesenta años!" #!String
+    summer_Wed: "El buen alcalde me puso a cargo de los jardines públicos.#$e#He estado trabajando en los macizos de flores durante meses, ¡así que no los pises!" #!String
+    summer_Thu: "Voy a hacer galletas hoy. ¡Son delicias de coco con forma de pequeñas palmeras! *Jijiji*.$h#$e#Puede que te dé mi receta un día de estos." #!String
     summer_Sat: "Ten cuidado ahí fuera, cielo. ¡Te puedes quemar con el sol!" #!String
     summer_Sun: "Los guisantes dulces están en flor ahora mismo.#$e#Tienen una fragancia maravillosa, ¿verdad?" #!String
     summer_Thu4: "Parece que siempre tenemos más visitas cuando empiezo a hornear galletas.#$e#Mi madre me enseñó la receta." #!String
     fall_Mon: "Cada año aprecio más las estaciones. Para la gente joven es fácil dejarlas pasar." #!String
-    fall_Tue: "I've been putting raisins in George's oatmeal... but he hasn't said a word. I wonder if he even notices these things?" #!String
-    fall_Wed: "El bueno del alcalde me puso a cargo de los jardines públicos del pueblo.#$e#Las flores de otoño son delicadas, ¡Así que no vayas pisándolas! Se que a los niños como tú les gustan." #!String
+    fall_Tue: "He estado poniendo pasas en las gachas de George... pero no ha dicho nada. Me pregunto si se habrá dado cuenta." #!String
+    fall_Wed: "El bueno del alcalde me puso a cargo de los jardines públicos del pueblo.#$e#Las flores de otoño son delicadas, ¡así que no vayas pisándolas! Se que a los niños como tú les gustan." #!String
     fall_Thu: "Hoy voy a hornear galletas. Tienen forma de pequeñas calabazas.$h#$e#Puede que te dé mi receta un día de estos." #!String
-    fall_Sat: "¿Eres amigo de Alex?#$e#A veces me preocupa mucho." #!String
-    fall_Sat_inlaw_Alex: "Oh, hello my dear. I think of you as my own grandson now.$h^Oh, hello my hear. I think of you as my own grand-daughter now.$h" #!String
-    fall_Sun: "My eyesight may be poor, but my nose hasn't failed me yet!#$e#I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl." #!String
+    fall_Sat: "¿Eres amigo de Alex?^¿Eres amiga de Alex?#$e#A veces me preocupa mucho." #!String
+    fall_Sat_inlaw_Alex: "Oh, hola cielo. Ahora eres como mi propio nieto.$h^Oh, hola cielo. Ahora eres como mi propia nieta.$h$h" #!String
+    fall_Sun: "Mi vista puede que sea pobre, ¡pero la nariz aún no me falla!#$e#Puedo oler las hojas caidas y las setas. Me recuerda a cuando jugaba en el bosque de niña." #!String
     winter_Mon: "Ten cuidado de no resbalar en el hielo, cielo." #!String
-    winter_Tue: "Aren't you cold? You should wear a thicker jacket, my dear!#$e#This weather isn't good for my joints...$s" #!String
+    winter_Tue: "¿No tienes frío? ¡Deberías llevar una chaqueta más gruesa cariño!#$e#Este tiempo no es bueno para mis articulaciones...$s" #!String
     winter_Wed: "Normalmente cuido los jardines, pero están cubiertos de nieve.#$e#Aun así me gusta echarles un vistazo de vez en cuando." #!String
-    winter_Sat: "Hemos vivido aquí mas de 30 años.#$e#Hemos visto a mucha gente ir y venir. Tu abuelo, por ejemplo. Bendito sea...*suspiro*" #!String
+    winter_Sat: "Hemos vivido aquí más de 30 años.#$e#Hemos visto a mucha gente ir y venir. Tu abuelo, por ejemplo. Bendito sea...*suspiro*" #!String
     winter_Sat6: "Oh... cielo. Tienes los ojos de tu abuelo....$s#$e#Sí... sí... lo conocía muy bien." #!String
-    winter_Sun: "Deberías hacer algo de sopa caliente para calentarte.¡#$e#Y asegúrate de ponerte una chaqueta!" #!String
-    winter_Sat8: "@, have I told you that George and I have lived in our house for 30 years?#$e#I hope you stay here for a while.$h" #!String
+    winter_Sun: "Deberías hacer algo de sopa caliente para calentarte.#$e#¡Y asegúrate de ponerte una chaqueta!" #!String
+    winter_Sat8: "@, ¿alguna vez te he contado que George y yo hemos vivido en nuestra casa durante treinta años?#$e#Espero que te quedes aquí bastante tiempo.$h" #!String
