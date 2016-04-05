@@ -22,7 +22,9 @@ content:  #!Dictionary<String,String>
     Wed: "Hey, ¿qué tal, @?#$e#Estoy pensando en nuevos proyectos de carpintería.#$e# ¿Te está yendo bien con tu terreno? ¿Cómo esta almacenada la madera en tu granero?" #!String
     Thu: "Siempre serás bienvenido, incluso si no estás de compras, ya sabes.$h#$e#Puedes acabar sintiéndote solo aquí en las montañas." #!String
     Fri: "¿Has conocido a mi hijo Sebastian, verdad? Vive abajo. #$e #El es un poco tímido, pero estoy seguro de que le caerás bien si eres simpático con él." #!String
+    Fri_inlaw_Sebastian: "I miss my Sebby... he was always a little misunderstood, but I believed in him." #!String
     Fri4: "#$1 RobinSeb#Encontré un cenicero en la habitación de Sebastian, y olía realmente raro. ¿Debería de preocuparme?#$e#A veces Sebastian me preocupa... no tiene muchos amigos y no parece preocuparle mucho su futuro...#$e#Hablaría con el, pero nunca se abre." #!String
+    Fri4_inlaw_Sebastian: "Sebastian told me he's trying to quit smoking! I'm really proud of him." #!String
     Sat: "Nuestra casa está en una zona preciosa, ¿no crees?#$e#Adoro el aire fresco de las montañas." #!String
     Sun: "Espero que Demetrius no haga volar la casa por los aires con esos experimentos suyos.#$e#No estoy muy segura de en qué está trabajando. Creo que tiene algo que ver con las plantas." #!String
     Sun2: "#$1 RobinDem#Mi esposo casi incendio la casa ayer con su experimento de ciencia.¡Uno de sus vasos explotó y prendio fuego a las vigas del techo! Usé laca a prueba de fuego cuando la construí.$u#$e# Lo siento si huele raro aqui,@. Es un proyecto de ciencia de mi esposo..." #!String
@@ -37,5 +39,6 @@ content:  #!Dictionary<String,String>
     fall_Fri: "Hay un 'hombre salvaje' que vive bajo nuestra casa$s#$e#Creo que no tiene importancia, mientras no nos moleste." #!String
     winter_Mon: "Hey, esta es una época del año perfecta para recoger leña.#$e#¡Tal vez puedas recoger la necesaria como para mejorar tu casa!" #!String
     winter_Fri: "Mis padres estaban desconcertados cuando les dije que quería ser carpintera.#$e#Ellos eran bastante anticuados." #!String
+    winter_Fri_inlaw_Sebastian: "I think the farm life is really healthy for Sebby." #!String
     winter_Sat: "Nuestra casa esta en una zona hermosa ¿no crees? #$e#todo luce igual despues de la nieve fresca." #!String
 
