@@ -40,7 +40,7 @@ content:  #!Dictionary<String,String>
     Outdoor_1: "Siempre tengo un ojo puesto en el cielo... Nunca sabes cuando pasará un OVNI por ahí." #!String
     Outdoor_2: "¡Hola, @! Si supiese más sobre la granja te ayudaría más. ¡Lo siento!#$e#Lo intentaré y te ayudaré con pensamientos alentadores.$h" #!String
     Outdoor_3: "Hay algo en el aire que me hace sentir bien... Quizás sea ese débil olor a pizza que sale de los hornos de Gus." #!String
-    Outdoor_4: "Wow... Hoy estás genial. Las manchas de barro te dan un encanto extra.$l" #!String
+    Outdoor_4: "Wow... Hoy estás genial y las manchas de barro te dan un encanto extra.$l" #!String
     OneKid_0: "Voy a cambiar los pañales de %kid1.... no te preocupes. Ya tienes bastante con tu faena." #!String
     OneKid_1: "¡Me gusta ser padre!$h" #!String
     OneKid_3: "Creo que deberíamos tener otro hijo. ¿Por qué parar ahora?" #!String
