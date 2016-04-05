@@ -16,21 +16,21 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Bien, ¡hola por ahí! soy Gus, chef y propietario del bar Stardrop.#$e#Pásate si necesitas algún refrigerio. Siempre tengo café caliente y cerveza fría lista para servirse.$h" #!String
-    Mon: "Si, se mucho acerca de las personas que viven aqui.#$e#Ese es uno de los beneficios que tienes siendo barman.$h#$e#A veces escucho demasiado..." #!String
+    Introduction: "¡Hola! Soy Gus, chef y propietario del Salón Stardrop.#$e#Pásate si quieres tomar algo. Siempre tengo café caliente y cerveza fría lista para servirse.$h" #!String
+    Mon: "Sí, se mucho acerca de la gente del pueblo.#$e#Ese es uno de los beneficios que tienes siendo camarero.$h#$e#A veces escucho demasiado..." #!String
     Saloon: "Buenas noches. ¿Puedo hacer algo por ti?" #!String
     Saloon4: "Buenas noches. Siéntete como en casa." #!String
-    SeedShop_Entry: "¡Hola, Pierre!/Ahora, lo que necesito.../¡Ah, se ve bien!/¡Esta noche haré mi salsa especial!/Pierre, ¿que hay de nuevo?/¡Pierre! ¿Que tienes para mi?" #!String
-    Saloon8: "Hola @. ¡Me alegro de verte! Siempre eres bienvenido." #!String
-    Saloon_Tue: "¡Hola! Por favor, relajate y disfruta." #!String
+    SeedShop_Entry: "¡Hola, Pierre!/Bueno... ¿Qué necesito...?/¡Ah, está bien!/¡Esta noche haré mi salsa especial!/Pierre, ¿qué hay de nuevo?/¡Pierre! ¿Qué tienes para mi?" #!String
+    Saloon8: "Hola @. ¡Me alegro de verte! Siempre eres bienvenido.^Hola @. ¡Me alegro de verte! Siempre eres bienvenida." #!String
+    Saloon_Tue: "¡Hola! Por favor, relájate y disfruta." #!String
     Saloon_Thu: "Oye, parece que necesitas un trago." #!String
     Saloon_Fri: "El negocio ha sido muy bueno esta noche. Me alegro." #!String
     Tue: "Vendo platos diferentes cada semana, ¡así que asegúrate de pasar a mirar de vez en cuando!#$e#Podrías probar algo espectacular.$h#$e#Solo avísame si tienes algún tipo de alergia.$s#$e#Vale, nos vemos." #!String
     Wed: "Emily ha estado trabajando aquí desde hace mucho tiempo. ¡No se lo que haría sin ella!#$e#Odiaría tener que limpiar todas esas ollas yo solo.$s" #!String
-    Thu: "Pam y Clint vienen al bar casi todas las noches. #$e# Probablemente me arruinaría si dejaran de venir. $h#$e#¡Así que trata de no espantarlos!" #!String
-    Thu6: "Clint viene a la Taberna casi cada noche y se sienta en la misma mesa. #$e# Algunas veces mira de reojo a Emily y se pone nervioso. Mmm. #$e# Quizás sea por eso que viene tan seguido. Bueno, eso significa mas ganancias para mi." #!String
-    Thu8: "Pam entra en el bar casi cada noche y bebe demasiada cerveza.#$e#En fin, no debería emitir críticas sobre mis clientes." #!String
-    Fri: "Hola, @. Si esta noche tienes sed, ¿por que no te pasas por el salón?" #!String
-    Fri4: "De hecho, yo no bebo mucho. Principalmente hago esto para ganarme la vida.#$e#Aunque disfruto del sabor de la vendimia de Stardew Valley de vez en cuando." #!String
-    Sat: "¿Eres un cocinero, @? #$e# Si tienes una cocina y algunas recetas, puedes cocinar algunos platos útiles. #$e# Las comidas puede ser grandes regalos, también." #!String
+    Thu: "Pam y Clint vienen al salón casi todas las noches.#$e#Probablemente me arruinaría si dejaran de venir.$h#$e#¡Así que trata de no espantarlos!" #!String
+    Thu6: "Clint viene al salón casi todas las noches y se sienta en la misma mesa.#$e#Algunas veces mira de reojo a Emily y se pone nervioso. Mmm.#$e#Quizá por eso viene tanto. Bueno, eso significa más ganancias para mí." #!String
+    Thu8: "Pam entra en el salón casi todas las noches y bebe demasiada cerveza.#$e#En fin, no debería criticar a mis clientes." #!String
+    Fri: "Hola @. Si quieres tomar algo esta noche, ¿por que no te pasas por el salón?" #!String
+    Fri4: "Yo no bebo mucho. Principalmente hago esto para ganarme la vida.#$e#Aunque disfruto del sabor de la vendimia de Stardew Valley de vez en cuando." #!String
+    Sat: "¿@, cocinas?#$e# Si tienes una cocina y algunas recetas, puedes cocinar algunos platos útiles.#$e#Las comidas caseras pueden ser buenos regalos también." #!String
     Sun: "El negocio se ha mantenido gracias a mis clientes habituales." #!String
