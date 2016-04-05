@@ -23,5 +23,5 @@ content:  #!Dictionary<String,String>
     Wed: "GOTO Tue" #!String
     Fri: "GOTO Tue" #!String
     Sat: "1000 Town 31 89 1/1200 Town 24 12 jas_jumprope/1700 Town 28 90 1/2000 AnimalShop 0 7 3" #!String
-    spring: "900 AnimalShop 7 5 0/1100 Forest 38 10 2 jas_jumprope \"1... 2... 3... 4... ¡Oh, no! Me he liado otra vez.\"/1500 AnimalShop 17 15 3 jas_read/1900 AnimalShop 4 7 2/2100 AnimalShop 0 7 3" #!String
+    spring: "900 AnimalShop 7 5 0/1100 Forest 38 10 2 jas_jumprope \"1... 2... 3... 4... ¡Oh, no! Me he liado otra vez.\"/1500 AnimalShop 17 15 3 jas_read/1900 AnimalShop 4 7 2/2100 AnimalShop 1 7 3" #!String
 
