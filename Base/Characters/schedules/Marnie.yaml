@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     rain: "GOTO spring" #!String
-    winter_18: "900 AnimalShop 17 5 0 \"Creo que en realidad a Jas le gusta ir al médico. Que pequeñaja tan rara.\"/1040 Hospital 13 14 3 \"Estamos aquí para la cita de las 1:30\"/1330 Hospital 2 7 1 \"Erm... Doctor Harvey, cuando le ponga las inyecciones, ¿puede darnos dos piruletas?\"/1610 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
+    winter_18: "900 AnimalShop 17 5 0 \"Creo que en realidad a Jas le gusta ir al médico. Que pequeñaja tan rara.\"/1040 Hospital 13 14 3 \"Estamos aquí para la cita de la 1:30.\"/1330 Hospital 2 7 1 \"Erm... Doctor Harvey, cuando le ponga las inyecciones, ¿puede darnos dos piruletas?\"/1610 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
     fall_18: "900 AnimalShop 17 5 0/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Erm... Doctor Harvey, esto es completamente confidencial, ¿cierto?\"/1600 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
     Tue: "900 AnimalShop 17 5 0/1000 SeedShop 23 16 2/1300 SeedShop 28 17 2 marnie_exercise/1600 SeedShop 25 15 3 \"Esta noche voy a dormir bien.$h\"/1810 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
     Mon: "810 SeedShop 11 20 0/1200 AnimalShop 24 15 0/2100 AnimalShop 12 5 3" #!String
