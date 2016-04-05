@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "Ah, El Alcalde Lewis me dijo que acababas de llegar. ¡Soy Marnie!#$e#Vendo ganado y productos de cuidado animal en mi rancho. Deberías pasarte alguna vez.$h" #!String
-    Mon: "Me encantan los animales, Sr. @. ¡Si tratas bien a los tuyos estoy segura de que nos convertiremos en grandes amigos!^Me encantan los animales, Sra. @. Trátalos amablemente y nos haremos amigos, ¡estoy segura!" #!String
+    Mon: "Me encantan los animales, Sr. @. ¡Si tratas bien a los tuyos estoy segura de que nos convertiremos en grandes amigos!^Me encantan los animales, @. Trátalos amablemente y nos haremos amigos, ¡estoy segura!" #!String
     Mon4: "Los animales son tan inocentes, tan dulces. Y si no los cuidas, ¿quien lo hará?$s#$e#Tan solo espero que mis gallinas no se enfaden cuando cojo sus huevos.$s" #!String
     Thu_2: "Llevas aquí un tiempo... ¿como va tu granja?#$e#Cuidar de animales es fácil, ¡siempre que no te olvides de ellos!$h" #!String
     Saloon: "Ahora que estoy aquí puedo relajarme y socializar un poco." #!String
