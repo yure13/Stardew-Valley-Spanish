@@ -16,30 +16,30 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Es un placer conocerte. Soy Harvey, el doctor local.#$e#Realizo chequeos regulares y procedimientos médicos a todos los residentes de Pelican Town. Es un trabajo gratificante.#$e#Espero que usted encuentre su trabajo igual de gratificante, con el tiempo.$h" #!String
+    Introduction: "Es un placer conocerte. Soy Harvey, el doctor del pueblo.#$e#Hago chequeos y procedimientos médicos a todos los residentes de Pueblo Pelícano. Es un trabajo gratificante.#$e#Espero que, con el tiempo, encuentres tu trabajo igual de gratificante.$h" #!String
     danceRejection: "¡Oh! Lo siento... Yo, eh... tengo planes para invitar a otra persona.$s" #!String
-    Mon: "Vendemos algunos medicamentos en la clínica... no dudes en pasar si te sientes cansado.#$b#Sé que ser un agricultor es bastante agotador... ¡no te sobreesfuerzes!" #!String
-    Mon2: "Me siento responsable de la salud de toda esta comunidad... puede ser estresante a veces.#$e#Es una comunidad muy pequeña, así que puedo construir una buena relación con mis pacientes." #!String
-    Mon6: "Me gustaría quedarme en Stardew Valley por un tiempo. Por fin estoy empezando a sentirme involucrado en la comunidad.#$e#Se siente bien saber que eres útil." #!String
-    Mon10: "¡Oh! Hola, @.$l#$e#¿Tienes... alguna pregunta médica?$l" #!String
-    Tue: "Sientete libre de pasar por mi oficina, si alguna vez te sientes enfermo.#$e#Aunque eres joven. Probablemente te mantendras sano sin tratar.$h" #!String
+    Mon: "Vendemos algunos medicamentos en la clínica... no dudes en pasar si te sientes cansado.#$b#Sé que ser granjero es bastante agotador... ¡no te sobreesfuerzes!^Sé que ser granjera es bastante agotador... ¡no te sobreesfuerzes!" #!String
+    Mon2: "Me siento responsable de la salud de toda esta comunidad... puede ser estresante a veces.#$e#Es una comunidad muy pequeña, así que puedo mantener una buena relación con mis pacientes." #!String
+    Mon6: "Me gustaría quedarme en Stardew Valley por un tiempo. Por fin estoy empezando a sentirme involucrado en la comunidad.#$e#Sienta bien saber que eres útil." #!String
+    Mon10: "¡Oh! Hola @.$l#$e#¿Tienes... alguna pregunta médica?$l" #!String
+    Tue: "Siéntete libre de pasar por mi oficina si alguna vez te sientes enfermo^Siéntete libre de pasar por mi oficina si alguna vez te sientes enferma.#$e#Aunque eres joven. Probablemente te mantendrás saludable sin tratar.$h" #!String
     Tue8: "No te sobreesfuerces, @. ¡Órdenes del médico!#$e#Tu salud es importante para mí.$l" #!String
     Wed4: "Me gustaría llegar a conocerte mejor, @. Dejemos de lado nuestra relación médico-paciente." #!String
-    Wed6: "Es bueno tener un amigo en el pueblo.$h" #!String
-    Wed8: "Realmente tienes un tono saludable. Eso es bueno.$h" #!String
+    Wed6: "Es bueno tener un amigo en el pueblo.$h^Es bueno tener una amiga en el pueblo.$h" #!String
+    Wed8: "Tienes un brillo saludable. Eso es bueno.$h" #!String
     Wed: "Recuerda cubrirte la boca cuando estornudes.#$e#Luego, asegúrate de lavarte las manos." #!String
     Thu8: "Es mucho trabajo, ser médico. No como tan bien como debería.$s#$e#Creo que sería más fácil si no viviese solo.$l" #!String
     Thu: "La nutrición es importante, así que asegúrate de comer bien. ¡Intenta comer más verduras!#$e#La comida casera es la mejor. ¿Tu cocinas?" #!String
-    Fri: "Es un día hermoso, ¿no crees?#$e#Desearía tener menos trabajo por hacer.$s" #!String
+    Fri: "Es un día hermoso, ¿no crees?#$e#Ojalá tuviera menos trabajo por hacer.$s" #!String
     Fri4: "Si quieres pasar el rato en mi apartamento, me parece bien. Vivo encima de la clínica." #!String
     Fri10: "Pasa por mi casa si necesitas un chequeo confidencial.$l" #!String
-    Sat: "Hola, @. ¿Puedo hacer algo por ti?#$e#Cuídate." #!String
+    Sat: "Hola @. ¿Puedo hacer algo por ti?#$e#Cuídate." #!String
     Sat4: "Vine aquí porque me gustó el ambiente del pueblo, y el potencial de acercarme a conocer todo sobre el cuidado de los pacientes.#$e#He llegado a amarlo realmente.$h" #!String
     Sat8: "*Suspiro*... Estoy empezando a sentirme viejo...#$e#Cuanto más viejo te haces, más te agobias con tus recuerdos. Puede ser abrumador.$s#$e#Creo que me siento más joven contigo cerca.$l" #!String
-    Sun: "Hmm... Estoy luchando para llegar a fin de mes. No tengo suficientes pacientes.#$e#Supongo que debería intentar conseguir pacientes de los pueblos colindantes..." #!String
-    Sun6: "Imagina tener la vida de un paciente en tus manos, y no poder salvarlo... Eso es algo que te perseguirá para siempre.$s" #!String
-    event_george1: "Gracias, @.$h#$b#Ya ves, George, sólo estoy tratando de ayudarte." #!String
-    event_george2: "*Suspiro*$s#$b#Mira, George. Si quieres comportarte así, voy a tener que contarselo a tu esposa. No creo que ella se vaya a poner contenta." #!String
+    Sun: "Um... Estoy luchando para llegar a fin de mes. No tengo suficientes pacientes.#$e#Supongo que debería intentar conseguir pacientes de los pueblos colindantes..." #!String
+    Sun6: "Imagina tener la vida de un paciente en tus manos, y no poder salvarlo... Eso es algo que te persigue para siempre.$s" #!String
+    event_george1: "Gracias @.$h#$b#Ya ves, George, sólo estoy tratando de ayudarte." #!String
+    event_george2: "*Suspiro*$s#$b#Mira, George. Si quieres comportarte así, voy a tener que contarselo a tu esposa. No creo que se vaya a poner contenta." #!String
     event_aerobics1: "Gracias, @. Te lo agradezco.$h" #!String
     event_aerobics2: "*Suspiro*... tosco.$s" #!String
     event_heart1: "¡Oh! Los hospitales te ponen nervioso, ¿eh?#$b#Solo trata de relajarte. Estoy aquí para ayudar.$h" #!String
@@ -47,8 +47,8 @@ content:  #!Dictionary<String,String>
     event_heart3: "Um. Está bien... si tu lo dices.$s" #!String
     event_grave1: "...Tienes razón.#$b#...Gracias." #!String
     event_grave2: "*suspiro*$s" #!String
-    summer_Mon: "Está bien tomar el sol. Pero no te quemes.#$e#Está bien. ¡Cuídate! Mantente sano." #!String
-    summer_Thu: "El ejercicio es importante, pero no te agotes demasiado, ¡o podrías terminar en mi clínica!#$e#Asegúrate y escucha a tu cuerpo." #!String
+    summer_Mon: "Está bien tomar el sol. Pero no te quemes.#$e#Bueno, ¡cuídate! Mantente sano.^Bueno, ¡cuídate! Mantente sana." #!String
+    summer_Thu: "El ejercicio es importante, pero no te agotes demasiado, ¡o podrías terminar en mi clínica!#$e#Escucha a tu cuerpo." #!String
     summer_Fri: "Las personas no enferman mucho durante el verano. Eso es bueno, pero también significa menos negocio para mí." #!String
     fall_Fri: "¿Tienes que ir a las minas, @?#$e#Es un lugar peligroso. No te lo recomiendo." #!String
     fall_Sat: "Cuando comas ciertos alimentos, obtendras un mayor rendimiento.#$e#¡Comer un 'Almuerzo de granjero' te dara los nutrientes que necesitas para regar y cosechar mejor los cultivos!" #!String
