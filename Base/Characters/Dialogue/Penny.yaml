@@ -59,7 +59,7 @@ content:  #!Dictionary<String,String>
     event_pool1: "Eso es cierto... $8" #!String
     event_pool2: "¿De verdad? Creía que a estas alturas te habrías dado cuenta...$8" #!String
     event_pool3: "¡No!$9" #!String
-    event_pool4: "..Oh, @. Pensaba que tú también, pero no estaba segura.$6#$b#... Siempre recordaré esta noche.$6^Estás tan... Yo... *gasp*$l" #!String
+    event_pool4: "..Oh, @. Pensaba que tú también, pero no estaba segura.$6#$b#... Siempre recordaré esta noche.$6^Estás tan... Yo... *gasp*$6" #!String
     event_pool5: "N...¿No?$8#$b#...!!!%fork$10" #!String
     event_family1: "Yo también.$h" #!String
     event_family2: "...lo siento.$s" #!String
