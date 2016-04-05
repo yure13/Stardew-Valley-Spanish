@@ -102,7 +102,7 @@ content:  #!Dictionary<Int32,String>
     151: "Calamar/80/10/Fish -4/Una criatura que habita las profundidades del océano, y que puede alcanzar un tamaño enorme./Day^Winter" #!String
     152: "Alga marina/20/5/Fish/Puede usarse para cocinar./Day Night^Spring Summer Fall Winter" #!String
     153: "Alga verde/15/5/Fish/Es muy babosa./Day Night^Spring Summer Fall Winter" #!String
-    154: "Pepino de mar/75/-10/Fish/Una babosa y resbaladiza criatura encontrada en el suelo oceánico./Day^Fall Winter" #!String
+    154: "Pepino de mar/75/-10/Fish -4/Una babosa y resbaladiza criatura encontrada en el suelo oceánico./Day^Fall Winter" #!String
     155: "Súper pepino de mar/250/50/Fish -4/Una rara y morada variedad del pepino de mar./Night^Summer Fall" #!String
     156: "Pez fantasma/45/15/Fish -4/Un pez ciego y pálido que se encuentra en lagos subterráneos./Day Night^Spring Summer Fall Winter" #!String
     157: "Alga blanca/25/8/Fish/Es súper babosa./Day Night^Spring Summer Fall Winter" #!String
@@ -354,7 +354,7 @@ content:  #!Dictionary<Int32,String>
     480: "Semillas de tomate/25/-300/Seeds -74/Se plantan en verano. Tardan 11 días en madurar, y siguen produciendo tras la primera cosecha." #!String
     481: "Semillas de arándano/40/-300/Seeds -74/Se plantan en verano. Tardan 13 días en madurar, y siguen produciendo tras la primera cosecha." #!String
     482: "Semillas de guindilla/20/-300/Seeds -74/Se plantan en verano. Tardan 5 días en madurar, y siguen produciendo tras la primera cosecha." #!String
-    483: "Semillas de trigo/5/-300/Seeds -74/Se plantan en verano. Tardan 4 días en madurar. Se cosechan con la guadaña." #!String
+    483: "Semillas de trigo/5/-300/Seeds -74/Se plantan en verano u otoño. Tardan 4 días en madurar. Se cosechan con la guadaña." #!String
     484: "Semillas de rábano/20/-300/Seeds -74/Se plantan en verano. Tardan 12 días en madurar." #!String
     485: "Semillas de repollo colorado/50/-300/Seeds -74/Se plantan en verano. Tardan 9 días en madurar." #!String
     486: "Semillas de carambola/200/-300/Seeds -74/Se plantan en verano. Tardan 13 días en madurar." #!String
