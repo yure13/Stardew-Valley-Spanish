@@ -16,26 +16,26 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¡Ooh!... Puedo verlo en tu cara. Te va a encantar estar aquí en Pueblo Pelícano.#$b#Si alguna vez buscas algo que hacer por la noche, pásate por el salón. ¡Ahí es donde trabajo!" #!String
-    Mon: "¿Te dicho que Haley y yo somos hermanas? Extraño, ¿no?" #!String
+    Introduction: "¡Ooh!... Puedo verlo en tu cara. Te va a encantar estar aquí, en Pueblo Pelícano.#$b#Si alguna vez buscas algo que hacer por la noche, pásate por el Salón. ¡Trabajo ahí!" #!String
+    Mon: "¿Te he dicho que Haley y yo somos hermanas? Extraño, ¿no?" #!String
     Mon6: "Me gustaria que Haley encontrara un trabajo o, al menos, que ayudara a cocinar y limpiar.$s#$e#Creo que esta esperando a casarse con algún ricachón." #!String
-    Mon6_inlaw_Haley: "I have to say, now that Haley's gone I've had a much easier time keeping things in order." #!String
-    Tue: "Trabajo a tiempo parcial en el salón de Gus. Eso paga las facturas." #!String
+    Mon6_inlaw_Haley: "Ahora que Haley se ha ido, tengo que decir que es mucho más fácil mantener las cosas en orden." #!String
+    Tue: "Trabajo a tiempo parcial en el Salón de Gus. Con eso puedo pagar las facturas." #!String
     Tue4: "Estoy trabajando con Gus para llegar a fin de mes... pero mi verdadera pasión es la sastrería.#$e#He hecho esta ropa desde cero." #!String
     Wed: "He escuchado rumores sobre extraños y poderosos anillos mágicos, forjados hace mucho tiempo por civilizaciones olvidadas. No estoy segura de si es verdad o solo un cuento de hadas." #!String
     Thu: "Espero que estés cultivando de forma ecológica. ¡El ecosistema del valle es frágil!#$e#¿Que cómo lo sé? ¡Tengo un sexto sentido!" #!String
     Fri: "Ah, primavera. La estación de los tonos pastel. Aunque personalmente prefiero los tonos joya.#$b#Oh, perdón! Estaba hablando de moda otra vez, ¿verdad?" #!String
     Sat: "Me gusta fabricarme mi propia ropa, pero no es fácil conseguir tela.#$e#Hace falta ir a la ciudad y es un largo viaje." #!String
-    Sun: "Hola @!#$e#¿Crías ovejas en tu establo? ¡Puedes convertir su lana en preciosas madejas de tela!#$e#Aunque para ello necesitarás un telar. Puedes construirlo tu mismo si conoces la receta.^Aunque para ello necesitarás un telar. Puedes construirlo tu misma si conoces la receta." #!String
-    Sun4: "Mis padres nos dejaron al cuidado de esta casa a mi y a Haley. Han estado viajando por todo el mundo los últimos dos años.#$e#No tenemos ni idea de cuando volverán.#$e#Aunque, me gusta vivir aquí. Es una zona preciosa y el pueblo es bonito." #!String
+    Sun: "¡Hola @!#$e#¿Crías ovejas en tu establo? ¡Puedes convertir su lana en preciosas madejas de tela!#$e#Aunque para ello necesitarás un telar. Puedes construirlo si conoces la receta." #!String
+    Sun4: "Mis padres nos dejaron al cuidado de esta casa a Haley y a mí. Han estado viajando por todo el mundo los últimos dos años.#$e#No tenemos ni idea de cuando volverán.#$e#Aunque, me gusta vivir aquí. Es una zona preciosa y el pueblo es bonito." #!String
     event_dance1: "¡Gracias!" #!String
     event_dance2: "Um... Vale. Perdón si no te gustó. Supongo que estos tres meses de práctica han sido en vano...$s" #!String
     event_dance3: "¿Realmente crees eso? ¡Es exactamente el efecto que estaba buscando!$h#b#Estoy muy contenta de que te haya gustado." #!String
     summer_Mon: "Haley es muy delicada comiendo. Es muy difícil cocinar para ella." #!String
-    summer_Mon_inlaw_Haley: "Haley and I get along much better now that she's moved out. I look forward to her visits!" #!String
-    summer_Tue: "Hola, @.#$e#me siento perezosa hoy. $h" #!String
-    summer_Sun6: "¡Hola, @! Nos hemos vuelto buenos amigos, ¿verdad?^¡Hola, @! Nos hemos vuelto buenas amigas, ¿verdad?$h#$e#Eso esta perfecto por mi. Eres guay.^Me alegra.$h" #!String
-    summer_Wed: "No llueve mucho en verano, ¿No?#$e#Eso significa para ti más trabajo regando, ¿Eh?#$e#¿O te gusta que esté soleado?" #!String
+    summer_Mon_inlaw_Haley: "Haley y yo nos llevamos mucho mejor ahora que se ha mudado. ¡Espero que venga a verme pronto!" #!String
+    summer_Tue: "Hola @.#$e#Me siento perezosa hoy.$h" #!String
+    summer_Sun6: "¡Hola @! Nos hemos vuelto buenos amigos, ¿verdad?^¡Hola, @! Nos hemos vuelto buenas amigas, ¿verdad?$h#$e#Perfecto.^Me alegra.$h" #!String
+    summer_Wed: "No llueve mucho en verano, ¿No?#$e#Eso significa para ti más trabajo regando, ¿eh?#$e#¿O te gusta que esté soleado?" #!String
     summer_Thu: "¡Considero a las abejas y a las mariposas como mis amigas especiales!" #!String
     summer_Fri: "¡Si no estubiera tan ocupada iría a ayudarte en la granja!#$e#Pero Gus se molestaría si tuviera otro trabajo...$s" #!String
     summer_Sat: "¡No trabajes en exceso o podrías acabar en la clínica de Harvey!" #!String
@@ -54,12 +54,12 @@ content:  #!Dictionary<String,String>
     fall_Sun10: "¡Eres una buena persona, @! Gracias por ser mi amigo.^¡Eres una buena persona, @! Gracias por ser mi amiga.$h" #!String
     winter_Mon: "¡Ten cuidado de que un témpano no te caiga en la cabeza!" #!String
     winter_Mon10: "¡Ten cuidado que no te caiga un témpano de hielo en la cabeza! ¡No querría que mi mejor amigo se hiciera daño!^¡Ten cuidado que no te caiga un témpano de hielo en la cabeza! ¡No querría que mi mejor amiga se hiciera daño!" #!String
-    winter_Tue: "Oh, Hola @!$h#$e#Debes de estar muy bien en la granja, ¿Eh?" #!String
+    winter_Tue: "Oh, ¡hola @!$h#$e#Debes de estar muy bien en la granja, ¿no?" #!String
     winter_Tue4: "¡Apuesto a que te has convertido en un granjero excelente!^¡Apuesto a que te has convertido en una granjera excelente!" #!String
-    winter_Wed: "Haley y yo no estamos hechas para vivir en una casa grande. Es un lio mantenerla limpia.#$e#Bueno. No debería quejarme.#$e#Tu casa parece agradable y acogedora.$h" #!String
+    winter_Wed: "Haley y yo no estamos hechas para vivir en una casa grande. Es un lio mantenerla limpia.#$e#Bueno, no debería quejarme.#$e#Tu casa parece agradable y acogedora.$h" #!String
     winter_Thu: "Debe de hacer mucho frío para los pobres peces.$s#$e#Me pregunto si algún pez hibernará... Quizás debería preguntarle a Demetrius." #!String
-    winter_Fri: "Si no estuviera tan ocupada te ayudaría a excavar en la cueva que hay junto al lago.#$e#Apostaría que hay cristales poderosos ahí dentro." #!String
+    winter_Fri: "Si no estuviera tan ocupada te ayudaría a excavar en la cueva que hay junto al lago.#$e#Apostaría que hay poderosos cristales ahí dentro." #!String
     winter_Sat: "¿Sabes como preparar 'estofado de judías'?#$e#Me gusta un montón ese plato.$h#$e#Pero es difícil conseguir ingredientes frescos en invierno, ¿verdad?" #!String
     winter_Sun: "¡Hola!#$e#... ¿Sí?" #!String
     winter_Sun6: "Mi hermana y yo peleamos a veces, pero la echaría de menos si se fuera.#$e#Creo que se convertirá en una jovencita muy agradable algún día... No le digas que he dicho esto.$h#$e#Bueno, ¿Hay algo de lo que quieras hablar?" #!String
-    winter_Sun6_inlaw_Haley: "Say hi to my sister for me! And remind her to visit me tomorrow." #!String
+    winter_Sun6_inlaw_Haley: "¡Saluda a mi hermana de mi parte! Y recuérdale que me venga a verme mañana." #!String
