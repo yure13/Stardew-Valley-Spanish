@@ -18,6 +18,7 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "¡Mira! No eres exactamente como te imaginaba... ¡Pero está bien! Soy Jodi.#$e#Es un pueblo pequeño y tranquilo, ¡así que es muy emocionante cuando alguien nuevo se muda por aquí! Tener a alguien nuevo entre nosotros realmente podría cambiar las cosas." #!String
     Mon: "¿Mantener un hogar es difícil... pero alguien tiene que hacerlo.#$e#Si?" #!String
+    Mon6: "It's nice to have a family... but I'd be lying if I said I never long for the freedom of youth...$s" #!String
     2_1: "Mi marido Kent es un soldado que trabaja en el extranjero, por eso no esta aquí ahora mismo.#$b#¡¡Sé que volverá sano y salvo una vez terminado su recorrido!!#$e#¿Necesitas algo?" #!String
     Tue: "Ejercitarse es importante para mantenerse saludable. Siempre me aseguro de reservar un momento para ello.#$e#Como madre, no tengo mucho tiempo que dedicarme a mí mismo. Así que lo intento y hago que cada minuto valga la pena." #!String
     Wed4: "Me gustaría poder pasar más tiempo afuera, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener mis manos suaves.#$e#Cuanto más viejo te haces, más trabajo tienes que hacer para mantenerte saludable.#$e#Bueno, ¡Adiós!" #!String
@@ -29,19 +30,21 @@ content:  #!Dictionary<String,String>
     Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
     Mon2: "#$1 JodiAltar#Ayer visité el Altar de Yoba para rogar porque mi marido vuelva sano y salvo.#$e#Trato de mantenerme positiva, pero a veces se me hace muy duro.$s" #!String
     Sun: "#$c .5#Me estoy tomando un descanso de las tareas del hogar.$h#$e#Me estoy tomando el día libre.$h#$e#Si no me da el aire en la cara, ¡Me voy a volver loca!!#$e#Además no quiero que se me atrofien las piernas." #!String
+    Sun8: "I had a dream that I had complete freedom, no obligation to anyone but myself...#$b#...Then I woke up and realized I had a full day of house chores ahead of me...$s" #!String
     summer_Mon: "El verano es agradable, pero también significa más trabajo.#$e#¡Tendré que mantener el jardín en forma además de trabajar en la casa!" #!String
     summer_Tue: "Hola.#$e#¿Necesitas algo? Estoy un poco ocupada." #!String
     summer_Thu: "Las labores domésticas son frustrantes porque nunca terminas.#$e#El día después de barrer el suelo, está sucio otra vez." #!String
     summer_Sun: "¿Qué rayos haré para cenar?#$e#*suspiro*..." #!String
     fall_Thu: "Lo mismo he mimado un poco a los chicos. Nunca han tenido que hacer labores domésticas.#$e#Supongo que he querido que disfruten de su niñez mientras puedan. Aunque Sam ya está hecho un hombre.#$b#Espero que no se convierta en un vago. Eso no pasará.$s#$e#Convertirse en padre no es tan fácil." #!String
     fall_Sun: "Caroline y yo somos buenos amigos. Se lo cuento todo." #!String
-    fall_Sun2: "Cuando eres padre, tienes que dejar tu antiguo estilo de vida atrás.#$e#Quizá no es totalmente cierto." #!String
+    fall_Sun2: "When you become a parent, you have to leave your old lifestyle behind.#$e#Maybe that's not entirely true... but if you're not careful, it will happen." #!String
     winter_Mon: "Me encantaba jugar con la nieve cuando era niña. Lo bueno de ser madre es que lo vuelvo a disfrutar.$h" #!String
     winter_Tue: "Hola. ¿Estas cansado de que la gente pregunte por tu granja constantemente?#$e#A mi me pasaría." #!String
     winter_Tue6: "*suspiro*... A veces sueño con vivir por mi cuenta... sin tener una familia a la que cuidar. ¿Tan malo es?$s#$e#No se lo cuentes a nadie.$4" #!String
     winter_Wed2: "¿Que hago para divertime? Hmm... Buena pregunta.#$e#Me gusta dormir.$s" #!String
     winter_Wed4_2: "Kent ha pasado en casa una temporada, pero aún no se encuentra cómodo.$s" #!String
     winter_Thu: "Sam hace demasiado ruido con su música. Espero que no moleste a los vecinos." #!String
+    winter_Thu_inlaw_Sam: "How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out..." #!String
     winter_Thu8: "Creo que nos precipitamos para casarnos, con Kent siendo un soldado y todo eso... Apenas disfruté de la libertad y la juventud, y ahora es muy tarde para volver atrás.$s#$e#No cometas el mismo error.$4" #!String
     winter_Fri: "Sería bueno tomar unas vacaciones de vez en cuando...$s" #!String
     winter_Sun: "Si fuese rica la primera cosa que haría sería contratar a una camarera y un chef.#$e#¡Dios mío, eso sería estupendo!$h" #!String
