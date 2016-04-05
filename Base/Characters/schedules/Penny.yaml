@@ -32,6 +32,6 @@ content:  #!Dictionary<String,String>
     Wed: "GOTO Tue" #!String
     Fri: "GOTO Tue" #!String
     Sat: "1000 Town 32 89 2/1200 Town 12 13 1/1700 Town 29 91 3/2000 Trailer 4 9 1" #!String
-    marriageFun: "830 SeedShop 2 26 2 \"¡Hola, cariño! Estoy comprando algunas cosas.\"/1100 SeedShop 5 19 0 \"No te preocupes, voy a usar mi dinero para esto.\"/1130 Town 35 89 2 penny_read/1600 Town 44 77 2 penny_sit_down \"Me pregunto si Maru se casará algún día.\"/1810 BusStop -1 23 3" #!String
+    marriage_Mon: "830 SeedShop 2 26 2 \"¡Hola, cariño! Estoy comprando algunas cosas.\"/1100 SeedShop 5 19 0 \"No te preocupes, voy a usar mi dinero para esto.\"/1130 Town 35 89 2 penny_read/1600 Town 44 77 2 penny_sit_down \"Me pregunto si Maru se casará algún día.\"/1810 BusStop -1 23 3" #!String
     spring: "800 Town 35 89 2 penny_read/1230 Trailer 12 7 0 penny_dishes/1600 Town 44 77 2 penny_sit_down/1840 Trailer 4 9 1" #!String
 
