@@ -24,6 +24,7 @@ content:  #!Dictionary<String,String>
     Wed: "Ya llevas un tiempo aquí, ¿no? Debe irte bien en tu granja." #!String
     Thu6: "#$1 Kent1#Estoy despierto desde las 4... A veces me pregunto si alguna vez voy a volver a hacer vida normal.$k#$ #Sam ha crecido mucho desde que me marché. Está hecho todo un hombre.#$e#Desearía haber estado aquí para él.$s" #!String
     Thu: "¿Conoces a mi hijo?#$e#Probablemente lo conozcas mejor que yo...$s" #!String
+    Thu_inlaw_Sam: "Hey, @. Are you enjoying the married lifestyle?" #!String
     Fri: "Parece un buen día para pescar, ¿no crees?" #!String
     Sat: "Jodi me dijo que te has convertido en parte de esta comunidad. Me alegro de oírlo." #!String
     Sat8: "Tengo problemas para dormir, así que disculpa si parezco cansado.#$e#Estoy seguro de que lo entenderás." #!String
