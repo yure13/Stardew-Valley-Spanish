@@ -34,7 +34,7 @@ content:  #!Dictionary<String,String>
   Fri4: "Hola, @. Me alegra que te hayas pasado.#e#¡No me avergüenza decir que quiero a mi abuela!#$e#En cambio, a mi abuelo...#$e#Solo bromeo.$h" #!String
   Tue6: "No hay nada mejor que un intenso día en la playa con tus amigos... ¿Verdad" #!String
   Mon8: "Ya sabes, solía querer fama y fortuna, pero últimamente he empezado a pensar de forma distinta. Al final son las pequeñas cosas las que terminan por satisfacernos, ¿no crees?#$e#Todavía quiero ser el mejor, pero no es lo más importante en el mundo." #!String
-  Fri8: "Hola, @. Hoy te veo con ganas de hacer deporte.$h^Hola, @. ¿Te has hecho algo en el pelo? Hoy hay algo en ti que me llama la atención.$l$h#$e#" #!String
+  Fri8: "Hola, @. Hoy te veo con ganas de hacer deporte.$h^Hola, @. ¿Te has hecho algo en el pelo? Hoy hay algo en ti que me llama la atención.$h" #!String
   Sat10: "Últimamente he estado teniendo problemas para concentrarme.$" #!String
   Event_beach1: "Por supuesto que lo harás. Si no lo hicieses pensaría que se te ha ido la cabeza. O que eres un bicho raro" #!String
   Event_beach2: "¿De veras? Debes ser algún tipo de bicho raro.$a#$b#Perdona." #!String
@@ -82,16 +82,18 @@ content:  #!Dictionary<String,String>
   fall_Wed8: "Finalmente he tomado una decisión... Voy a dejar de usar gomina.#$e#No me gustaría ser amigo de alguien a quién solo le gusto porque uso gomina." #!String
   fall_Thu10: "¡@! Um... Hola.$" #!String
   winter_1: "El invierno no es la mejor época. Hay demasiada nieve para hacer algo divertido.#$e#Supongo que a algunas personas les gusta." #!String
-  winter_Mon: "Tengo ganas de que llegue la primavera" #!String
+  winter_Mon: "You like the snow? Me... I'm just looking forward to spring." #!String
   winter_Tue: "Hey, ¿puedes ir a buscar a Haley y decirle hola de mi parte" #!String
+  winter_Tue_inlaw_Haley: "Oh, hey. How's the married life coming along?$9" #!String
   winter_Wed: "Las personas permanecen mucho tiempo en casa durante el invierno haciendo cosas aburridas.$s#$e#Tal vez si leo un libro estaría menos aburrido... Nah." #!String
   winter_Thu: "Cuando sea un jugador profesional, seré tan rico que tendré una casa de vacaciones en el trópico.#$e#Así no tendré que aguantar estos inviernos tan aburridos." #!String
-  winter_Fri: "¿Has caminado pro toda esa nieve sólo para verme?#$e#Supongo que tiene sentido." #!String
-  winter_Sat: "En esta ciudad vive gente muy rara...#$e#Como ese chico, Sebastian. ¿Es gótico o algo?#$e#No lo entiendo." #!String
+  winter_Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
+  winter_Sat: "There's some weird people living in this town.#$e#...like that guy Sebastian. Why does he wear black all the time?#$e#I don't get it." #!String
   winter_Sun: "Eh, ¡hoy es el partido de fútbol!#$e#Éste va a ser mi día favorito de la semana." #!String
   winter_Fri4: "¿Has venido a verme con todo esa nieve?#$e#Es un buen detalle por tu parte.$h" #!String
   winter_Sat6: "Creo que es interesante que algunas personas sean totalmente diferentes a nosotros, ¿sabes?$b##No siempre entiendo por qué otros actúan de la manera en que lo hacen, pero eso está bien." #!String
   winter_Tue4: "Oye, @. ¿Podrías hacerme un favor?$l#$b#Si ves a Haley, dile que estoy ocupado.$l#$e#Gracias." #!String
+  winter_Tue4_inlaw_Haley: "I'll admit... I was a little jealous when you and Haley got married. But, hey... It's a chance for me to learn something new about myself.$9" #!String
   winter_Wed8: "¿Sabes qué? ¡Voy a empezar a leer un libro" #!String
   winter_Thu6: "Ojalá pudiera controlar el clima" #!String
   winter_Thu10: "Si alguna vez gano mucho dinero, me aseguraré de mantener a todos mis amigos y familia.#$e#También te incluyo a ti.$h" #!String
