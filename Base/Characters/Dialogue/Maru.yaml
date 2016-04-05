@@ -16,14 +16,14 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "Oh! no eres tu quien que acaba de mudarse?#$b#soy Maru. he estado esperando conocerte!$h#$e#sabes, con un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡ Es emocionante!" #!String
+    Introduction: "Oh! ¿no eres tu quien que acaba de mudarse?#$b#soy Maru, he estado esperando conocerte!$h#$e#Sabes, con un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡Es emocionante!" #!String
     danceRejection: "¡Me halagas! Pero... No." #!String
     Mon: "Siempre que estoy luchando con un problema técnico, suelo tomar un paseo. #$e #es sorprendente cuanto un cambio de escenario puede ayudar." #!String
     Tue: "¿Has conocido a mi mamá? Ella es la carpintera del pueblo." #!String
     Wed: "Los martes y jueves trabajo en la clínica de Harvey.#$b#¡Él dice que le gusta tenerme cerca cuando su equipo médico se vuelve loco!$h#$e#Ser granjero debe ser bastante fácil, ¿eh?" #!String
     Thu: "Tengo pensado pasar mucho tiempo con mi telescopio este verano." #!String
     Sat: "¿Conoces a mi papa, Demetrius? Es científico. Es muy divertido ayudarle en el laboratorio." #!String
-    Fri: "Hey, perdona si parece que esté de mal humor... Estoy un poco irritada con el trabajo de ayer.#$c.5# ¡Tuve que cargar diez cajas de archivos médicos al ático!#$e#¡Tuve que clasificar registros de pacientes durante cuatro horas seguidas!" #!String
+    Fri: "Hey, perdona si parece que esté de mal humor... Estoy un poco irritada con el trabajo de ayer.#$c.5#¡Tuve que cargar diez cajas de archivos médicos al ático!#$e#¡Tuve que clasificar registros de pacientes durante cuatro horas seguidas!" #!String
     Sun: "Hola! $q # 3/4 Sun_01_old #¿Se divierte trabajando en la granja? #$r 3 0 Sun_01_01 #Si. $r # 4 0 Sun_01_02 #No." #!String
     Sun_01_old: "$p 3#Hey, ¡has conseguido otra semana de avances en la granja! Parece que las cosas te van bien.$h|Otra agotadora semana en la granja, ¿eh? Debe haber mucho trabajo... $s" #!String
     Sun_01_01: "Bueno, eso es bueno, ¿no?$h" #!String
