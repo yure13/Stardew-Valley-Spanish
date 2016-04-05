@@ -95,9 +95,9 @@ content:  #!Dictionary<String,String>
     jobLeave_Harvey: "I have to go into the clinic today. Have a nice day, okay?" #!String
     jobLeave_Penny: "I have to go into town today. Don't work too hard, and eat something good for lunch!$h" #!String
     jobLeave_Maru: "I have to leave for work soon. I'll see you tonight. I'll be thinking of you!$h" #!String
-    jobReturn_Harvey: "#$c .5#Hi, @. How was your day?#$e#*Phew*... I'm exhausted...$s#$e#My patients are still healthy, so it was a good day." #!String
-    jobReturn_Penny: "#$c .5#Good evening, @. My day was fine, thanks! How was yours?$h#$e#The kids weren't behaving well today. I'm at the end of my rope.$a" #!String
-    jobReturn_Maru: "#$c .5#Well, it was just another boring day at the clinic.#$e#Hey, @. Did you have a more exciting day than me? I hope so.#$e#$c .5#Well, It's time to kick back and relax. Did you leave me any dinner?#$e#I'm just looking forward to bed-time.$h" #!String
+    jobReturn_Harvey: "#$c .5#Hi, honey. How was your day?#$e#*Phew*... I'm exhausted...$s#$e#My patients are still healthy, so it was a good day." #!String
+    jobReturn_Penny: "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#$e#Jas and Vincent weren't behaving very well today. I'm still all wound up..." #!String
+    jobReturn_Maru: "#$c .5#Well, it was just another boring day at the clinic.#$e#Hey. Did you have a more exciting day than me? I hope so.#$e#$c .5#Well, It's time to kick back and relax. Did you leave me any dinner?#$e#I'm just looking forward to bed-time.$h" #!String
     OneKid_0: "Have you spent any time with %kid1 today?" #!String
     OneKid_1: "I wonder if %kid1 will grow up to be a farmer like you?" #!String
     OneKid_2: "Don't worry, I'll feed %kid1 today. You can just focus on running the farm." #!String
@@ -148,7 +148,7 @@ content:  #!Dictionary<String,String>
     fall_26: "Should we go to the Spirit's Eve festival tomorrow night?" #!String
     winter_1: "Brrr.... It's cold. I guess winter has arrived." #!String
     winter_7: "Are you going to enter the fishing contest tomorrow?" #!String
-    winter_28: "Thanks for a great year,@. I'm excited to tackle next year together.$l" #!String
+    winter_28: "Thanks for a great year, @. I'm excited to tackle next year together.$l" #!String
     spring_Maru: "I'm feeling excited for a new year of farming, @!$h" #!String
     spring_Abigail: "I may like the colder seasons, but by the end I'm always glad to see spring arrive." #!String
     spring_Haley: "Aren't you glad winter's over, honey? Things seem more hopeful now." #!String

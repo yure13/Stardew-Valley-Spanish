@@ -34,7 +34,7 @@ content:  #!Dictionary<String,String>
     Fri4: "Hey, @. I'm glad you stopped by.#e#I'm not ashamed to say that I love my Grandma!#$e#Now Grandpa, on the other hand...#$e#Just kidding.$h" #!String
     Tue6: "Nothing's better than an energetic day at the beach with your friends... right?" #!String
     Mon8: "You know, I used to want fame and fortune, but lately I've been starting to sing a different tune. In the end it's the humble little things that satisfy, don't you think?#$e#I still want to go pro, but it's not the most important thing in the world." #!String
-    Fri8: "Hi @. You look sporty today.$h^Hey @. Did you do something different with your hair? Something keeps grabbing my attention.$l$h#$e#" #!String
+    Fri8: "Hi @. You look sporty today.$h^Hey @. Did you do something different with your hair? Something keeps grabbing my attention.$h" #!String
     Sat10: "I've been having a hard time staying focused lately.$l" #!String
     Event_beach1: "Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd." #!String
     Event_beach2: "Really? You must be some kind of weirdo.$a#$b#Sorry." #!String
@@ -82,16 +82,18 @@ content:  #!Dictionary<String,String>
     fall_Wed8: "I finally took the plunge... I've decided to stop putting gel in my hair.#$e#I wouldn't want to be friends with someone who only liked my because I have gel in my hair." #!String
     fall_Thu10: "@! Um... Hi.$l" #!String
     winter_1: "Winter is kind of lame. There's too much snow to do anything fun.#$e#I guess some people like it." #!String
-    winter_Mon: "I'm just looking forward to spring." #!String
+    winter_Mon: "You like the snow? Me... I'm just looking forward to spring." #!String
     winter_Tue: "Hey, can you go find Haley and tell her I said 'hi'?" #!String
+    winter_Tue_inlaw_Haley: "Oh, hey. How's the married life coming along?$9" #!String
     winter_Wed: "People stay indoors a lot during the winter, and do boring stuff.$s#$e#Maybe if I read a book I'd be less bored... nah." #!String
     winter_Thu: "When I turn pro, I'll be so rich that I'll get a vacation home in the tropics.#$e#Then I won't have to deal with these boring winters." #!String
     winter_Fri: "You came all the way through the snow to see me?#$e#I guess that makes sense." #!String
-    winter_Sat: "There's some weird people living in this town.#$e#...like that guy Sebastian. Is he a 'goth' or something?#$e#I don't understand it." #!String
+    winter_Sat: "There's some weird people living in this town.#$e#...like that guy Sebastian. Why does he wear black all the time?#$e#I don't get it." #!String
     winter_Sun: "Hey, the gridball game is on today!#e#This might be my favorite day of the week." #!String
     winter_Fri4: "You came all the way through the snow to see me?#$e#That's nice of you.$h" #!String
     winter_Sat6: "I guess it's interesting that some people are totally different than us, you know?#$b#I don't always understand why others act the way they do, but that's fine." #!String
     winter_Tue4: "Hey, @. Could you do me a favor?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks." #!String
+    winter_Tue4_inlaw_Haley: "I'll admit... I was a little jealous when you and Haley got married. But, hey... It's a chance for me to learn something new about myself.$9" #!String
     winter_Wed8: "You know what? I'm going to start reading a book!" #!String
     winter_Thu6: "I wish I could control the weather." #!String
     winter_Thu10: "If I ever make a lot of money, I'll make sure all my friends and family are taken care of.#$e#That means you, too.$h" #!String

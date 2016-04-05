@@ -58,7 +58,7 @@ content:  #!Dictionary<String,String>
     Good_3: "I can't even remember the last time I dyed my hair... I swear, it never fades from this color..." #!String
     Good_4: "I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in sneakers.$h" #!String
     Good_5: "I was just admiring the mermaid's pendant you gave me... I'll proudly wear this to my grave.$l" #!String
-    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world if full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you." #!String
+    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you." #!String
     Good_7: "@? I just want to say that I appreciate all the hard work you do for us. I'm really proud of you.$l" #!String
     Neutral_0: "I hope you'll still like me when I'm old and shriveled. It's going to happen some day!" #!String
     Neutral_1: "Do you think your Grandpa would be proud of us?" #!String

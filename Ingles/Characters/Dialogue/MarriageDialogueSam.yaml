@@ -40,7 +40,7 @@ content:  #!Dictionary<String,String>
     Outdoor_1: "I always keep an eye on the wide blue sky... you never know when a UFO might go by." #!String
     Outdoor_2: "Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll try and help you with encouraging thoughts.$h" #!String
     Outdoor_3: "Something in the air makes me feel positive... maybe it's the faint whiff of pizza from Gus' ovens." #!String
-    Outdoor_4: "Wow... you look great today. The specks of mud just add some extra charm.$l" #!String
+    Outdoor_4: "Wow... you look great today, and the specks of mud just add some extra charm.$l" #!String
     OneKid_0: "I'll change %kid1's diaper... don't worry about it. You've got enough on your plate." #!String
     OneKid_1: "It's weird, but I really like being a father!$h" #!String
     OneKid_3: "I think we should have another kid. Why stop now?" #!String

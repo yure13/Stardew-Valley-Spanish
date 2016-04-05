@@ -18,7 +18,9 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store.^Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store.#$b#If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price!#$e#A little agriculture could really inject new life into the local economy!" #!String
     Mon: "Welcome! If you're looking for seeds, you've come to the right place!" #!String
+    Mon_inlaw_Abigail: "Hello, er... my son?$s^Hello, er... daughter?$s" #!String
     Mon4: "Hi, @. Need any seeds or fruit tree saplings?" #!String
+    Mon4_inlaw_Abigail: "Hi, @. How's Abigail doing? The shop hasn't been the same without her..." #!String
     Tue: "Sometimes I get new items in stock, so make sure to stop by every so often.#$e#It's a lot of work to run a shop.$h" #!String
     Tue6: "You know, I used to be a pretty good boxer back in the day... my right hook was the stuff of legend!$h" #!String
     Wed: "It's my day off today.#$e#Hmmm... what to do...$s" #!String

@@ -19,7 +19,8 @@ content:  #!Dictionary<String,String>
     9: "NOT friendship Penny 6/900 SamHouse 15 13 0/1100 Town 79 95 2/1600 Town 24 97 3 sam_gameboy/1900 SamHouse 17 13 0/2130 SamHouse 22 13 1" #!String
     23: "NOT friendship Penny 6/GOTO 9" #!String
     rain: "1000 SamHouse 15 13 0/1100 SamHouse 17 15 2 sam_guitar/1500 SamHouse 8 6 3 sam_gameboy/1700 SamHouse 17 13 0/1830 SamHouse 22 16 1/2000 SamHouse 22 13 1" #!String
-    marriageFun: "800 SamHouse 8 5 3 \"Mom seems okay. A little overworked, maybe.\"/1100 SamHouse 3 13 2 \"Vincent seems a little lonely without me around. I used to play with him a lot.\"/1500 BusStop -1 23 3" #!String
+    marriage_Mon: "800 SamHouse 8 5 3 \"Mom seems okay. A little overworked, maybe.\"/1100 SamHouse 3 13 2 \"Vincent seems a little lonely without me around. I used to play with him a lot.\"/1500 BusStop -1 23 3" #!String
+    marriage_Fri: "800 SamHouse 8 5 3 \"Don't tell my mom... but I really just came over for a free lunch.$h\"/1100 Town 43 79 2 sam_skateboarding/1500 Saloon 36 21 3 sam_pool \"Sorry, honey. I'm trying to concentrate here... $7\"/2100 BusStop -1 23 3" #!String
     rain2: "1000 SamHouse 15 13 0/1100 SamHouse 6 13 0/1400 Saloon 38 18 0 \"Nothing like an ice cold Joja Cola on a sopping wet day, huh?#$e#Just kidding. Hehehe.$h\"/1940 SamHouse 22 13 1" #!String
     summer: "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1340 Beach 46 24 2/1900 SamHouse 22 16 1/2100 SamHouse 22 13 1" #!String
     fall: "1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1320 Forest 66 50 2/1900 SamHouse 22 16 1/2100 SamHouse 22 13 1" #!String

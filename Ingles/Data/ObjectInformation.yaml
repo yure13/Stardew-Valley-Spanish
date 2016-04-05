@@ -102,7 +102,7 @@ content:  #!Dictionary<Int32,String>
     151: "Squid/80/10/Fish -4/A deep sea creature that can grow to enormous size./Day^Winter" #!String
     152: "Seaweed/20/5/Fish/It can be used in cooking./Day Night^Spring Summer Fall Winter" #!String
     153: "Green Algae/15/5/Fish/It's really slimy./Day Night^Spring Summer Fall Winter" #!String
-    154: "Sea Cucumber/75/-10/Fish/A slippery, slimy creature found on the ocean floor./Day^Fall Winter" #!String
+    154: "Sea Cucumber/75/-10/Fish -4/A slippery, slimy creature found on the ocean floor./Day^Fall Winter" #!String
     155: "Super Cucumber/250/50/Fish -4/A rare, purple variety of sea cucumber./Night^Summer Fall" #!String
     156: "Ghostfish/45/15/Fish -4/A pale, blind fish found in underground lakes./Day Night^Spring Summer Fall Winter" #!String
     157: "White Algae/25/8/Fish/It's super slimy./Day Night^Spring Summer Fall Winter" #!String
@@ -354,7 +354,7 @@ content:  #!Dictionary<Int32,String>
     480: "Tomato Seeds/25/-300/Seeds -74/Plant these in the summer. Takes 11 days to mature, and continues to produce after first harvest." #!String
     481: "Blueberry Seeds/40/-300/Seeds -74/Plant these in the summer. Takes 13 days to mature, and continues to produce after first harvest." #!String
     482: "Pepper Seeds/20/-300/Seeds -74/Plant these in the summer. Takes 5 days to mature, and continues to produce after first harvest." #!String
-    483: "Wheat Seeds/5/-300/Seeds -74/Plant these in the summer. Takes 4 days to mature. Harvest with the scythe." #!String
+    483: "Wheat Seeds/5/-300/Seeds -74/Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe." #!String
     484: "Radish Seeds/20/-300/Seeds -74/Plant these in the summer. Takes 6 days to mature." #!String
     485: "Red Cabbage Seeds/50/-300/Seeds -74/Plant these in the summer. Takes 9 days to mature." #!String
     486: "Starfruit Seeds/200/-300/Seeds -74/Plant these in the summer. Takes 13 days to mature." #!String
@@ -515,7 +515,7 @@ content:  #!Dictionary<Int32,String>
     709: "Hardwood/15/-300/Basic -16/A special kind of wood with superior strength and beauty." #!String
     710: "Crab Pot/50/-300/Crafting/Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean." #!String
     715: "Lobster/120/-300/Fish -4/A large ocean-dwelling crustacean with a strong tail./Day^Spring Summer" #!String
-    716: "Crayfish/75/-300/Fish -4/A small freswhater relative of the lobster./Day^Spring Summer" #!String
+    716: "Crayfish/75/-300/Fish -4/A small freshwater relative of the lobster./Day^Spring Summer" #!String
     717: "Crab/100/-300/Fish -4/A marine crustacean with two powerful pincers./Day^Spring Summer" #!String
     718: "Cockle/50/-300/Fish -4/A common saltwater clam./Day^Spring Summer" #!String
     719: "Mussel/30/-300/Fish -4/A common bivalve that often lives in clusters./Day^Spring Summer" #!String

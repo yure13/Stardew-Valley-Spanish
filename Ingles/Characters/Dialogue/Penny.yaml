@@ -59,7 +59,7 @@ content:  #!Dictionary<String,String>
     event_pool1: "That's right...$8" #!String
     event_pool2: "Really? I thought you'd have noticed by now...$8" #!String
     event_pool3: "No!$9" #!String
-    event_pool4: "...Oh, @. I thought you did, but I wasn't sure.$6#$b#...I'll always remember this night.$6^You look so beautiful tonight... I... *gasp*$l" #!String
+    event_pool4: "...Oh, @. I thought you did, but I wasn't sure.$6#$b#...I'll always remember this night.$6^You look so beautiful tonight... I... *gasp*$6" #!String
     event_pool5: "Y...You don't?$8#$b#...!!!%fork$10" #!String
     event_family1: "Me too.$h" #!String
     event_family2: "...sorry.$s" #!String

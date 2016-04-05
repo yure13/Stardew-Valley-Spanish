@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     rain: "GOTO Fri" #!String
-    marriageFun: "830 Forest 63 50 2 \"Hello, @. I'm just enjoying the fresh air for a while. I was starting to get cabin fever at home.\"/1500 Forest 106 34 2/1730 BusStop -1 23 3" #!String
+    marriage_Mon: "830 Forest 63 50 2 \"Hello, @. I'm just enjoying the fresh air for a while. I was starting to get cabin fever at home.\"/1500 Forest 106 34 2/1730 BusStop -1 23 3" #!String
     spring_16: "900 LeahHouse 3 7 3 leah_sculpt/1030 Hospital 12 14 0 \"Hi. Here to see the doctor?\"/1330 Hospital 4 6 1 \"Do I look healthy, Doctor Harvey?\"/1600 Saloon 2 20 1/2340 LeahHouse 2 4 3" #!String
     winter: "GOTO rain" #!String
     fall: "900 LeahHouse 3 7 3 leah_sculpt/1200 Town 86 66 3 square_1_5_3/1900 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3" #!String

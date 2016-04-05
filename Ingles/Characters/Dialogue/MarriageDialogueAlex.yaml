@@ -27,7 +27,7 @@ content:  #!Dictionary<String,String>
     Rainy_Night_3: "I've been setting aside a few scraps for Dusty. He deserves a treat now and then." #!String
     Rainy_Night_4: "I was hungry so I made some dinner. Here, I saved you a plate. [241 242 225 214 198]$h" #!String
     Indoor_Day_0: "Ahh... there's nothing like a good night's sleep next to my husband!$h^Ahh... there's nothing like a good night's sleep next to my wife!$h" #!String
-    Indoor_Day_1: "Hey, honey! I made you a hot breakfast.[195 210 211]#$e#If you want to get strong, you heave to eat like you mean it!" #!String
+    Indoor_Day_1: "Hey, honey! I made you a hot breakfast.[195 210 211]#$e#If you want to get strong, you have to eat like you mean it!" #!String
     Indoor_Day_2: "Come here. *squeeze*... Mmhmm. You're firming up from all that farm work." #!String
     Indoor_Day_3: "I'm still getting used to cooking and doing laundry... It's not exactly my favorite, but I knew what I was getting into when I married you.$h" #!String
     Indoor_Day_4: "There's a couple things around the house that I'm going to try and fix today. Don't worry about me, I'm not bored." #!String

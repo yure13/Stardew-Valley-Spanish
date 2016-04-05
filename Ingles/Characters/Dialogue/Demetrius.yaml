@@ -18,13 +18,14 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself!#$e#I'm studying the local plants and animals from my home laboratory.#$b#Have you met my daughter Maru? She's interested to meet you." #!String
     Mon: "Maru helps me out in the lab sometimes... She's a good kid." #!String
+    Mon_inlaw_Maru: "It's hard to do good science without Maru's help...#$b#But her happiness is much more important than my experiment!" #!String
     Tue: "This valley has a very vibrant and diverse ecosystem. That's one reason I was excited to move here." #!String
     Wed: "You're probably growing a lot of interesting plants on your farm, huh?#$e#Maybe I'll stop by your place some day and check it out." #!String
     Thu: "How's the farming business going? It's parsnip season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." #!String
     Fri: "Robin has a hot temper. It's better to stay on her good side.#$e#Don't tell her I said that.$h" #!String
-    Sat: "Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then...$u#$b#Oh! Sorry. I was searching for some data and I didn't notice you there.#$e#Do you need anything?" #!String
+    Sat: "Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     Sun: "It's good to take a break from work every now and then.#$e#I guess that's kind of difficult when you live on a farm, though.#$e#Hey, at least in the winter you don't have to worry about crops." #!String
-    Fri4: "Robin has a hot temper. It's better to stay on her good side.#$e#...now if I could quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u" #!String
+    Fri4: "Robin has a hot temper. It's better to stay on her good side.#$e#...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u" #!String
     Wed6: "Hi @! How are you doing today?#$e#I wish I could make your farming job easier somehow." #!String
     Event_tomato1: "Really? I figured a farmer would know the correct answer...$s" #!String
     Event_tomato2: "See? @ agrees with me." #!String
@@ -34,13 +35,15 @@ content:  #!Dictionary<String,String>
     summer_Tue: "Make sure to water your plants every day.#$e#Although, if you're using water retaining soil you don't need to worry about watering as often.#$e#It's pretty convenient." #!String
     summer_Thu: "How's the farming business going? It's tomato season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." #!String
     summer_Fri: "$p 40#So I heard Maru had you look through that telescope out back.|If you and Maru become friends, I'm sure she'll show you how to use that telescope out back.#$e#Pretty exciting, huh?" #!String
-    summer_Sat: "Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth?$u#$b#Oh! Sorry. I was searching for some data and I didn't notice you there.#$e#Do you need anything?" #!String
+    summer_Fri_inlaw_Maru: "I hope my daughter's keeping up on her math and science!" #!String
+    summer_Sat: "Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth?$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     summer_Mon6: "I became a scientist because I wanted to contribute to the progression of our species.#$e#Of course, none of this would be possible without farmers such as yourself.$h" #!String
     fall_Mon: "During this time of year I divert my attentions to fungi." #!String
     fall_Tue: "We know a lot about nature thanks to science.#$e#But there's always a lot more to learn." #!String
     fall_Thu: "How's the farming business going? It's corn season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." #!String
     fall_Fri: "Maru sure spends a lot of time working on those gadgets of hers.#$e#I'm glad she's so dedicated." #!String
-    fall_Sat: "Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was searching for some data and I didn't notice you there.#$e#Do you need anything?" #!String
+    fall_Fri_inlaw_Maru: "I'm still flabbergasted about Maru's secret robot... was it all a dream?" #!String
+    fall_Sat: "Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" #!String
     fall_Wed6: "Hi @. I'm always glad when you come for a visit.#$e#It's nice to have some company after all this lonely lab-work." #!String
     winter_Mon: "I'm taking a break from my research right now." #!String
     winter_Tue: "Talk to my wife if you want to increase the size of your house." #!String

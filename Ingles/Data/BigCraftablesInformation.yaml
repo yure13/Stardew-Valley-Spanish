@@ -91,7 +91,7 @@ content:  #!Dictionary<Int32,String>
     111: "Decorative Pitcher/0/-300/Crafting -9/Hand-made out of brass./true/true/0" #!String
     112: "Dried Sunflowers/0/-300/Crafting -9/A vibrant home decoration./true/true/0" #!String
     113: "Rarecrow/0/-300/Crafting -9/Collect them all! (2 of 8)/true/true/0" #!String
-    114: "Charcoal Kiln/0/-300/Crafting -9/Turns 20 pieces of wood into one piece of coal./true/true/0" #!String
+    114: "Charcoal Kiln/0/-300/Crafting -9/Turns 10 pieces of wood into one piece of coal./true/true/0" #!String
     116: "Stardew Hero Trophy/0/-300/Crafting -9/The most prestigious award a Stardew Valley resident could recieve!/true/true/0" #!String
     117: "Soda Machine/0/-300/Crafting -9/Keeps pumping out the good stuff./true/true/0" #!String
     118: "Barrel/0/-300/Crafting -9/.../true/true/0" #!String

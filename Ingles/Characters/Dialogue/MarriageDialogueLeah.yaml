@@ -34,7 +34,7 @@ content:  #!Dictionary<String,String>
     Indoor_Day_4: "Good morning, @! I made us some coffee.[395]$h#$e#My morning just wouldn't be complete without a hot cup of coffee." #!String
     Indoor_Night_0: "Something about this time of night makes me thirsty." #!String
     Indoor_Night_1: "The flow of time is so delicate... even the tiniest decision changes the future forever." #!String
-    Indoor_Night_2: "It's so much lovelier here at night than the garish glow of the city.#$e#Everything worked out perfectly for me. I'm very luck." #!String
+    Indoor_Night_2: "It's so much lovelier here at night than the garish glow of the city.#$e#Everything worked out perfectly for me. I'm very lucky." #!String
     Indoor_Night_3: "I never thought I'd receive a mermaid's pendant so soon after moving here! I'm happy about it, though.$l" #!String
     Indoor_Night_4: "I saw a wild rabbit today. I just wish I could pet one someday. They look so soft..." #!String
     Outdoor_0: "The cool breeze feels nice. It reminds me of living by the river." #!String

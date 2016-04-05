@@ -20,6 +20,8 @@ content:  #!Dictionary<String,String>
     Mon: "I'm not much of a talker. Especially not to strangers, if you don't mind me saying." #!String
     Tue: "Hmmph... Looks like another gloomy day.$s" #!String
     Wed: "Alex is my grandson. Have I told you that already?#$e#Huh? Speak up." #!String
+    Wed_inlaw_Alex: "How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...^You're part of the family, now. I'm glad that my grandson found such a nice wife." #!String
+    Wed10_inlaw_Alex: "I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud." #!String
     Thu: "I can't talk right now, young man.^I can't talk right now, miss.#$e#My favorite program is on." #!String
     Fri: "So you're a farmer, huh? At least it's honest work." #!String
     Sat: "The weekend is no different than any other time, for me.#$e#That's how it is when you're retired." #!String

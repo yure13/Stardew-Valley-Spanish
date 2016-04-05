@@ -24,6 +24,7 @@ content:  #!Dictionary<String,String>
     Tue6: "I like your new boots!$h^Your hair looks nice today.$h#$e#Do you want to hang out for a while?" #!String
     Wed: "What am I going to do today?#$e#Probably nothing." #!String
     Wed2: "Sam is probably my only friend in this town.#$e#Well, Abby is nice too, but...$h#$e#Umm.. nevermind." #!String
+    Wed2_inlaw_Abigail: "Sam is probably my only friend in this town, anymore..." #!String
     Wed6: "You and Sam are probably my only friends in this town.$s" #!String
     Wed10: "Um... You're single, right?#$e#Just wondering!$l" #!String
     Thu: "#$1 Sebastian1#I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?" #!String
@@ -90,7 +91,7 @@ content:  #!Dictionary<String,String>
     fall_Sat: "I was *this* close to moping in bed the entire day. Kinda wish I had, now." #!String
     fall_Sun: "The sun is coming out less and less these days... wonderful." #!String
     winter_Mon: "I'm enjoying this gloomy weather... although I have to say, it's a little cold." #!String
-    winter_Mon4: "Nothing surprises me anymore... nothing makes me laugh.#$e#I'm being a little dramatic." #!String
+    winter_Mon4: "Nothing surprises me anymore... nothing makes me laugh.#$e#Yeah, I know... I'm being a little dramatic." #!String
     winter_Tue: "Hmm... I don't really have anything to say. I still don't know you very well." #!String
     winter_Tue4: "Hey...#$b$It's hard to think of new things to talk about, sometimes. Even after you know someone.#$e#...Sorry." #!String
     winter_Tue6: "I was so close to screaming at Mom for throwing away my old comic collection... But something stopped me.#$e#Hmm... with age comes wisdom." #!String
@@ -99,10 +100,10 @@ content:  #!Dictionary<String,String>
     winter_Wed4: "Hey, don't let me stop you from getting your work done.#$e#If you aren't busy I don't mind if you stick around.$h" #!String
     winter_Thu: "I wonder what's for dinner tonight... *grumble*$s" #!String
     winter_Thu6: "I should learn how to cook. That would be useful." #!String
-    winter_Fri: "It's fun to live so close to the train tracks." #!String
+    winter_Fri: "It's fun to live so close to the train tracks. It's a reminder that there's a big world out there." #!String
     winter_Fri8: "When I was younger I'd run out to the railroad whenever I heard a train coming.#$e#Whatever happened to those days...? *sigh*$s" #!String
     winter_Sat: "The frogs aren't very happy in winter.#$e#Poor little guys.$s" #!String
-    winter_Sat6: "I like winter but I do feel bad for all the cold animals out there.#$e#I guess they're used to it, though." #!String
+    winter_Sat6: "I like winter but I do feel bad for all the cold animals out there.#$e#I guess they're used to it, though... like me." #!String
     winter_Sun: "I built a snowgoon but Demetrius made me get rid of it.#$e#What's his problem?$u" #!String
     winter_Sun6: "I built a snowgoon but Demetrius made me get rid of it... yet Maru's cute little snowman goes unharmed!$a#$e#Ridiculous." #!String
 

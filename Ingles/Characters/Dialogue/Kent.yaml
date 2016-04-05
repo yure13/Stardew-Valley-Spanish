@@ -24,6 +24,7 @@ content:  #!Dictionary<String,String>
     Wed: "You've been here a while now, haven't you? Your farm must be thriving." #!String
     Thu6: "#$1 Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s" #!String
     Thu: "Are you friends with my son?#$e#You probably know him better than I do...$s" #!String
+    Thu_inlaw_Sam: "Hey, @. Are you enjoying the married lifestyle?" #!String
     Fri: "It looks like a decent day for fishing, doesn't it?" #!String
     Sat: "Jodi tells me you've really become a part of this community. I'm glad to hear it." #!String
     Sat8: "I have trouble sleeping, so please excuse me if I seem tired.#$e#I'm sure you can understand." #!String

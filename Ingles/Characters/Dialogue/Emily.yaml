@@ -19,6 +19,7 @@ content:  #!Dictionary<String,String>
     Introduction: "Ooh!... I can read it on your face. You're going to love it here in Pelican Town.#$b#If you're ever looking for something to do in the evening, stop by the saloon. That's where I work!" #!String
     Mon: "Have I told you Haley and I are sisters? Strange, isn't it?" #!String
     Mon6: "I wish Haley would get a job or at least contribute to cooking and cleaning.$s#$e#I think she's hoping to marry someone rich." #!String
+    Mon6_inlaw_Haley: "I have to say, now that Haley's gone I've had a much easier time keeping things in order." #!String
     Tue: "I work part-time at Gus' saloon. It pays the bills." #!String
     Tue4: "I'm just working at Gus' to make ends meet... but my real passion is tailoring.#$e#I made these clothes from scratch." #!String
     Wed: "I've heard rumors of rare and powerful magic rings, forged long ago by forgotten civilizations. I'm not sure if it's true or just a fairy tale." #!String
@@ -31,6 +32,7 @@ content:  #!Dictionary<String,String>
     event_dance2: "Um... Okay. Sorry you didn't like it. I guess those three months of practice were a complete waste...$s" #!String
     event_dance3: "Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it." #!String
     summer_Mon: "Haley is a picky eater. It's so hard to cook for her." #!String
+    summer_Mon_inlaw_Haley: "Haley and I get along much better now that she's moved out. I look forward to her visits!" #!String
     summer_Tue: "Hello there, @.#$e#I feel lazy today.$h" #!String
     summer_Sun6: "Hi, @! We've become decent friends, haven't we?$h#$e#That's fine with me. You're a cool guy.^I'm glad.$h" #!String
     summer_Wed: "It doesn't rain much in summer, does it?#$e#That just means more watering work for you, huh?#$e#Or do you enjoy the sunny weather?" #!String
@@ -60,4 +62,5 @@ content:  #!Dictionary<String,String>
     winter_Sat: "Do you know how to cook 'Bean Hotpot'?#$e#I like that dish quite a bit.$h#$e#It's hard to get fresh ingredients in the winter, huh?" #!String
     winter_Sun: "Hi!#$e#...Yes?" #!String
     winter_Sun6: "My sister and I might fight sometimes, but I would really miss her if she left.#$e#I think she'll become a very nice young lady some day... Don't tell her I said that.$h#$e#So, is there anything you want to talk about?" #!String
+    winter_Sun6_inlaw_Haley: "Say hi to my sister for me! And remind her to visit me tomorrow." #!String
 
