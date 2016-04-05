@@ -18,9 +18,9 @@ xnbData:
 content:  #!Dictionary<String,String>
     Introduction: "...$u#$b#Hola...$u" #!String
     Mon: "Oh... ¿estás buscando a la tía Marnie?$u" #!String
-    Mon4: "Hola, Sr. @.^Hola, Sra. @.#$e#Es divertido vivir en una granja.$h" #!String
+    Mon4: "Hola Sr. @.^Hola Sra. @.#$e#Es divertido vivir en una granja.$h" #!String
     Tue: "¿Qué? *risita*$h#$e#... Hola." #!String
-    Tue6: "Tú puedes jugar con mis muñecas si quieres. Solo asegúrate de cepillarles el pelo cuando hayas terminado." #!String
+    Tue6: "Puedes jugar con mis muñecas si quieres. Solo asegúrate de cepillarles el pelo cuando hayas terminado." #!String
     Wed: "...$u" #!String
     Wed2: "...Hola.$u" #!String
     Wed4: "Tía Marnie no me deja salir después de las seis en punto. ¡No es justo! ¡Ya no tengo miedo a la oscuridad!" #!String
@@ -30,8 +30,8 @@ content:  #!Dictionary<String,String>
     Fri2: "¿Te gusta mi arco?" #!String
     Fri4: "Me gusta vivir en la granja... Lo que más me gusta es el helado de leche de nuestras vacas." #!String
     Sat: "Hueles como a hierba." #!String
-    Sat2: "A veces busco cigalas en el rio. No se lo digas a tia Marnie... pero he alimentado a una vaca una vez. A ella le encanto." #!String
-    Sat8: "Siempre eres tan agradable conmigo, señor @$h^siempre eres tan agradable conmigo, señorita @.$h#$e# Normalmente los adultos son aburridos, pero tu eres diferente." #!String
+    Sat2: "A veces busco cigalas en el rio. No se lo digas a tia Marnie... pero le di de comer a una vaca una vez. A ella le encanto." #!String
+    Sat8: "Siempre eres tan agradable conmigo, señor @$h^Siempre eres tan agradable conmigo, señorita @.$h#$e# Normalmente los adultos son aburridos, pero tu eres diferente." #!String
     Sun: "¿Um... qu..qui...quie quieres algo?$u#$e# Se supone que no debo hablar con extraños.$u" #!String
     Sun2: "Shane tiene muchas cosas que hacer, y la tía Marnie esta ocupada todo el tiempo... así que me tengo que inventar mis propios juegos.#$e#Me alegro de tener tantos juguetes.$h" #!String
     Sun10: "¿Sabías que Shane es mi padrino? El era amigo de mis padres.$s#$e#...ellos murieron.*sniff*$s" #!String
