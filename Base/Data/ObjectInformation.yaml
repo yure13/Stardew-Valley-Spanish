@@ -515,7 +515,7 @@ content:  #!Dictionary<Int32,String>
     709: "Madera dura/15/-300/Basic -16/Un tipo especial de madera con una fuerza y belleza superiores." #!String
     710: "Nasa de pesca/50/-300/Crafting/Ponla en el agua, añade cebo y comprueba si has capturado algo al siguiente día. Funciona en ríos, lagos y en el océano." #!String
     715: "Langosta/120/-300/Fish -4/Un crustáceo de gran tamaño y con una cola muy fuerte que habita en el océano./Day^Spring Summer" #!String
-    716: "Cigala/75/-300/Fish -4/Un pequeñocrustáceo de agua dulce pariente de la langosta./Day^Spring Summer" #!String
+    716: "Cigala/75/-300/Fish -4/Un pequeño crustáceo de agua dulce pariente de la langosta./Day^Spring Summer" #!String
     717: "Cangrejo/100/-300/Fish -4/Un crustáceo marino con dos poderosas pinzas./Day^Spring Summer" #!String
     718: "Berberecho/50/-300/Fish -4/Una almeja de agua salada, muy común./Day^Spring Summer" #!String
     719: "Mejillón/30/-300/Fish -4/Un bivalvo común que a menudo vive en grupos./Day^Spring Summer" #!String
