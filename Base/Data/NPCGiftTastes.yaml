@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Universal_Love: "74 446" #!String
+    Universal_Love: "74 446" #!Strin
     Universal_Like: "-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724" #!String
     Universal_Neutral: "194 216 262 304" #!String
     Universal_Dislike: "-4 -8 -12 -15 -16 -19 -22 -24 -25 -28 -74 78 169 246 247 305 309 310 311 403 419 423 535 536 537 725 726 749" #!String
