@@ -75,7 +75,7 @@ content:  #!Dictionary<String,String>
   fall_Thu: "Eh, ¿qué pasa?#$e#Tu nombre era, %firstnameletter%name, o algo así, ¿no?#$e#Oh. ¿Es @? Vale. Lo siento." #!String
   fall_Fri: "Voy a hacer un montón de abdominales esta noche. Me lo tomo muy en serio, ¿sabes?#$e#¿Necesitas algo más?" #!String
   fall_Sat: "Creo que en esta época puedes encontrar salmones en el río.#$e#O al menos eso he oído." #!String
-  fall_Sun: "Eh, ¡el partido de fútbol es hoy!#e #Los domingos de otoño son geniales.$u" #!String
+  fall_Sun: "Eh, ¡el partido de fútbol es hoy!#e#Los domingos de otoño son geniales.$u" #!String
   fall_Thu2: "¿Qué pasa @?" #!String
   fall_Fri6: "Voy a hacer un montón de abdominales esta noche.#$e#Tienes que trabajar muy duro para alcanzar tu máximo potencial." #!String
   fall_Mon4: "Mi abuela me dijo que estudiara más.#$e#Quizá tenga razón...$s" #!String
