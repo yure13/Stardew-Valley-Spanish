@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¡Oh! ¿no eres tu quien que acaba de mudarse?#$b#Soy Maru, ¡estaba esperando conocerte!$h#$e#Sabes, en un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡Es emocionante!" #!String
+    Introduction: "¡Oh! ¿no eres tu quien acaba de mudarse?#$b#Soy Maru, ¡estaba esperando conocerte!$h#$e#Sabes, en un pequeño pueblo como este, una nueva cara puede alterar la dinámica de la comunidad. ¡Es emocionante!" #!String
     danceRejection: "¡Me halagas! Pero... No." #!String
     Mon: "Siempre que estoy luchando con un problema técnico, suelo tomar un paseo.#$e#Es sorprendente cuanto puede ayudar un cambio de escenario." #!String
     Tue: "¿Has conocido a mi mamá? Es la carpintera del pueblo." #!String
