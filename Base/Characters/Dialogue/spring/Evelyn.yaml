@@ -16,9 +16,9 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    1: "Oh, ¡Hola! Bienvenido a nuestra pequeña comunidad. Soy Evelyn.^Oh, ¡Hola! Bienvenida a nuestra pequeña comunidad. Soy Evelyn.#$e#¡Un placer conocerte!" #!String
+    1: "Oh, ¡Hola! Bienvenido a nuestra pequeña comunidad. Soy Evelyn.#$e#¡Un placer conocerte!" #!String
     Mon: "¡Oh, Dios mío! Que bonito día.$u" #!String
-    Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños.#$e#Te caerá mejor cuando lo conozcas.#$e#¡Sé que algún día seréis buenos amigos!$h#$e#Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
+    Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños.#$e#Te caerá mejor cuando lo conozcas.#$e#¡Sé que algún día seran buenos amigos!$h#$e#Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
     Wed: "El buen alcalde me puso a cargo de los jardines públicos del pueblo.#$e#He estado trabajando en los parterres durante semanas ¡Así que no los pises!" #!String
     Thu: "Estoy horneando galletas. Me gusta hacerlas con formas de flores en primavera.$h#$e#Puede que te dé mi receta uno de estos días." #!String
     Fri: "George se pasa el día entero en frente de esa condenada televisión.#$e#Me gustaría que saliera mas. Un poco de aire fresco le vendría bien." #!String
