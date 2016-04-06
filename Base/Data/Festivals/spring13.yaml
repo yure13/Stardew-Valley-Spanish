@@ -23,16 +23,16 @@ content:  #!Dictionary<String,String>
     afterEggHunt: "pause 100/playSound whistle/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis \"¡Guau! ¡Mira todos esos huevos!$h#$b#Si ahora pudiera conseguir que los niños recogieran la basura de forma eficiente... ¡Seriamos el pueblo más limpio a este lado del mar Gema! *risita*$h\"/pause 800/playMusic none/speak Lewis \"Y ahora, el ganador de la caza del huevo de este año es...\"/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis \"¡Aquí está tu premio! Disfrutalo.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Bueno, ¡esto ha sido todo este año! ¡Gracias a todos por venir!\"/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/end" #!String
     AbbyWin: "pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis \"¡Aquí está tu premio, Abigail! ¡Disfrútalo!\"/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis \"En fin, ¡esto ha sido todo por este año! ¡Gracias a todos por venir!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/end" #!String
     mainEvent: "pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis \"Llegó la hora del evento principal de este festival... ¡La caza del huevo anual!$h\"/pause 100/jump Jas/jump Vincent/pause 1000/speak Lewis \"Tranquilo, niños. Van a necesitar toda su energía si quieren encontrar la mayor cantidad de huevos posible y llevarse a casa el premio exclusivo.\"/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis \"Entonces... ¿están preparados?\"/pause 1000/waitForOtherPlayers/jump Lewis/pause 1000/speak Lewis \"¡Que comience la caza del huevo!$h\"/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -7 3 0/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -15 -9 0 9 0 0 18/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -6 0 0 3/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 21 9 0 0 4 -20 0 20 0 -20 0/playSound whistle/playMusic tickTock/playerControl eggHunt" #!String
-    Abigail_spouse: "Go away, we're adversaries until the egg hunt is over!$h" #!String
-    Leah_spouse: "I never had many friends in town, so these events are always kind of boring for me. I enjoy the buffet, though." #!String
-    Maru_spouse: "I'm just catching up with Penny. Have you had your fill of eggs?" #!String
-    Penny_spouse: "Maru's trying to convince me to eat a deviled egg. I'm just not sure I can stomach it..." #!String
-    Haley_spouse: "I was going to eat some eggs, but then I remembered I'm on a spring diet." #!String
-    Sebastian_spouse: "I'll be rooting for you in the egg hunt.$h" #!String
-    Sam_spouse: "The gang's just the same as always. Are you having a good time?" #!String
-    Alex_spouse: "Ungh... I think I ate a dozen too many hard boiled eggs...$s" #!String
-    Harvey_spouse: "How is everyone doing? I'm just taking a break for a little while. I'm looking forward to seeing you in the egg hunt!" #!String
-    Elliott_spouse: "I enjoy seeing you so relaxed, my dear.$h" #!String
+    Abigail_spouse: "¡Vete, somos adversarios hasta que acabe la caza del huevo!$h" #!String
+    Leah_spouse: "Nunca he tenido muchos amigos en el pueblo, así que estos eventos me aburren un poco. Aunque sí que disfruto del bufet." #!String
+    Maru_spouse: "Estoy poniéndome al día con Penny. ¿Tienes ya suficientes huevos?" #!String
+    Penny_spouse: "Maru está intentando convencerme para que coma un huevo relleno. No estoy segura de que pueda aguantarlo..." #!String
+    Haley_spouse: "Iba a comer huevos pero recordé que estoy con la dieta de primavera." #!String
+    Sebastian_spouse: "Te estaré apoyando en la caza del huevo.$h" #!String
+    Sam_spouse: "La pandilla es la misma de siempre. ¿Te lo estás pasando bien?" #!String
+    Alex_spouse: "Ugg... Creo que me he comido como una docena de huevos duros...$s" #!String
+    Harvey_spouse: "¿Cómo le va a todos? Estoy tomándome un descanso un momento. ¡Espero verte en la caza del huevo!" #!String
+    Elliott_spouse: "Me estoy divirtiendo mucho viéndote tan rejalado cariño.$h^Me estoy divirtiendo mucho viéndote tan rejalada cariño.$h" #!String
     Abigail: "Buscar huevos es cómo ir a la búsqueda de un tesoro.$h" #!String
     Robin: "La primavera es una época del año ajetreada... Así que es genial tener un día libre para salir con tus amigos." #!String
     Demetrius: "Huevo... Que cosa tan extraña para comer." #!String
@@ -60,11 +60,11 @@ content:  #!Dictionary<String,String>
     Elliott: "Descansar un poco del trabajo puede hacerte más productivo en las largas jornadas." #!String
     Gus: "Espero que todos estén disfrutando de la comida... He estado cocinando durante días para tenerlo todo preparado.#$b#Huevos fritos, huevos cocidos, huevos escalfados, huevos revueltos, huevos de chocolate... ¡Escoge lo que quieras!$h" #!String
     Dwarf: "¿Has dicho que está lloviendo allí arriba? *gasp*#$e#Lluvia... Es algo casi mítico para nosotros. Algunos de nosotros vivimos toda nuestra vida sin tan siquiera experimentarla." #!String
-    Wizard: "Hmm... ¿Y que tal el huevo crudo de lagarto espolvoreado con médula ennegrecida?" #!String
+    Wizard: "Um... ¿Y que tal el huevo crudo de lagarto espolvoreado con médula ennegrecida?" #!String
     Harvey: "Los huevos tienen su lugar en una dieta bien equilibrada.#$e#Ups... Debería quitarme mi sombrero de doctor por el momento.$11" #!String
     Sandy: "He oído que llovía de nuevo en casa. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia$s" #!String
     Jas: "Espero poder encontrar algunos huevos antes de que Vincent los coja todos...$s" #!String
-    Vincent: "When does the egg hunt start?! I'm so excited!!$h" #!String
-    Willy: "Alguna vez esconderé un huevo tan bien que nadie podré encontrarlo...#$b#Bueno, hasta que llegue el verano. Entonces el aire caliente empezará a traer el olor a podrido, jeje. $h" #!String
+    Vincent: "¡¿Cuándo empieza la caza del huevo?! ¡¡Estoy tan emocionado!!$h" #!String
+    Willy: "Alguna vez esconderé un huevo tan bien que nadie podré encontrarlo...#$b#Bueno, hasta que llegue el verano. Entonces el aire caliente empezará a traer el olor a podrido, jeje.$h" #!String
     ???: "Ah, las alcantarillas fluyen con velocidad. Esto va a ponerse agradable y húmedo por aquí... como a mi me gusta." #!String
 
