@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    name: "El baile de las flores" #!String
+    name: "Flower Dance" #!String
     conditions: "Forest/900 1400" #!String
     shop: "BO 108 1000 -1 BBL 108 2000 1 O 18 50 10 O 22 50 10 BO 137 2500 1" #!String
     set-up: "event1/22 22/farmer 76 17 1/changeToTemporaryMap Forest-FlowerFestival/loadActors Set-Up/advancedMove Vincent true -1 0 0 -1 18 0 0 1 -17 0/advancedMove Jas true 18 0 0 1 -18 0 0 -1/advancedMove Pam true 2 25000 0 -3 4 0 4 25000 -4 0 0 3/advancedMove Haley true 0 1 2 3000 2 0 0 -1 -2 0 3 500 4 500 1 500 2 500 2 0 1 500 2 500 3 500 4 500 0 2 0 -2 -2 0/advancedMove Caroline true 7 0 0 1 1 18000 0 -1 -7 0 3 18000/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/playerControl flowerFestival" #!String
