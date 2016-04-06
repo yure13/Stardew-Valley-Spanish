@@ -390,9 +390,9 @@ content:  #!Dictionary<Int32,String>
     532: "Anillo de jade/Aumenta el porcentaje de daño critico en un 10%./400/Ring" #!String
     533: "Anillo de esmeralda/Aumenta la velocidad del arma en un 10%./600/Ring" #!String
     534: "Anillo de rubí/Aumenta el ataque en un 10%./600/Ring" #!String
-    535: "Geoda/50/-300/Basic/Un herrero puede romperla para ti./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 121" #!String
-    536: "Geoda congelada/100/-300/Basic/Un herrero puede abrirla por ti./541 544 545 546 550 551 559 560 561 564 567 572 573 577 123" #!String
-    537: "Geoda de magma/150/-300/Basic/Un herrero puede abrirla por ti./539 540 543 547 553 554 562 563 565 570 575 578 122" #!String
+    535: "Geode/50/-300/Basic/Un herrero puede romperla para ti./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 121" #!String
+    536: "Frozen Geode/100/-300/Basic/Un herrero puede abrirla por ti./541 544 545 546 550 551 559 560 561 564 567 572 573 577 123" #!String
+    537: "Magma Geode/150/-300/Basic/Un herrero puede abrirla por ti./539 540 543 547 553 554 562 563 565 570 575 578 122" #!String
     538: "Alamosita/150/-300/Minerals -12/Su distintiva fluorescencia hace que sea un imprescindible entre los coleccionistas de rocas." #!String
     539: "Bixvyíta/300/-300/Minerals -12/Un mineral metálico oscuro, buscado por su estructura cúbica." #!String
     540: "Baritina/50/-300/Minerals -12/Los mejores ejemplares se asemejan a una rosa del desierto." #!String
