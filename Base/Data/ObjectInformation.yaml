@@ -40,7 +40,7 @@ content:  #!Dictionary<Int32,String>
     78: "Zanahoria de cueva/25/12/Basic -81/Una merienda almidonada encontrada en cuevas. Ayuda a los mineros a trabajar mas tiempo." #!String
     80: "Cuarzo/25/-300/Minerals -2/Un cristal transparente normalmente encontrado en cuevas y minas." #!String
     82: "Cuarzo de fuego/100/-300/Minerals -2/Un brillante cristal rojo, normalmente encontrado cerca de lava." #!String
-    84: "Lagrima congelada/75/-300/Minerals -2/Un cristal. Según la leyenda, son las lagrimas congeladas de un yeti." #!String
+    84: "Lágrima congelada/75/-300/Minerals -2/Un cristal. Según la leyenda, son las lagrimas congeladas de un yeti." #!String
     86: "Cristal de tierra/50/-300/Minerals -2/Una sustancia resinosa encontrada cerca de la superficie." #!String
     88: "Coco/100/-300/Basic-79/La semilla de la palmera cocotera. Tiene muchos usos culinarios." #!String
     90: "Fruta de cactus/75/30/Basic -79/El dulce fruto del cactus de nopal." #!String
