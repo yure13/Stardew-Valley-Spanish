@@ -19,7 +19,7 @@ content:  #!Dictionary<String,String>
     Introduction: "Oh, ¡te doy la bienvenida a nuestra pequeña comunidad, cariño!#$b#Me puedes llamar 'Abuela', si quieres.$h" #!String
     Mon: "¡Oh Dios mío! Que hermoso día.$u" #!String
     Tue: "No le hagas caso a mi esposo, George. No es muy amistoso con los extraños.#$e#Te caerá mejor una vez que lo conozcas.#$e#¡Sé que algún día seréis buenos amigos!$h#$e#Como veo que te interesas mucho en él te contaré un pequeño secreto: ¡Le encantan los puerros! Puedes encontrarlos en las montañas en esta época del año." #!String
-    Wed: "#$1 evelynGarden1#1Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!" #!String
+    Wed: "#$1 evelynGarden1#Ayer vi una preciosa familia de mariposas tomando el sol en el jardín del pueblo.$k#$e#El bueno del alcalde me puso al cargo de los jardines públicos del pueblo.#$e#He estado trabajando en esas flores durante semanas, ¡así que no las pises!" #!String
     Thu: "Hoy haré galletas. Me gusta darles forma de flor en primavera.$h#$e#Puede que un día de estos te dé mi receta." #!String
     Fri: "George está todo el día delante de esa maldita televisión.#$e#Me gustaría que saliese fuera un poco más. Un poco de aire fresco le vendría bien." #!String
     Sat: "Me solía gustar mirar a las nubes, pero tengo problemas para verlas hoy en día.#$e#Mis ojos no funcionan igual de bien que antes.$s" #!String
