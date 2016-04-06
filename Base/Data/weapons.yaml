@@ -67,7 +67,7 @@ content:  #!Dictionary<Int32,String>
     44: "Alfanje/Una hoja creada con elegancia./9/17/1/4/0/0/0/-1/-1/0/.02/3" #!String
     45: "Kris Malvado/La hoja está fabricada con una aleación de iridio./24/30/.5/0/8/0/1/-1/-1/2/.06/3" #!String
     46: "Garrote/El compañero de un bruto./27/40/1.6/-10/0/0/2/107/100/0/.02/3.1" #!String
-    47: "Hoz/Puede cortar hierba para conseguir heno, si has construido un silo./1/3/1/0/0/0/0/-1/-1/0/.02/3" #!String
+    47: "Scythe/Puede cortar hierba para conseguir heno, si has construido un silo./1/3/1/0/0/0/0/-1/-1/0/.02/3" #!String
     48: "Diente de Yeti/Está congelado al tacto./26/42/1/0/0/4/0/-1/-1/0/.02/3.2" #!String
     49: "Florete/Una espada elegante./15/25/1/4/0/0/0/100/95/2/.02/3" #!String
     50: "Bracamante de acero/Ligero y poderoso./26/38/1/8/5/0/0/142/100/0/.02/3.4" #!String
