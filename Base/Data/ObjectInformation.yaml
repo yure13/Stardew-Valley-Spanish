@@ -486,23 +486,23 @@ content:  #!Dictionary<Int32,String>
     677: "Weeds/0/15/Basic/Malas hierbas." #!String
     678: "Weeds/0/15/Basic/Malas hierbas." #!String
     679: "Weeds/0/15/Basic/Malas hierbas." #!String
-    680: "Huevo de slime verde/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
-    681: "Tótem de la lluvia/20/-300/Crafting/Actívalo para aumentar de forma considerable las posibilidades de que llueva mañana. Se consume al usarlo." #!String
-    682: "Carpa mutante/1000/10/Fish -4/Las extrañas aguas de las cloacas han convertido esta carpa en una monstruosidad./Day^Spring Summer" #!String
-    684: "Carne de bicho/8/-300/Basic -28/Una jugosa bolita de carne de bicho." #!String
-    685: "Cebo/1/-300/Basic -21/Atrae a los pescados a morder el anzuelo mas rápido. Debe ser añadido a una caña de pescar." #!String
-    686: "Cebo de hilandero/250/-300/Basic -22/Su forma le hace girar en el agua. Aumenta ligeramente la tasa de picadura cuando pescas." #!String
-    687: "Cebo de hilandero decorado/500/-300/Basic -22/La barra de metal y coloridas serpentinas crean un tentador espectáculo para el pez. Aumenta la tasa de picadura cuando pescas." #!String
-    688: "Tótem de teletransporte: Granja/20/-300/Crafting/Te teletransporta directamente a tu casa. Se consume al usarlo." #!String
-    689: "Tótem de teletransporte: Montañas/20/-300/Crafting/Te teletransporta directamente a las montañas. Se consume al usarlo." #!String
-    690: "Tótem de teletransporte: Playa/20/-300/Crafting/Te teletransporta directamente a la playa. Se consume al usarlo." #!String
-    691: "Anzuelo de enganche/500/-300/Basic -22/Hace tu captura más segura, haciendo que la \"barra de pesca\" se pegue al pez. Funciona mejor en peces lentos y débiles." #!String
-    692: "Flotador de plomo/150/-300/Basic -22/Añade peso a la \"barra de pesca\", impidiendo que rebote en la parte inferior." #!String
-    693: "Cazatesoros/250/-300/Basic -22/Los peces no escapan mientras recoges tesoros. También incrementa ligeramente la posibilidad de encontrar tesoros." #!String
-    694: "Trampa flotante/200/-300/Basic -22/Ralentiza la huida de los peces al no tambalearlos." #!String
-    695: "Flotador de corcho/250/-300/Basic -22/Aumenta ligeramente el tamaño de la \"barra de pesca\"." #!String
-    698: "Esturión/200/10/Fish -4/Un viejo pez que se alimenta del fondo marino, con una población menguante. Las hembras pueden vivir hasta 150 años./Day^Spring Summer" #!String
-    699: "Trucha tigre/150/10/Fish -4/Una extraña trucha híbrida que no puede tener descendencia propia./Day^Spring Summer" #!String
+    680: "Green Slime Egg/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
+    681: "Rain Totem/20/-300/Crafting/Actívalo para aumentar de forma considerable las posibilidades de que llueva mañana. Se consume al usarlo." #!String
+    682: "Mutant Carp/1000/10/Fish -4/Las extrañas aguas de las cloacas han convertido esta carpa en una monstruosidad./Day^Spring Summer" #!String
+    684: "Bug Meat/8/-300/Basic -28/Una jugosa bolita de carne de bicho." #!String
+    685: "Bait/1/-300/Basic -21/Atrae a los pescados a morder el anzuelo mas rápido. Debe ser añadido a una caña de pescar." #!String
+    686: "Spinner/250/-300/Basic -22/Su forma le hace girar en el agua. Aumenta ligeramente la tasa de picadura cuando pescas." #!String
+    687: "Dressed Spinner/500/-300/Basic -22/La barra de metal y coloridas serpentinas crean un tentador espectáculo para el pez. Aumenta la tasa de picadura cuando pescas." #!String
+    688: "Warp Totem: Farm/20/-300/Crafting/Te teletransporta directamente a tu casa. Se consume al usarlo." #!String
+    689: "Warp Totem: Mountains/20/-300/Crafting/Te teletransporta directamente a las montañas. Se consume al usarlo." #!String
+    690: "Warp Totem: Beach/20/-300/Crafting/Te teletransporta directamente a la playa. Se consume al usarlo." #!String
+    691: "Barbed Hook/500/-300/Basic -22/Hace tu captura más segura, haciendo que la \"barra de pesca\" se pegue al pez. Funciona mejor en peces lentos y débiles." #!String
+    692: "Lead Bobber/150/-300/Basic -22/Añade peso a la \"barra de pesca\", impidiendo que rebote en la parte inferior." #!String
+    693: "Treasure Hunter/250/-300/Basic -22/Los peces no escapan mientras recoges tesoros. También incrementa ligeramente la posibilidad de encontrar tesoros." #!String
+    694: "Trap Bobber/200/-300/Basic -22/Ralentiza la huida de los peces al no tambalearlos." #!String
+    695: "Cork Bobber/250/-300/Basic -22/Aumenta ligeramente el tamaño de la \"barra de pesca\"." #!String
+    698: "Sturgeon/200/10/Fish -4/Un viejo pez que se alimenta del fondo marino, con una población menguante. Las hembras pueden vivir hasta 150 años./Day^Spring Summer" #!String
+    699: "Tiger Trout/150/10/Fish -4/Una extraña trucha híbrida que no puede tener descendencia propia./Day^Spring Summer" #!String
     700: "Bullhead/75/10/Fish -4/Un pariente del bagre que come una gran variedad de comida del fondo del lago./Day^Spring Summer" #!String
     701: "Tilapia/75/10/Fish -4/Un pez principalmente vegetariano, que prefiere el agua cálida./Day^Spring Summer" #!String
     702: "Chub/50/10/Fish -4/Un pez común de agua dulce, conocido por su voraz apetito./Day^Spring Summer" #!String
