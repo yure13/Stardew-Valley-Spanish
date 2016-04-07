@@ -24,7 +24,7 @@ content:  #!Dictionary<String,String>
     Wed4: "Me gustaría poder pasar más tiempo fuera, pero hay mucho trabajo por hacer.#$e#Empecé a usar guantes de goma para mantener mis manos suaves.#$e#Cuanto más viejo te haces, más trabajo tienes que hacer para mantenerte saludable.#$e#Bueno, ¡Adiós!" #!String
     Wed: "¿Qué has dicho? ¿Son las %time ya? ¡Dios mío!#$e#¡Todavía tengo muchas cosas que hacer!$s" #!String
     Thu6: "Como pasa el tiempo *sigh*#$e#Recuero cuando Sam era un bebe con pañales. Era un niño tan lindo.$s#$e#No le digas que te lo dije.$h#$e#Te debe gustar hablar conmigo, ¿eh?" #!String
-    Thu: "Eres granjero, ¿eh? Interesante.^Eres granjera, ¿eh? Interesante.#$c .5#Nunca había conocido a un granjero.$k^Nunca había conocido a un granjera.$k#$e#Tal vez algún día me puedas enseñar a cultivar verduras.$h" #!String
+    Thu: "Eres granjero, ¿eh? Interesante.^Eres granjera, ¿eh? Interesante.#$e#Nunca había conocido a un granjero.$k^Nunca había conocido a una granjera.$k#$e#Tal vez algún día me puedas enseñar a cultivar verduras.$h" #!String
     Fri: "$d Joja#La comida de JojaMart puede que no sea la más saludable para mi familia, ¡pero con esos precios tan bajos sería una locura comprar en otra parte!|La comida de Pierre es mucho más fresca y más sana que cualquier cosa que compré alguna vez en JojaMart. Aunque echo de menos esos precios baratos de Joja." #!String
     Sat: "Hola.#$e#¿Necesitas algo?" #!String
     Sat4: "Estoy tan contenta de que estés tratando de mejorar esa vieja granja.#$e#¡Aportará mucho a la comunidad cuando lo tengas todo en orden!$h#$e#Sin embargo, vas a tener que trabajar mucho.#$e#Adiós." #!String
