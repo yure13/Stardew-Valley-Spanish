@@ -23,49 +23,35 @@ content:  #!Dictionary<String,String>
     Universal_Hate: "0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203" #!String
     Robin: " ¿Esto es para mi? Vaya, ¡me encanta!/224 426 636/¡Gracias!¡Es muy bonito!/-6 -79 424 709/Um... ¿Por qué?/16 330/¿Pero qué...? ¡Esto es horible!/2/Gracias. Esto podría serme útil.// " #!String
     Demetrius: " ¿Para mí? ¡Increíble!/207 232 233 400/¡Gracias! Este es un espécimen muy interesante./-5 -79 422/...¿Qué es esto?/80 330/Esto es asqueroso./2/Eso es muy amable de tu parte./-4/ " #!String
- 
-	Maru: " ¿Es eso...? ¡Oh vaya @! ¡Es espectacular!/72 197 190 215 222 243 336 337 400 787/¡Es un súper regalo! ¡Gracias!/-260 62 64 66 68 70 334 335 725 726/Oh... ¿Para mí? Lo dejaré por aquí.../-4 330 414 410 404 724/¡Puaj! ¿Creías que me gustaría esto?/340 342 2 430 416/Gracias.// " #!String
+    Maru: " ¿Es eso...? ¡Oh vaya @! ¡Es espectacular!/72 197 190 215 222 243 336 337 400 787/¡Es un súper regalo! ¡Gracias!/-260 62 64 66 68 70 334 335 725 726/Oh... ¿Para mí? Lo dejaré por aquí.../-4 330 414 410 404 724/¡Puaj! ¿Creías que me gustaría esto?/340 342 2 430 416/Gracias.// " #!String
     Sebastian: " Me encanta. ¿Cómo lo sabias?/84 227 236 575 305/Gracias, me gusta./267 276/¿...?/-81 30 -80/...Odio esto./-5 2 195 201 240 330 -26/...Gracias./-4/ " #!String
     Linus: " ¡Esto es una maravilla! Me has alegrado el día./88 90 234 242 280/Es un gran regalo, ¡gracias!/-5 -6 -79 -81/Umm... Esto no es que me sirva mucho./-2 330/¿Por qué me das esto a mi? ¿Acaso crees que me gusta la basura sólo porque vivo en una tienda? Eso es horrible./2/¿Un regalo? Que bien./-4/ " #!String
     Pierre: " ¡Esto es lo que mas me gusta! ¡Gracias!/202/Muy amable de parte. Me gusta./-5 -6 -7 18 22 402 418 259/No es precisamente mi favorito.../-2 -81 330/Por favor, no me traigas esto más./167 -4 199 270 229 248/¿Un regalo? ¡Gracias!// " #!String
-
-	
     Caroline: " Esto es... ¿para mí? Me dejas sin palabras./213 593/¡Oh Dios! ¿Estas seguro?^¡Oh Dios! ¿Estas segura?/-7 18 402 418/ No, no, no.../-81 330 300 306 307/Esto es una verdadera basura. Me has ofendido./80 296/Oh, que dulce. Gracias.// " #!String
     Abigail: " ¡Me encanta, de verdad! ¡Eres el mejor, @!^¡Me encanta, de verdad! ¡Eres la mejor, @!/66 128 220 226 276 611/Oye, ¿Cómo sabias que tenía hambre? ¡Esto parece delicioso!//¿Qué se supone que tengo que hacer con esto?/-5 -75 -79 16 245 246/¿En qué estabas pensando? ¡Esto es horrible!/330/¿Me has traído un regalo? Gracias.// " #!String
-
     Alex: " ¡Increíble! ¡Me encantan estas cosas!/201 212 662 664/¡Esto es genial! Gracias./-5/Um... Vale. Gracias./16 330/¿Es en serio? Esto es basura./80/¡Gracias!// " #!String
-	George: " ¡Este es mi regalo favorito! Gracias./20 205/Gracias./18 195 199 200 214 219 223 231 233/Es un regalo horrible./-80 16/Este probablemente sea el peor regalo que jamás haya visto. Muchas Gracias./22 80 330/¿Un regalo? Umm...#$e#¿Quieres algo a cambio?// " #!String
-
+    George: " ¡Este es mi regalo favorito! Gracias./20 205/Gracias./18 195 199 200 214 219 223 231 233/Es un regalo horrible./-80 16/Este probablemente sea el peor regalo que jamás haya visto. Muchas Gracias./22 80 330/¿Un regalo? Umm...#$e#¿Quieres algo a cambio?// " #!String
     Evelyn: " *jadeo*... ¡Es absolutamente maravilloso!$u#$e#Has hecho muy feliz a una mujer mayor./72 220 239 284 591 595/Oh Dios mío, ¡es increíble! Muy amable de tu parte./-6 18 402 418/Um, ¿Donde pondré esto?/16 80/...Huele asqueroso./225 226 227 228 219 396 397 393 372 248 296 -4 330/Que bonito. Gracias cielo.// " #!String
     Lewis: " Vaya. ¡Este es mi favorito! ¡Gracias!/200 208 235 260/¡Gracias, esto es fantástico!/-80 24 88 90 192 258 264 272 274 278/Em, supongo que la intención es lo que cuenta.../-6 16 330/Esto me pone enfermo. Que regalo más horrendo./80/Muy amable, gracias.// " #!String
-
     Clint: " ¡Sí! ¡Esto es exactamente lo que he estado buscando!/60 62 64 66 68 70 336 337 605 649 749/Que regalo más divertido. ¡Gracias!/334 335/*Suspiro*.../-80 2 16 80 /Me deprime.../4/Gracias./-15/ " #!String
     Penny: " ¡Gracias! ¡Me encanta, de verdad!/60 376 651 72 164 218 230 244 254/¡Gracias! Parece algo especial./-6 20 22/¿Eh?, ¿es para mí? ...Gracias./-4 80 330 456 457 444 440 422 420/Ugh...Perdón, pero lo odio con toda mi alma./446 346 348 303 304 398/Gracias, está bien.// " #!String
     Pam: " ¡Pero, oye! ¡Esto sí que es algo! Un millón de gracias./24 90 199 208 303 346/Este ha sido bueno. ¡Gracias!/-6 -75 -79 18 227 228 231 232 233 234 235 236 238 402 418/Esto no es lo mío./-5 16 80 330/Pero bueno, esto es absolutamente despreciable.$u#$e#(¿Es algún tipo de broma?)/149 151/Gracias chico.^Gracias chica./-4/ " #!String
-
     Emily: " ¡Este regalo es fabuloso! ¡Muchas gracias!/60 62 64 66 68 70 241 428 440/¡Gracias! Siento una energía positiva en este regalo./18 82 84 86 196 200 207 230 235 402 418/Perdón @. No me gusta esto./78 2 232 233 225 226/Este regalo emana una fuerte energía negativa. No puedo soportarlo./212 213 227 228/¡Gracias!// " #!String
     Haley: " ¡Oh Dios mío! ¡este es mi regalo favorito!/221 421 610 88/*glup* ¿Para mí...? ¡Muchas gracias!/18 60 62 64 70 88 222 223 232 233 234 402 418/Ugh... ¡Vaya regalo más estúpido!/-5 -6 -75 -79 -81 80 -27/¡Grosero!^¡Grosera!/-4 2 16 330 74/Muchas gracias. Me encantan los regalos.// " #!String
     Jas: " *glup*...Vaya!! ¡Muchas gracias!$h/221 595 604/¡Me encantan los regalos! ¡Gracias!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/¿Esto es un regalo? Oh...$s/-5 -81 -75 -79 80/Puaj... Esto es repulsivo.$s/395 -26 2 16 330/¡Gracias!// " #!String
     Vincent: " ¡Vaya, muchas gracias! ¡Esto es fantástico!/221 398 612/¿Para mí? ¡Vaya, gracias!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/Esto no es divertido...$s/-5 -75 -79 -81 80/Puaj, ¿qué es esto?$s/395 -26 2 16 330/¡Gracias!// " #!String
     Jodi: " Oh, ¡eres un amor! ¡Me encanta!/72 200 211 214 220 222 225 231/¡Muchas gracias!. Me has alegrado el día./-5 -6 -79 18 402 418/Umm, bueno, supongo que siempre puede usarse de abono... /-81 80 248 330/Puaj... Odio esto.../18 22 396/¡Qué amable de tu parte! Gracias.// " #!String
     Kent: " ¡Oh...! Mi madre solía darme esto cuando era pequeño. Me trae recuerdos maravillosos. Gracias./607 649/¡Vaya! Es un gran regalo. Gracias./-5-79 18 402 418/Ah... Es... es... ¿Qué es esto, exactamente? Umm.../80 330 416/Esto... solían dármelo en la prisión de Gotoro. He estado... tratando de olvidarlo. *Escalofrío*/-6 2 227 229 456/Muy amable de tu parte. Seguro que a la familia le encantará.// " #!String
-
-	
     Sam: " ¡Oh, sí! ¡Es mi favorito!/90 206 655 658 562 731/¡Gracias! Me encanta, de verdad./167 210 213 220 223 224 228 232 233 239 -5/Umm... Esto es... interesante./-81 80 152 330 -75/No lo entiendes, ¿verdad?/306 307 342 -15 2/¿Esto es para mí? ¡Gracias!// " #!String
     Leah: " ¡Oh! ¡Es exactamente lo que quería! ¡Gracias! /196 200 348 606 651 650 426 430/¡Es un regalo muy bonito! ¡Gracias!/-5 -6 -79 -81 18 402 169 406 408 418 86/Umm... Supongo que cada uno tiene sus gustos./-2 2 152 330 221 223 229 232 233 241 209 194/Es un regalo horroroso, ¿no crees?/305 211 210 206 216/Gracias.// " #!String
     Shane: " ¡Oh vaya, @! ¿Cómo has sabido que era mi regalo favorito?/206 215 260 346/¡Es genial! ¡Gracias!/-5-79 303/No me gusta nada./-81 152 330/¿Por qué me das tu basura?/80 342/Oh, ¿tienes algo para mí? ¡Gracias!// " #!String
     Marnie: " ¡Es un regalo increíble! ¡Gracias!/72 221 240 608/¡Gracias!/-5 -6 402 418/Oh. Creo que lo aceptaré./16 152/Esto no sirve para nada. No te entiendo./330/¡Gracias! Es un bonito regalo.// " #!String
-
-	
     Elliott: " ¡@, es un regalo muy bonito! ¡Gracias!/715 732 218 444 637/¿Es para mí? ¡Maravilloso!/727 728 -79 60 80 82 84 149 151 346 348 728/Umm... No soy demasiado fan de esto./16 206 330 -79 -81 -6/Este objeto me da malas vibraciones. Voy a tener que renunciar a él./80 154 300 296/¡Oh, un regalo! ¡Gracias!/-4/ " #!String
     Gus: " Me estas dando esto... ¿A mí? Me has dejado sin palabras./72 213 635 729/¡Oh, Dios mío! ¿En serio?/348 303 -7 18/No, no, no.../16 330/Esto es una basura. Me has ofendido./80 167 648/Oh, qué dulce. Gracias.// " #!String
     Dwarf: " Oye, me encantan estas cosas. Puedes encontrar más en las minas./60 62 64 66 68 70 749/Ah... esto me recuerda a mi hogar./82 84 86 96 97 98 99 121 122/Mmm... ¿esto es lo que os gusta a los humanos?/-5 -6 16 -81 2 4 330/No me importa la especie que seas. Esto es basura sin valor.//¡Una ofrenda! Gracias./-28/ " #!String
     Wizard: " Ah, esto está imbuido en un potente poder arcano. Es muy útil para mis estudios. ¡Gracias!/155 422 769 768/Muchas gracias. Este objeto tiene unas propiedades muy interesantes./-12 72 82 84/¿Esto?... Supongo que lo echaré al fuego y veré que pasa./-5 -6 -81 2 16 330 766/Ugh... Esto es absolutamente mundano. Por favor, no vuelvas a molestarme por esto.//Gracias. Creo que esto me será útil.// " #!String
-
-	
     Harvey: " ¿Es para mí? ¡Es mi regalo favorito! Es como si me hubieras leído la mente./348 237 432 395 342/Es un regalo muy bueno. ¡Gracias!/-81 -79 -7 402 418 422 436 438 442 444 422/Mmm... ¿Seguro que esto es sano?/-4 424 426 2 330 233 232 238 234 223 222 221 220 216 211 210 208 206 205/...Creo que soy alérgico a esto./296 245 397 396 394 393 392/Gracias. Es muy amable por tu parte.// " #!String
     Sandy: " ¡Oh! Me encanta recibir flores del valle. ¡Soy tan feliz!~/18 402 418/Esto es precioso. ¡Muchas gracias!/-75 -79 88 428 436 438 440/Oh... Um. Gracias./-4 2 330/*sniff* ...¿esto qué es?//¿Es para mí? ¡Gracias!// " #!String
-
     Willy: " ¡Es genial! Si mi padre estuviera cerca... Se vuelve loco con esto./72 143 149 154 276 337 698/Genial. ¡Gracias!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732/Ummm... ¿A tí te gusta esto? Vaya./-7 -81 2 4 330/... *sniff*... Bueno, supongo que puedo tirarlo directamente al cubo de cebo.//¡Un regalo! Gracias./-4 227 228 242/ " #!String
     Krobus: " Este es un regalo increíble. Para mi pueblo es un gran honor recibir algo como esto./72 16 276 337 305/Muchas gracias./66 336 340/Los humanos tienen... gustos interesantes./-7 -81 2 330/Oh... Um. Supongo que lo aceptaré.//Gracias.// " #!String
 
