@@ -16,88 +16,87 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    10: "¿viste el juego de anoche?#$B# O espera, aún tienes un televisor...?" #!String
-    14: "Ugh, pisé algo asqueroso hace un rato... y acabó de comprar estos zapatos.$s" #!String
-    Introduction: "Hola, yo soy Sam. Encantado de conocerte" #!String
-    danceRejection: "hmm... no sé. capaz el proximo año" #!String
-    Mon2: "Oye, cómo te va?#$e#Anoche practiqué con mi guitarra por 4 horas seguidas. Mis dedos duelen mucho.$s#$e#Adios, tengo algo que hacer..." #!String
-    Mon: "Oye, granjero." #!String
+    10: "¿Viste el partido de anoche?#$b#O espera, ¿tienes un televisor...?" #!String
+    14: "Puaj, pisé algo asqueroso hace un rato... y acabo de comprar estos zapatos.$s" #!String
+    Introduction: "Hola, yo soy Sam. Encantado de conocerte.$h" #!String
+    danceRejection: "Umm... no sé.Quizás el año que viene.$s" #!String
+    Mon2: "Oye, ¿cómo te va?#$e#Anoche practiqué con mi guitarra durante 4 horas seguidas. Me duelen mucho los dedos.$s#$e#Adiós, tengo algo que hacer..." #!String
+    Mon: "Hola granjero.^Hola granjera." #!String
     Mon8: "Te diré un secreto... mi nombre, 'Sam' es la abreviatura de 'Samson'.$l#$e#La mayoría de la gente no lo sabe, así que no lo digas." #!String
-    Tue: "Oh, Hola! Es bueno verte otra vez. #$e #Relájate." #!String
-    Tue4: "Hola, @. ¿Te gustaría dar un paseo o algo así?#$e#Dormir está muy bien pero a veces desearía no hacerlo... es una pérdida de tiempo." #!String
-    Wed: "Estoy intentado sacar una nueva canción para mi grupo, pero estoy en blanco...#$q 19/20 Wed_old#Oye.. ¿Sobre que crees que debe de tratar mi nueva canción?#$r 20 30 Wed_20#Cultivar, minar, y talar madera.#$r 8820 30 Wed_20#Una ciudad en el mar.#$r 8821 30 Wed_20#Trenes.#$r 19 -50 Wed_19#Elige lo que quieras. Seguirá siendo una canción horrible." #!String
-    Wed_old: "$p 19 #Pero si ya sé lo que piensas sobre ella$ s| Gracias por tu ayuda, justo he terminado ya con la letra!$h" #!String
-    Wed_19: "Oye... ¿Pero cuál es tu maldito problema? Perdón por preguntar.$a" #!String
+    Tue: "¡Oh, hola! Me alegra verte otra vez.#$e#Que te vaya bien." #!String
+    Tue4: "Hola @. ¿Te gustaría dar un paseo o algo así?#$e#Dormir está muy bien pero a veces desearía no hacerlo... es una pérdida de tiempo." #!String
+    Wed: "Estoy intentado escribir una nueva canción para mi grupo, pero estoy en blanco...#$q 19/20 Wed_old#Oye.. ¿Sobre qué crees que debe de tratar mi nueva canción?#$r 20 30 Wed_20#Agricultura, minería, y talar árboles.#$r 8820 30 Wed_20#Una ciudad en el mar.#$r 8821 30 Wed_20#Trenes.#$r 19 -50 Wed_19#Elige lo que quieras. Seguirá siendo una canción malísima." #!String
+    Wed_old: "$p 19 #Pero si ya sé lo que piensas$a|¡Gracias por tu ayuda! Justo he terminado ya con la letra.$h" #!String
+    Wed_19: "Oye... ¿Pero cuál es tu problema? Perdón por preguntar.$a" #!String
     Wed_20: "Oye, ¿sabes qué? Eso suena perfecto. ¡Gracias!$h" #!String
-    Wed6: "He sido amigo de Sebastian por un tiempo. Es un tipo genial.#$e#Si ustedes dos no estuvieran, no tendría ningún amigo en la ciudad." #!String
-    Wed10: "Hey camarada. ¡Parece que hoy estás lleno de energía!^@. Um... Solo quería decirte... Hoy se te ve genial.$l" #!String
-    Thu6_1: "Creo que mi papá podría regresar en un año más o menos.$e # #Supongo que podrías conocerlo, claro, si aún vives aquí#$e #No creo que fueras capaz de abandonar la granja después de tanto esfuerzo que le has dedicado!" #!String
-    Thu6_2: "...Tengo sentimientos encontrados... Mi padre está de regreso. Se siente raro.$s #$b #Pero supongo que es por que no lo he visto en 3 años... Eso puede explicarlo." #!String
+    Wed6: "Soy amigo de Sebastian desde hace tiempo. Es un tipo genial.#$e#Si vosotros dos no estuvierais, no tendría ningún amigo en la ciudad." #!String
+    Wed10: "Hola colega. ¡Parece que hoy estás rebosante de energía!^@. Um... Solo quería decirte... Estás muy guapa hoy.$l" #!String
+    Thu6_1: "Creo que mi papá podría regresar en un año más o menos.#$e#Supongo que podrías conocerlo si aún vives aquí, claro.#$e#No creo que fueras capaz de abandonar la granja después de todo el esfuerzo que le has dedicado." #!String
+    Thu6_2: "...Mi padre va a volver y tengo sentimientos encontrados. Para mí es un extraño.$s #$b#Pero supongo que es porque no lo he visto en 3 años... Eso puede explicarlo." #!String
     Thu_3: "*suspiro*... ¿qué sigo haciendo aquí?" #!String
-    Thu: "Las nubes lucen genial en esta época del año, ¿no crees? Como si fueran cucharadas de helado de vainilla flotando en salsa de frambuesa... O quizá es que sólo tengo hambre." #!String
-    Thu2: "Mi padre es militar, y está luchando contra el Impero de Gotoro. Por eso no está aquí...#$e#Algún día volverá.#$e#...He escuchado cosas horribles sobre el Impero de Gotoro...$s" #!String
-    Thu_2: "Bueno, mi papá está de regreso. ¿Lo has conocido ya? #$b #Sólo me alegra que él esté bien." #!String
-    Thu2_2: "Bueno, mi papá ha regresado. ¿Lo has conocido ya? #$b #Me alegra que esté bien." #!String
-    Fri: "¿Te había dicho alguna vez que vivíamos en la ciudad? Hay un ritmo de vida más activo, pero también es un poco ruidoso y frenético... Es difícil decir cuál es mejor." #!String
-    Fri4: "Papa solía trabajar de basurero en la ciudad. No querrías saber las cosas que llegó a encontrar en la basura de la gente." #!String
-    Fri10: "Cuanto más mayor me hago más unido al valle me siento#$b#Aunque por alguna razón podría estar predispuesto.$l#$e#Bueno, ¿Como lo llevas hoy?$h" #!String
-    Sat4: "Ay va! Acabo de recordar que debería de llamar a mi abuela. Vale, voy a ponerme esta pulsera en la muñeca para que no se me olvide.#$e#Tengo que hacer este tipo de cosas porque tengo muy mala memoria.$h" #!String
-    Sat: "Hmm. Acabo de recordar que esto quiere decir algo... pero lo he olvidado.#$e#Me pasa constantemente." #!String
-    Sun8: "A veces me pregunto si mi madre es realmente feliz con su vida. Le pregunté una vez y tuve la sensación de que escondía cierto dolor interior." #!String
+    Thu: "Las nubes están preciosas en esta época del año, ¿no crees?#$e#Como si fueran cucharadas de helado de vainilla flotando en salsa de frambuesa... O quizás es que sólo tengo hambre." #!String
+    Thu2: "Mi padre está en el ejército luchando contra el Imperio Gotoro. Por eso no está aquí...#$e#Algún día volverá.#$e#...He escuchado cosas horribles sobre el Imperio Gotoro...$s" #!String
+    Thu_2: "Bueno, mi papá ya ha vuelto. ¿Lo has conocido ya?#$b#Me alegra que esté bien." #!String
+    Thu2_2: "Bueno, mi papá ya ha vuelto. ¿Lo has conocido ya?#$b#Me alegra que esté bien." #!String
+    Fri: "¿Te había dicho alguna vez que vivíamos en la ciudad?#$e#Hay un ritmo de vida más activo, pero también es un poco ruidoso y frenético... Es difícil decir cuál es mejor." #!String
+    Fri4: "Papá solía trabajar de basurero en la ciudad.#$e#No querrías saber las cosas que llegó a encontrar en la basura de la gente." #!String
+    Fri10: "Cuanto más mayor me hago más unido al valle me siento#$b#Aunque, obviamente, no estoy siendo objetivo.$l#$e#Bueno, ¿cómo lo llevas hoy?$h" #!String
+    Sat4: "¡Oh! Acabo de recordar que debería de llamar a mi abuela. Vale, voy a ponerme esta goma elástica en la muñeca para que no se me olvide.#$e#Tengo que hacer este tipo de cosas porque tengo muy mala memoria.$h" #!String
+    Sat: "Umm. Acabo de recordar que iba a hacer algo... pero lo he olvidado.#$e#Me pasa constantemente." #!String
+    Sun8: "A veces me pregunto si mi madre es realmente feliz con su vida...$s#$e#Le pregunté una vez y tuve la sensación de que escondía cierto dolor interior." #!String
     Sun: "Oh, es un buen día... ¿no?" #!String
-    spring_21: "A veces esos pétalos de primavera que flotan en el aire me dan alergia. $s #$e #Me encanta el verano, por mi mismo." #!String
-    Event_band1: "Oye, ¿sabes qué? Es exactamente el tipo de estilo que he estado pensando... de la banda." #!String
-    event_room1: "Entiendo." #!String
-    spring_12: "Mi hermano pequeño se emociona mucho con los festivales. Ha estado hablando todo el día de la Caza del Huevo de mañana." #!String
+    spring_21: "A veces, en primavera, me dan alergia los pétalos que flotan en el aire.$s#$e#Prefiero el verano." #!String
+    Event_band1: "Oye, ¿sabes qué? Es exactamente el tipo de estilo que he estado pensando... para la banda." #!String
+    event_room1: "Oh, entiendo." #!String
+    spring_12: "Mi hermano pequeño se emociona mucho con los festivales. Ha estado hablando todo el día de la caza del huevo de mañana." #!String
     spring_23: "¿Por qué no puede ser hoy el baile de las flores? Así no tendría que trabajar.$s" #!String
     winter_7: "Una vez, Gus se cayó al rió en el Festival del Hielo. Tuvimos que hacer una gran fogata en el salón para secarle.#$e#Estábamos preocupados por si no volvíamos a probar sus famosos espaguetis otra vez.#$e#" #!String
-    fall_26: "Esta noche, después de que todo el mundo se duerma, ese extraño hombre viejo que vive en el bosque preparará el laberinto embrujado. Así se asegura de que nadie lo ve trabajando." #!String
+    fall_26: "Esta noche, después de que todo el mundo se duerma, ese extraño anciano que vive en el bosque preparará el laberinto embrujado. Así se asegura de que nadie lo ve trabajando." #!String
     summer_10: "¡No tengo que trabajar mañana! Nunca he estado tan feliz.$h" #!String
-    winter_24: "El banquete de La Estrella Invernal se supone que es un momento para dar las gracias por todas las cosas buenas de la vida.#$b#¿Yo? Estoy más interesado en la comida. Jeje.$h" #!String
+    winter_24: "La fiesta de la Estrella Invernal se supone que es un momento para dar las gracias por todas las cosas buenas de la vida.#$b#¿Yo? Estoy más interesado en la comida. Jeje.$h" #!String
     event_room2: "Sí... ¡Eso es lo que pasó!" #!String
-    event_snack1: "Él tiene razón.... Eso es lo que ha pasado.$s^Ella tiene razón.... Eso es lo que ha pasado.$s" #!String
+    event_snack1: "Tiene razón.... Eso es lo que ha pasado.$s" #!String
     event_snack2: "Sí... ¡Eso es lo que pasó!" #!String
-    event_snack3: "¿¡Qué!? ¡Está mintiendo!$a^¿¡Qué!? ¡Está mintiendo!$a" #!String
-    summer_Mon2: "Hey, ¿qué tal?#$e#Estoy hambriento.#$e#Nos vemos luego." #!String
+    event_snack3: "¿¡Qué!? ¡Está mintiendo!$a" #!String
+    summer_Mon2: "Hola, ¿qué tal?#$e#Estoy hambriento.#$e#Nos vemos luego." #!String
     summer_Mon6: "¿Has estado ya en el desierto?#$e#Puedes encontrar cosas interesantes ahí. Mi padre me llevó un par de veces cuando era más joven." #!String
     summer_Mon: "Hay un poquito menos de polen en verano... mi nariz lo agradece." #!String
-    summer_Tue: "Oh, ¡hola! Es un placer volver a verte.#$e#Adiós por ahora." #!String
-    summer_Tue4: "Hola, @. ¿Te apetece pasar un rato fuera o algo?#$e#¡Tengo tanta energía durante el verano que apenas duermo!" #!String
-    summer_Wed: "Hola. ¿Pasando el día?#$e#Suena interesante." #!String
-    summer_Wed2: "Vi una araña en el techo anoche. Seguro que les gusta el calor.#$e#Espero que no se metiera en mi boca mientras dormía.$s" #!String
-    summer_Thu: "Papá me habló sobre nuestro enemigo nacional, el Impero Gotoro... Son un grupo despiadado." #!String
-    summer_Thu6_1: "A veces oigo a mi padre por la noche andando por el pasillo.$s#$b#...Pero no nos cuenta que le preocupa." #!String
-    summer_Fri: "Ya sabes... Solía vivir en la ciudad y tengo que reconocerlo, este sitio es mucho mejor en verano.$h#$e#En la ciudad hace demasiado calor con tanto hormigón." #!String
+    summer_Tue: "Oh, ¡hola! Es un placer volver a verte.#$e#Hasta luego." #!String
+    summer_Tue4: "Hola @. ¿Te apetece pasar un rato fuera o algo?#$e#¡Tengo tanta energía durante el verano que apenas duermo!" #!String
+    summer_Wed: "Hola. ¿En tu día libre?#$e#Suena interesante." #!String
+    summer_Wed2: "Anoche vi una araña en el techo. Seguro que les gusta el calor.#$e#Espero que no se metiera en mi boca mientras dormía...$s" #!String
+    summer_Thu: "Papá me habló sobre nuestro enemigo nacional, el Impero Gotoro... Parece que son un grupo despiadado." #!String
+    summer_Thu6_1: "A veces oigo a mi padre por la noche andando por el pasillo.$s#$b#...Pero no nos cuenta qué le preocupa." #!String
+    summer_Fri: "Solía vivir en la ciudad y tengo que reconocerlo, este sitio es mucho mejor en verano.$h#$e#En la ciudad hace demasiado calor con tanto hormigón." #!String
     summer_Sun: "Cuando veas los globos aerostáticos volando sobre el mar, sabrás que el verano está en pleno apogeo." #!String
     fall_Mon2: "Me gusta pasear por el bosque en esta época del año. La temperatura es muy agradable#$e#...$h" #!String
-    fall_Mon: "Oh, hola. ¿Estás haciendo amigos con alguien del pueblo?#$e#Adiós." #!String
-    fall_Tue: "Mis zapatos parece que se quieren despedir de esta época del año. ¡Mira, mis dedos asomando por la punta!$h#$e#Esto es lo que pasa si haces demasiado skateboard." #!String
-    fall_9: "He pedido unos nuevos zapatos online. Son del mismo estilo, así que se que me vendrán bien." #!String
-    fall_16: "¡Pedí unos zapatos por Internet hace ya más de una semana! colega, están tardando mucho en llegar.#$e#Supongo que es porque vivimos en el medio de la nada.$s" #!String
+    fall_Mon: "Oh, hola. ¿Tienes ya amigos en el pueblo?#$e#Adiós." #!String
+    fall_Tue: "Parece que mis zapatos se desgastan más en esta época del año. ¡Mira, mis dedos asomando por la punta!$h#$e#Esto es lo que pasa si practicas demasiado skateboard." #!String
+    fall_9: "He pedido unos nuevos zapatos online. Son del mismo estilo, así que sé que me vendrán bien." #!String
+    fall_16: "¡Pedí unos zapatos por Internet hace ya más de una semana! Colega, están tardando mucho en llegar.#$e#Supongo que es porque vivimos en medio de la nada.$s" #!String
     fall_23: "Ah, mis pies se sienten a gusto en estos nuevos zapatos. Están un poco tiesos, pero ensancharán. Sobre todo después de haber estado corriendo a través del laberinto encantado este finde.$h" #!String
-    fall_Tue4: "Hola, @. ¿Te apetece dar una vuelta o algo?#$e#Cuando te apetezca paramos." #!String
-    fall_Wed: "Hey... que bien huele, como a pizza.#$e#¿Lo hueles? Quizás mamá esté cocinando algo." #!String
-    fall_Thu6_1: "Creo que mi padre podría volver el año que viene.#$e#Se supone que eso es pronto. Extraño." #!String
-    fall_Thu6: "Creo que debería empezar a plantearme mudarme pronto...$s#$e#...Pero creo que echaría de menos el guiso de pescado de mamá, así que, no se...$s#$e#Odio tomar decisiones." #!String
+    fall_Tue4: "Hola @. ¿Te apetece dar una vuelta o algo?#$e#Pásate por aquí cuando quieras." #!String
+    fall_Wed: "Oye... que bien huele, como a pizza.#$e#¿Lo hueles? Quizás mamá esté cocinando algo." #!String
+    fall_Thu6_1: "Creo que mi padre podría volver el año que viene.#$e#Supongo que eso es pronto. Extraño." #!String
+    fall_Thu6: "Creo que debería empezar a plantearme mudarme pronto...$s#$e#...Pero, creo que echaría de menos el guiso de pescado de mamá, así que, no se...$s#$e#Odio tomar decisiones." #!String
     fall_Thu: "¿Te has dado cuenta de que todas las telas de araña aparecen durante el otoño?#$e#Si te levantas temprano las puedes ver cubiertas por el rocío... como estrellitas." #!String
-    fall_Fri: "Solía vivir en la ciudad de Zuzu, ¿sabes?. La gran diferencia es el ruido. Nunca hay silencio en la ciudad.#$e#Hay mucha más gente por todos los sitios. Y hay mucha claridad con las luces de la ciudad, incluso por la noche.#$e#Creo que la elección depende de tu personalidad." #!String
-    fall_Fri10: "Creo que me he criado para que me guste al campo más que la ciudad.$h#$b#Aunque por alguna razón podría estar predispuesto a ello.$l#$e#Bueno, ¿Cómo estás hoy?$h" #!String
-    fall_Sat4: "Tengo mucha suerte de tener la habitación más grade de la casa para mi.#$e#Alguna ventaja tiene que tener ser el mayor." #!String
+    fall_Fri: "Solía vivir en Ciudad Zuzu, ¿sabes?. La diferencia más notable es el ruido. Nunca hay silencio en la ciudad.#$e#Hay mucha más gente por todos los sitios. Y hay mucha claridad con las luces de la ciudad, incluso por la noche.#$e#Supongo que lo que te guste depende de tu personalidad." #!String
+    fall_Fri10: "Creo ha llegado a gustarme más el campo que la ciudad.$h#$b#Aunque, obviamente, no estoy siendo objetivo.$l#$e#Bueno, ¿cómo estás hoy?$h" #!String
+    fall_Sat4: "Tengo mucha suerte de tener la habitación más grande de la casa para mí solo.#$e#Alguna ventaja tiene que tener ser el mayor." #!String
     fall_Sat: "Hmm. Creo que tenía que hacer algo... Pero se me ha olvidado.#$e#Me pasa constantemente." #!String
-    fall_Sun8: "La primera semana del otoño ya se ha acabado. Vaya, se ha pasado muy rápida.$s#$e#Da igual. El caso es que estoy muy feliz de que hayas venido a visitarme!#$e#¿Tienes algo nuevo que contarme?" #!String
+    fall_Sun8: "La primera semana del otoño ya se ha acabado. Vaya, se ha pasado muy rápida.$s#$e#Da igual. El caso es que estoy muy feliz de que hayas venido a visitarme#$e#¿Tienes algo nuevo que contarme?" #!String
     fall_Sun: "Es complicado divertirse un domingo... Sigo pensando en que mañana hay que trabajar.$s" #!String
-    fall_14: "Hola @.#$e#Hmm.. Me pregunto ¿podría hacer crecer un cactus en mi habitación?" #!String
-    winter_Mon2: "Todo el mundo se queda en casa en invierno, Asi que puedo tocar la guitarra tan fuerte como quiera.$h" #!String
+    fall_14: "Hola @.#$e#Umm.. Me pregunto si podría hacer crecer un cactus en mi habitación..." #!String
+    winter_Mon2: "Todo el mundo se queda en casa en invierno, así que puedo tocar la guitarra tan fuerte como quiera.$h" #!String
     winter_Mon: "Hola... Que frío, ¿no?" #!String
-    winter_Tue: "Oh, ¡hola! Es un placer volver a verte.#$e#Tómatelo con calma." #!String
-    winter_Tue4: "Hola, @. ¿Te apetece salir a dar una vuelta o algo?#$e#Bueno, es una buena época del año para recuperar horas de sueño.$h" #!String
-    winter_Wed: "$d Joja# Odio trabajar en jojaMart, pero ¿Como voy a conseguir dinero en esta ciudad? | Me alegro de trabajar en el museo. Es mas entretenido que el deprimente jojaMarkt." #!String
-    winter_Thu6_1: "Creo que mi papá volverá esta primavera. #$e# Han pasado 3 años desde la ultima vez que lo vi. Va a ser muy extraño." #!String
-    winter_Thu6: "Papa volvera en un rato. Creo, uno se acostumbra a el." #!String
-    winter_Thu: "Mi padre está en el ejército, luchando contra el imperio de Gotoro. Esa es la razón por la que no está.#$e#Volverá pronto, supongo." #!String
-    winter_Thu_2: "Una cosa buena del invierno... todos los mosquitos se han ido." #!String
+    winter_Tue: "Oh, ¡hola! Es un placer volver a verte.#$e#Que te vaya bien." #!String
+    winter_Tue4: "Hola @. ¿Te apetece salir a dar una vuelta o algo?#$e#Es una buena época del año para recuperar horas de sueño.$h" #!String
+    winter_Wed: "$d Joja# Odio trabajar en JoJaMart, pero ¿cómo voy a conseguir dinero en este pueblo?|Me alegro de trabajar en el museo. Es mas entretenido que el deprimente JoJaMart." #!String
+    winter_Thu6_1: "Creo que mi papá volverá esta primavera.#$e#Han pasado 3 años desde la última vez que lo vi. Va a ser muy extraño." #!String
+    winter_Thu6: "Papá volverá, se quedará por un tiempo. Supongo que al final te acostumbras." #!String
+    winter_Thu: "Mi padre está en el ejército, luchando contra el Imperio Gotoro. Por eso no está.#$e#Volverá pronto, supongo." #!String
+    winter_Thu_2: "Hay algo bueno en el invierno... todos los mosquitos se han ido." #!String
     winter_Fri: "Lo peor de la nieve es empaparte los pie. Tienes suerte de llevar botas gruesas." #!String
-    winter_Sat4: "Recordé que tengo que cambiar las cuerdas de mi guitarra.#$b# Vale, voya escribirme una nota en la muñeca, por lo que me acordaré de hacerlo esta noche.#$e#Tengo que hacer pequeños recordatorios para que no se me olviden hacer cosas.$h" #!String
-    winter_Sun8: "Sería divertido si pudiésemos montar en trineo, ¿no?#$#No creo que haya alguna buena colina cerca.$s#$e#Además, no tengo trineo.#$e#Así que, ¿qué has estado haciendo últimamente?" #!String
+    winter_Sat4: "Me acabo de acordar de que tengo cambiar las cuerdas de mi guitarra.#$b#Vale, voy a escribirme una nota en la muñeca, así me acordaré de hacerlo esta noche.#$e#Tengo que hacer pequeños recordatorios para que no se me olvide hacer cosas.$h" #!String
+    winter_Sun8: "Sería divertido si pudiésemos montar en trineo, ¿no?#$e#No creo que haya una buena colina cerca.$s#$e#Además, no tengo trineo.#$e#Bueno, ¿qué has estado haciendo últimamente?" #!String
     winter_Sun: "Trata de no desordenar demasiado la casa o mi madre nos lanzará por los aires." #!String
-
