@@ -121,11 +121,11 @@ content:  #!Dictionary<Int32,String>
     170: "Gafas rotas/0/-300/Fish -20/Parece que alguien perdió sus gafas. Están destrozadas./Day Night^Spring Summer Fall Winter" #!String
     171: "CD Roto/0/-300/Fish -20/Es un CD de la versión de prueba de JojaNet 2.0. Deben haber hecho un millón de estas cosas./Day Night^Spring Summer Fall Winter" #!String
     172: "Periódico empapado/0/-300/Fish -20/Es basura./Day Night^Spring Summer Fall Winter" #!String
-    174: "Huevo grande/75/15/Basic -5/¡Es un huevo blanco extraordinariamente grande!" #!String
-    176: "Huevo/40/10/Basic -5/Un huevo blanco de gallina." #!String
-    178: "Heno/0/-300/Basic/Hierba seca utilizada como alimento para animales." #!String
-    180: "Huevo/40/10/Basic -5/Un huevo marrón de gallina." #!String
-    182: "Huevo grande/75/15/Basic -5/¡Es un huevo marrón extraordinariamente grande!" #!String
+    174: "Large Egg/75/15/Basic -5/¡Es un huevo blanco extraordinariamente grande!" #!String
+    176: "Egg/40/10/Basic -5/Un huevo blanco de gallina." #!String
+    178: "Hay/0/-300/Basic/Hierba seca utilizada como alimento para animales." #!String
+    180: "Egg/40/10/Basic -5/Un huevo marrón de gallina." #!String
+    182: "Large Egg/75/15/Basic -5/¡Es un huevo marrón extraordinariamente grande!" #!String
     184: "Leche/100/15/Basic -6/Una jarra con leche de vaca./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     186: "Leche grande/150/20/Basic -6/Una gran jarra de leche de vaca./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     188: "Judías verdes/40/10/Basic -75/Unas jugosas judías frescas." #!String
