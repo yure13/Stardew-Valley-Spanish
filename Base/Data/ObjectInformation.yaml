@@ -23,35 +23,35 @@ content:  #!Dictionary<Int32,String>
     0: "Weeds/0/-1/Basic/Un montón de malas hierbas." #!String
     2: "Stone/0/-300/Basic/Un material útil cuando se rompe con el pico." #!String
     4: "Stone/0/-300/Basic/Un material útil cuando se corta con un hacha." #!String
-    16: "Rábano picante salvaje/50/5/Basic -81/Una raíz picante de primavera." #!String
-    18: "Narciso/30/0/Basic -81/Una flor típica de primavera. Es un buen regalo." #!String
-    20: "Puerro/60/16/Basic -81/Un sabroso pariente de la cebolla." #!String
-    22: "Diente de león/40/10/Basic -81/No es la flor más bonita, pero se puede hacer una buena ensalada con sus hojas." #!String
-    24: "Chirivía/35/10/Basic -75/Un tubérculo de primavera de la familia de las zanahorias. Sabe a tierra y esta lleno de nutrientes." #!String
-    30: "Madera/2/10/Basic/Un recurso muy versátil que se usa para construcción y como combustible." #!String
-    60: "Esmeralda/250/-300/Minerals -2/Una piedra preciosa con un brillante color verde." #!String
-    62: "Aguamarina/180/-300/Minerals -2/Una gema con brillo azul verdoso." #!String
-    64: "Rubí/250/-300/Minerals -2/Una piedra preciosa valorada por su intenso color y su hermoso brillo." #!String
-    66: "Amatista/100/-300/Minerals -2/Una variante morada del cuarzo." #!String
-    68: "Topacio/80/-300/Minerals -2/Bastante común, pero aun así valorada por su belleza." #!String
+    16: "Wild Horseradish/50/5/Basic -81/Una raíz picante de primavera." #!String
+    18: "Daffodil/30/0/Basic -81/Una flor típica de primavera. Es un buen regalo." #!String
+    20: "Leek/60/16/Basic -81/Un sabroso pariente de la cebolla." #!String
+    22: "Dandelion/40/10/Basic -81/No es la flor más bonita, pero se puede hacer una buena ensalada con sus hojas." #!String
+    24: "Parsnip/35/10/Basic -75/Un tubérculo de primavera de la familia de las zanahorias. Sabe a tierra y esta lleno de nutrientes." #!String
+    30: "Lumber/2/10/Basic/Un recurso muy versátil que se usa para construcción y como combustible." #!String
+    60: "Emerald/250/-300/Minerals -2/Una piedra preciosa con un brillante color verde." #!String
+    62: "Aquamarine/180/-300/Minerals -2/Una gema con brillo azul verdoso." #!String
+    64: "Ruby/250/-300/Minerals -2/Una piedra preciosa valorada por su intenso color y su hermoso brillo." #!String
+    66: "Amethyst/100/-300/Minerals -2/Una variante morada del cuarzo." #!String
+    68: "Topaz/80/-300/Minerals -2/Bastante común, pero aun así valorada por su belleza." #!String
     70: "Jade/200/-300/Minerals -2/Una piedra decorativa de color verde pálido." #!String
-    72: "Diamante/750/-300/Minerals -2/Una gema rara y valiosa." #!String
-    74: "Fragmento prismático/2000/-300/Minerals -2/Una sustancia muy rara y poderosa de origen desconocido." #!String
-    78: "Zanahoria de cueva/25/12/Basic -81/Una merienda almidonada encontrada en cuevas. Ayuda a los mineros a trabajar mas tiempo." #!String
-    80: "Cuarzo/25/-300/Minerals -2/Un cristal transparente normalmente encontrado en cuevas y minas." #!String
-    82: "Cuarzo de fuego/100/-300/Minerals -2/Un brillante cristal rojo, normalmente encontrado cerca de lava." #!String
-    84: "Lágrima congelada/75/-300/Minerals -2/Un cristal. Según la leyenda, son las lagrimas congeladas de un yeti." #!String
-    86: "Cristal de tierra/50/-300/Minerals -2/Una sustancia resinosa encontrada cerca de la superficie." #!String
-    88: "Coco/100/-300/Basic-79/La semilla de la palmera cocotera. Tiene muchos usos culinarios." #!String
-    90: "Fruta de cactus/75/30/Basic -79/El dulce fruto del cactus de nopal." #!String
-    92: "Savia/2/-1/Basic -81/Fluido obtenido de los árboles." #!String
-    93: "Antorcha/5/-300/Crafting/Proporciona una modesta cantidad de luz." #!String
-    94: "Antorcha de espíritus/5/-300/Crafting/No está claro de donde viene su color azul..." #!String
-    96: "Pergamino enano I/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con un lazo rojo.//Set Dwarf 96 97 98 99" #!String
-    97: "Pergamino enano II/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cinta verde.//Set Dwarf 96 97 98 99" #!String
-    98: "Pergamino enano III/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cuerda azul.//Set Dwarf 96 97 98 99" #!String
-    99: "Pergamino enano IV/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cadena dorada.//Set Dwarf 96 97 98 99" #!String
-    100: "Ánfora agrietada/40/-300/Arch/Una antigua vasija hecha de cerámica. Usada para transportar tanto mercancías secas como húmedas./Town .04/Item 3 461" #!String
+    72: "Diamond/750/-300/Minerals -2/Una gema rara y valiosa." #!String
+    74: "Prismatic Shard/2000/-300/Minerals -2/Una sustancia muy rara y poderosa de origen desconocido." #!String
+    78: "Cave Carrot/25/12/Basic -81/Una merienda almidonada encontrada en cuevas. Ayuda a los mineros a trabajar mas tiempo." #!String
+    80: "Quartz/25/-300/Minerals -2/Un cristal transparente normalmente encontrado en cuevas y minas." #!String
+    82: "Fire Quartz/100/-300/Minerals -2/Un brillante cristal rojo, normalmente encontrado cerca de lava." #!String
+    84: "Frozen Tear/75/-300/Minerals -2/Un cristal. Según la leyenda, son las lagrimas congeladas de un yeti." #!String
+    86: "Earth Crystal/50/-300/Minerals -2/Una sustancia resinosa encontrada cerca de la superficie." #!String
+    88: "Coconut/100/-300/Basic-79/La semilla de la palmera cocotera. Tiene muchos usos culinarios." #!String
+    90: "Cactus Fruit/75/30/Basic -79/El dulce fruto del cactus de nopal." #!String
+    92: "Sap/2/-1/Basic -81/Fluido obtenido de los árboles." #!String
+    93: "Torch/5/-300/Crafting/Proporciona una modesta cantidad de luz." #!String
+    94: "Spirit Torch/5/-300/Crafting/No está claro de donde viene su color azul..." #!String
+    96: "Dwarf Scroll I/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con un lazo rojo.//Set Dwarf 96 97 98 99" #!String
+    97: "Dwarf Scroll II/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cinta verde.//Set Dwarf 96 97 98 99" #!String
+    98: "Dwarf Scroll III/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cuerda azul.//Set Dwarf 96 97 98 99" #!String
+    99: "Dwarf Scroll IV/1/-300/Arch/Un rollo de un pergamino lleno de letras enanas. Éste está atado con una cadena dorada.//Set Dwarf 96 97 98 99" #!String
+    100: "Chipped Amphora/40/-300/Arch/Una antigua vasija hecha de cerámica. Usada para transportar tanto mercancías secas como húmedas./Town .04/Item 3 461" #!String
     101: "Punta de flecha/40/-300/Arch/Una punta toscamente tallada usada para la caza./Mountain .02 Forest .02 BusStop .02/Debris 2 30 14" #!String
     102: "Libro perdido/50/-300/asdf/Escrituras sobre una amplia variedad de periodos de tiempo./Town .05/Note" #!String
     103: "Muñeca antigua/60/-300/Arch/Una muñeca antigua cubierta de suciedad. Esta muñeca ha sido usada como juguete, decoración o en algún tipo de ritual./Mountain .04 Forest .03 BusStop .03 Town .01/Money 1 250" #!String
