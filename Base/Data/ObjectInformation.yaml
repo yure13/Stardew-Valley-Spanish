@@ -503,40 +503,40 @@ content:  #!Dictionary<Int32,String>
     695: "Flotador de corcho/250/-300/Basic -22/Aumenta ligeramente el tamaño de la \"barra de pesca\"." #!String
     698: "Esturión/200/10/Fish -4/Un viejo pez que se alimenta del fondo marino, con una población menguante. Las hembras pueden vivir hasta 150 años./Day^Spring Summer" #!String
     699: "Trucha tigre/150/10/Fish -4/Una extraña trucha híbrida que no puede tener descendencia propia./Day^Spring Summer" #!String
-    700: "Siluro/75/10/Fish -4/Un pariente del bagre que come una gran variedad de comida del fondo del lago./Day^Spring Summer" #!String
+    700: "Bullhead/75/10/Fish -4/Un pariente del bagre que come una gran variedad de comida del fondo del lago./Day^Spring Summer" #!String
     701: "Tilapia/75/10/Fish -4/Un pez principalmente vegetariano, que prefiere el agua cálida./Day^Spring Summer" #!String
-    702: "Bagre/50/10/Fish -4/Un pez común de agua dulce, conocido por su voraz apetito./Day^Spring Summer" #!String
-    703: "Imán/15/-300/Basic -21/Incrementa la posibilidad de encontrar tesoros pescando. Sin embargo, a los peces no les gusta su sabor." #!String
+    702: "Chub/50/10/Fish -4/Un pez común de agua dulce, conocido por su voraz apetito./Day^Spring Summer" #!String
+    703: "Magnet/15/-300/Basic -21/Incrementa la posibilidad de encontrar tesoros pescando. Sin embargo, a los peces no les gusta su sabor." #!String
     704: "Dorado/100/10/Fish -4/Un feroz carnívoro con brillantes escamas naranjas./Day^Summer" #!String
-    705: "Atún blanco/75/10/Fish -4/Prefieren los \"bordes\" de temperatura donde se juntan el agua caliente y fría./Day^Spring Fall" #!String
-    706: "Sábalo/60/10/Fish -4/Vive en en el mar, pero vuelve a los ríos para engendrar./Day^Spring Summer Fall" #!String
-    707: "Bacalao largo/120/10/Fish -4/Un temible depredador que se comerá casi cualquier cosa que pueda meterse en su boca./Day^Fall" #!String
-    708: "Rodaballo/80/10/Fish -4/Un pez plano que vive en el fondo del océano./Day^Spring Summer" #!String
-    709: "Madera dura/15/-300/Basic -16/Un tipo especial de madera con una fuerza y belleza superiores." #!String
-    710: "Nasa de pesca/50/-300/Crafting/Ponla en el agua, añade cebo y comprueba si has capturado algo al siguiente día. Funciona en ríos, lagos y en el océano." #!String
-    715: "Langosta/120/-300/Fish -4/Un crustáceo de gran tamaño y con una cola muy fuerte que habita en el océano./Day^Spring Summer" #!String
-    716: "Cigala/75/-300/Fish -4/Un pequeño crustáceo de agua dulce pariente de la langosta./Day^Spring Summer" #!String
-    717: "Cangrejo/100/-300/Fish -4/Un crustáceo marino con dos poderosas pinzas./Day^Spring Summer" #!String
-    718: "Berberecho/50/-300/Fish -4/Una almeja de agua salada, muy común./Day^Spring Summer" #!String
-    719: "Mejillón/30/-300/Fish -4/Un bivalvo común que a menudo vive en grupos./Day^Spring Summer" #!String
-    720: "Camarón/60/-300/Fish -4/Un carroñero que se alimenta del fondo del océano. Muy apreciado por su carne./Day^Spring Summer" #!String
-    721: "Caracol/65/-300/Fish -4/Gran molusco que vive en una cáscara de caracol./Day^Spring Summer" #!String
-    722: "Bígaro/20/-300/Fish -4/Un caracol de agua dulce que vive en una cáscara azul./Day^Spring Summer" #!String
-    723: "Ostra/40/-300/Fish -4/Se mantiene constantemente filtrando agua para encontrar comida. En ese proceso elimina toxinas peligrosas del ambiente./Day^Spring Summer" #!String
-    724: "Sirope de arce/200/20/Basic -27/Un jarabe dulce con un sabor único./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    725: "Resina de roble/150/-300/Basic -27/Una sustancia fragante y pegajosa derivada de la savia de roble." #!String
-    726: "Alquitrán de pino/100/-300/Basic -27/Sustancia de la savia del pino." #!String
-    727: "Sopa de pescado/135/90/Cooking -7/Un modo perfecto de calentarse después del frío./food/0 1 0 0 0 0 0 0 0 0 0/0" #!String
-    728: "Guiso de pescado/175/90/Cooking -7/Huele mucho a océano, aunque sabe mejor./food/0 3 0 0 0 0 0 0 0 0 0/0" #!String
-    729: "Caracoles/125/90/Cooking -7/Caracoles perfectamente cocinados con mantequilla./food/0 2 0 0 0 0 0 0 0 0 0/0" #!String
-    730: "Sopa de langosta/205/90/Cooking -7/Esta delicada sopa es una receta secreta de la familia de Willy./food/0 3 0 0 0 0 0 50 0 0 0/1440" #!String
-    731: "Buñuelo de arce/300/90/Cooking -7/Es un dulce buñuelo cubierto con una capa de sirope de arce./food/1 1 1 0 0 0 0 0 0 0 0/0" #!String
-    732: "Pasteles de cangrejo/275/90/Cooking -7/Empanadas doradas de cangrejo, pan rallado y huevo./food./0 0 0 0 0 0 0 0 0 1 1/0" #!String
+    705: "Albacore/75/10/Fish -4/Prefieren los \"bordes\" de temperatura donde se juntan el agua caliente y fría./Day^Spring Fall" #!String
+    706: "Shad/60/10/Fish -4/Vive en en el mar, pero vuelve a los ríos para engendrar./Day^Spring Summer Fall" #!String
+    707: "Lingcod/120/10/Fish -4/Un temible depredador que se comerá casi cualquier cosa que pueda meterse en su boca./Day^Fall" #!String
+    708: "Halibut/80/10/Fish -4/Un pez plano que vive en el fondo del océano./Day^Spring Summer" #!String
+    709: "Hardwood/15/-300/Basic -16/Un tipo especial de madera con una fuerza y belleza superiores." #!String
+    710: "Crab Pot/50/-300/Crafting/Ponla en el agua, añade cebo y comprueba si has capturado algo al siguiente día. Funciona en ríos, lagos y en el océano." #!String
+    715: "Lobster/120/-300/Fish -4/Un crustáceo de gran tamaño y con una cola muy fuerte que habita en el océano./Day^Spring Summer" #!String
+    716: "Crayfish/75/-300/Fish -4/Un pequeño crustáceo de agua dulce pariente de la langosta./Day^Spring Summer" #!String
+    717: "Crab/100/-300/Fish -4/Un crustáceo marino con dos poderosas pinzas./Day^Spring Summer" #!String
+    718: "Cockle/50/-300/Fish -4/Una almeja de agua salada, muy común./Day^Spring Summer" #!String
+    719: "Mussel/30/-300/Fish -4/Un bivalvo común que a menudo vive en grupos./Day^Spring Summer" #!String
+    720: "Shrimp/60/-300/Fish -4/Un carroñero que se alimenta del fondo del océano. Muy apreciado por su carne./Day^Spring Summer" #!String
+    721: "Snail/65/-300/Fish -4/Gran molusco que vive en una cáscara de caracol./Day^Spring Summer" #!String
+    722: "Periwinkle/20/-300/Fish -4/Un caracol de agua dulce que vive en una cáscara azul./Day^Spring Summer" #!String
+    723: "Oyster/40/-300/Fish -4/Se mantiene constantemente filtrando agua para encontrar comida. En ese proceso elimina toxinas peligrosas del ambiente./Day^Spring Summer" #!String
+    724: "Maple Syrup/200/20/Basic -27/Un jarabe dulce con un sabor único./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    725: "Oak Resin/150/-300/Basic -27/Una sustancia fragante y pegajosa derivada de la savia de roble." #!String
+    726: "Pine Tar/100/-300/Basic -27/Sustancia de la savia del pino." #!String
+    727: "Chowder/135/90/Cooking -7/Un modo perfecto de calentarse después del frío./food/0 1 0 0 0 0 0 0 0 0 0/0" #!String
+    728: "Fish Stew/175/90/Cooking -7/Huele mucho a océano, aunque sabe mejor./food/0 3 0 0 0 0 0 0 0 0 0/0" #!String
+    729: "Escargot/125/90/Cooking -7/Caracoles perfectamente cocinados con mantequilla./food/0 2 0 0 0 0 0 0 0 0 0/0" #!String
+    730: "Lobster Bisque/205/90/Cooking -7/Esta delicada sopa es una receta secreta de la familia de Willy./food/0 3 0 0 0 0 0 50 0 0 0/1440" #!String
+    731: "Maple Bar/300/90/Cooking -7/Es un dulce buñuelo cubierto con una capa de sirope de arce./food/1 1 1 0 0 0 0 0 0 0 0/0" #!String
+    732: "Crab Cakes/275/90/Cooking -7/Empanadas doradas de cangrejo, pan rallado y huevo./food./0 0 0 0 0 0 0 0 0 1 1/0" #!String
     734: "Woodskip/75/10/Fish -4/Un pez muy sensible que sólo puede vivir en lagos en lo más profundo del bosque./Day^Spring Summer" #!String
-    745: "Semillas de fresa/0/-300/Seeds -74/Se plantan en primavera. Necesitan 8 días para madurar, y siguen produciendo tras la primera cosecha." #!String
-    746: "Calabaza tallada/0/-300/Crafting -8/Una decoración fantástica para el otoño." #!String
-    747: "Planta podrida/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
-    748: "Planta podrida/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
+    745: "Strawberry Seeds/0/-300/Seeds -74/Se plantan en primavera. Necesitan 8 días para madurar, y siguen produciendo tras la primera cosecha." #!String
+    746: "Jack-O-Lantern/0/-300/Crafting -8/Una decoración fantástica para el otoño." #!String
+    747: "Rotten Plant/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
+    748: "Rotten Plant/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
     749: "Omni Geoda/0/-300/Basic/Un herrero puede abrirla para ti. Estas geodas contienen una gran variedad de minerales./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 541 544 545 546 550 551 559 560 561 564 567 572 573 577 539 540 543 547 553 554 562 563 565 570 575 578 121 122 123" #!String
     750: "Weeds/0/15/Basic/Maleza horripilante." #!String
     751: "Stone/0/15/Basic/Hay mineral de cobre en esta piedra." #!String
@@ -545,20 +545,20 @@ content:  #!Dictionary<Int32,String>
     764: "Stone/0/15/Basic/Mineral de oro." #!String
     765: "Stone/0/15/Basic/Mineral de iridio." #!String
     766: "Slime/5/-300/Basic -28/Un brillante pegote gelatinoso sin olor." #!String
-    767: "Ala de murciélago/15/-300/Basic -28/Es sorprendentemente delicada." #!String
-    768: "Esencia solar/40/-300/Basic -28/La cara que brilla es cálida al tacto." #!String
-    769: "Esencia vacía/50/-300/Basic -28/Tiembla con energía oscura." #!String
-    770: "Mezcla de semillas/0/-300/Seeds -74/Tiene un poco de todo. ¡Plántalas y observa lo que crece!" #!String
-    771: "Fibra/1/-300/Basic -16/Materia prima que procede de plantas." #!String
-    772: "Aceite de ajo/1000/80/Cooking -7/Al beberlo los monstruos más débiles te evitarán./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    773: "Elixir de la vida/500/80/Cooking -7/Recupera la salud completamente./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    774: "Cebo salvaje/15/-300/Basic -21/Una receta única de Linus. Atrae a todos los peces." #!String
-    775: "Pez glaciar/1000/10/Fish -4/Construye nidos bajo los glaciares./Day^Winter" #!String
+    767: "Bat Wing/15/-300/Basic -28/Es sorprendentemente delicada." #!String
+    768: "Solar Essence/40/-300/Basic -28/La cara que brilla es cálida al tacto." #!String
+    769: "Void Essence/50/-300/Basic -28/Tiembla con energía oscura." #!String
+    770: "Mixed Seeds/0/-300/Seeds -74/Tiene un poco de todo. ¡Plántalas y observa lo que crece!" #!String
+    771: "Fiber/1/-300/Basic -16/Materia prima que procede de plantas." #!String
+    772: "Oil of Garlic/1000/80/Cooking -7/Al beberlo los monstruos más débiles te evitarán./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    773: "Life Elixir/500/80/Cooking -7/Recupera la salud completamente./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    774: "Wild Bait/15/-300/Basic -21/Una receta única de Linus. Atrae a todos los peces." #!String
+    775: "Glacierfish/1000/10/Fish -4/Construye nidos bajo los glaciares./Day^Winter" #!String
     784: "Weeds/0/15/Basic/Maleza horripilante." #!String
     785: "Weeds/0/15/Basic/Maleza horripilante." #!String
     786: "Weeds/0/15/Basic/Maleza horripilante." #!String
-    787: "Batería/500/-300/Basic -16/Está completamente cargada de energía." #!String
-    788: "Hacha perdida/0/-300/Quest/Robin la ha estado buscando por todas partes." #!String
-    789: "Pantalones púrpuras de la suerte/0/-300/Quest/Mejor no inspeccionarlos muy de cerca." #!String
-    790: "Cesta de bayas/0/-300/Quest/Está manchada del jugo de las bayas." #!String
+    787: "Battery Pack/500/-300/Basic -16/Está completamente cargada de energía." #!String
+    788: "Lost Axe/0/-300/Quest/Robin la ha estado buscando por todas partes." #!String
+    789: "Lucky Purple Shorts/0/-300/Quest/Mejor no inspeccionarlos muy de cerca." #!String
+    790: "Berry Basket/0/-300/Quest/Está manchada del jugo de las bayas." #!String
 
