@@ -16,29 +16,28 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Introduction: "¿Has conocido a todos en la ciudad? Suena agotador." #!String
+    Introduction: "¿Has conocido ya a todos en la ciudad? Suena agotador." #!String
     Mon: "¿Te he dicho que construí nuestra casa desde los cimientos?#$e#Eso fue, sin duda alguna, la cumbre de mi carrera." #!String
-    Tue: "Bueno, si necesitas cualquier material o planos, mi tienda es el lugar que estás buscando! #$e #Plus, tu negocio apoya la economía local. $h" #!String
-    Wed: "Hey, ¿qué tal, @?#$e#Estoy pensando en nuevos proyectos de carpintería.#$e# ¿Te está yendo bien con tu terreno? ¿Cómo esta almacenada la madera en tu granero?" #!String
-    Thu: "Siempre serás bienvenido, incluso si no estás de compras, ya sabes.$h#$e#Puedes acabar sintiéndote solo aquí en las montañas." #!String
-    Fri: "¿Has conocido a mi hijo Sebastian, verdad? Vive abajo. #$e #El es un poco tímido, pero estoy seguro de que le caerás bien si eres simpático con él." #!String
-    Fri_inlaw_Sebastian: "I miss my Sebby... he was always a little misunderstood, but I believed in him." #!String
-    Fri4: "#$1 RobinSeb#Encontré un cenicero en la habitación de Sebastian, y olía realmente raro. ¿Debería de preocuparme?#$e#A veces Sebastian me preocupa... no tiene muchos amigos y no parece preocuparle mucho su futuro...#$e#Hablaría con el, pero nunca se abre." #!String
-    Fri4_inlaw_Sebastian: "Sebastian told me he's trying to quit smoking! I'm really proud of him." #!String
+    Tue: "Hola, si necesitas cualquier material o diseños, ¡mi tienda es el lugar que estás buscando!#$e#Además, tu negocio apoya la economía local.$h" #!String
+    Wed: "Hola, ¿qué tal estás @?#$e#Estoy pensando en nuevos proyectos de carpintería.#$e#¿Te va bien en casa, aguanta en pie?" #!String
+    Thu: "Siempre serás bienvenido, incluso si no estás de compras, ya sabes.$h^Siempre serás bienvenida, incluso si no estás de compras, ya sabes.$h#$e#Puedes acabar sintiéndote solo aquí, en las montañas.^Puedes acabar sintiéndote sola aquí, en las montañas." #!String
+    Fri: "¿Has conocido a mi hijo Sebastian, verdad? Vive en el sótano.#$e#Es un poco tímido, pero estoy segura de que le caerás bien si eres agradable con él." #!String
+    Fri_inlaw_Sebastian: "Echo de menos a mi Sebby... Siempre ha sido un incomprendido, pero yo siempre he creído en él." #!String
+    Fri4: "#$1 RobinSeb#Encontré un cenicero en la habitación de Sebastian, y olía muy raro. ¿Debería de preocuparme?#$e#A veces Sebastian me preocupa... no tiene muchos amigos y no parece preocuparle mucho su futuro...#$e#Hablaría con el, pero nunca se abre." #!String
+    Fri4_inlaw_Sebastian: "¡Sebastian me ha dicho que está intentando dejar de fumar! Estoy muy orgullosa de él." #!String
     Sat: "Nuestra casa está en una zona preciosa, ¿no crees?#$e#Adoro el aire fresco de las montañas." #!String
     Sun: "Espero que Demetrius no haga volar la casa por los aires con esos experimentos suyos.#$e#No estoy muy segura de en qué está trabajando. Creo que tiene algo que ver con las plantas." #!String
-    Sun2: "#$1 RobinDem#Mi esposo casi incendio la casa ayer con su experimento de ciencia.¡Uno de sus vasos explotó y prendio fuego a las vigas del techo! Usé laca a prueba de fuego cuando la construí.$u#$e# Lo siento si huele raro aqui,@. Es un proyecto de ciencia de mi esposo..." #!String
+    Sun2: "#$1 RobinDem#Mi esposo casi incendió la casa ayer con su experimento.¡Uno de sus vasos explotó y prendió fuego a las vigas del techo! Usé laca a prueba de fuego cuando la construí.$u#$e#Perdón si huele raro aqui @. Es un proyecto de ciencia de mi esposo..." #!String
     Sun6: "¡Hola @! Me alegro de verte.#$e#Ahora eres un miembro más de la comunidad, ¿no crees?" #!String
-    event_wood1: "¡Genial, este plan debe ser muy fácil para ti!$h" #!String
-    event_wood2: "Bien, ¡entonces tengo el proyecto perfecto para que puedas empezar!" #!String
+    event_wood1: "¡Genial, este diseño debe ser muy fácil para ti!$h" #!String
+    event_wood2: "Bien, ¡entonces tengo el diseño perfecto para que puedas empezar!" #!String
     summer_Mon: "Puedo hacer un montón de cosas con madera." #!String
-    summer_Tue: "Si necesitas mejorar cualquier construcción en tu granja, ¡dímelo!#$e#Necesitarás traer suficiente madera y piedra para el proyecto. Y también cuesta dinero.#$e#¡Pero estoy segura de que los resultados te satisfarán!$h" #!String
-    summer_Fri: "Estamos bastante aislados del resto del mundo aquí en Stardew Valley.#$e#Eso tiene sus pros y sus contras." #!String
-    fall_Mon: "#$1 RobinMaru#A Maru la gustan las gemas. Ella las usa en sus inventos.#$e#Entonces, ¿ Tu y Maru os lleváis bien?" #!String
-    fall_Thu: "Siempre serás bienvenido, ¡incluso si no estás en el mercado para actualizar tus construcciones!$h#$e#Puedes acabar sintiéndote solo aquí en las montañas." #!String
-    fall_Fri: "Hay un 'hombre salvaje' que vive bajo nuestra casa$s#$e#Creo que no tiene importancia, mientras no nos moleste." #!String
-    winter_Mon: "Hey, esta es una época del año perfecta para recoger leña.#$e#¡Tal vez puedas recoger la necesaria como para mejorar tu casa!" #!String
-    winter_Fri: "Mis padres estaban desconcertados cuando les dije que quería ser carpintera.#$e#Ellos eran bastante anticuados." #!String
-    winter_Fri_inlaw_Sebastian: "I think the farm life is really healthy for Sebby." #!String
-    winter_Sat: "Nuestra casa esta en una zona hermosa ¿no crees? #$e#todo luce igual despues de la nieve fresca." #!String
-
+    summer_Tue: "Si necesitas mejorar cualquier edificio en tu granja, ¡dímelo!#$e#Necesitarás traer suficiente madera y piedra para el proyecto. Y también cuesta dinero.#$e#¡Pero estoy segura de que los resultados te satisfarán!$h" #!String
+    summer_Fri: "En Stardew Valley estamos bastante aislados del resto del mundo.#$e#Eso tiene sus pros y sus contras." #!String
+    fall_Mon: "#$1 RobinMaru#A Maru le gustan las gemas. Las usa en sus inventos.#$e#Bueno, ¿Maru y tú os lleváis bien?" #!String
+    fall_Thu: "Siempre serás bienvenido, incluso si no estás de compras, ya sabes.$h^Siempre serás bienvenida, incluso si no estás de compras, ya sabes.$h#$e#Puedes acabar sintiéndote solo aquí, en las montañas.^Puedes acabar sintiéndote sola aquí, en las montañas." #!String
+    fall_Fri: "Hay un 'salvaje' que vive detrás de nuestra casa.$s#$e#Aunque no me importa mucho, mientras no nos moleste." #!String
+    winter_Mon: "Buenas, esta es una época del año perfecta para recoger leña.#$e#¡Tal vez puedas recoger la necesaria como para mejorar tu casa!" #!String
+    winter_Fri: "Mis padres estaban desconcertados cuando les dije que quería ser carpintera.#$e#Eran bastante anticuados." #!String
+    winter_Fri_inlaw_Sebastian: "Creo que la vida en la granja es muy saludable para Sebby." #!String
+    winter_Sat: "Nuestra casa esta en una zona hermosa ¿no crees?#$e#Todo se ve igual tras una buena nevada." #!String
