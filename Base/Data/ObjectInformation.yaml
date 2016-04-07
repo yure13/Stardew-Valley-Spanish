@@ -265,22 +265,22 @@ content:  #!Dictionary<Int32,String>
     351: "Remedio muscular/500/20/Crafting/Cuando hayas llevado tu cuerpo al límite, bebe esto para eliminar el cansancio./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     368: "Fertilizante básico/2/-300/Basic -19/Mejora un poco la calidad del suelo, aumentando la probabilidad de que crezcan cosechas de mayor calidad. Colocar en tierra labrada." #!String
     369: "Fertilizante de calidad/10/-300/Basic -19/Mejora la calidad del suelo, aumentando la probabilidad de que crezcan cosechas de mayor calidad. Colocar en tierra labrada." #!String
-    370: "Gel de riego/4/-300/Basic -19/Este suelo tiene una buena probabilidad de quedarse regado durante la noche. Mezcle en la tierra labrada." #!String
-    371: "Gel de riego de calidad/5/-300/Basic -19/Este suelo tiene una buena probabilidad de quedarse regado durante la noche. Mezclar con la tierra labrada." #!String
-    372: "Almeja/50/-300/Basic -23/Alguien vivió aquí una vez." #!String
-    373: "Calabaza dorada/2500/-300/Basic/Tiene valor, pero nada más." #!String
-    376: "Amapola/140/18/Basic -80/Además de su colorida flor, la amapola tiene usos tanto culinarios como medicinales." #!String
-    378: "Mineral de cobre/5/-300/Basic -15/Un mineral común que se puede fundir en lingotes." #!String
-    380: "Mineral de hierro/10/-300/Basic -15/Un mineral común que se puede fundir en lingotes." #!String
-    382: "Carbón/15/-300/Basic -15/Una roca inflamable que es útil para la creación de objetos y para fundir." #!String
-    384: "Mineral de oro/25/-300/Basic -15/Un mineral precioso que puede ser fundido en lingotes." #!String
-    386: "Mineral de iridio/100/-300/Basic -15/Un mineral exótico, con muchas propiedades curiosas. Puede ser fundido en lingotes." #!String
-    388: "Madera/2/-300/Basic -16/Un material fuerte, a la vez que flexible, con una gran variedad de usos." #!String
+    370: "Basic Retaining Soil/4/-300/Basic -19/Este suelo tiene una buena probabilidad de quedarse regado durante la noche. Mezcle en la tierra labrada." #!String
+    371: "Quality Retaining Soil/5/-300/Basic -19/Este suelo tiene una buena probabilidad de quedarse regado durante la noche. Mezclar con la tierra labrada." #!String
+    372: "Clam/50/-300/Basic -23/Alguien vivió aquí una vez." #!String
+    373: "Golden Pumpkin/2500/-300/Basic/Tiene valor, pero nada más." #!String
+    376: "Poppy/140/18/Basic -80/Además de su colorida flor, la amapola tiene usos tanto culinarios como medicinales." #!String
+    378: "Copper Ore/5/-300/Basic -15/Un mineral común que se puede fundir en lingotes." #!String
+    380: "Iron Ore/10/-300/Basic -15/Un mineral común que se puede fundir en lingotes." #!String
+    382: "Coal/15/-300/Basic -15/Una roca inflamable que es útil para la creación de objetos y para fundir." #!String
+    384: "Gold Ore/25/-300/Basic -15/Un mineral precioso que puede ser fundido en lingotes." #!String
+    386: "Iridium Ore/100/-300/Basic -15/Un mineral exótico, con muchas propiedades curiosas. Puede ser fundido en lingotes." #!String
+    388: "Wood/2/-300/Basic -16/Un material fuerte, a la vez que flexible, con una gran variedad de usos." #!String
     390: "Stone/2/-300/Basic -16/Un material común, con usos variados en la construcción y en la elaboración de objetos." #!String
-    392: "Concha de nautilus/120/-300/Basic -23/Una antigua concha." #!String
+    392: "Nautilus Shell/120/-300/Basic -23/Una antigua concha." #!String
     393: "Coral/80/-300/Basic -23/Una colonia de criaturas diminutas que se agrupan formando preciosas estructuras." #!String
-    394: "Concha arcoíris/300/-300/Basic -23/Una concha muy hermosa." #!String
-    395: "Café/150/1/Crafting/Huele delicioso. Seguro que te da un buen empujón./drink/0 0 0 0 0 0 0 0 0 1 0/120" #!String
+    394: "Rainbow Shell/300/-300/Basic -23/Una concha muy hermosa." #!String
+    395: "Coffee/150/1/Crafting/Huele delicioso. Seguro que te da un buen empujón./drink/0 0 0 0 0 0 0 0 0 1 0/120" #!String
     396: "Baya picante/80/10/Basic -79/Llena el aire con un aroma picante." #!String
     397: "Erizo de mar/160/-300/Basic -23/Una criatura lenta y con espinas, que algunos consideran un manjar." #!String
     398: "Uva/80/15/Basic -79/Un dulce racimo de fruta." #!String
