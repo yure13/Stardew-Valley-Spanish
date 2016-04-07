@@ -211,8 +211,8 @@ content:  #!Dictionary<Int32,String>
     287: "Bomba/50/-300/Crafting -8/Genera una explosión. ¡Cuidado!" #!String
     288: "Mega bomba/50/-300/Crafting -8/Genera una explosión muy poderosa. Utilizar con extrema precaución." #!String
     290: "Stone/50/-300/Basic/..." #!String
-    294: "Rama/1/-300/Crafting/..." #!String
-    295: "Rama/1/-300/Crafting/..." #!String
+    294: "Twig/1/-300/Crafting/..." #!String
+    295: "Twig/1/-300/Crafting/..." #!String
     296: "Frambuesa/5/10/Basic -79/Una baya de primavera con el sabor del bosque." #!String
     297: "Semillas de césped/50/-300/Crafting/Planta esto en tu granja para empezar una zona de hierba." #!String
     298: "Valla de madera dura/10/-300/Crafting -8/El tipo de valla mas duradera." #!String
