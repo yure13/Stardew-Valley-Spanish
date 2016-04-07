@@ -32,7 +32,7 @@ content:  #!Dictionary<Int32,String>
     9: "Lightning Rod/50/-300/Crafting-9/Recoge energía de las tormentas eléctricas y la convierte en baterías./true/true/0" #!String
     10: "Bee House/50/-300/Crafteo -9/¡Ponla afuera y espera la deliciosa miel! (Excepto en invierno)./true/true/0" #!String
     12: "Keg/50/-300/Crafting -9/Coloca una fruta o un vegetal y eventualmente se convertirá en una bebida./true/true/0" #!String
-    13: "Furnace/50/-300/Crafting-9/Convierte minerales y carbón en barras de metal./true/true/0" #!String
+    13: "Furnace/50/-300/Crafting -9/Convierte minerales y carbón en barras de metal./true/true/0" #!String
     15: "Preserves Jar/50/-300/Crafting -9/Convierte verduras en encurtidos y fruta en mermelada./true/true/0" #!String
     16: "Cheese Press/50/-300/Crafting -9/Convierte la leche en queso./true/true/0" #!String
     17: "Loom/50/-300/Crafting -9/Convierte lana sin procesar en una fina tela./true/true/0" #!String
