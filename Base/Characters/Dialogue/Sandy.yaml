@@ -16,18 +16,17 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon: "¡Hola hola, cariño!#$b#Estoy muy contenta de que el autobús vuelva a estar de servicio. Empezaba a sentirme muy sola aquí fuera.#$e#...Casi quiebra mi negocio.$s#$e#Oye, pero ahora estas aquí para comprar un montón de semillas... ¿verdad, cariño?$h" #!String
+    Mon: "¡Hola hola, cariño!#$b#Estoy muy contenta de que el autobús vuelva a estar de servicio. Empezaba a sentirme muy sola aquí.#$e#...Casi quiebra mi negocio.$s#$e#Oye, pero ahora estás aquí para comprar un montón de semillas... ¿verdad, cariño?$h" #!String
     Tue: "Puedes encontrar cocos y frutas de cactus fuera. Siéntete libre de coger todos los que puedas encontrar.#$e#Están riquísimas. ¡Mmmmmm!~$h" #!String
-    Wed: "¡Hola! Si ves a mi amiga Emily en el pueblo, ¿le podrías decir 'Hola' de mi parte?#$e#¡Gracias!$h" #!String
-    Thu: "¿Ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#De todas formas... ¿cómo es el tiempo en el valle?" #!String
+    Wed: "¡Hola! Si ves a mi amiga Emily en el pueblo, ¿la podrías saludar de mi parte?#$e#¡Gracias!$h" #!String
+    Thu: "¿Que quién es ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#Bueno, ¿cómo está el tiempo en el valle?" #!String
     Fri: "No tendrías mucha suerte cultivando por aquí, cariño.#$e#Bueno, a no ser que cultives cactus.$h" #!String
-    Sat: "¡Hola! Bienvenido al Oasis de Sandy, ¡el destino número uno en el Desierto de Calico!#$e#*susurra* ¿He sonado profesional?$h#$e#Asegúrate de comprobar nuestra selección de semillas de temporada.#$e#Parece que tienes sed. Toma, prueba esta leche helada. [184]#$e#Sabrosa, ¿eh?$h" #!String
+    Sat: "¡Hola! Bienvenido al Oasis de Sandy, ¡el destino número uno en el Desierto del Calico!^¡Hola! Bienvenida al Oasis de Sandy, ¡el destino número uno en el Desierto del Calico!#$e#*susurra* ¿He sonado profesional?$h#$e#Asegúrate de mirar nuestra selección de semillas de temporada.#$e#Parece que tienes sed. Toma, prueba esta leche helada. [184]#$e#Sabrosa, ¿eh?$h" #!String
     Sun: "Siempre está soleado por aquí, ¡incluso en invierno!#$e#De hecho, hace un poco de calor para mi gusto... Mi delicada piel se quema rápidamente al sol.$s" #!String
-    Thu2: "¿Ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#De todas formas... ¿cómo es el tiempo en el valle?" #!String
+    Thu2: "¿Que quién es ese hombre sombrío del fondo? Se supone que no debo hablar sobre él.#$e#Bueno, ¿cómo está el tiempo en el valle?" #!String
     Thu4: "Oye... Creo que puedo confiar en ti. Puedes guardar un secreto, ¿no?#$b#*susurra* Ese hombre en el fondo... es de un club exclusivo. Nunca he estado dentro, pero me dan una generosa paga mensual para que no haga ninguna pregunta.#$e#¡Bueeeeeno! ¿Como está el tiempo en Stardew Valley ahora mismo?" #!String
-    Fri4: "Mi nombre en realidad no es Sandy, ya sabes. Es bueno para el negocio.#$e#De todas formas. todo el mundo me llama Sandy, así que me he acostumbrado a él." #!String
-    Wed8: "¿No es caro venir al desierto tan a menudo como tú haces?#$e#Debe gustarte mucho verme, ¿eh? Mmmm... $h" #!String
-    Sun8: "Hola, cariño. Sip, solo yo, sola en esta tienda vieja y grande. Mmmm...#$e#Bueno, excepto por ese tipo espeluznante del fondo. Pero nunca mueve un solo músculo, asi que me suelo olvidar de él." #!String
-    Wed10: "¡Anda, es @! Me alegra verte. ¡Empezaba a pensar que no volverías!#$e#Si no tuviera que llevar esta tienda, volvería al valle contigo durante uno o dos días... solos tú y yo en la vieja granja.$s#$e#Tendrás que visitarme mas a menudo para que no me deprima.$h" #!String
+    Fri4: "Mi nombre en realidad no es Sandy, ¿sabes?. Lo uso sólo porque es bueno para el negocio.#$e#Pero todo el mundo me llama Sandy, así que me he acostumbrado a él." #!String
+    Wed8: "¿No te gastas mucho dinero en venir al desierto?#$e#Debe gustarte mucho verme, ¿eh? Mmmm... $h" #!String
+    Sun8: "Hola, cariño. Sip, aquí estoy, yo sola en esta tienda vieja y grande. Mmmm...#$e#Bueno, excepto por ese tipo espeluznante del fondo. Pero nunca mueve un solo músculo, asi que me suelo olvidar de él." #!String
+    Wed10: "¡Anda, hola @! Me alegra verte. ¡Empezaba a pensar que no volverías!#$e#Si no tuviera que llevar esta tienda, volvería al valle contigo un par de días... solos tú y yo en la vieja granja.$s#$e#Tendrás que visitarme mas a menudo para que no me deprima.$h" #!String
     Tue10: "¡Hola!~ Quédate todo el tiempo que quieras.#$e#El aire acondicionado sienta bien, ¿no crees?" #!String
-
