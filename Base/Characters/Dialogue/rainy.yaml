@@ -29,7 +29,7 @@ content:  #!Dictionary<String,String>
     Evelyn: "Cuando me he despertado he escuchado gotas en algún sitio... Creo que el techo tiene goteras.$s#$e#Hace tiempo, George habría ido corriendo a arreglarlo... *suspiro*$s" #!String
     Lewis: "Hola, @. ¿Descansando?#$e#Espero que el río no se desborde...$s" #!String
     Clint: "Hoy sería un buen día para explorar las minas... Quién sabe, podrías encontrar minerales raros." #!String
-    Penny: "Las lluvia hace mucho ruido en el techo de metal de nuestra caravana#$e#...Aunque es relajante.$h" #!String
+    Penny: "El golpeteo de la lluvia sobre el techo de la caravana hace mucho ruido.#$e#...Aunque es relajante.$h" #!String
     Pam: "Ey. ¿Te has mojado?" #!String
     Emily: "Nunca llueve en el Desierto de Calico... Ahí es donde vive mi amiga Sandy.#$e#Ojalá pudiese visitarla hoy.$s" #!String
     Haley: "He pasado toda la mañana peinándome... y ahora la lluvia puede estropearlo todo.$s#$e#*suspiro* ... A veces la vida es dura." #!String
