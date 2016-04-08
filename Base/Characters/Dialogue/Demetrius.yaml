@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¡Saludos! Soy Demetrius, científico del pueblo y padre. ¡Gracias por presentarte!#$e#Estoy estudiando las plantas y animales locales en el laboratorio de mi casa.#$b#¿Has conocido a mi hija, Maru? Está interesada en conocerte." #!String
-    Mon: "Maru me ayuda a en el laboratorio a veces... Es una buena chica." #!String
+    Mon: "Maru me ayuda en el laboratorio a veces... Es una buena chica." #!String
     Mon_inlaw_Maru: "Es difícil hacer buena ciencia sin la ayuda de Maru...#$b#¡Pero su felicidad es mucho más importante que mi experimento!" #!String
     Tue: "Este valle tiene un ecosistema muy vibrante y diverso. Esa es una razón por la que quería mudarme aquí." #!String
     Wed: "Seguro que en tu granja están creciendo muchas plantas interesantes, ¿eh?#$e#Tal vez me pase algún día a verlas." #!String
