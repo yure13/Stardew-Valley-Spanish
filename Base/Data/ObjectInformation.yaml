@@ -466,7 +466,7 @@ content:  #!Dictionary<Int32,String>
     628: "Semilla de cerezo/850/-300/Basic -74/Tarda 28 días en crecer y convertirse en un cerezo maduro. Da frutos en primavera. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     629: "Semilla de albaricoquero/500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un albaricoquero maduro. Da frutos en primavera. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     630: "Semilla de naranjo/1000/-300/Basic -74/Tarda 28 días en crecer y convertirse en un naranjo maduro. Da frutos en verano. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
-    631: "Semilla de melocotonerp/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un melocotonero maduro. Da frutos en verano. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
+    631: "Semilla de melocotonero/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un melocotonero maduro. Da frutos en verano. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     632: "Semilla de granado/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un granado maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     633: "Semilla de manzano/1000/-300/Basic -74/Tarda 28 días en crecer y convertirse en un manzano maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     634: "Albaricoque/50/15/Basic -79/Pequeña fruta muy tierna, con una hueso duro y grande en su interior." #!String
