@@ -19,30 +19,29 @@ content:  #!Dictionary<String,String>
     Abigail: "El valle parece mas interesante cuando llueve..." #!String
     Robin: "¡La lluvia no va a evitar que acabe un trabajo!$h#$e#Aunque trabajar con madera húmeda no es precisamente un placer.$s" #!String
     Demetrius: "Buenas. Quédate dentro si no quieres mojarte." #!String
-    Maru: "Cuando llueve tengo una buena excusa para trabajar en mis chismes.$h#$e#Aunque debe ser bastante aburrido para ti." #!String
-    Sebastian: "Con este tiempo, si tienes suerte, puede que veas alguna rana." #!String
-    Linus: "Una lluvia calentita es una buena forma de estar limpio.$h" #!String
+    Maru: "Cuando llueve tengo una buena excusa para trabajar en mis artilugios.$h#$e#Aunque debe ser bastante aburrido para ti." #!String
+    Sebastian: "Con suerte puede que veas alguna rana." #!String
+    Linus: "Una buena forma de estar limpio es aprovechar lluvia calentita como esta.$h" #!String
     Pierre: "La mayoría de gente se queda en casa en días como este... No es bueno para el negocio.$s" #!String
     Caroline: "Mi jardín está feliz hoy.$h#$e#... y nuestra factura del agua será mas baja este mes." #!String
-    Alex: "Hmmph. No hace buen tiempo para hacer deporte.$s#$e#Bueno, siempre puedo hacer pesas dentro.$h" #!String
+    Alex: "Puff. No hace buen tiempo para hacer deporte.$s#$e#Bueno, siempre puedo hacer pesas en casa.$h" #!String
     George: "Este frío es horrible, ¿verdad? Que mal día." #!String
-    Evelyn: "Cuando me he despertado he escuchado gotas en algún sitio... Creo que el techo tiene goteras.$s#$e#Hace tiempo, George habría ido corriendo a arreglarlo... *suspiro*$s" #!String
-    Lewis: "Hola, @. ¿Descansando?#$e#Espero que el río no se desborde...$s" #!String
+    Evelyn: "Cuando me he despertado he escuchado gotas en algún sitio... Creo que el techo tiene goteras.$s#$e#En los viejos tiempos, George habría ido corriendo a arreglarlo... *suspiro*$s" #!String
+    Lewis: "Hola @. ¿Descansando?#$e#Espero que el río no se desborde...$s" #!String
     Clint: "Hoy sería un buen día para explorar las minas... Quién sabe, podrías encontrar minerales raros." #!String
     Penny: "El golpeteo de la lluvia sobre el techo de la caravana hace mucho ruido.#$e#...Aunque es relajante.$h" #!String
-    Pam: "Ey. ¿Te has mojado?" #!String
-    Emily: "Nunca llueve en el Desierto de Calico... Ahí es donde vive mi amiga Sandy.#$e#Ojalá pudiese visitarla hoy.$s" #!String
-    Haley: "He pasado toda la mañana peinándome... y ahora la lluvia puede estropearlo todo.$s#$e#*suspiro* ... A veces la vida es dura." #!String
+    Pam: "Oye chico, ¿te has mojado?^Oye chica, ¿te has mojado?" #!String
+    Emily: "Mi amiga Sandy vive en el Desierto del Calico... Allí nunca llueve.#$e#Ojalá pudiese visitarla hoy.$s" #!String
+    Haley: "He pasado toda la mañana peinándome para que ahora la lluvia lo estropee todo.$s#$e#*suspiro* La vida es dura..." #!String
     Jodi: "¿Te has limpiado los zapatos antes de entrar? Lo siento... Acabo de fregar el suelo.#$e#¡Pero puedes venir cuando quieras! Je.$h" #!String
     Sam: "La lluvia amortigua el sonido, así que puedo tocar la guitarra más fuerte sin que mi madre se enfade, jeje.$h" #!String
     Leah: "Quizá debería cocinar algo nuevo y exótico hoy. Algo picante.." #!String
-    Shane: "Hmm... Este tiempo me da sed.$s" #!String
-    Marnie: " Hola, @. Parece que te has mojado... ¡Pobre!$h" #!String
-    Elliott: "A veces, cuando estoy en la cama, escucho el sonido de una bocina atravesando la lluvia.#$b#Pero cuando miro por la ventana solo veo una cortina gris." #!String
+    Shane: "Mmm... Este tiempo me da sed.$s" #!String
+    Marnie: " Hola @. Parece que te has mojado... ¡Pobre!$h" #!String
+    Elliott: "A veces, cuando estoy en la cama, escucho el sonido de una bocina de niebla atravesando la lluvia.#$b#Pero cuando miro por la ventana sólo veo una cortina gris." #!String
     Gus: "No hay nada como un vaso de vino tinto en un día como este, ¿eh?#$e#Me encanta mi trabajo. Jejeje." #!String
     Dwarf: "La lluvia... Es algo casi mítico para nosotros. Algunos enanos viven toda la vida sin haberla visto." #!String
     Wizard: "Los días de tormenta son los únicos en los que puedo conectar con ciertos elementos.#$e#No creo que lo entiendas." #!String
-    Harvey: "¡Hola, @! Em... ¿Has leído algo interesante en la biblioteca últimamente?#$e#Je. Bueno, em... Nos vemos por ahí, ¿vale?$u" #!String
-    Sandy: "He oído que está lloviendo de nuevo en casa. ¿Has venido por eso?$h#$e#A decir verdad, echo de menos la lluvia...$s" #!String
+    Harvey: "¡Hola @! Em... ¿Has leído algo interesante en la biblioteca últimamente?#$e#Je. Bueno, em... Nos vemos por ahí, ¿vale?$u" #!String
+    Sandy: "He oído que está lloviendo en casa. ¿Has venido por eso?$h#$e#A decir verdad, echo de menos la lluvia...$s" #!String
     Krobus: "Ah, hoy las alcantarillas fluyen con fuerza. Esto va a estar agradable y húmedo... Justo como me gusta." #!String
-
