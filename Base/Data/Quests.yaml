@@ -30,7 +30,7 @@ content:  #!Dictionary<Int32,String>
     8: "Crafting/Advancement/Mientras ganes experiencia, descubrirás nuevas recetas para aumentar ganancias y así hacer tu vida más fácil. Un espantapájaros, por ejemplo, evitará que los cuervos merodeen en tus preciosos cultivos./Alcanza agricultura de nivel 1 y crea un espantapájaros./8 true/-1/100/1/true" #!String
     9: "Social/Introductions/Sería un bonito gesto presentarte en el pueblo, algunas personas podrían estar deseando conocerte././null/25/0/-1/true" #!String
     10: "Basic/Copper Ore/Has encontrado un mineral de cobre. No estás seguro de para qué lo puedes usar, pero el herrero local debería de saberlo./Entrégale un mineral de cobre a Clint en su herrería././-1/0/-1/false" #!String
-    11: "Crafting/Forging Ahead/Si vas a seguir minando, deberías construir un horno./Craft a Furnace./13 true/12/0/-1/true" #!String
+    11: "Crafting/Forging Ahead/Si vas a seguir minando, deberías construir un horno./Crea un horno./13 true/12/0/-1/true" #!String
     12: "ItemHarvest/Smelting/Ya que has creado un horno, puedes fundir algo de metal. Según las instrucciones de Clint, si colocas 5 piezas de cobre y una pieza de carbón en el horno, podrás producir una barra de cobre.../Usa el horno para fabricar una barra de cobre./334 1/-1/0/-1/true" #!String
     13: "Basic/To The Beach/Alguien llamado Willy te ha invitado a visitar la playa al sur del pueblo. Dice que tiene algo que darte./Visita la playa al sur del pueblo antes de las 5:00pm./-1/-1/0/-1/true" #!String
     14: "Basic/Explore The Mine/Hay una vieja galería minera en las montañas al norte del pueblo. Podría haber valiosos minerales dentro, pero Marlon insinuó que podría ser peligroso/Llega al nivel 5 de la mina./17/17/0/-1/false" #!String
