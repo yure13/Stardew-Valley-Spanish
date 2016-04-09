@@ -33,7 +33,7 @@ content:  #!Dictionary<String,String>
     Alex_spouse: "Ugg... Creo que me he comido como una docena de huevos duros...$s" #!String
     Harvey_spouse: "¿Cómo le va a todos? Estoy tomándome un descanso un momento. ¡Espero verte en la caza del huevo!" #!String
     Elliott_spouse: "Me estoy divirtiendo mucho viéndote tan rejalado cariño.$h^Me estoy divirtiendo mucho viéndote tan rejalada cariño.$h" #!String
-    Abigail: "Buscar huevos es cómo ir a la búsqueda de un tesoro.$h" #!String
+    Abigail: "Buscar huevos es como ir a la búsqueda de un tesoro.$h" #!String
     Robin: "La primavera es una época del año ajetreada... Así que es genial tener un día libre para salir con tus amigos." #!String
     Demetrius: "Huevo... Que cosa tan extraña para comer." #!String
     Maru: "Siempre busco estas fiestas... Hacen que el valle sea como una comunidad de verdad." #!String
