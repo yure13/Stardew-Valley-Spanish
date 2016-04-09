@@ -65,6 +65,6 @@ content:  #!Dictionary<String,String>
     Sandy: "He oído que llovía de nuevo en casa. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia$s" #!String
     Jas: "Espero poder encontrar algunos huevos antes de que Vincent los coja todos...$s" #!String
     Vincent: "¡¿Cuándo empieza la caza del huevo?! ¡¡Estoy tan emocionado!!$h" #!String
-    Willy: "Alguna vez esconderé un huevo tan bien que nadie podré encontrarlo...#$b#Bueno, hasta que llegue el verano. Entonces el aire caliente empezará a traer el olor a podrido, jeje.$h" #!String
+    Willy: "Alguna vez esconderé un huevo tan bien que nadie podrá encontrarlo...#$b#Bueno, hasta que llegue el verano. Entonces el aire caliente empezará a traer el olor a podrido, jeje.$h" #!String
     ???: "Ah, las alcantarillas fluyen con velocidad. Esto va a ponerse agradable y húmedo por aquí... como a mi me gusta." #!String
 
