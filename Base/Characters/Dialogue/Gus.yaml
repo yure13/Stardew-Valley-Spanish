@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¡Hola! Soy Gus, chef y propietario del Salón Stardrop.#$e#Pásate si quieres tomar algo. Siempre tengo café caliente y cerveza fría lista para servirse.$h" #!String
-    Mon: "Sí, se mucho acerca de la gente del pueblo.#$e#Ese es uno de los beneficios que tienes siendo camarero.$h#$e#A veces escucho demasiado..." #!String
+    Mon: "Sí, sé mucho acerca de la gente del pueblo.#$e#Ese es uno de los beneficios que tienes siendo camarero.$h#$e#A veces escucho demasiado..." #!String
     Saloon: "Buenas noches. ¿Puedo hacer algo por ti?" #!String
     Saloon4: "Buenas noches. Siéntete como en casa." #!String
     SeedShop_Entry: "¡Hola, Pierre!/Bueno... ¿Qué necesito...?/¡Ah, está bien!/¡Esta noche haré mi salsa especial!/Pierre, ¿qué hay de nuevo?/¡Pierre! ¿Qué tienes para mi?" #!String
