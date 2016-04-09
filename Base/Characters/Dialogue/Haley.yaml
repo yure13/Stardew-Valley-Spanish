@@ -25,7 +25,7 @@ content:  #!Dictionary<String,String>
     Fri: "%Haley te está ignorando." #!String
     Fri2: "¿No te cansas de correr de un lado para otro en la granja, o de lo que sea que hagas?#$e#Yo sería incapaz de mancharme tanto.#$e#Aunque es probable que consigas un gran bronceado." #!String
     Sat: "Necesito ir de compras. ¡Uf! Ojalá hubiese un centro comercial aquí." #!String
-    Sun: "Mi hermana es superextraña. A veces me pregunto si estamos emparentadas de verdad.$u#$b#" #!String
+    Sun: "Mi hermana es superextraña. A veces me pregunto si estamos emparentadas de verdad.$u" #!String
     Wed8: "Solo hay dos cosas que me encantan de este pueblo.#$b#Una es la playa.#$e#¡Y la otra es un secreto!*risita*$h" #!String
     Tue2: "Me pregunto si esta mañana habrán llegado conchas que valgan la pena en la playa.#$e#De todos modos esta no es la mejor época del año para las conchas." #!String
     Wed4: "Me alegro de que las flores comiencen a florecer.#$e#Esas de tonos rosados huelen tan bien.$h" #!String
