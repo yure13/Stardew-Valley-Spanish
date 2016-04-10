@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¿Alguien nuevo?... Hola.#$e#No te preocupes por mí. Vivo solo, aquí afuera." #!String
-    Mon: "El aire fresco de la naturaleza es todo lo que me importa.#$e#Vivo aqui por eleccion propia." #!String
+    Mon: "El aire fresco de la naturaleza es todo lo que me importa.#$e#Vivo aquí por elección propia." #!String
     Tue: "...¿Has venido a burlarte de mí?#$e#Yo sólo estoy en mis asuntos." #!String
     Wed: "No te conozco lo suficiente para confiar en ti. Lo siento." #!String
     Thu: "... ¿Umm? ¿Quieres algo?" #!String
