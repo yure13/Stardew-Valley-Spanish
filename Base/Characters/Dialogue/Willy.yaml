@@ -20,13 +20,13 @@ content:  #!Dictionary<String,String>
     Mon: "¡Ah del barco, hijo!^¡Ah del barco, muchacha!#$b#Parece que hace buen tiempo para pescar, ¿eh?" #!String
     Mon4: "¿Has tenido mucha suerte en las aguas locales? Parece que podrías ser un buen pescador si te lo propones." #!String
     Tue: "Un verdadero pescador le tiene respeto a las aguas... No lo olvides." #!String
-    Tue6: "El viejo hombre era pescador, ya sabes. Crecí navegando entre las islas de helechos, viviendo de captura en captura.#$e#La vida de pescador es dura, pero hay algo en ella que te mantiene avanzado." #!String
+    Tue6: "El viejo era pescador, ya sabes. Crecí navegando entre las Islas de Helechos, viviendo de captura en captura.#$e#La vida de pescador es dura, pero hay algo en ella que hace que quieras seguir." #!String
     Wed: "Algunos peces van y vienen con las estaciones. Otros solo vienen de noche o con la lluvia." #!String
-    Thu: "*balbuceo* *balbuceo* ...¿Eh? Te hablaría sobre mis pensamientos, pero es un secreto de pescador." #!String
-    Thu2: "Hay rumores sobre algunos peces muy raros por estas zonas... pero solo un pescador experimentado podría tener una oportunidad contra ellos..#$e#Necesitarás el mejor cebo que puedas conseguir si quieres que un pez raro pique." #!String
+    Thu: "*balbuceo* *balbuceo* ...¿Eh? Te hablaría sobre mis pensamientos, pero son secretos de pescador." #!String
+    Thu2: "Hay rumores sobre algunos peces muy raros por estas zonas... pero solo un pescador experimentado podría tener una oportunidad contra ellos...#$e#Necesitarás el mejor cebo que puedas conseguir si quieres que un pez raro pique." #!String
     Fri: "Si de verdad quieres que un pez pique, asegúrate de poner algo de cebo en el anzuelo." #!String
     Sat: "Si el panorama local de pesca se anima un poco, quizás expanda las existencias de la tienda." #!String
-    Sat8: "¿Como te va la vida de pescador?#$e#Intento pescar tanto como me sea posible, pero no es fácil cuando tienes una tienda que llevar." #!String
-    Sun: "Si compras una caña de gran calidad, podrás ponerle cebo y aparejos al hilo.#$b#El cebo hace que los peces piquen mas rápido. Los aparejos pueden hacer tu trabajo mucho mas fácil cuando recoges el hilo.#$e#Hay muchos tipos de aparejos, con diferentes ventajas. Normalmente son un poco endebles, asi que no te extrañes si tu aparejo se rompe tras un rato." #!String
+    Sat8: "¿Cómo te va la vida de pescador?^¿Cómo te va la vida de pescadora?#$e#Intento pescar tanto como me sea posible, pero no es fácil cuando tienes una tienda que llevar." #!String
+    Sun: "Si compras una caña de gran calidad, podrás ponerle cebo y aparejos al hilo.#$b#El cebo hace que los peces piquen mas rápido. Los aparejos pueden hacer tu trabajo mucho más fácil cuando recoges el hilo.#$e#Hay muchos tipos de aparejos, con diferentes ventajas. Normalmente son un poco endebles, así que no te extrañes si tu aparejo se rompe tras un rato." #!String
     Sun10: "Vaya, ¡pero si es @!$h#$e#Te haría un descuento en cebo, si pudiera permitírmelo.$s" #!String
 
