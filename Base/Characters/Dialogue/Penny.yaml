@@ -68,7 +68,7 @@ content:  #!Dictionary<String,String>
     summer_Mon4: "$d cc#Gracias por reparar el centro comunitario. Supongo que eres una especie de héroe del pueblo.|Hola, @. Es agradable ver que lo estas haciendo bien." #!String
     summer_Fri: "$d bus#He oído que has sido quien ha reparado el autobús. Gracias.|Mi madre solía conducir el autobús a el Desierto Calico... pero dejó de funcionar hace algunos años. El alcalde dice que no hay suficuente dinero en las reservas del pueblo, de lo contrario ya estaría reparado.$u" #!String
     summer_Sun: "Así que, ¿te gusta decorar tu granja?#$e#Debe ser agradable tener tu propio lugar para decorar." #!String
-    summer_Sat: "Hola. Umm...%u#$b#¿Hoy las montañas se ven bonitas, verdad?$u" #!String
+    summer_Sat: "Hola. Umm...$u#$b#¿Hoy las montañas se ven bonitas, verdad?$u" #!String
     fall_Mon: "Hola... Um, ¿estas bien?$u" #!String
     fall_Mon4: "Es un poco embarazoso ser la única familia del pueblo que vive en una caravana.$u#$e#Algún día me gustaría poder vivir en una bonita casa.$s" #!String
     fall_Tue4: "Tu granja está muy bonita.$h" #!String
