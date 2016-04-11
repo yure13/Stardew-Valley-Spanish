@@ -17,17 +17,17 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Introduction: "¡Oh, hola! Mi nombre es Vincent.#$b#Mamá dice que no hable con extraños... Pero pareces buena gente." #!String
-    Mon: "¡Quiero ser como mi hermano cuando crezca!$h#$e#¡Vale! ¡Adiós!" #!String
+    Mon: "¡Quiero ser como mi hermano cuando crezca!$h#$e#Bueno, ¡adiós!" #!String
     Mon4: "Papá no suele estar por aquí... Echo de menos jugar con él.$s" #!String
-    Tue: "*suspiro*... Mamá no me deja comer mas caramelos hoy.$s" #!String
+    Tue: "*suspiro*... Mamá no deja que coma más caramelos hoy.$s" #!String
     Tue6: "¿Puede guardarme un secreto, señor?^¿Puede guardarme un secreto, señora?$u#$b#Quiero casarme con la señorita Penny cuando crezca.#$e#No le diga nada, ¿de acuerdo?$u" #!String
-    Wed: "Quiero buscar bichos, pero mamá se enfada cuando me ensucio.$u#$b#Es una elección difícil." #!String
+    Wed: "Quiero buscar bichos, pero mamá se enfada cuando me ensucio.$u#$b#Es una decisión difícil." #!String
     Thu: "Tengo hambre... ¿donde está mamá?$s" #!String
     Thu2: "¡No aburres tanto como la mayoría de los adultos!" #!String
     Fri: "#$c .3#Puaj, otra vez la noche de la remolacha hervida...$s#$e#Oh, no...Mamá está haciendo sopa de lentejas para esta noche.$s" #!String
     Sat_1: "¡Papá va a volver pronto!#$b#Espero que me traiga algunos juguetes.$u" #!String
     Sat: "La señorita Penny me hace leer un nuevo libro cada semana.$s#$b#¡Al menos, a veces, me deja elegirlos!" #!String
-    Sat8: "Papá parece raro desde que ha vuelto. Me pregunto que le habrá pasado.$s#$b#Ya no juega conmigo.$s" #!String
+    Sat8: "Papá parece raro desde que ha vuelto. Me pregunto qué le habrá pasado.$s#$b#Ya no juega conmigo.$s" #!String
     Sun: "¡Hola señor!^¡Hola señora!" #!String
     Sun10: "¡Hola, tío @!^¡Hola, tía @!#$e#No se lo digas a mamá... pero eres mi persona mayor favorita." #!String
 
