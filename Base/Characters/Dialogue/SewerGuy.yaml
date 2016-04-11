@@ -16,12 +16,12 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Mon4: "Los Enanos te han hecho creer que mi gente son los 'tipos malos'. Nosotros lo vemos de manera diferente.#$e#Los enanos nos echaron de nuestros hogares hace muchos años... Muchos de los nuestros murieron. Desde entonces hemos estado trabajando para reclamar nuestras tierras.$s" #!String
+    Mon4: "Los enanos te han hecho creer que mi gente somos los \"tipos malos\". Nosotros lo vemos de manera diferente.#$e#Los enanos nos echaron de nuestros hogares hace muchos años... Muchos de los nuestros murieron. Desde entonces hemos estado trabajando para reclamar nuestras tierras.$s" #!String
     Tue6: "...¿Alguna vez has encontrado a otros como yo en las minas? Perdona si fueron hostiles contigo. Verás, hemos aprendido a temer a los humanos... Ha habido muchos... encuentros desagradables.#$e#No has... matado a ninguno de mis amigos, ¿no?" #!String
     Wed4: "No estoy enfadado contigo por matar a nuestro rey. La mayoría de mi gente lo consideraba un tirano. No tardaba mucho en sospechar de que la gente fueran espías enanos.#$e#Estoy seguro que los enanos se alegraron de escuchar eso." #!String
-    Thu2: "Los enanos tienen grupos de recolectores que salen a la superficie por la noche. Se cuelan en los hogares y cogen lo que necesitan.#$e#Vivo aquí, así que puedo seguir sus movimientos." #!String
+    Thu2: "Los enanos tienen grupos de carroñeros que salen a la superficie por la noche. Se cuelan en los hogares y cogen lo que necesitan.#$e#Vivo aquí para poder seguir sus movimientos." #!String
     Fri: "..." #!String
-    Wed: "Eres el que derrotó al 'Rey de las Sombras', ¿correcto?#$e#..." #!String
+    Wed: "Eres el que derrotó al \"Rey de las Sombras\", ¿verdad?#$e#..." #!String
     Thu: "Por favor, no le hables a nadie de mi.#$e#Los humanos tienden a destruir las cosas que no pueden entender." #!String
     Tue: "Soy demasiado sensible a la luz como para salir de día.#$e#Las condiciones aquí son perfectas." #!String
     Mon: "Por favor, no te alarmes. Soy diferente a los otros.#$e#He pasado mucho tiempo observando a los humanos." #!String
