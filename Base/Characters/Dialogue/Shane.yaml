@@ -18,11 +18,11 @@ xnbData:
 content:  #!Dictionary<String,String>
     Mon: "No te conozco. ¿Por qué me estás hablando?" #!String
     Mon2: "Apenas te conozco. ¿Por qué me estás hablando?" #!String
-    Mon4: "Hey. Lo siento si fui grosero la primera vez.#$e#Tardo un rato para adaptarme a los extraños." #!String
+    Mon4: "Hola. Lo siento si fui grosero la primera vez.#$e#Tardo un rato para adaptarme a los extraños." #!String
     Mon10: "¿Alguna vez te has sentido como si el mundo entero te examinase como a un repugnante insecto?" #!String
     Tue: "¿Qué? ¿Qué quieres? Márchate." #!String
     Tue2: "¿Qué es lo que quieres de mí? ¿Dinero? ¡Te daré una olla de oro si me dejas en paz!" #!String
-    Tue4: "Siempre que intento algo nuevo termina terriblemente mal. Al final aprender a no salir del cascarón." #!String
+    Tue4: "Siempre que intento algo nuevo termina terriblemente mal. Al final aprendes a no salir del cascarón." #!String
     Tue6: "La vida no es tan mala... por lo menos tengo pizza congelada y huevos.$u" #!String
     Wed: "No, no tengo tiempo para hablar contigo." #!String
     Wed8: "Supongo que me he encariñado de Marnie y Jas. Somos un grupo diverso pero siento como si fuera parte de una extraña familia.#$e#En realidad nunca tuve algo parecido a una familia cuando era niño.$s" #!String
@@ -31,19 +31,19 @@ content:  #!Dictionary<String,String>
     Thu4: "Eres muy persistente. Supongo que me sorprende que alguien quiera hablar conmigo.." #!String
     Thu6: "Bah...¿Dónde está la Joja Cola?" #!String
     Fri: "¿No tienes trabajo que hacer?" #!String
-    JojaMart: "%Shane es duro en el trabajo. No parece interesado en hablar." #!String
+    JojaMart: "%Shane está trabajando duro. No parece interesado en hablar." #!String
     Fri4: "$d Joja#¿Qué sentido tiene la vida si todo lo que haces es trabajar?|No he sido capaz de pagar el alquiler, pero Marnie me deja quedarme de todos modos. Tengo mucha suerte." #!String
     Fri6: "Sin duda iré al salón esta noche. ¿Qué más se puede hacer?" #!String
     Sat: "¿Por qué me estás molestando? Quiero estar solo." #!String
-    Sat2: "#$1 SahneJOSH#Estoy sorprendido de que aun intentes que seamos amigos. ¿No he sido suficientemente grosero contigo aún?#$e#*suspiro*...$s" #!String
-    Sat4: "$d Joja# Estoy alquilando la habitación de Marnie a muy buen precio. Es pequeño pero no me puedo quejar.|Si puedo comenzar mi vida de cero empezaría una granja de gallinas. Solo tendría huevos de gallinas de campo, claro." #!String
-    Sat8: "Realmente me he encariñado de las gallinas de Marnie.$h" #!String
+    Sat2: "#$1 ShaneJOSH#Me sorprende que aún quieras trabar amistad conmigo. ¿Todavía no he sido suficientemente grosero contigo?#$e#*suspiro*...$s" #!String
+    Sat4: "$d Joja#Estoy de alquiler en una habitación de Marnie a muy buen precio. Es pequeña pero no me puedo quejar.|Si pudiera volver a empezar de cero haría una granja de gallinas. Sólo tendría huevos de gallinas de campo, claro." #!String
+    Sat8: "Me he encariñado de las gallinas de Marnie.$h" #!String
     Sun: "Estoy ocupado, ¿no lo ves?" #!String
     Sun6: "...Creo que puedo estar engordando.$s" #!String
-    Sun8: "Si veo mas la televisión puede que me olvide de la vida. Eso sería relajante.$u" #!String
-    Sun10: "Hola, @. Lo cierto es que estoy teniendo un día bastante bueno.$h" #!String
+    Sun8: "Viendo la televisión puede que me olvide de las preocupaciones de la vida. Eso sería relajante.$u" #!String
+    Sun10: "Hola @. Lo cierto es que estoy teniendo un día bastante bueno.$h" #!String
     Sun4: "Hmm... Son las %time. Debería meter una pizza congelada en el microondas, ¿o debería esperar?$u" #!String
     Sun2: "¿Tú otra vez? ¿Cuántas veces tengo que decirte que me dejes en paz?$s" #!String
-    event_room1: "Vale... eso va a necesitar un gran guión. Puede que le pida consejo a Elliott la próxima vez que lo vea en el bar.$s" #!String
+    event_room1: "Vale... eso va a necesitar un gran guión. Puede que le pida consejo a Elliott la próxima vez que lo vea en el salón.$s" #!String
     event_room2: "Suena genial. Tendré que crear algunos efectos especiales para que quede bien." #!String
 
