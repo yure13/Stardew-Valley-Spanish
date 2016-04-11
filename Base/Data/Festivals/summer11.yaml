@@ -64,8 +64,8 @@ content:  #!Dictionary<String,String>
     Elliott: "Me desperté tarde, salí por la puerta... ¡y me encontré en medio de todo este barullo!#$E#Me olvidé de que hoy era el Luau.$H" #!String
     Gus: "¡Estas malditas moscas no paran de posarse en la comida!" #!String
     Dwarf: "¿Dices que está lloviendo por allí arriba? *traga saliva*#$e#Lluvia... Algo casi mítico para nosotros. Algunos pasamos toda la vida sin verla." #!String
-    Wizard: "TA las sirenas le parecen curiosas vuestras fiestas.#$E#Pero no les gusta que se tire basura en el océano." #!String
-    Harvey: "Lo bueno es que vine con protector solar.#$E# Me pregunto si Maru podría utilizar un poco de protector solar en los hombros..." #!String
+    Wizard: "A las sirenas le parecen curiosas vuestras fiestas.#$e#Pero no les gusta que se tire basura en el océano." #!String
+    Harvey: "Lo bueno es que vine con protector solar.#$e#Me pregunto si Maru podría utilizar un poco de protector solar en los hombros..." #!String
     Sandy: "He oido que la lluvia ha vuelto. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia... $s" #!String
     Jas: "Vincent no es un buen bailarín." #!String
     Vincent: "Estoy aburrido..." #!String
