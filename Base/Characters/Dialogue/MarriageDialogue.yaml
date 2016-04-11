@@ -99,7 +99,7 @@ content:  #!Dictionary<String,String>
     jobReturn_Penny: "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#$e#Jas and Vincent weren't behaving very well today. I'm still all wound up..." #!String
     jobReturn_Maru: "#$c .5#Well, it was just another boring day at the clinic.#$e#Hey. Did you have a more exciting day than me? I hope so.#$e#$c .5#Well, It's time to kick back and relax. Did you leave me any dinner?#$e#I'm just looking forward to bed-time.$h" #!String
     OneKid_0: "¿Has pasado hoy algo de tiempo con %kid1?" #!String
-    OneKid_1: "Me pregunto si cuando %kid1 cuidará de una granja, como tú." #!String
+    OneKid_1: "Me pregunto si %kid1 cuidará de una granja, como tú." #!String
     OneKid_2: "No te preocupes, yo daré de comer a %kid1. Puedes centrarte en la granja." #!String
     OneKid_3: "La vida es muy diferente ahora que tenemos un hijo." #!String
     TwoKids_0: "Ya les he dado el desayuno a %kid1 y %kid2. ¡Tenían mucha hambre!" #!String
