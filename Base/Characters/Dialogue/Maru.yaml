@@ -49,7 +49,7 @@ content:  #!Dictionary<String,String>
     event_robot_explain3: "¡Eso es horrible! ¿Qué bicho te ha picado, @?$a#$b#Voy a olvidar que hayamos tenido esta conversación... no eres tú mismo.$a" #!String
     summer_1: "Esta va a ser una estación genial para observar las estrellas." #!String
     summer_Mon: "Um... ¿Qué clase de aparato debería apañar para este verano?#$e#" #!String
-    summer_Mon6: "Ven a mi habitación si alguna vez quieres juguetear con mis aparatos." #!String
+    summer_Mon6: "Ven a mi habitación si alguna vez quieres juguetear con mis artilugios." #!String
     summer_Tue: "Sebastian es mi medio-hermano, si no lo sabías ya.#$e#No nos parecemos en nada físicamente." #!String
     summer_Tue4: "Sebastian apenas me habla. Incluso me pregunto si le caigo bien.#$e#Qué triste, quiero tener un hermano pero el no actúa como uno." #!String
     summer_Wed: "¿Estás disfrutando esta estación?#$e#Este año ha sido muy caluroso.$h" #!String
@@ -60,15 +60,15 @@ content:  #!Dictionary<String,String>
     Thu_01_02: "Tienes razón, ¡pero me encantan los retos!$h" #!String
     summer_Sat: "Hola, ¿tienes alguna historia de la granja interesante que contarme?#$e#." #!String
     summer_Fri: "Trabajé en la clínica ayer. No tenemos un solo paciente.#$e#Las personas enferman menos durante el verano." #!String
-    summer_Sun: "Apuesto a que estas cultivando una interesante cosecha ahora mismo.#$b#Mi padre dice que muchas planas exóticas crecen en el valle en esta época del año." #!String
+    summer_Sun: "Apuesto a que estas cultivando una interesante cosecha ahora mismo.#$b#Mi padre dice que muchas plantas exóticas crecen en el valle en esta época del año." #!String
     summer_Fri2: "Hola, cuéntame una historia sobre agricultura.#$e#¡Es realmente interesante!" #!String
     summer_Wed4: "¿Soy yo o derrepente hace mucho calor?#$e#Supongo que soy yo." #!String
     summer_Sun6: "Algún día seré una inventora a nivel mundial.$u#$e#¡Tienes suerte de que seamos amigos!#$b#...es broma." #!String
     summer_Tue8: "@, qué elegante vas hoy.$h" #!String
-    summer_Thu10: "¿Como tus manos siguen tan suaves con todo este trabajo de granja?" #!String
+    summer_Thu10: "¿Cómo es que tus manos siguen tan suaves con todo el trabajo de la granja?" #!String
     fall_Mon: "¿Has explorado las minas? He oído que puedes encontrar algunos materiales útiles allí." #!String
     fall_Tue: "¡Los arboles están bonitos hoy!$h" #!String
-    fall_Thu: "En otras partes del mundo es primavera ahora mismo. ¡Imagínatelo!" #!String
+    fall_Thu: "Ahora mismo es primavera en otras partes del mundo. ¡Imagínatelo!" #!String
     fall_Wed: "Meh... No tengo ganas de trabajar mañana." #!String
     fall_Fri: "Apuesto que empezaremos a ver más gente en la clínica esta temporada.$s#$e#¡Espero que todos se mantengan en buena forma." #!String
     fall_Sat: "Todas estas hojas que caen darán alimento para hongos y otros organismos pequeños.$u#$e#Interesante, ¿verdad?" #!String
