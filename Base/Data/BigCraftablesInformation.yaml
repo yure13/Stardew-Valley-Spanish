@@ -115,7 +115,7 @@ content:  #!Dictionary<Int32,String>
     143: "Wooden Brazier/25/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
     144: "Stone Brazier/40/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
     145: "Gold Brazier/100/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
-    146: "Campfire/0/-300/Crafting -9/Emite una cantidad moderada de luz../true/true/0" #!String
+    146: "Campfire/0/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
     147: "Stump Brazier/80/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
     148: "Carved Brazier/200/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
     149: "Skull Brazier/300/-300/Crafting -9/Emite una cantidad moderada de luz./true/true/0" #!String
