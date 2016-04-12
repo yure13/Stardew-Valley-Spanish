@@ -60,7 +60,7 @@ content:  #!Dictionary<String,String>
     summer_1: "El verano ya está aquí. En realidad, no es mi estación favorita.#$e#El aire está tan húmedo que siento como si estuviese flotando en una sopa." #!String
     summer_Mon: "Mi conejillo de indias, David, odia este clima tan caliente. Es quisquilloso." #!String
     summer_Tue: "En verano el aire es tan espeso como la miel. Casi estoy mareada.$u" #!String
-    summer_Wed: "¿Has decorado tu casa? Eso es lo haría yo, si tuviera una casa." #!String
+    summer_Wed: "¿Has decorado tu casa? Eso es lo que haría yo, si tuviera una casa." #!String
     summer_6: "Fui a la playa ayer, después de que anocheciera... A veces se pueden ver extrañas luces flotando sobre el mar.#$e#O tal vez fue solo un sueño... Es como si ya no fuese tan real." #!String
     summer_Thu: "Si supiera como usar una espada, ahora mismo estaría explorando esas cuevas que hay cerca del lago de la montaña. Probablemente haga fresco ahí dentro." #!String
     summer_Thu4: "Ew, espero que no ponerme morena este verano.$s" #!String
