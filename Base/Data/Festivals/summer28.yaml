@@ -19,11 +19,11 @@ content:  #!Dictionary<String,String>
     name: "Dance Of The Moonlight Jellies" #!String
     conditions: "Beach/2200 2400" #!String
     set-up: "ocean/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Jellies/loadActors Set-Up/advancedMove Vincent true 0 12 3 3000 2 0 1 3000 0 -12 -2 0 3 3000/advancedMove Jas true 0 2 3 5000 0 -2 3 5000/advancedMove Clint false 2 50000 -2 0 3 500 2 1000 3 1000 1 0 2 1000/advancedMove Harvey True 0 -12 -10 0 0 6 2 25000 0 -6 10 0 0 12 2 25000/viewport 38 2 clamp true/pause 1000/playerControl jellies" #!String
-    mainEvent: "pause 500/globalFade/viewport -1000 -1000/changeLocation Beach/warp farmer1 28 36/warp spouse 29 36/faceDirection spouse 2/warp farmer2 29 35/warp farmer3 34 36/warp farmer4 35 36/faceDirection farmer1 2/faceDirection farmer2 2/faceDirection farmer3 2/faceDirection farmer4 2/specificTemporarySprite candleBoat/viewport 26 36 true/pause 2000/move Lewis 0 1 2/move Lewis -2 0 3/pause 400/showFrame Lewis 16 true/animate Lewis false false 200 25 16 17 17/pause 800/playSound parry/specificTemporarySprite candleBoatMove/pause 500/showFrame Lewis 0 true/animate Lewis false false 200 25 12/pause 400/faceDirection Lewis 2/pause 6000/specificTemporarySprite moonlightJellies/pause 10000/playMusic moonlightJellies/pause 30000/viewport move -1 0 8000/pause 10000/viewport move 1 0 20000/pause 18000/globalFade/viewport -1000 -1000/pause 2000/playMusic none/pause 1000/message \"The glow of summer has faded, now... and the moonlight jellies carry on toward the great unknown.\"/pause 1000/end" #!String
-    Leah_spouse: "Hey. I'm paying my respects to another bygone summer. I'll come meet up with you when we launch the candle-boat." #!String
+    mainEvent: "pause 500/globalFade/viewport -1000 -1000/changeLocation Beach/warp farmer1 28 36/warp spouse 29 36/faceDirection spouse 2/warp farmer2 29 35/warp farmer3 34 36/warp farmer4 35 36/faceDirection farmer1 2/faceDirection farmer2 2/faceDirection farmer3 2/faceDirection farmer4 2/specificTemporarySprite candleBoat/viewport 26 36 true/pause 2000/move Lewis 0 1 2/move Lewis -2 0 3/pause 400/showFrame Lewis 16 true/animate Lewis false false 200 25 16 17 17/pause 800/playSound parry/specificTemporarySprite candleBoatMove/pause 500/showFrame Lewis 0 true/animate Lewis false false 200 25 12/pause 400/faceDirection Lewis 2/pause 6000/specificTemporarySprite moonlightJellies/pause 10000/playMusic moonlightJellies/pause 30000/viewport move -1 0 8000/pause 10000/viewport move 1 0 20000/pause 18000/globalFade/viewport -1000 -1000/pause 2000/playMusic none/pause 1000/message \"El brillo del verano se ha desvanecido... y ahora las medusas lunares lo transportan al más allá.\"/pause 1000/end" #!String
+    Leah_spouse: "Hola. Estoy mostrando mis respetos a otro verano que se acaba. Me reuniré contigo cuando lancemos las barquitas con velas." #!String
     Abigail: "Que cosa tan rara y emocionante... " #!String
     Robin: "*bostezo*... Se me ha pasado la hora de ir a la cama.$s#$e#Eh, ¿has visto ese barco de vela? Lo hice yo mismo.$h" #!String
-    Demetrius: "La 'medusas lunares'... ¡Qué especie más extraordinaria! Tenemos suerte de que pasen por aquí en su largo viaje hacia el Sur.#$e#No se sabe por qué se sienten atraídas hacia la luz... Es muy curioso." #!String
+    Demetrius: "Las \"medusas lunares\"... ¡Qué especie más extraordinaria! Tenemos suerte de que pasen por aquí en su largo viaje hacia el Sur.#$e#No se sabe por qué se sienten atraídas hacia la luz... Es muy curioso." #!String
     Maru: "Hace un poco de frío. Supongo que el otoño está a la vuelta de la esquina." #!String
     Sebastian: "Creo que he visto algo moviéndose por allí... algo grande, oscuro.#$e#Sólo intentaba asustarte...$h" #!String
     Pierre: "Psst... ¡No olvides pasarte mañana por la tienda para conseguir tus semillas de otoño!" #!String
@@ -41,13 +41,13 @@ content:  #!Dictionary<String,String>
     Jodi: "¡Allí! ¡He visto algo brillando!#$b#Oh... Se ha ido.$s" #!String
     Kent: "Buenas noches, @. Espero que puedas encontrar algo de tiempo para relajarte antes de la temporada de cosecha." #!String
     Sam: "Me pregunto si son venenosas.#$e#Quizá no debería empujar a Sebastian al agua...$h" #!String
-    Leah: "Ey. Estoy mostrando mis respetos a otro verano que se acaba." #!String
+    Leah: "Hola. Estoy mostrando mis respetos a otro verano que se acaba." #!String
     Shane: "Las medusas estuvieron aquí hace un año, y volverán al año que viene... La naturaleza es impresionante." #!String
     Marnie: "Somos demasiada gente para un antiguo muelle de madera. Me quedaré por aquí, cerca de la playa." #!String
-    Elliott: "Si seguimos contaminando los océanos, las medusas seguramente acaben extinguiéndose. Ya está pasando.#$e#Qué vergüenza... No tenemos ningún respeto por la naturaleza." #!String
-    Gus: "Las 'medusas lunares'... Me pregunto que sabor tendrán.$h#$b#¡Nunca las probaría, por supuesto!$u" #!String
+    Elliott: "Si seguimos contaminando los océanos, las medusas seguramente acaben extinguiéndose. Ya está pasando.#$e#Qué deshonra... No tenemos ningún respeto por la naturaleza." #!String
+    Gus: "Las \"medusas lunares\"... Me pregunto que sabor tendrán.$h#$b#¡Nunca las probaría, por supuesto!$u" #!String
     Dwarf: "¿Dices que está lloviendo ahí arriba?*suspiro*#$e#Lluvia... Es algo casi mítico para nosotros. Algunos de nosotros vivimos toda nuestra vida sin tan siquiera experimentarla." #!String
-    Wizard: "¿Cómo me has encontrado? Pensé que me había escondido bien.#$b#Quizá estés bendecido con el don de la clarividencia.#$e#Estoy aquí para observar a los Lunaloos...o 'medusas lunares', cómo vosotros los llamáis. Poseen un potente e inusual aura mágica, para ser una forma de vida acuática." #!String
+    Wizard: "¿Cómo me has encontrado? Pensé que me había escondido bien.#$b#Quizá estés bendecido con el don de la clarividencia.#$e#Estoy aquí para observar a los Lunaloos...o \"medusas lunares\", cómo vosotros los llamáis. Poseen una potente e inusual aura mágica, para ser una forma de vida acuática." #!String
     Harvey: "Bueno, el verano terminó. Siendo sinceros, ¡me alegro de decirle adiós a estos malditos mosquitos!" #!String
     Sandy: "He oído que está lloviendo de nuevo en casa. ¿Has venido por eso?$h#$e#A decir verdad, echo de menos la lluvia...$s" #!String
     Jas: "¡Espero que nazcan bebés este año!" #!String
