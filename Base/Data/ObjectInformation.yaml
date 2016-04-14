@@ -131,56 +131,56 @@ content:  #!Dictionary<Int32,String>
     188: "Judías verdes/40/10/Basic -75/Unas jugosas judías frescas." #!String
     190: "Coliflor/175/30/Basic -75/Valiosa, pero de crecimiento lento. A pesar de su color pálido, sus floretes están llenos de nutrientes." #!String
     192: "Patata/80/10/Basic -75/Un tubérculo extensamente cultivado." #!String
-    194: "Huevo frito/35/20/Cooking -7/Un huevo preparado en aceite caliente./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    194: "Fried Egg/35/20/Cooking -7/Un huevo preparado en aceite caliente./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     195: "Omelet/125/40/Cooking -7/Es muy suave y esponjosa./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    196: "Ensalada/110/45/Cooking -7/Una ensalada de jardín muy saludable./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    197: "Coliflor con queso/300/55/Cooking -7/¡Huele muy bien!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    198: "Pescado al horno/100/30/Cooking -7/Pescado al horno sobre un lecho de hierbas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    199: "Sopa de Chirivía/120/34/Cooking -7/Fresca y abundante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    200: "Salteado de Verduras/120/66/Cooking -7/Es muy nutritivo./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    201: "Desayuno Completo/350/80/Cooking -7/¡Te sentirás preparado para dominar el mundo!/food/2 0 0 0 0 0 0 50 0 0 0/600" #!String
-    202: "Calamar Frito/150/32/Cooking -7/Es tan fibroso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    203: "Bollo extraño/175/20/Cooking -7/¿Qué hay dentro?/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    204: "Almuerzo de la Suerte/250/40/Cooking -7/Un poco de comida especial./food/0 0 0 0 3 0 0 0 0 0 0/960" #!String
-    205: "Seta Frita/200/54/Cooking -7/Terroso y aromático./food/0 0 0 2 0 0 0 0 0 0 0/600" #!String
+    196: "Salad/110/45/Cooking -7/Una ensalada de jardín muy saludable./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    197: "Cheese Cauliflower/300/55/Cooking -7/¡Huele muy bien!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    198: "Baked Fish/100/30/Cooking -7/Pescado al horno sobre un lecho de hierbas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    199: "Parsnip Soup/120/34/Cooking -7/Fresca y abundante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    200: "Vegetable Medley/120/66/Cooking -7/Es muy nutritivo./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    201: "Complete Breakfast/350/80/Cooking -7/¡Te sentirás preparado para dominar el mundo!/food/2 0 0 0 0 0 0 50 0 0 0/600" #!String
+    202: "Fried Calamari/150/32/Cooking -7/Es tan fibroso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    203: "Strange Bun/175/20/Cooking -7/¿Qué hay dentro?/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    204: "Lucky Lunch/250/40/Cooking -7/Un poco de comida especial./food/0 0 0 0 3 0 0 0 0 0 0/960" #!String
+    205: "Fried Mushroom/200/54/Cooking -7/Terroso y aromático./food/0 0 0 2 0 0 0 0 0 0 0/600" #!String
     206: "Pizza/300/60/Cooking -7/Tiene muy buenas razones para ser popular./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    207: "Estofado de habas/100/50/Cooking -7/Es supersano./food/0 0 0 0 0 0 2 0 0 0 0/600" #!String
-    208: "Batata glaseada/200/80/Cooking -7/Dulce y agradable... El azúcar le da un ligero sabor a caramelo./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    209: "Sorpresa de carpa/150/36/Cooking-7/Está soso y aceitoso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    210: "Croquetas de patata/120/36/Cooking -7/¡Crujientes y doradas!/food/1 0 0 0 0 0 0 0 0 0 0/480" #!String
-    211: "Tortitas/80/36/Cooking -7/Un montón de tortitas suaves y esponjosas./food/0 0 0 0 0 2 0 0 0 0 0/960" #!String
-    212: "Cena de salmón/300/50/Cooking -7/El chorrito de limón lo hace especial./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    213: "Taco de pescado/500/66/Cooking -7/Huele delicioso./food/0 2 0 0 0 0 0 0 0 0 0/600" #!String
-    214: "Lubina crujiente/150/36/Cooking -7/Guau, el empanado es perfecto./food/0 0 0 0 0 0 0 0 64 0 0/600" #!String
-    215: "Pimientos rellenos/200/52/Cooking -7/Pimientos picantes empanados y rellenos de queso./food/2 0 0 0 0 0 0 0 0 1 0/600" #!String
-    216: "Pan/60/20/Cooking -7/Una crujiente baguette./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    218: "Sopa Tom Kha/250/70/Cooking -7/¡Estos sabores son increíbles!/food/2 0 0 0 0 0 0 30 0 0 0/600" #!String
-    219: "Sopa de trucha/100/40/Cooking -7/Bastante salada./food/0 1 0 0 0 0 0 0 0 0 0/400" #!String
-    220: "Pastel de chocolate/200/60/Cooking -7/Rico y jugoso, con una gruesa capa de dulce glaseado./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    221: "Pastel rosa/480/100/Cooking -7/Tiene pequeños dulces con forma de corazón en la parte de arriba./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    222: "Tarta de ruibarbo/400/86/Cooking -7/¡Mmm, ácido y dulce!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    223: "Galleta/140/36/Cooking -7/Muy blanda./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    224: "Espaguetis/120/30/Cooking -7/Un clásico./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    225: "Anguila frita/120/30/Cooking -7/Grasienta pero sabrosa./food/0 0 0 0 1 0 0 0 0 0 0/600" #!String
-    226: "Anguila picante/175/46/Cooking -7/¡Cuidado, es muy picante!/food/0 0 0 0 1 0 0 0 0 1 0/600" #!String
+    207: "Bean Hotpot/100/50/Cooking -7/Es supersano./food/0 0 0 0 0 0 2 0 0 0 0/600" #!String
+    208: "Glazed Yams/200/80/Cooking -7/Dulce y agradable... El azúcar le da un ligero sabor a caramelo./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    209: "Carp Surprise/150/36/Cooking-7/Está soso y aceitoso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    210: "Hashbrowns/120/36/Cooking -7/¡Crujientes y doradas!/food/1 0 0 0 0 0 0 0 0 0 0/480" #!String
+    211: "Pancakes/80/36/Cooking -7/Un montón de tortitas suaves y esponjosas./food/0 0 0 0 0 2 0 0 0 0 0/960" #!String
+    212: "Salmon Dinner/300/50/Cooking -7/El chorrito de limón lo hace especial./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    213: "Fish Taco/500/66/Cooking -7/Huele delicioso./food/0 2 0 0 0 0 0 0 0 0 0/600" #!String
+    214: "Crispy Bass/150/36/Cooking -7/Guau, el empanado es perfecto./food/0 0 0 0 0 0 0 0 64 0 0/600" #!String
+    215: "Pepper Poppers/200/52/Cooking -7/Pimientos picantes empanados y rellenos de queso./food/2 0 0 0 0 0 0 0 0 1 0/600" #!String
+    216: "Bread/60/20/Cooking -7/Una crujiente baguette./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    218: "Tom Kha Soup/250/70/Cooking -7/¡Estos sabores son increíbles!/food/2 0 0 0 0 0 0 30 0 0 0/600" #!String
+    219: "Trout Soup/100/40/Cooking -7/Bastante salada./food/0 1 0 0 0 0 0 0 0 0 0/400" #!String
+    220: "Chocolate Cake/200/60/Cooking -7/Rico y jugoso, con una gruesa capa de dulce glaseado./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    221: "Pink Cake/480/100/Cooking -7/Tiene pequeños dulces con forma de corazón en la parte de arriba./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    222: "Rhubarb Pie/400/86/Cooking -7/¡Mmm, ácido y dulce!/food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    223: "Cookie/140/36/Cooking -7/Muy blanda./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    224: "Spaghetti/120/30/Cooking -7/Un clásico./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    225: "Fried Eel/120/30/Cooking -7/Grasienta pero sabrosa./food/0 0 0 0 1 0 0 0 0 0 0/600" #!String
+    226: "Spicy Eel/175/46/Cooking -7/¡Cuidado, es muy picante!/food/0 0 0 0 1 0 0 0 0 1 0/600" #!String
     227: "Sashimi/75/30/Cooking -7/Pescado crudo cortado en finas lonchas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    228: "Rollito Maki/220/40/Cooking -7/Pescado y arroz envuelto en algas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    228: "Maki Roll/220/40/Cooking -7/Pescado y arroz envuelto en algas./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     229: "Tortilla/50/20/Cooking -7/Puede cocinarse con más ingredientes o comerse sola./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    230: "Plato rojo/400/96/Cooking -7/Lleno de antioxidantes./food/0 0 0 0 0 0 0 50 0 0 0/300" #!String
-    231: "Berenjenas con parmesano/200/70/Cooking -7/Picantes, con queso y maravillosas./food/0 0 1 0 0 0 0 0 0 0 3/400" #!String
-    232: "Arroz con leche/260/46/Cooking -7/Cremoso, dulce y divertido de comer./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    233: "Helado/120/40/Cooking -7/Es difícil encontrar a alguien a quien no le guste./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    234: "Tarta de arándanos/180/50/Cooking -7/Sutil y refrescante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    235: "Regalo otoñal/350/88/Cooking -7/El sabor del otoño./food/0 0 0 0 0 2 0 0 0 0 2/660" #!String
-    236: "Sopa de calabaza/300/80/Cooking -7/Un plato de temporada indispensable./food/0 0 0 0 2 0 0 0 0 0 2/660" #!String
-    237: "Super comida/220/64/Cooking -7/Es una comida muy energizante./food/0 0 0 0 0 0 0 40 0 1 0/300" #!String
-    238: "Salsa de arándanos/175/50/Cooking -7/Un capricho en las fiestas./food/0 0 2 0 0 0 0 0 0 0 0/300" #!String
-    239: "Relleno/220/68/Cooking -7/Ahh... el olor del pan caliente y la salvia./food/0 0 0 0 0 0 0 0 0 0 2/480" #!String
-    240: "Almuerzo de granjero/150/80/Cooking -7/Esto te mantendrá despierto./food/3 0 0 0 0 0 0 0 0 0 0/480" #!String
-    241: "Hamburguesa de supervivencia/180/50/Cooking -7/Un buen bocadillo para el explorador./food/0 0 0 0 0 3 0 0 0 0 0/480" #!String
-    242: "Plato del mar/220/60/Cooking -7/Esto te mantendrá caliente en el frío mar./food/0 3 0 0 0 0 0 0 0 0 0/480" #!String
-    243: "Placer del minero/200/50/Cooking -7/Esto debería mantenerte con energía./food/0 0 3 0 0 0 0 0 32 0 0/480" #!String
-    244: "Surtido de raíces/100/50/Cooking -7/Te mantendrá cavando más tiempo./food/0 0 0 3 0 0 0 0 0 0 0/480" #!String
+    230: "Red Plate/400/96/Cooking -7/Lleno de antioxidantes./food/0 0 0 0 0 0 0 50 0 0 0/300" #!String
+    231: "Eggplant Parmesan/200/70/Cooking -7/Picantes, con queso y maravillosas./food/0 0 1 0 0 0 0 0 0 0 3/400" #!String
+    232: "Rice Pudding/260/46/Cooking -7/Cremoso, dulce y divertido de comer./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    233: "Ice Cream/120/40/Cooking -7/Es difícil encontrar a alguien a quien no le guste./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    234: "Blueberry Tart/180/50/Cooking -7/Sutil y refrescante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    235: "Autumn's Bounty/350/88/Cooking -7/El sabor del otoño./food/0 0 0 0 0 2 0 0 0 0 2/660" #!String
+    236: "Pumpkin Soup/300/80/Cooking -7/Un plato de temporada indispensable./food/0 0 0 0 2 0 0 0 0 0 2/660" #!String
+    237: "Super Meal/220/64/Cooking -7/Es una comida muy energizante./food/0 0 0 0 0 0 0 40 0 1 0/300" #!String
+    238: "Cranberry Sauce/175/50/Cooking -7/Un capricho en las fiestas./food/0 0 2 0 0 0 0 0 0 0 0/300" #!String
+    239: "Stuffing/220/68/Cooking -7/Ahh... el olor del pan caliente y la salvia./food/0 0 0 0 0 0 0 0 0 0 2/480" #!String
+    240: "Farmer's Lunch/150/80/Cooking -7/Esto te mantendrá despierto./food/3 0 0 0 0 0 0 0 0 0 0/480" #!String
+    241: "Survival Burger/180/50/Cooking -7/Un buen bocadillo para el explorador./food/0 0 0 0 0 3 0 0 0 0 0/480" #!String
+    242: "Dish O' The Sea/220/60/Cooking -7/Esto te mantendrá caliente en el frío mar./food/0 3 0 0 0 0 0 0 0 0 0/480" #!String
+    243: "Miner's Treat/200/50/Cooking -7/Esto debería mantenerte con energía./food/0 0 3 0 0 0 0 0 32 0 0/480" #!String
+    244: "Roots Platter/100/50/Cooking -7/Te mantendrá cavando más tiempo./food/0 0 0 3 0 0 0 0 0 0 0/480" #!String
     245: "Azúcar/50/10/Basic/Agrega dulzura a pasteles y dulces. En grandes cantidades puede ser malo para la salud." #!String
     246: "Harina de trigo/50/5/Basic/Un ingrediente común en la cocina, hecha de semillas de trigo machacadas." #!String
     247: "Aceite/100/5/Basic/Aceite de cocina para todo tipo de recetas." #!String
