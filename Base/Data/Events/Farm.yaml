@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     5/e 3/v Abigail: "continue/64 15/farmer 64 16 2 Abigail 64 18 0/pause 1500/speak Abigail \"Hola. Um... Quería pedirte perdón por actuar de forma tan rara el otro día.#$b#Seguramente entenderás lo que pasó...$l#$b#Uh, bueno... Adiós.\"/pause 500/end" #!String
-    47/f Sam 2000/t 600 800/e 44: "continue/64 15/farmer 64 16 2 Sam 64 18 0/pause 1500/speak Sam \"Hola, @. ¿Sabes qué? ¡Mi grupo toca esta noche en Ciudad Zuzu!#$b#Reúnete conmigo esta tarde, en la parada de autobús, a las 4:00 para ir al concierto. ¡Más te vale venir!\"/pause 300/end dialogue Sam \"Estoy emocionado y un poco nervioso por el concierto de esta noche. Seguro que todo saldrá bien." #!String
+    47/f Sam 2000/t 600 800/e 44: "continue/64 15/farmer 64 16 2 Sam 64 18 0/pause 1500/speak Sam \"Hola, @. ¿Sabes qué? ¡Mi grupo toca esta noche en Ciudad Zuzu!#$b#Reúnete conmigo esta tarde, en la parada de autobús, a las 4:00 para ir al concierto. ¡Más te vale venir!\"/pause 300/end dialogue Sam \"Estoy emocionado y un poco nervioso por el concierto de esta noche. Seguro que todo saldrá bien.\"" #!String
     2346097/f Abigail 2010/x abbySpiritBoard: "null" #!String
     2346096/f Penny 2505/x pennySpa: "null" #!String
     2346095/f Elliott 2002/x elliottReading: "null" #!String
