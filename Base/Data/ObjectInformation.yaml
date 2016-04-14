@@ -192,7 +192,7 @@ content:  #!Dictionary<Int32,String>
     257: "Colmenilla/150/8/Basic -81/Buscada por su singular sabor a nueces." #!String
     258: "Arándano/80/10/Basic -79/Una baya muy popular, de la cual se dice que tiene muchos beneficios para la salud. En su piel azul se encuentra la mayor concentración de nutrientes." #!String
     259: "Brotes de helecho/90/10/Basic -75/Los brotes jóvenes son comestibles." #!String
-    260: "Chile/40/5/Basic-79/Extremadamente picante, pero con un toque dulce." #!String
+    260: "Hot Pepper/40/5/Basic-79/Extremadamente picante, pero con un toque dulce." #!String
     262: "Trigo/25/-300/Basic -75/Uno de los granos más cultivados en el mundo. Es usado como una fantástica harina para panes y pasteles." #!String
     264: "Rábano/90/18/Basic -75/Una raíz crujiente y refrescante, con toques de pimienta cuando se come cruda." #!String
     266: "Lombarda/260/30/Basic -75/En ocasiones se usa en ensaladas. El color puede variar desde púrpura a azul o verde-amarillo, dependiendo de las condiciones del terreno." #!String
@@ -470,14 +470,14 @@ content:  #!Dictionary<Int32,String>
     632: "Pomegranate Sapling/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un granado maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     633: "Apple Sapling/1000/-300/Basic -74/Tarda 28 días en crecer y convertirse en un manzano maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     634: "Albaricoque/50/15/Basic -79/Pequeña fruta muy tierna, con una hueso duro y grande en su interior." #!String
-    635: "Naranja/100/15/Basic -79/Jugosa, ácida y repleta del dulce aroma del verano." #!String
-    636: "Melocotón/140/15/Basic -79/Velloso al tacto." #!String
-    637: "Granada/140/15/Basic -79/Dentro de la fruta hay muchas semillas jugosas." #!String
-    638: "Cereza/80/15/Basic -79/Es muy conocida, y madura antes que la mayoría del resto de frutas." #!String
-    645: "Aspersor de iridio/1000/-300/Crafting -8/Riega las 24 casillas adyacentes cada mañana." #!String
-    648: "Ensalada de col/345/85/Cooking -7/Es ligera, fresca y muy saludable./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    649: "Risotto de cabezas de violín/350/90/Cooking -7/Un cremoso plato de arroz, servido con cabezas de helecho salteadas. Esta un poco soso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    651: "Muffin de semillas de amapola/250/60/Cooking -7/Tiene un efecto relajante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    635: "Orange/100/15/Basic -79/Jugosa, ácida y repleta del dulce aroma del verano." #!String
+    636: "Peach/140/15/Basic -79/Velloso al tacto." #!String
+    637: "Pomegranate/140/15/Basic -79/Dentro de la fruta hay muchas semillas jugosas." #!String
+    638: "Cherry/80/15/Basic -79/Es muy conocida, y madura antes que la mayoría del resto de frutas." #!String
+    645: "Iridium Sprinkler/1000/-300/Crafting -8/Riega las 24 casillas adyacentes cada mañana." #!String
+    648: "Coleslaw/345/85/Cooking -7/Es ligera, fresca y muy saludable./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    649: "Fiddlehead Risotto/350/90/Cooking -7/Un cremoso plato de arroz, servido con cabezas de helecho salteadas. Esta un poco soso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
+    651: "Poppyseed Muffin/250/60/Cooking -7/Tiene un efecto relajante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     668: "Stone/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
     670: "Stone/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
     674: "Weeds/0/15/Basic/Malas hierbas." #!String
