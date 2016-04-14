@@ -462,14 +462,14 @@ content:  #!Dictionary<Int32,String>
     612: "Zumo de arándanos/230/50/Cooking -7/Es lo suficientemente dulce como para enmascarar la amarga fruta./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     613: "Manzana/100/15/Basic -79/Una fruta fresca, utilizada para zumo o sidra." #!String
     618: "Bruschetta/210/45/Cooking -7/Tomates tostados en un crujiente pan blanco./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    621: "Aspersor de calidad/450/-300/Crafting -8/Riega las 8 casillas adyacentes cada mañana." #!String
+    621: "Quality Sprinkler/450/-300/Crafting -8/Riega las 8 casillas adyacentes cada mañana." #!String
     628: "Cherry Sapling/850/-300/Basic -74/Tarda 28 días en crecer y convertirse en un cerezo maduro. Da frutos en primavera. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     629: "Apricot Sapling/500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un albaricoquero maduro. Da frutos en primavera. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     630: "Orange Sapling/1000/-300/Basic -74/Tarda 28 días en crecer y convertirse en un naranjo maduro. Da frutos en verano. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     631: "Peach Sapling/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un melocotonero maduro. Da frutos en verano. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     632: "Pomegranate Sapling/1500/-300/Basic -74/Tarda 28 días en crecer y convertirse en un granado maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
     633: "Apple Sapling/1000/-300/Basic -74/Tarda 28 días en crecer y convertirse en un manzano maduro. Da frutos en otoño. Sólo crece si los 8 \"espacios\" adyacentes están vacíos." #!String
-    634: "Albaricoque/50/15/Basic -79/Pequeña fruta muy tierna, con una hueso duro y grande en su interior." #!String
+    634: "Apricot/50/15/Basic -79/Pequeña fruta muy tierna, con una hueso duro y grande en su interior." #!String
     635: "Orange/100/15/Basic -79/Jugosa, ácida y repleta del dulce aroma del verano." #!String
     636: "Peach/140/15/Basic -79/Velloso al tacto." #!String
     637: "Pomegranate/140/15/Basic -79/Dentro de la fruta hay muchas semillas jugosas." #!String
