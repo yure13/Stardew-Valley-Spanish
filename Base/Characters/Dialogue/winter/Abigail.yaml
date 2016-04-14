@@ -32,7 +32,7 @@ content:  #!Dictionary<String,String>
     Wed2: "Hola. Si alguna vez estás aburrido, generalmente no hago nada." #!String
     Tue4: "Hace tanto frío, ojalá tuviéramos una taza de chocolate caliente que compartir.$h" #!String
     Sat6: "He estado soñando mucho últimamente...#$e#¡Oh! ¿Quieres saber de qué se tratan? Bueno....$u#$b#... Es un secreto.$h" #!String
-    Mon8: "¡Hola! @! Tenía la esperanza de encontrarme contigo.$h#$e#Me gusta cuando estas junto a mi.$h" #!String
+    Mon8: "¡Hola, @! Tenía la esperanza de encontrarme contigo.$h#$e#Me gusta cuando estas junto a mi.$h" #!String
     Thu10: "Otro año esta por terminar...#$b# Pero ha sido un buen año, ¿No crees? $h" #!String
     Wed6: "Debe ser agradable no tener que preocuparse de los cultivos en esta época del año.#$e# ¡Y eso significa que puedes pasar más tiempo conmigo!$h" #!String
     Fri10: "@, hay algo que quiero decirte...#$e#Es solo que...bueno...¡tus botas! Esto, uh...se ven muy limpias...*traga*#$e#Eso es todo...*suspiro*$s" #!String
