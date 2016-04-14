@@ -1,4 +1,4 @@
-﻿# Stardew-Valley-Spanish
+﻿# Stardew
 
 La traduccion esta en la carpeta "Base"
 
