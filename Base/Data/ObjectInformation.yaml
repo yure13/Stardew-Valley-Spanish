@@ -242,8 +242,8 @@ content:  #!Dictionary<Int32,String>
     324: "Valla de hierro/6/-300/Crafting -8/Dura mas que una valla de piedra." #!String
     325: "Puerta/4/-300/Crafting -8/Permite pasar a través de una valla." #!String
     326: "Diccionario enano/50/-300/Crafting -8/Te enseña el idioma de los enanos." #!String
-    328: "Suelo de madera/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
-    329: "Suelo de piedra/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    328: "Wood Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    329: "Stone Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     330: "Arcilla/20/-300/Basic -16/Usada para fabricar objetos y en construcción." #!String
     331: "Suelo aislante/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     333: "Suelo de cristal/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
