@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "Esta lloviendo fuera. Asegúrate de no coger un resfriado, cariño.#$e#Quédate todo lo posible bajo techo.$h#$e#¡A veces me preocupo por ti!" #!String
+    Rainy_Day_0: "Esta lloviendo. Ten cuidado no te vayas a resfriar, cariño.#$e#Quédate todo lo posible bajo techo.$h#$e#¡A veces me preocupo por ti!" #!String
     Rainy_Day_1: "¡Está lloviendo! Eso significa que hoy no hay que regar los cultivos.$h#$e#A veces la naturaleza puede ser de gran ayuda.#$e#¿Has alimentado ya a los animales, cariño?" #!String
     Rainy_Day_2: "¡Buenos días! Me he despertado temprano por el sonido de la lluvia, y te he hecho el desayuno. [194 195 210 211 216]  #$e#Mantente caliente y no trabajes muy duro. No quiero que te resfríes." #!String
     Rainy_Day_3: "¿Qué vas a hacer hoy, cariño?#$e#No quiero salir con este tiempo... Haré algunas cosas por casa.#$e#Quizás haga algo caliente para cenar." #!String
@@ -29,95 +29,95 @@ content:  #!Dictionary<String,String>
     Rainy_Day_Harvey: "Intenta no mojarte, cariño. No quiero que te de una hipotermia." #!String
     Rainy_Day_Sebastian: "Me he levantado antes del amanecer y he dado un paseo por la granja. Está muy tranquila a esa hora." #!String
     Rainy_Day_Alex: "Mmm... Supongo que hoy tendré que hacer flexiones y abdominales aquí dentro." #!String
-    Rainy_Day_Elliott: "La lluvia me hace pesar en mi vieja vida junto al océano.#$e#Los cambios son parte de la vida. Eso es bueno." #!String
+    Rainy_Day_Elliott: "La lluvia me hace pesar en cuando vivía junto al océano.#$e#Los cambios son parte de la vida. Eso es bueno." #!String
     Rainy_Day_Sam: "Puede que hoy me dedique a arreglar las ventanas, o las goteras del tejado." #!String
     Rainy_Night_0: "La lluvia me hace sentir que todos estamos un poco solos.$l#$e#Tengo frio... ¿No te apetece meterte en la cama?$l" #!String
-    Rainy_Night_1: "Asegúrate de cambiarte en algún lugar seco. No quiero que enfermes.#$e#¿Puedes oír el agua golpeando el tejado, @?" #!String
+    Rainy_Night_1: "Asegúrate de ponerte ropa seca. No quiero que enfermes.#$e#¿Puedes oír el agua golpeando el tejado, @?" #!String
     Rainy_Night_2: "Ah...El relajante sonido de la lluvia cayendo... Esta noche voy a dormir bien.$h" #!String
     Rainy_Night_3: "La lluvia hace que nuestra casa parezca aún más cómoda.$h^En noches como esta me alegro de tener un buen tejado." #!String
     Rainy_Night_4: "He hecho algo de sopa para cenar. [199 218 219 727 730]$h#$e#¡Necesitas algo caliente en un día como este!$h" #!String
     Rainy_Night_5: "Me alegro de que ya hayas llegado... Es una buena noche para quedarse en casa." #!String
     Rainy_Night_Maru: "¿Has podido hacer algo hoy, cariño?#$e#Intenté arreglar algunas cosas por la casa... ya sabes, cosas pequeñas." #!String
-    Rainy_Night_Abigail: "Estoy lista para ir a la cama cando quieras. El sonido de la lluvia nos dará sueño." #!String
+    Rainy_Night_Abigail: "Estoy lista para ir a la cama cando quieras. El sonido de la lluvia nos ayudará a dormir." #!String
     Rainy_Night_Penny: "Oh... ¿El olor? Intenté hornear algo... No salió muy bien.$s" #!String
     Rainy_Night_Leah: "¿Cómo te ha ido el día, cariño? ¿Mucho barro?" #!String
-    Rainy_Night_Haley: "Hola, cariño. Me alegro de que estés en casa. Empezaba a sentirme algo sola.$l" #!String
-    Rainy_Night_Harvey: "Hola. Me alegro de verte.$h#$e#Me he pasado el día hojeando algunas revistas medicas." #!String
+    Rainy_Night_Haley: "Hola cariño. Me alegro de que estés en casa. Empezaba a sentirme algo sola.$l" #!String
+    Rainy_Night_Harvey: "Hola. Me alegro de verte.$h#$e#Me he pasado el día ojeando algunas revistas medicas." #!String
     Rainy_Night_Sebastian: "Nunca me cansaré de la lluvia... Especialmente aquí, en el campo." #!String
     Rainy_Night_Alex: "La abuela solía hacer estofado caliente en noches como esta.$h" #!String
     Rainy_Night_Elliott: "¡Siéntate y relájate! Tienes que descansar después de estar todo el día trabajando en el barro." #!String
     Rainy_Night_Sam: "Vincent llamó. Me dijo que me echa de menos, y también te manda saludos.$h" #!String
-    Indoor_Day_0: "Buenos días ~<$h#$e#¿Hoy te apetece trabajar duro? A mi sí.$h" #!String
-    Indoor_Day_1: "¡Hola, cariño! Huele bien, ¿verdad? ¡Te he hecho el desayuno! [194 195 210 211 216]#$e#Necesitas comida para tener energía durante todo el día." #!String
+    Indoor_Day_0: "Buenos días ~<$h#$e#¿Listo para un duro día de trabajo? Yo sí.$h^¿Lista para un duro día de trabajo? Yo sí.$h" #!String
+    Indoor_Day_1: "¡Hola cariño! Huele bien, ¿verdad? ¡Te he hecho el desayuno! [194 195 210 211 216]#$e#Necesitas comida para tener energía durante todo el día." #!String
     Indoor_Day_2: "¿Has dormido bien?#$e#Tengo algunas cosas que hacer por aquí." #!String
     Indoor_Day_3: "¿Has tenido algún sueño raro esta noche?#$e#Yo sí, pero solo recuerdo que tenia algo que ver con un %adj %noun. Raro.$s#$e#Jeje. Los sueños no significan nada... ¿O sí, cariño?$l#$e#Bueno, no podemos pasarnos todo el día hablando. ¡Tienes trabajo por hacer!" #!String
     Indoor_Day_4: "Buenos días, cariño. Otro día de trabajo en la granja, ¿eh?#$e#Estaré animándote. <$h" #!String
     Indoor_Day_Maru: "Si alguna vez quieres hablar sobre como maximizar el rendimiento de tus cultivos o lo que sea... ¡Estoy aquí!" #!String
-    Indoor_Day_Abigail: "Siempre está pasando algo nuevo en nuestra granja... Me encanta." #!String
-    Indoor_Day_Penny: "Este lugar es tan grande comparado con la caravana que me siento abrumada... ¡En el buen sentido!" #!String
+    Indoor_Day_Abigail: "Siempre pasa algo nuevo en nuestra granja... Me encanta." #!String
+    Indoor_Day_Penny: "Este lugar es tan grande, comparado con la caravana, que me siento abrumada... ¡En el buen sentido!" #!String
     Indoor_Day_Leah: "¿Te importa si añado un poco de estilo arquitectónico a la madera de por aquí? ¡La mano del cincel me pica!" #!String
     Indoor_Day_Haley: "Siempre me siento feliz cuando hace sol.$h" #!String
-    Indoor_Day_Harvey: "Hoy el cielo está genial...¡Tan despejado!#$e#De ahora, solo voy a ir a la clínica cuando tenga citas. Por lo demás, ¡puedo trabajar desde casa!" #!String
+    Indoor_Day_Harvey: "Hoy el cielo está genial...¡Tan despejado!#$e#De ahora en adelante, solo voy a ir a la clínica cuando tenga citas. Por lo demás, ¡puedo trabajar desde casa!" #!String
     Indoor_Day_Sebastian: "Bueno, este lugar es mejor que mi vieja habitación en el sótano, ¿verdad?$h" #!String
-    Indoor_Day_Alex: "¡El sol brilla y yo estoy cargado de energía! ¡Mejor andate con ojo! Jej jej.$h" #!String
-    Indoor_Day_Elliott: "He estado guardando un diario desde que nos mudamos juntos. Ahora que tengo una vida de verdad, tengo montones de cosas sobre las que escribir.$h#$e#Quiero asegurarme de que siempre recuerdo estos años." #!String
-    Indoor_Day_Sam: "Hoy quiero hacer muchas cosas... Pero seguramente veré la tele." #!String
+    Indoor_Day_Alex: "¡El sol brilla y yo estoy cargado de energía! ¡Mejor andate con ojo! Je je.$h" #!String
+    Indoor_Day_Elliott: "He estado guardando un diario desde que nos mudamos juntos. Ahora que tengo una vida de verdad, tengo montones de cosas sobre las que escribir.$h#$e#Quiero asegurarme de recordar estos años." #!String
+    Indoor_Day_Sam: "Hoy quiero hacer muchas cosas... Pero seguramente sólo veré la tele." #!String
     Indoor_Night_0: "¿Lo has hecho ya todo, @?#$e#He hecho algunas cosas en casa... ¡Qué cansancio!#$e#Cuando quieras nos vamos a la cama.$h" #!String
     Indoor_Night_1: "Guau, parece que hoy has trabajado mucho.#$e#Esta noche deberías relajarte y descansar.$h" #!String
-    Indoor_Night_2: "Me alegro de que estés en casa.#$e#Me asusto un poco si solo estoy yo por la noche.$s^No me gusta que no estés por la noche...$s#$e#...$h" #!String
+    Indoor_Night_2: "Me alegro de que estés en casa.#$e#Me asusto un poco cuando no estás por la noche.$s^No me gusta que no estés por la noche...$s#$e#...$h" #!String
     Indoor_Night_3: "¿Has acabado con el trabajo por hoy? Ahora toca divertirse un poco.$h#$e#Pero si no quieres lo entiendo, has trabajado mucho." #!String
-    Indoor_Night_4: "¡Uff! Acabo de terminar mis tareas. Ahora podemos pasar más tiempo juntos.$h#$e#Bueno, cuéntame cómo te ha ido el día.$l#$e#...$h" #!String
-    Indoor_Night_Maru: "¿Tienes sueño, @? ¿Debería dormirte con los detalles técnicos de mi ultimo proyecto?$h#$e#*bostezo*... Para ser sincera, yo también tengo sueño." #!String
-    Indoor_Night_Abigail: "¿Nos vamos a la cama pronto? He encendido la manta eléctrica para nosotros...$l" #!String
-    Indoor_Night_Penny: "Hola, cariño. ¿Te apetece pasar una noche tranquila en casa?" #!String
+    Indoor_Night_4: "¡Uff! Acabo de terminar mis tareas. Ahora podemos charlar un poco.$h#$e#Bueno, cuéntame cómo te ha ido el día.$l#$e#...$h" #!String
+    Indoor_Night_Maru: "¿Tienes sueño @? ¿Debería dormirte con los detalles técnicos de mi ultimo proyecto?$h#$e#*bostezo*... Para ser sincera, yo también tengo sueño." #!String
+    Indoor_Night_Abigail: "¿Nos vamos a la cama? He encendido la manta eléctrica...$l" #!String
+    Indoor_Night_Penny: "Hola cariño. ¿Te apetece pasar una noche tranquila en casa?" #!String
     Indoor_Night_Leah: "La noche esta muy silenciosa y tranquila. Hay que disfrutar del momento." #!String
-    Indoor_Night_Haley: "Parece que has estado trabajando muy duro, cariño. Deja que te ayude a desestresarte.$l" #!String
+    Indoor_Night_Haley: "Parece que has estado trabajando muy duro cariño. Deja que te ayude a desestresarte.$l" #!String
     Indoor_Night_Harvey: "Parece que podrías necesitar un buen masaje esta noche.$l#$e#Órdenes del doctor... ¡Es bueno para la circulación!" #!String
-    Indoor_Night_Sebastian: "#$c .5#Puede que sea un chico solitario, pero siempre estoy feliz cuando estas aquí.$h#$e#Hola, @. Me alegra verte. Me gusta tenerte por aquí.$h" #!String
+    Indoor_Night_Sebastian: "#$c .5#Puede que sea un chico solitario, pero siempre estoy feliz cuando estas aquí.$h#$e#Hola @. Me alegra verte. Me gusta tenerte cerca.$h" #!String
     Indoor_Night_Alex: "Me noto los brazos cansados... ¿Qué tal un buen masaje?$l^Estoy cansado... ¡Eso es buena señal! Significa que hoy he trabajado duro.$h" #!String
-    Indoor_Night_Elliott: "#$c .5#Siempre hueles tan bien después de un duro día de trabajo... ¡Es tu perfume natural!^Hueles genial, cariño. Como un panal flotando en una piscina de té.#$e#Ven aquí, deja que te de un masaje. Tienes tensión acumulada.$l^Hueles bien, cariño. Como una hoja de canela flotando en una brisa de verano." #!String
+    Indoor_Night_Elliott: "#$c .5#Siempre hueles tan bien después de un duro día de trabajo... ¡Es tu perfume natural!^Hueles genial cariño. Como un panal flotando en una piscina de té.#$e#Ven aquí, deja que te de un masaje. Tienes tensión acumulada.$l^Hueles dulce cariño. Como una hoja de canela flotando en una brisa de verano." #!String
     Indoor_Night_Sam: "#$c .5#Me pregunto si la luna se verá esta noche.#$e#Bueno, ¿has hecho hoy todo en la granja? ¡Si no lo has hecho no me enfadaré!" #!String
     Outdoor_0: "Hace un día precioso, ¿verdad?$h#$e#Días como este hacen el trabajo mas placentero." #!String
-    Outdoor_1: "< Hoy voy a relajarme y explorar la granja, ¿vale?#$e#Es un lugar tan bonito...$h" #!String
-    Outdoor_2: "¡Hola, cariño! Si supiera más sobre el trabajo de la granja te ayudaría. ¡Lo siento!#$e#Pensaré en ti.$h" #!String
+    Outdoor_1: "Hoy voy a relajarme y explorar la granja, ¿vale?#$e#Es un lugar tan bonito...$h" #!String
+    Outdoor_2: "¡Hola cariño! Si supiera más sobre el trabajo de la granja te ayudaría. ¡Lo siento!#$e#Pensaré en ti.$h" #!String
     Outdoor_3: "Voy a quitar el polvo por aquí. Eso debería ayudarte, ¿verdad?#$e#*uff*... Qué calor hace aquí fuera." #!String
     Outdoor_4: "No trabajes demasiado, cariño.#$e#Asegúrate de descansar de vez en cuando, o llévate algo para comer.$h" #!String
     Outdoor_Maru: "Estaré aquí fuera. Es un buen lugar para pensar en nuevos inventos.$h#$e#Aún espero que se me ocurra algo con lo que ayudarte en tu trabajo." #!String
     Outdoor_Abigail: "Voy a estar por aquí fuera, ¿vale?#$e#Hay un montón de bichos y cosas interesantes. *risita*$h" #!String
-    Outdoor_Haley: "Parece un buen día para tomar el sol, ¿no crees, cariño?#$e#< ...*risita*$h" #!String
-    Outdoor_Leah: "¡Guau, esto es genial! Estoy empezando a disfrutar de la vida en la granja, @.$h#$e#Esta es la vida que siempre soñé.$l" #!String
-    Outdoor_Penny: "Estoy muy contenta en nuestra pequeña granja, @.$h" #!String
-    Outdoor_Sebastian: "Esto es muy diferente de mi vieja vida, pero está empezando a gustarme de verdad.$h#$e#Siento que pertenezco a este lugar.$l" #!String
-    Outdoor_Harvey: "Esto es mucho mas agradable que estar enjaulado en la clínica todo el día.$l#$e#Me encante verte en la granja... Jeje." #!String
-    Outdoor_Elliott: "Hoy voy a seguir escribiendo mi nueva novela. ¿Qué mejor lugar que una maravillosa granja?$h#$e#Esto es perfecto.$l" #!String
+    Outdoor_Haley: "Parece un buen día para tomar el sol, ¿no crees, cariño? ...*risita*$h" #!String
+    Outdoor_Leah: "¡Guau, esto es genial! Estoy empezando a disfrutar de la vida en la granja @.$h#$e#Esta es la vida que siempre soñé.$l" #!String
+    Outdoor_Penny: "Estoy muy contenta en nuestra pequeña granja @.$h" #!String
+    Outdoor_Sebastian: "Esto es muy diferente a cómo vivía antes, pero está empezando a gustarme de verdad.$h#$e#Siento que pertenezco a este lugar.$l" #!String
+    Outdoor_Harvey: "Esto es mucho mejor que estar encerrado en la clínica todo el día.$l#$e#Me encanta verte en la granja... Jeje." #!String
+    Outdoor_Elliott: "Voy a seguir escribiendo mi nueva novela. ¿Qué mejor lugar que una maravillosa granja?$h#$e#Esto es perfecto.$l" #!String
     Outdoor_Alex: "¡Hoy voy a hacer un montón de ejercicio! ¡Jaja! Me encanta vivir en una granja.$h" #!String
-    Outdoor_Sam: "Oye, ¡mira esas nubes tan esponjosas, cariño!$h#$e#Voy a mirarlas un rato, si no te importa." #!String
-    jobLeave_Harvey: "Hoy tengo que ir a la clínica. Que pases un buen día, ¿de acuerdo?" #!String
+    Outdoor_Sam: "Oye, ¡mira esas nubes tan esponjosas cariño!$h#$e#Voy a mirarlas un rato, si no te importa." #!String
+    jobLeave_Harvey: "Hoy tengo que ir a la clínica. ¡Que pases un buen día!" #!String
     jobLeave_Penny: "Hoy tengo que ir al pueblo. No trabajes demasiado duro, ¡y come algo bueno para almorzar!$h" #!String
     jobLeave_Maru: "Tengo que irme a trabajar pronto. Te veré esta noche. ¡Pensaré en ti!$h" #!String
-    jobReturn_Harvey: "#$c .5#Hi, honey. How was your day?#$e#*Phew*... I'm exhausted...$s#$e#My patients are still healthy, so it was a good day." #!String
-    jobReturn_Penny: "#$c .5#Good evening. My day was fine, thanks! How was yours?$h#$e#Jas and Vincent weren't behaving very well today. I'm still all wound up..." #!String
-    jobReturn_Maru: "#$c .5#Well, it was just another boring day at the clinic.#$e#Hey. Did you have a more exciting day than me? I hope so.#$e#$c .5#Well, It's time to kick back and relax. Did you leave me any dinner?#$e#I'm just looking forward to bed-time.$h" #!String
+    jobReturn_Harvey: "#$c .5#Hola cariño. ¿Cómo te ha ido el día?#$e#Uff... Estoy agotado...$s#$e#Mis pacientes siguen bien de salud, así que ha sido un buen día." #!String
+    jobReturn_Penny: "#$c .5#Buenas noches. He tenido un buen día, ¡gracias! ¿Y tú?$h#$e#Jas y Vincent no se han portado muy bien. Aún estoy alterada..." #!String
+    jobReturn_Maru: "#$c .5#Bueno, otro tedioso día en la clínica.#$e#Oye, ¿y tu día, ha sido más interesante que el mío? Espero que sí.#$e#$c .5#Bueno, es hora de ponerse cómodo y relajarse. ¿Me has dejado algo de cena?#$e#¡Qué ganas de irme a la cama!$h" #!String
     OneKid_0: "¿Has pasado hoy algo de tiempo con %kid1?" #!String
     OneKid_1: "Me pregunto si %kid1 cuidará de una granja, como tú." #!String
     OneKid_2: "No te preocupes, yo daré de comer a %kid1. Puedes centrarte en la granja." #!String
-    OneKid_3: "La vida es muy diferente ahora que tenemos un hijo." #!String
+    OneKid_3: "La vida es muy diferente ahora que tenemos a %kid1." #!String
     TwoKids_0: "Ya les he dado el desayuno a %kid1 y %kid2. ¡Tenían mucha hambre!" #!String
     TwoKids_1: "Tenemos que asegurarnos de darle a %kid1 la misma atención que a %kid2. No queremos que tengan envidia." #!String
     TwoKids_2: "¿Sabes? Creo que %kid2 tiene tu nariz." #!String
     TwoKids_3: "Una buena casa, dos maravillosos hijos y una preciosa granja. ¿Qué más nos queda?" #!String
-    Good_0: "Aún no me puedo creer que estemos casados...$l" #!String
-    Good_1: "¿Sabías que siempre tuve la sensación de que acabariamos juntos algún día?$l" #!String
+    Good_0: "Aún no me puedo creer que nos hayamos casado...$l" #!String
+    Good_1: "Siempre tuve la sensación de que algún día terminaríamos siendo pareja, ¿sabes?$l" #!String
     Good_2: "¿Estás disfrutando la vida de casados, @?#$e#Yo si.$l" #!String
-    Good_3: "¡Guau, hoy estás muy guapo!$l^Guau, hoy estas preciosa.$l" #!String
+    Good_3: "¡Guau, hoy estás muy guapo!$l^Guau, hoy estás preciosa.$l" #!String
     Good_4: "Ahora este es mi hogar... Estoy feliz aquí.$l" #!String
     Good_5: "Estaba admirando mi amuleto de boda... La concha esta impecable. ¡Debe haberte costado una fortuna!$l" #!String
-    Good_6: "¡Ten cuidado ahí fuera! A veces me preocupo de que te caigas por un pozo en la mina." #!String
+    Good_6: "¡Ten cuidado ahí fuera! A veces me preocupa que te caigas por un pozo en la mina." #!String
     Good_7: "¿@? Solo quiero decirte que aprecio todo el trabajo duro que haces por esta casa.$h" #!String
     Good_8: "No te preocupes por mi... Sé que tienes muchas cosas que hacer fuera de casa. ¡Yo estoy bien aquí!$l" #!String
     Good_9: "Oh, no me aburro... Disfruto de lo que tenemos aquí.#$e#Es una vida simple, pero me gusta.$h" #!String
     Neutral_0: "Espero que me sigas queriendo cuando esté mayor y tenga canas." #!String
-    Neutral_1: "Me pregunto quien vivió aquí antes que nosotros." #!String
+    Neutral_1: "Me pregunto quién vivió aquí antes." #!String
     Neutral_2: "¿No tienes nada que hacer hoy?" #!String
     Neutral_3: "Si vas al pueblo asegúrate de saludar a todos de mi parte." #!String
     Neutral_4: "Mañana lavaré la ropa antes de que te levantes... Así siempre tendrás la ropa lista." #!String
@@ -131,33 +131,33 @@ content:  #!Dictionary<String,String>
     Bad_2: "¿Aún eres feliz conmigo?s" #!String
     Bad_3: "¿He hecho algo mal? Has estado actuando de froma extraña últimamente.$s" #!String
     Bad_4: "¿Alguna vez te preguntas si hay algo más ahí fuera?$s" #!String
-    Bad_5: "Solías ser romántico... ¿Qué ha pasado?$s#$e#Ya se que no soy tan joven como antes... ¿Por qué te casaste conmigo?$a" #!String
-    Bad_6: "Solo tenemos una vida para vivir... ¿Es esta la mejor manera?$s" #!String
+    Bad_5: "Solías ser romántico... ¿Qué ha pasado?$s^Solías ser romántico... ¿Qué ha pasado?$s#$e#Ya sé que no soy tan joven como antes... ¿Por qué te casaste conmigo?$a" #!String
+    Bad_6: "Solo tenemos una vida para vivir... ¿Es ésta la mejor manera?$s" #!String
     Bad_7: "Solía ser tu 'cariño'... Ahora parece que solo me aguantas cuando te hago una cena caliente.$s" #!String
     Bad_8: "Has estado distante últimamente...$s" #!String
     Bad_9: "Me pregunto si podría haberlo hecho mejor.$s" #!String
-    spring_1: "Well, a new year has arrived. Do you have a plan for what you want to accomplish this year?#$e#I feel pretty hopeful." #!String
-    spring_8: "Now that winter's over, we've got lots of productive weather to look forward to." #!String
-    spring_23: "I hope you've been practicing your moves... tomorrow is the flower dance!" #!String
-    summer_1: "Make sure you don't get a heat stroke, dear.#$e#Drink plenty of water and don't overwork yourself." #!String
-    summer_8: "Sorry if I smell... I was sweating all night in the heat." #!String
-    summer_15: "It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them." #!String
-    fall_1: "This weather feels pretty nice after the heat of summer." #!String
-    fall_8: "Winter's just around the corner. We need to double check the heating system, turn off the valves, and check all the insulation in the house.#$e#Don't worry, I'll take care of it all." #!String
-    fall_15: "Have you figured out what you're going to use for our grange display tomorrow?" #!String
-    fall_26: "Should we go to the Spirit's Eve festival tomorrow night?" #!String
-    winter_1: "Brrr.... It's cold. I guess winter has arrived." #!String
-    winter_7: "Are you going to enter the fishing contest tomorrow?" #!String
-    winter_28: "Thanks for a great year, @. I'm excited to tackle next year together.$l" #!String
+    spring_1: "Bueno, ha llegado un nuevo año. ¿Tienes alguna meta para este año?#$e#Tengo muchas esperanzas." #!String
+    spring_8: "Ahora que el invierno se ha acabado tenemos muy buen tiempo por delante para plantar." #!String
+    spring_23: "Espero que hayas estado practicando tus pasos... ¡Mañana es el baile de las flores!" #!String
+    summer_1: "Ten cuidado cariño, no te vaya a dar un golpe de calor.#$e#Bebe mucha agua y no trabajes demasiado." #!String
+    summer_8: "Perdona el olor... He sudado toda la noche." #!String
+    summer_15: "Es verano y eso significa... la casa llena de moscas.#$e#No te preocupes, yo me ocuparé de ellas." #!String
+    fall_1: "Qué buen tiempo hace en comparación con el calor del verano." #!String
+    fall_8: "El invierno está a la vuelta de la esquina. Necesitamos comprobar dos veces el sistema de calefacción, abrir las válvulas y comprobar todo el aislamiento térmico.#$e#No te preocupes, yo me ocuparé de todo." #!String
+    fall_15: "¿Has pensado ya en qué vamos a usar en la demostración de mañana?" #!String
+    fall_26: "¿Vamos a ir al festival de la noche de los espíritus mañana?" #!String
+    winter_1: "Brrr.... Qué frío. Parece que el invierno ha llegado." #!String
+    winter_7: "¿Vas a apuntarte al concurso de pesca de mañana?" #!String
+    winter_28: "Gracias por este año tan estupendo @. Estoy impaciente por afrontar este nuevo año junto a ti.$l" #!String
     spring_Maru: "¡Estoy emocionada por pasar un nuevo año en la granja, @!$h" #!String
     spring_Abigail: "Puede que me gusten las estaciones frías, pero al final siempre me alegro de que llegue la primavera." #!String
     spring_Haley: "¿No te alegra que haya acabado el invierno, cariño? Ahora todo parece más prometedor." #!String
     spring_Leah: "¡No olvides buscar rábano picante, puerros y dientes de león mientras estás fuera!" #!String
     spring_Penny: "Me alegra tanto ver algo verde después de un largo invierno blanco..." #!String
     spring_Sebastian: "Guau, mi piel está muy blanca... Supongo que te ayudaré con la granja esta temporada." #!String
-    spring_Harvey: "Plantemos algunas verduras sanas esta primavera.$h" #!String
+    spring_Harvey: "Plantemos algunas verduras saludables esta primavera.$h" #!String
     spring_Elliott: "Espero que sea un precioso año en la granja %farm.$h" #!String
-    spring_Alex: "Oye, @. ¡Hoy vamos a trabajar duro!" #!String
+    spring_Alex: "Hola @. ¡Hoy vamos a trabajar duro!" #!String
     spring_Sam: "*sniff* ... Tengo la nariz congestionada... alergias." #!String
     summer_Maru: "Es un buen momento del año para ver las estrellas." #!String
     summer_Abigail: "Madre mía... Podría ir a por algo de tarta de chocolate." #!String
@@ -187,11 +187,11 @@ content:  #!Dictionary<String,String>
     winter_Sebastian: "Me pregunto que es de Sam. Solíamos ser muy buenos amigos." #!String
     winter_Harvey: "El invierno es la época de la gripe, así que probablemente el trabajo será mas estresante. Perdón por adelantado si estoy de mal humor." #!String
     winter_Elliott: "Creo que voy a escribir algo este invierno. De todos modos, no hay mucho que hacer." #!String
-    winter_Alex: "Espero que a mis abuelos les vaya bien. Solían necesitar un poco mi ayuda. Ya sabes, para levantar objetos pesados y esas cosas." #!String
+    winter_Alex: "Espero que a mis abuelos les vaya bien. Necesitaban un poco mi ayuda. Ya sabes, para levantar objetos pesados y esas cosas." #!String
     winter_Sam: "He abandonado lo de ser músico. ¡Ahora soy un hombre de familia!" #!String
     spouseRoom_Maru: "#$c .5#Me he levantado temprano para ver las estrellas.#$e#Espero que no te importe si paso algo de mi tiempo con mis proyectos, cariño." #!String
     spouseRoom_Abigail: "#$c .5#Me he levantado antes que tú y he dado de comer a David Jr. Está muy activo por las mañanas.#$e#Espero que no te importe el olor a cobaya." #!String
-    spouseRoom_Haley: "#$c .5#Ve y empieza tu día, cariño. Me estoy maquillando.#$e#¿Tienes algún plan para hoy?" #!String
+    spouseRoom_Haley: "#$c .5#Ve y empieza tu día cariño. Me estoy maquillando.#$e#¿Tienes algún plan para hoy?" #!String
     spouseRoom_Leah: "#$c .5#Uno de estos días te haré un retrato.#$e#Las vistas desde esta ventana son inspiradoras, ¿no crees?" #!String
     spouseRoom_Penny: "#$c .5#Siempre quise tener mi propia biblioteca. Esto es encantador.$h#$e#Me gusta leer un poco por la mañana. Pone el cerebro en funcionamiento." #!String
     spouseRoom_Sebastian: "#$c .5#Echo de menos mi moto... Pero bueno, es demasiado peligrosa para un hombre casado.$h#$e#¿Tenemos pizza en el frigorífico? Tengo hambre." #!String
