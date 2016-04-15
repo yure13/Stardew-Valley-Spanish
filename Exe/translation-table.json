@@ -3158,10 +3158,10 @@
             "^Fazenda\\s+Nome$": "Nome da\nFazenda",
             "^Nível (\\d+) - (.*)$": "$2 Nível $1",
             "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Dia $1 %$2%, Ano $3",
-            "%Spring%": "da Primavera",
-            "%Summer%": "do Verão",
-            "%Fall%": "do Outono",
-            "%Winter%": "do Inverno"
+            "%Spring%": "de Primavera",
+            "%Summer%": "de Verano",
+            "%Fall%": "de Otoño",
+            "%Winter%": "de Invierno"
         },
         "StardewValley.Menus.DayTimeMoneyBox.draw": {
             "Sun\\.": "Dom.",
@@ -3174,10 +3174,10 @@
         },
         "StardewValley.Menus.Billboard.draw": {
             "Spring": "Primavera",
-            "Summer": "Verão",
-            "Fall": "Outono",
-            "Winter": "Inverno",
-            "Year": "Ano"
+            "Summer": "Verano",
+            "Fall": "Otoño",
+            "Winter": "Invierno",
+            "Year": "Año"
         },
         "Global": {
             "\\bRailroad\\b": "Ferrovia",
@@ -3234,17 +3234,17 @@
             "^Level (\\d+) Luck$": "Sorte Nível $1"
         },
         "StardewValley.Menus.ConfirmationDialog.draw": {
-            "^Sair do (Dança|Feira)": "Sair da $1"
+            "^Sair do (Dança|Feira)": "Salir de $1"
         },
         "StardewValley.BellsAndWhistles.SpriteText.drawStringWithScrollCenteredAt": {
-            "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Dia $1 %$2%, Ano $3",
-            "%Spring%": "da Primavera",
-            "%Summer%": "do Verão",
-            "%Fall%": "do Outono",
-            "%Winter%": "do Inverno"
+            "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Día $1 %$2%, Año $3",
+            "%Spring%": "de Primavera",
+            "%Summer%": "do Verano",
+            "%Fall%": "de Otoño",
+            "%Winter%": "de Invierno"
         },
         "StardewValley.Menus.ShopMenu.draw": {
-            "(.*) %Receita%": "Receita de $1"
+            "(.*) %Receita%": "Receta de $1"
         }
     }
 }
