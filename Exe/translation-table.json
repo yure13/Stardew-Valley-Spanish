@@ -3165,11 +3165,11 @@
         },
         "StardewValley.Menus.DayTimeMoneyBox.draw": {
             "Sun\\.": "Dom.",
-            "Mon\\.": "Seg.",
-            "Tue\\.": "Ter.",
-            "Wed\\.": "Qua.",
-            "Thu\\.": "Qui.",
-            "Fri\\.": "Sex.",
+            "Mon\\.": "Lun.",
+            "Tue\\.": "Mar.",
+            "Wed\\.": "Mie.",
+            "Thu\\.": "Jue.",
+            "Fri\\.": "Vie.",
             "Sat\\.": "Sáb."
         },
         "StardewValley.Menus.Billboard.draw": {
