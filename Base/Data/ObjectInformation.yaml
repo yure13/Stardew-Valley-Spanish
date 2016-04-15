@@ -245,8 +245,8 @@ content:  #!Dictionary<Int32,String>
     328: "Wood Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     329: "Stone Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     330: "Arcilla/20/-300/Basic -16/Usada para fabricar objetos y en construcción." #!String
-    331: "Suelo aislante/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
-    333: "Suelo de cristal/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    331: "Weathered Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    333: "Crystal Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     334: "Lingote de cobre/60/-300/Basic -15/Una barra de cobre puro." #!String
     335: "Lingote de hierro/120/-300/Basic -15/Una barra de hierro puro." #!String
     336: "Lingote de Oro/250/-300/Basic -15/Una barra de oro puro." #!String
@@ -286,21 +286,21 @@ content:  #!Dictionary<Int32,String>
     398: "Uva/80/15/Basic -79/Un dulce racimo de fruta." #!String
     399: "Cebolleta/8/5/Basic -81/Crecen de forma salvaje durante la primavera." #!String
     400: "Fresa/120/20/Basic -79/Una fruta valorada por su dulzura y su atractivo color rojo." #!String
-    401: "Suelo de paja/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
+    401: "Straw Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
     402: "Guisante de olor/50/0/Basic -80/Una fragante flor veraniega." #!String
     403: "Barrita energética/20/18/Crafting/Un tentempié para alimentar al hambriento recolector." #!String
     404: "Seta común/40/15/Basic -81/Con un ligero sabor a almendra, y con buena textura." #!String
-    405: "Camino de madera/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
+    405: "Wood Path/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
     406: "Ciruelas silvestres/80/10/Basic -81/Ácidas y jugosas, con un aroma punzante." #!String
-    407: "Camino de grava/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
+    407: "Gravel Path/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
     408: "Avellana/90/12/Basic -81/¡Que pedazo de avellana!" #!String
-    409: "Camino de cristal/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
+    409: "Crystal Path/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o decorar tu casa." #!String
     410: "Mora/20/10/Basic -79/Típica a principios de otoño." #!String
-    411: "Camino de guijarros/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
+    411: "Cobblestone Path/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
     412: "Semilla de invierno/70/10/Basic -81/Un tubérculo almidonado." #!String
     413: "Huevo de slime Azul/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
     414: "Fruta de cristal/150/25/Basic -79/Una fruta delicada que surge de la nieve." #!String
-    415: "Camino empedrado/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
+    415: "Stepping Stone Path/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
     416: "Batata de nieve/100/12/Basic -81/Esta pequeña batata se escondía bajo la nieve." #!String
     417: "Gema dulce/3000/-300/Basic -17/Es de lejos la cosa mas dulce que has olido." #!String
     418: "Azafrán/60/0/Basic -80/Una flor que puede florecer en invierno." #!String
