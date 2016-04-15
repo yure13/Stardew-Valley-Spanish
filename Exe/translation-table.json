@@ -1716,7 +1716,7 @@
         "StardewValley.Menus.LoadGameMenu.performHoverAction#\"Delete File\"": "Borrar archivo",
         "StardewValley.Menus.LoadGameMenu.draw#\" Farm\"": "%Fazen%",
         "StardewValley.Menus.LoadGameMenu.draw#\"No Saved Games Found\"": "No se ha encontrado ninguna partida",
-        "StardewValley.Menus.LoadGameMenu.draw#\"Really delete file: \"": "¿Realmente quieres borrar esta partida: ",
+        "StardewValley.Menus.LoadGameMenu.draw#\"Really delete file: \"": "Realmente quieres borrar la partida: ",
         "StardewValley.Menus.LoadGameMenu.draw#\"?\"": "?",
         "StardewValley.Game1.doneEating#\" Energy\"": " Energia",
         "StardewValley.Game1.doneEating#\" Health\"": " Vida",
