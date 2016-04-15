@@ -370,7 +370,7 @@ content:  #!Dictionary<Int32,String>
     496: "Semillas veraniegas/55/-300/Seeds -74/Surtido de semillas silvestres veraniegas." #!String
     497: "Semillas otoñales/45/-300/Seeds -74/Surtido de semillas silvestres de otoño." #!String
     498: "Semillas invernales/30/-300/Seeds -74/Surtido de semillas silvestres invernales." #!String
-    499: "Semillas ancestrales/30/-300/Seeds -74/¿Todavía pueden crecer?" #!String
+    499: "Ancient Seeds/30/-300/Seeds -74/¿Todavía pueden crecer?" #!String
     516: "Pequeño anillo resplandeciente/Emite una pequeña y constante luz./100/Ring" #!String
     517: "Anillo resplandeciente/Emite una luz constante./200/Ring" #!String
     518: "Anillo magnético pequeño/Aumenta ligeramente el radio de recogida de objetos./100/Ring" #!String
