@@ -38,7 +38,7 @@ content:  #!Dictionary<String,String>
     Sat8: "Plantar suena tan divertido. Quiero intentarlo algún día.$l" #!String
     Sun: "Si escuchas cualquier golpeteo saliendo de mi casa, es probable que sea yo trabajando en una de mis esculturas." #!String
     Sun8: "Si alguna vez encuentras algo de madera flotando en el agua, podría usarla.$e#Seria genial que me la dieras.$l" #!String
-    event_sculpt1: "...¿Qué?$7#$b#¡Oh! Sí, ¡tiene toda la razón!$h" #!String
+    event_sculpt1: "...¿Qué?$7#$b#¡Oh! Sí, ¡tienes toda la razón!$h" #!String
     event_sculpt2: "No hay nada malo con eso... Creo que hay mucha belleza que se encuentra en bruto, en la misma naturaleza!#$b#Pero como ser humano, yo también estoy interesado en cómo nos forma e interpretar el mundo que nos rodea... Supongo que lo que estoy diciendo es que estoy interesado en el 'Arte'." #!String
     event_sculpt3: "¡Cerdo!%fork$a^¡Oh! ¿Eres...? Yo también.$6#$b#¡Vete!$a^Es bueno saberlo.$l" #!String
     event_parents1: "Tienes razón... No habría sido feliz así.$u#$b#Es lo mejor para los dos... poner fin a una relación insostenible mientras aun somos jovenes y podemos adaptarnos.$u" #!String
