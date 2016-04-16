@@ -193,7 +193,7 @@ content:  #!Dictionary<Int32,String>
     258: "Arándano/80/10/Basic -79/Una baya muy popular, de la cual se dice que tiene muchos beneficios para la salud. En su piel azul se encuentra la mayor concentración de nutrientes." #!String
     259: "Brotes de helecho/90/10/Basic -75/Los brotes jóvenes son comestibles." #!String
     260: "Hot Pepper/40/5/Basic-79/Extremadamente picante, pero con un toque dulce." #!String
-    262: "Trigo/25/-300/Basic -75/Uno de los granos más cultivados en el mundo. Es usado como una fantástica harina para panes y pasteles." #!String
+    262: "Wheat/25/-300/Basic -75/Uno de los granos más cultivados en el mundo. Es usado como una fantástica harina para panes y pasteles." #!String
     264: "Rábano/90/18/Basic -75/Una raíz crujiente y refrescante, con toques de pimienta cuando se come cruda." #!String
     266: "Lombarda/260/30/Basic -75/En ocasiones se usa en ensaladas. El color puede variar desde púrpura a azul o verde-amarillo, dependiendo de las condiciones del terreno." #!String
     268: "Carambola/800/50/Basic -79/Una fruta muy jugosa que crece en climas húmedos y cálidos. Ligeramente dulce, pero con un trasfondo amargo." #!String
@@ -221,7 +221,7 @@ content:  #!Dictionary<Int32,String>
     301: "Semillas de Uva/30/-300/Seeds -74/Se planta en otoño. Crecen en 10 días, pero sigue produciendo después. Crece en un enrejado." #!String
     302: "Semillas de lúpulo/30/-300/Seeds -74/Se plantan en en verano. Tardan 11 días en crecer, pero sigue produciendo después. Crecen en un enrejado." #!String
     303: "Cerveza clara/300/20/Basic -26/Beber con moderación./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    304: "Lúpulos/25/18/Basic -75/Una flor amarga y picante utilizada para aromatizar la cerveza." #!String
+    304: "Hops/25/18/Basic -75/Una flor amarga y picante utilizada para aromatizar la cerveza." #!String
     305: "Huevo vacío/50/15/Basic -5/Un huevo de color negro azabache, con manchas rojas. Está caliente al tacto." #!String
     306: "Mayonesa/150/-300/Basic -26/Parece que se puede untar." #!String
     307: "Mayonesa de pato/300/-300/Basic -26/Es una sabrosa mayonesa amarilla." #!String
