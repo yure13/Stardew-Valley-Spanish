@@ -47,7 +47,7 @@ content:  #!Dictionary<String,String>
     Event_Grave3: "Oh, es porque soy una chica... ¿no? Ugh...$u^¿Por qué? ¡Soy tan fuerte como tú!$a#$b#No soy una princesita... ¡Puedo cuidar de mi misma!$a#$b#He vivido en el valle toda mi vida, pero nunca he hecho nada memorable. ¡Quiero vivir una aventura!$8" #!String
     Event_Grave4: "¿De verás? Qué sorpresa.$8#$b#He vivido en el valle toda mi vida, pero nunca he hecho nada importante. ¡Quiero vivir una aventura!$8" #!String
     Event_Rain_1: "Ya veo..$8" #!String
-    Event_Rain_2: "Sí... Supongo que aprecias un ambiente lúgrube." #!String
+    Event_Rain_2: "Sí... Supongo que aprecias un ambiente lúgubre." #!String
     Event_Rain_3: "...Es cierto.$8" #!String
     Event_Tragic_1: "Sí... Supongo que mi vida está bien...$s" #!String
     Event_Tragic_2: "¡...!$h" #!String
