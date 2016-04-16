@@ -17,64 +17,64 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Rainy_Day_0: "La oscuridad... La lluvia... Hacen que me emocione.$l" #!String
-    Rainy_Day_1: "Ey, ¿te acuerdas cuando tocamos ese dueto en el lago? Este tiempo me recuerda a ese día...#$e#Me sorprendiste mucho con esa mini harpa... No me lo esperaba. Supongo que por eso me gustas tanto.$l" #!String
-    Rainy_Day_2: "¡Ey! Me he despertado temprano y he explorado un poco. He encontrado esto y me he acordado de ti. [768 767 769 66 82]#$e#¿Crees que puedes encontrar algo mejor? ¡No lo creo!$h" #!String
+    Rainy_Day_1: "Oye, ¿te acuerdas cuando tocamos ese dueto en el lago? Este tiempo me recuerda a ese día...#$e#Me sorprendiste mucho con esa mini harpa... No me lo esperaba. Supongo que por eso me gustas tanto.$l" #!String
+    Rainy_Day_2: "¡Hola! Me he despertado temprano y he explorado un poco. He encontrado esto y me he acordado de ti. [768 767 769 66 82]#$e#¿Crees que puedes encontrar algo mejor? ¡No lo creo!$h" #!String
     Rainy_Day_3: "Hoy sería un buen día para ir a las minas, ¿verdad? Pero ten cuidado por ahí.#$e#Si vas, lleva contigo uno o dos elixires de vida." #!String
     Rainy_Day_4: "Puede que hoy juegue a Viaje del Rey de la Pradera... Te juro que algún día me lo pasaré yo sola.$h" #!String
     Rainy_Day_Abigail: "El campo parece más interesante en un día como este, ¿no crees?" #!String
     Rainy_Night_0: "Estaba contemplando el bosque barrido por la lluvia... Te juro que he visto algo oscuro moviéndose por los árboles.$6" #!String
     Rainy_Night_1: "Es una buena noche para ver un fantasma..." #!String
     Rainy_Night_2: "¿Lo sientes? Esa calma que trae la lluvia..." #!String
-    Rainy_Night_3: "En noches como esta me gusta apagar las luces y solo escuchar...$8" #!String
+    Rainy_Night_3: "En noches como esta me gusta apagar las luces y escuchar...$8" #!String
     Rainy_Night_4: "He hecho algo de sopa para cenar. Espero que no esté demasiado mala. [199 218 219 727 730]$h" #!String
-    Rainy_Night_5: "Ey, parece que has trabajado duro. ¿Puedo ayudarte a relajarte?^¿Has estado trabajando mucho? Estás muy guapa cuando estás un poco cansada.$h" #!String
-    Rainy_Night_Abigail: "Esta noche, el sonido de la lluvia debería ayudarnos a dormir." #!String
-    Indoor_Day_0: "Siempre me gustó este sitio. mucho antes de que te mudases. ¡Ahora puedo explorar la granja siempre que quiera!$h" #!String
-    Indoor_Day_1: "Hola, @. ¿Vas a salir? tengo algo para ti...[286 287 205 732]#$e#Úsalo si te metes en un apuro. Debería ayudarte." #!String
+    Rainy_Night_5: "Hola, parece que has trabajado duro. ¿Puedo ayudarte a relajarte?^¿Has estado trabajando mucho? Estás muy guapa cuando estás un poco cansada.$h" #!String
+    Rainy_Night_Abigail: "Esta noche el sonido de la lluvia debería ayudarnos a dormir." #!String
+    Indoor_Day_0: "Siempre me gustó este sitio, mucho antes de que te mudases. ¡Ahora puedo explorar la granja siempre que quiera!$h" #!String
+    Indoor_Day_1: "Hola @. ¿Vas a salir? Tengo algo para ti...[286 287 205 732]#$e#Úsalo si te metes en un apuro. Debería ayudarte." #!String
     Indoor_Day_2: "¿Vas a la mina? Oye... si encuentras algo sabroso, ¡acuérdate de traerme un pedazo!$h" #!String
     Indoor_Day_3: "¡Hola! Estoy dudando sobre qué hacer hoy. ¡No suelo tener tanta libertad!" #!String
     Indoor_Day_4: "¿No te importa si cambio la decoración de vez en cuando, ¿verdad? Estoy emocionada de poder tener mi propia casa en la que trabajar." #!String
     Indoor_Day_Abigail: "Siempre pasa algo nuevo en nuestra granja... Me encanta." #!String
     Indoor_Night_0: "He pasado un buen día. Si te fijas bien siempre hay algo interesante que hacer por aquí." #!String
-    Indoor_Night_1: "¡Hola! Cuéntame tu día, ¿pasó algo emocionante?$h" #!String
+    Indoor_Night_1: "¡Hola! Cuéntame tu día, ¿ha pasado algo emocionante?$h" #!String
     Indoor_Night_2: "Solía ser como un búho, pero he empezado a disfrutar el ritmo de la vida de la granja. Parece algo natural." #!String
     Indoor_Night_3: "*bostezo*... Estoy pensando en acostarme pronto.$h" #!String
     Indoor_Night_4: "Los ruidos nocturnos se escuchan más aquí. Nunca me cansaré de eso." #!String
-    Indoor_Night_Abigail: "¿Estás pensando en acostarte pronto? He encendido la manta eléctrica...$l" #!String
+    Indoor_Night_Abigail: "¿Nos vamos a la cama? He encendido la manta eléctrica...$l" #!String
     Outdoor_0: "Una ligera brisa nos trae aire de la montaña al valle. Huele a pino fresco y savia." #!String
     Outdoor_1: "Hmm... ¡Creo que tenemos suficiente espacio aquí fuera para criar Slimes!" #!String
     Outdoor_2: "Asegúrate de dejar la capilla de tu abuelo limpia, siento algo especial en ella." #!String
     Outdoor_3: "Me encanta tener una cueva. Es algo que siempre soñé.$h" #!String
     Outdoor_4: "Siempre olvido guardarme algún aperitivo en el bolsillo.*rugido de estómago*$h" #!String
-    Outdoor_Abigail: "Voy a salir por aquí, ¿vale?#$e# Aquí hay un montón de bichos y cosas interesantes. *risita*$h" #!String
-    funLeave_Abigail: "Hoy iré a la ciudad. Necesito estirar las piernas un poco." #!String
+    Outdoor_Abigail: "Voy a estar por aquí fuera, ¿vale?#$e#Hay un montón de bichos y cosas interesantes. *risita*$h" #!String
+    funLeave_Abigail: "Hoy iré al pueblo. Necesito estirar las piernas un poco." #!String
     funReturn_Abigail: "¡Hola! ¿Has pasado buen día? El mío fue bien, el paseo ha sido refrescante.$h" #!String
-    OneKid_3: "No puedo creer que sea 'madre'... la vida es extraña.$h" #!String
+    OneKid_3: "No puedo creer que sea \"madre\"... la vida es extraña.$h" #!String
     TwoKids_0: "Ya les he dado a %kid1 y %kid2 sus cereales de chocolate. ¡Estaban gritando!" #!String
     TwoKids_2: "He soñado que %kid2 crecía y se le conocía por cazar monstruos. He estado pensando en su pequeña equipación." #!String
-    TwoKids_3: "Una casa antigua, dos hijos y una granja increíble. Nunca pensé que llegaría tan lejos... ¡pero ey! Nuestras vidas no han hecho más que empezar.$h" #!String
+    TwoKids_3: "Una casa antigua, dos hijos y una granja increíble. Nunca pensé que llegaría tan lejos... ¡pero oye! Nuestras vidas no han hecho más que empezar.$h" #!String
     Good_1: "¿Lo has oído? A veces pienso que esta granja está embrujada.$u" #!String
     Good_2: "El horóscopo de Welwick ha predicho buenas cosas para hoy. ¡Me siento motivada!" #!String
     Good_3: "No puedo recordar la última vez que tinté mi pelo... Lo juro, nunca se me descolora..." #!String
-    Good_4: "Me alegro de haber conseguido un par de botas antes de mudarme. Es difícil imaginar ir de puntillas por el barro con deportivas.$h" #!String
+    Good_4: "Me alegro de haber conseguido un par de botas antes de mudarme. Es difícil imaginarse yendo de puntillas por el barro con deportivas.$h" #!String
     Good_5: "Estaba admirando el colgante de sirena que me diste... Lo llevaré con orgullo hasta la tumba.$l" #!String
-    Good_6: "Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you." #!String
-    Good_7: "¿@? Solo quería decirte que aprecio lo duro que trabajas por nosotros. Estoy muy orgullosa de ti.$l" #!String
+    Good_6: "Hola. Sé que eres inteligente, pero me sigo preocupando por ti. El mundo está lleno de monstruos.$6#$e#Prométeme que tendrás cuidado. No quiero perderte." #!String
+    Good_7: "¿@? Solo quería decirte que aprecio lo duro que trabajas. Estoy muy orgullosa de ti.$l" #!String
     Neutral_0: "Espero que todavía me quieras cuando este vieja y arrugada. ¡Algún día pasará!" #!String
-    Neutral_1: "¿Crees que tu abuelo estará orgulloso de nosotros?" #!String
-    Neutral_6: "¿Cómo irá la tienda de mis padres? Debería ir a visitarlos pronto." #!String
+    Neutral_1: "¿Crees que tu abuelo estará orgulloso?" #!String
+    Neutral_6: "¿Cómo irá la tienda de mis padres? Debería ir pronto a visitarlos." #!String
     Neutral_7: "Si vas al mundo de los espíritus, haré un altar junto al de tu abuelo." #!String
     Neutral_8: "No importa cuanto limpiemos, la casa se ensucia otra vez.#$e#Las granjas son bastante sucias." #!String
     Neutral_9: "¿Viviremos aquí siempre? Podría aburrirme." #!String
-    Bad_7: "Solía ser especial para ti, tú mejor amiga... ahora parece que solo me quieres cuando hago una cena caliente.$s" #!String
-    Bad_8: "Últimamente has sido muy frío conmigo... ¿Qué te pasa? Actúas como un estúpido.$s" #!String
-    Bad_9: "Me pregunto si podría haberlo hecho mejor... Era muy amiga de Sebastian antes de que tu y yo nos conociésemos. Puede que el fuese el elegido...$s" #!String
+    Bad_7: "Solía ser especial para ti, tú mejor amiga... ahora parece que sólo me quieres cuando hago una cena caliente.$s" #!String
+    Bad_8: "Últimamente has sido muy frío conmigo... ¿Qué te pasa? Actúas como un estúpido.$s^Últimamente has sido muy fría conmigo... ¿Qué te pasa? Actúas como una estúpida.$s" #!String
+    Bad_9: "Me pregunto si podría haberlo hecho mejor... Era muy amiga de Sebastian antes de que tú y yo nos conociésemos. Puede que él fuese el elegido...$s" #!String
     spring_1: "¿Tienes algún gran plan para este nuevo año?" #!String
     spring_12: "Oye, mañana es el festival de pascua. Lo siento, ¡pero no te lo haré fácil solo porque nos hayamos casado!$h#$e#Pienso ganar esta caza del huevo. Intenta superarme." #!String
-    spring_2: "¿Tienes propósitos para este año nuevo? Yo tengo pensado perder unos kilos de la cintura,$h" #!String
+    spring_2: "¿Tienes propósitos para este año nuevo? Yo tengo pensado perder unos kilos de la cintura.$h" #!String
     summer_1: "Me quemo muy rápido, necesito tener más cuidado en esta época.#$e#¡Espero gustarte pálida!$h" #!String
-    summer_4: "Asegúrate de que no te de un golpe de calor mi vida.#$e#Bebe mucha agua y no te pases trabajando." #!String
-    summer_8: "Siento el olor... He estado sudando toda la noche por el calor." #!String
+    summer_4: "Asegúrate de que no te dé un golpe de calor mi vida.#$e#Bebe mucha agua y no te pases trabajando." #!String
+    summer_8: "Siento el olor... He estado sudando toda la noche." #!String
     summer_15: "Es verano... Eso significa que la casa se llenará de moscas.#$e#No te preocupes, me ocuparé de ellas, ¡es divertido!$h" #!String
     fall_6: "Ah... otoño. Es mi estación favorita del año. Los colores pegan con mi pelo, ¿no lo crees?" #!String
     fall_1: "El aroma es inconfundible... setas, hojas muertas, calabazas. Es otoño, sí. ¿No es maravilloso?" #!String
@@ -82,9 +82,9 @@ content:  #!Dictionary<String,String>
     fall_20: "Cielo... Para mi vales más que un cofre lleno de cuarzo.#$e#Pero, ¿y uno lleno de amatistas? Umm... Tengo que pensarlo.$h" #!String
     winter_3: "Me encanta el frío. Me da una excusa para ponerme cómoda.$h" #!String
     winter_15: "¡Es divertido explorar el valle en invierno! Todo es tan diferente bajo un manto de nieve. Y tan tranquilo..." #!String
-    spring_Abigail: "Me gustan las estaciones frías, pero al final siempre deseo que llegue la primavera." #!String
+    spring_Abigail: "Puede que me gusten las estaciones frías, pero al final siempre me alegro de que llegue la primavera." #!String
     summer_Abigail: "Puff... Podría comerme una tarta de chocolate." #!String
     fall_Abigail: "¿Hueles a calabazas? Quizás es mi imaginación...$h" #!String
-    winter_Abigail: "¿Te acuerdas de cuando jugamos al 'Rey de la pradera' en mi cuarto? Eso sí que eran buenos tiempos.$h" #!String
-    spouseRoom_Abigail: "#$c .5#Me he levantado temprano y he dado de comer a David Jr. Es muy activo por la mañana.#$e#Espero que no te moleste el olor a cobaya." #!String
+    winter_Abigail: "¿Recuerdas cuando jugábamos al 'Rey de la Pradera' en mi cuarto? Eso sí que eran buenos tiempos.$h" #!String
+    spouseRoom_Abigail: "#$c .5#Me he levantado temprano y he dado de comer a David Jr. Está muy activo por las mañanas.#$e#Espero que no te moleste el olor a cobaya." #!String
 
