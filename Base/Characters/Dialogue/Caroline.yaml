@@ -22,7 +22,7 @@ content:  #!Dictionary<String,String>
   Mon8: "#$1 Caroline23#Cuando nos mudamos a Pueblo Pelícano daba paseos en secreto por la torre del mago. No se lo digas a Pierre, es un poco celoso.#$e#Un año después de mudarnos a Pueblo Pelícano nació Abigail. Me pregunto si alguna vez experimentará la vida fuera del valle." #!String
   Tue: "He visto algunos rábanos picantes en el bosque.#$e#Recolectarlos puede ser una manera divertida de hacer dinero. O puedes usar lo que encuentres como regalos o comida." #!String
   Wed: "Hola. ¿Tienes todo lo necesario para la granja?#$e#Si no, quizá te podemos ayudar.#$e#Tenemos una gran variedad de artículos." #!String
-  Thu: "#$1 Caroline1#Umm... Me pregunto si conseguiré que Pierre haga la cena de esta noche.#$e#Umm... ¿Que voy a hacer para la cena de esta noche?#$e#Tal vez soló pida algo para llevar del salón." #!String
+  Thu: "#$1 Caroline1#Umm... Me pregunto si conseguiré que Pierre haga la cena de esta noche.#$e#Umm... ¿Que voy a hacer para la cena de esta noche?#$e#Tal vez solo pida algo para llevar del salón." #!String
   Fri: "Hace un buen día.#$e#En días como estos me gusta ayudar a Evelyn con los jardines públicos.#$e#Ella es fuerte para su edad, pero creo que agradece toda la ayuda que puede conseguir." #!String
   Sat: "¿Soy yo, o Abiagil es muy pesimista?#$e#Tal vez solo soy muy mayor como para entenderlo." #!String
   Sat_inlaw_Abigail: "Las cenas han sido mucho más tranquilas desde que Abigail se mudó...#$e#No, no es porque masticara con la boca abierta.$h" #!String
