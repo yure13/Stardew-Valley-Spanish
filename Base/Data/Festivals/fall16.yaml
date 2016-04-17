@@ -44,7 +44,7 @@ content:  #!Dictionary<String,String>
     Clint: "Me quejo a veces de mi trabajo, pero en realidad estoy muy orgulloso.#$b# Estas son algunas de mis mejores piezas. Espero que te gusten." #!String
     Emily: "¿Sabes? Habría hecho bien de payaso. Creo que perdí la vocación." #!String
     Penny: "He ganado diez veces seguidas en la ruleta, y ahora el hombre no me deja seguir jugando...$s" #!String
-    Pam: "Date prisa... ¡Antes de que la vieja Pam pesque hasta el ultimo grano de arena de la carpa! Jeje.$h" #!String
+    Pam: "Date prisa... ¡Antes de que la vieja Pam pesque hasta el último grano de arena de la carpa! Jeje.$h" #!String
     Haley: "¿Has visitado a la adivina? Puso su puesto en el cementerio.#$e#Yo ya la he visto... Me ha dicho algo... Interesante. *risita nerviosa*$h" #!String
     Jodi: "No parece muy feliz... Creo que el alcalde Lewis tuvo que bajar el presupuesto del payaso de este año." #!String
     Kent: "Estoy esperando a que el payaso empiece a hacer algo divertido.#$e#Muy decepcionante." #!String
