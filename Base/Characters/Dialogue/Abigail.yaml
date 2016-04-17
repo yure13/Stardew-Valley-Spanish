@@ -114,7 +114,7 @@ content:  #!Dictionary<String,String>
     Sun_30: "Me alegro. Es embarazoso compartir tu arte con los demás. Pero creo que tú y yo estamos conectados." #!String
     Sun_Bad: "¡Imbécil! ¿Por que hieres mis sentimientos de esa manera? ¡Insensible!$s" #!String
     winter_Wed2: "Hola. Si alguna vez te aburres, siempre puedes pasar el rato en mi habitación.#$e#¡Siempre que no me este cambiando, claro!" #!String
-    winter_Tue4: "Hace mucho frío. Desearía que tuvieramos una taza de chocolate caliente para compartir.$h" #!String
+    winter_Tue4: "Hace mucho frío. Desearía que tuviéramos una taza de chocolate caliente para compartir.$h" #!String
     winter_Sat6: "He estado soñando mucho últimamente...#$e#¡Oh! ¿Quieres saber de qué se tratan? Bueno....$u#$b#... Es un secreto.$h" #!String
     winter_Thu10: "Otro año que está por terminar...#$b# Pero ha sido un buen año, ¿no crees?$h" #!String
     winter_Wed6: "Debe ser agradable no tener que preocuparse de los cultivos en esta época del año.#$e# ¡Y eso significa que puedes pasar mas tiempo conmigo!$h" #!String
