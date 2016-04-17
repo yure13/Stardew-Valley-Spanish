@@ -24,7 +24,7 @@ content:  #!Dictionary<String,String>
     Maru_spouse: "Uf... Esta es mi oportunidad de pegarme un atracón de sándwiches de carne a la parrilla." #!String
     Penny_spouse: "¡Espero que ganemos el concurso del expositor!" #!String
     Haley_spouse: "¿Te has acordado de traer cosas buenas para nuestro expositor? Espero que ganemos este año." #!String
-    Sebastian_spouse: "Hola, @. Me estoy poniendo al día con Sam. Ve y pásalo bien." #!String
+    Sebastian_spouse: "Hola, @. Me estoy poniendo al día con Sam. Vé y pásalo bien." #!String
     Sam_spouse: "Sebastian está igual que siempre. ¿Te lo estás pasando bien en el festival?" #!String
     Alex_spouse: "Me estoy poniendo al día con viejos amigos... tu sigue y pásalo bien." #!String
     Harvey_spouse: "Me quedaré aquí hasta que quieras irte a casa..." #!String
