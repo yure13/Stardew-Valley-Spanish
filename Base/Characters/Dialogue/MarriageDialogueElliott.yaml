@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Rainy_Day_0: "Hoy estoy inspirado... Creo que escribiré un rato." #!String
-    Rainy_Day_1: "El sonido de la lluvia me recuerda a mi cabaña en la playa.#$e#La granja es preciosa pero echo de menos el sonido del océano." #!String
+    Rainy_Day_1: "El sonido de la lluvia me recuerda a mi cabaña en la playa.#$e#La granja es preciosa, pero echo de menos el sonido del océano." #!String
     Rainy_Day_2: "Me he levantado temprano y he hecho café.[395]#$e#Dicen que una taza de esta exquisita bebida hace la mañana mucho más agradable." #!String
     Rainy_Day_3: "Hoy creo que me quedaré en casa, cielo. La lluvia hace que se me encrespe el pelo." #!String
     Rainy_Day_4: "Mi inspiración a la hora de escribir es como el tiempo... viene y va de forma aleatoria. Hoy estoy totalmente apagado.$s#$e#Quizás lea uno de los clásicos para que mis ideas fluyan." #!String
@@ -27,7 +27,7 @@ content:  #!Dictionary<String,String>
     Rainy_Night_3: "¿Qué que he hecho hoy? Solo te diré que... ¡requiere mucho trabajo mantener este cuerpo!" #!String
     Rainy_Night_4: "He pasado la tarde fantaseando con el océano. Al final decidí cocinar algo de pescado. [198 202 727 728]$h" #!String
     Indoor_Day_0: "Me he estado cuidando más desde que estamos juntos. Mi soltería no fue muy sana que digamos..." #!String
-    Indoor_Day_1: "¡Buenos días, @! Nos hice una taza de café.[395]#$e#Anhelo este robusto sabor todas las mañanas." #!String
+    Indoor_Day_1: "¡Buenos días @! Nos hice una taza de café.[395]#$e#Anhelo este robusto sabor todas las mañanas." #!String
     Indoor_Day_2: "Si encuentras una araña en la casa, ¡no la aplastes! Házmelo saber y yo la llevaré afuera." #!String
     Indoor_Day_3: "Hoy va a ser un día fantástico... ¡Puedo sentirlo!$h#$e#Tengo esa sensación en la nariz..." #!String
     Indoor_Day_4: "He vuelto a tener esa pesadilla dónde me rapabas el pelo... Tú nunca me harías eso, ¿verdad?$s#$e#Confío en ti." #!String
@@ -40,18 +40,18 @@ content:  #!Dictionary<String,String>
     Outdoor_1: "Suelo fértil bajo mis pies, aire fresco que llena mis pulmones y el calor del sol para deleitar mi piel... La vida va bien." #!String
     Outdoor_2: "Puede que me quede a escribir alguna poesía. ¡Me ha venido una oleada de inspiración! Ve y ocúpate de tus cosas." #!String
     Outdoor_3: "Puede que si me quedo quieto una resplandeciente mariposa bendiga mi nariz posándose en ella." #!String
-    Outdoor_4: "He bebido demasiado café... mi boca está tan seca cómo el Desierto de Calico.$s#$e#Oh... perdóname por mi aliento a café.$7" #!String
+    Outdoor_4: "He bebido demasiado café... mi boca está tan seca cómo el Desierto del Calico.$s#$e#Oh... perdóname por mi aliento a café.$7" #!String
     OneKid_0: "¿Has jugado con %kid1 hoy? Quizás un segundo hijo ayudaría con eso." #!String
     OneKid_1: "%kid1 tendrá una infancia perfecta aquí. Hay tanto que explorar." #!String
     OneKid_3: "Cuidar bebés no es exactamente mi fuerte... pero haré lo mejor que pueda por ser un buen padre." #!String
     TwoKids_0: "Ya les di de comer a %kid1 y %kid2. ¡Cuánto comen!" #!String
-    TwoKids_1: "Antes estaba con %kid1 y juraría que he oído 'Pa...pa'.$h" #!String
+    TwoKids_1: "Antes estaba con %kid1 y juraría que he oído \"Pa...pa\".$h" #!String
     TwoKids_2: "¡Voy a enseñar a %kid1 a leer tan pronto como sea posible! Es una forma estupenda para que los niños aprendan del mundo." #!String
     TwoKids_3: "Lo hemos hecho bien @. La granja va genial y nuestros hijos son una gran alegría. No podría ser más feliz." #!String
     Good_0: "@... Estoy tan orgulloso de tu dedicación. Qué afortunado soy al tenerte.$l" #!String
     Good_1: "He escrito todo un libro de poemas secreto expresando mi amor por ti.$l" #!String
-    Good_2: "Llegue al valle buscando la torre de marfil, donde mis talentos se harían eco. Pero lo único que encontré fue una mazmorra de soledad. Me has salvado de ella.$l" #!String
-    Good_3: "¡Wow, hoy estás guapísimo! ¿Te has afeitado? Tu mandíbula es perfecta.$l^Tus encantos femeninos son irresistibles hoy. No puedo quitarte los ojos de encima.$l" #!String
+    Good_2: "Llegué al valle buscando la torre de marfil, donde mis talentos se harían eco. Pero lo único que encontré fue una mazmorra de soledad. Me has salvado de ella.$l" #!String
+    Good_3: "¡Vaya, hoy estás guapísimo! ¿Te has afeitado? Tu mandíbula es perfecta.$l^Tus encantos femeninos son irresistibles hoy. No puedo quitarte los ojos de encima.$l" #!String
     Good_4: "Mi corazón arde en tu ausencia. Pero al escuchar el sonido de tus botas embarradas en la madera, se alza entre las cenizas." #!String
     Good_5: "Estoy dando un paseo de meditación. Es bueno para la creatividad." #!String
     Good_6: "¡Ten cuidado ahí fuera! Me preocupo por ti. Hay gente en el mundo que podría aprovecharse de ti." #!String
@@ -59,13 +59,13 @@ content:  #!Dictionary<String,String>
     funReturn_Elliott: "Lo he pasado bien en la playa. He visto a las olas ir y venir, igual que en los viejos tiempos." #!String
     spring_1: "¡Mis propósitos de año nuevo son escribir, escribir y escribir! No puedo parar de mejorar mis habilidades." #!String
     spring_12: "Es raro, pero a veces se me antoja una granada durante la primavera." #!String
-    spring_23: "Espero bailar contigo mañana, cariño." #!String
+    spring_23: "Espero bailar contigo mañana cariño." #!String
     summer_1: "Es difícil estar de mal humor cuando el sol brilla y las mariposas bailan en este aire con olor a bayas.$h" #!String
     summer_10: "Iba a ir por un bote extra de tinta a mi cabaña, pero me he acordado de que mañana es el Luau, así que lo cogeré entonces." #!String
     summer_27: "Todas las cosas buenas acaban, incluyendo los alegres días de verano. La clave de la felicidad es aceptar el cambio sin juzgarlo." #!String
     fall_1: "El esplendor del otoño... un verde banquete del que disfrutan todos los sentidos... ha inspirado a algunos de los mejores poetas de todos los tiempos." #!String
-    fall_15: "Dejaré de lado mi orgullo y mañana hundiré mis dientes en un bocadillo de salsa barbacoa." #!String
-    fall_26: "¿Todavía me querría si devorase dos galones de cerveza de calabaza en la Víspera de los Espíritus? A veces un hombre tiene instintos primitivos..." #!String
-    winter_1: "El invierno es un buen tiempo para leer libros y tocar el piano. Recuerda hacer una pausa y disfrutar un rato." #!String
+    fall_15: "Mañana dejaré de lado mi orgullo y hundiré mis dientes en un bocadillo de salsa barbacoa." #!String
+    fall_26: "¿Todavía me querrías si devorase dos galones de cerveza de calabaza en la Noche de los Espíritus? A veces un hombre tiene instintos primitivos..." #!String
+    winter_1: "El invierno es una buena época para leer libros y tocar el piano. Recuerda hacer una pausa y disfrutar un rato." #!String
     winter_7: "He perdido algo de práctica, ¡pero creo que mañana participaré en el concurso de pesca! Vas a tener una dura competencia, cielo." #!String
-    winter_28: "Feliz víspera de año nuevo, cielo. Por favor, acepta esto para celebrarlo. [348]" #!String
+    winter_28: "Feliz Nochevieja cielo. Por favor, acepta esto para celebrarlo. [348]" #!String
