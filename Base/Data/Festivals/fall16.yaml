@@ -56,7 +56,7 @@ content:  #!Dictionary<String,String>
     Gus: "¡Come tanto como quieras! Hoy todo es gratis... Cortesía del alcalde Lewis.$h#$e#¡Ah! Asegúrate de probar mi salsa secreta." #!String
     Dwarf: "¿Dices que llueve arriba? *soplido*#$e#Lluvia... Es algo casi mítico para nosotros. Algunos de nosotros viven toda su vida sin haberla experimentado." #!String
     Wizard: "Welwick y yo nos conocemos desde hace mucho... Ella es una adivina notable y una muy buena amiga.#$e#...#$e#Ese payaso... Le conozco de algo.#$e#¿Fue en la escuela de ilusión?¿O quizás en el carnaval de los secretos? Hmm..." #!String
-    Harvey: "Y por allí, Gus esta asando unas costillas de cerdo en la parrilla... Uf.$zs#$e#Tengo que repasar mi conciencia...$11" #!String
+    Harvey: "Y por allí, Gus está asando unas costillas de cerdo en la parrilla... Uff.$zs#$e#Tengo que repasar mi conciencia...$11" #!String
     Sandy: "He oído que la lluvia ha vuelto. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia... $s" #!String
     Jas: "¡Auch! ¡Una gallina me ha picado en el dedo meñique!$u" #!String
     Vincent: "Moooo!" #!String
