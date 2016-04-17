@@ -298,7 +298,7 @@ content:  #!Dictionary<Int32,String>
     410: "Mora/20/10/Basic -79/Típica a principios de otoño." #!String
     411: "Cobblestone Path/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
     412: "Semilla de invierno/70/10/Basic -81/Un tubérculo almidonado." #!String
-    413: "Huevo de slime Azul/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
+    413: "Blue Slime Egg/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
     414: "Fruta de cristal/150/25/Basic -79/Una fruta delicada que surge de la nieve." #!String
     415: "Stepping Stone Path/1/-300/Crafting -24/Colocar en el suelo para crear caminos o decorar tu casa." #!String
     416: "Batata de nieve/100/12/Basic -81/Esta pequeña batata se escondía bajo la nieve." #!String
