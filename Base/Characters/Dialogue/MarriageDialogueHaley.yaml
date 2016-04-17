@@ -17,7 +17,7 @@ xnbData:
 
 content:  #!Dictionary<String,String>
     Rainy_Day_0: "He cambiado mucho con los años, pero sigo prefiriendo el tiempo soleado." #!String
-    Rainy_Day_1: "A veces sueño despierta con nuestra jubilación... relajándonos en las soleadas playas de las Islas Helecho.#$e#¿Alguna vez piensas en el futuro, @?" #!String
+    Rainy_Day_1: "A veces sueño despierta con nuestra jubilación... relajándonos en las soleadas playas de las Islas Helecho.#$e#¿Alguna vez piensas en el futuro @?" #!String
     Rainy_Day_2: "¡Buenos días! ¡Me levanté temprano y cociné algo dulce para ti! [223 234 211 651 731]#$e#Sé que eres fuerte pero, aún así,¡necesitas comer bien para mantenterte perfectamente!$h" #!String
     Rainy_Day_3: "No puedo salir hoy... mi pelo se quedaría lacio. Perdóname cariño.#$e#Quiero estar perfecta para ti." #!String
     Rainy_Day_4: "¿Vas a salir con este tiempo? Cariño, asegúrate de limpiarte las botas cuando vuelvas.#$e#Yo me quedaré aquí y haré algunas tareas domésticas." #!String
@@ -28,19 +28,19 @@ content:  #!Dictionary<String,String>
     Rainy_Night_3: "La lluvia es horrible para un fotógrafo. La iluminación es espantosa, ¡y no puedes salir fuera sin arruinar tu equipo!$s" #!String
     Rainy_Night_4: "He hecho comida caliente para ti, cariño. Con muchas especias, como a ti te gusta. ¡Disfruta! [727 231 207 199]$h" #!String
     Rainy_Night_5: "Nunca pensé que diría esto, pero la vida en el campo me pega.$h" #!String
-    Rainy_Night_Haley: "Hola, cariño. Me alegro de que estés en casa. Estaba empezando a sentirme sola.$l" #!String
+    Rainy_Night_Haley: "Hola cariño. Me alegro de que estés en casa. Empezaba a sentirme algo sola.$l" #!String
     Indoor_Day_0: "¡Buenos días! ¿Has dormido bien?$h#$e#Creo que voy a salir con la cámara hoy... la iluminación es perfecta." #!String
     Indoor_Day_1: "¡Buenos días cariño! Huele bien, ¿verdad? ¡Te he hecho el desayuno! [194 195 210 211 216]#$e#Sé que tienes mucho trabajo. ¡Estoy aquí para apoyarte como pueda!" #!String
     Indoor_Day_2: "¿Has dormido bien hoy? Has roncado un poco.$h#$e#Tengo algunas tareas que hacer por aquí. Ten un buen día." #!String
     Indoor_Day_3: "¡Me alegro de haber aprendido a disfrutar de la limpieza! La casa se ensucia muy fácilmente.$10#$e#Es satisfactorio conseguir que todo quede limpísimo#$e#¿Me das un beso antes de que te vayas?$11" #!String
-    Indoor_Day_4: "Buenos días, cariño. Otro día de tareas de la granja, ¿no?#$e#Estaré pensando en ti. <$h" #!String
+    Indoor_Day_4: "Buenos días cariño. Otro día de tareas de la granja, ¿no?#$e#Estaré pensando en ti. <$h" #!String
     Indoor_Day_Haley: "Siento como si antes de conocerte no tuviera una dirección en la vida. Ahora sé exactamente lo que quiero.$l" #!String
-    Indoor_Night_Haley: "Parece que has estado trabajando duro cariño. Déjame que te ayude a liberarte del estrés.$l" #!String
+    Indoor_Night_Haley: "Parece que has estado trabajando duro cariño. Deja que te ayude a desestresarte.$l" #!String
     Outdoor_0: "Siempre me siento mejor cuando estoy fuera, respirando aire fresco.#$b#¡No me malinterpretes! La antigua casa de campo de tu abuelo es muy bonita. Pero no hay nada mejor que este precioso paisaje." #!String
-    Outdoor_1: "¡Tenemos que asegurarnos de que la granja es bonita! Puede ser importante... ¿verdad, cariño?" #!String
-    Outdoor_2: "¡Hola, cariño! Si supiera más sobre el trabajo en la granja te ayudaría más. ¡Perdón!#$e#Estaré pensando en ti.$h" #!String
+    Outdoor_1: "¡Tenemos que asegurarnos de que la granja es bonita! Podría ser importante... ¿verdad, cariño?" #!String
+    Outdoor_2: "¡Hola cariño! Si supiera más sobre el trabajo en la granja te ayudaría más. ¡Perdón!#$e#Estaré pensando en ti.$h" #!String
     Outdoor_3: "Voy a hacer un poco de limpieza por aquí. Debería ayudarte un poco, ¿verdad?#$e#*Uff*... Hace calor aquí fuera." #!String
-    Outdoor_4: "No trabajes demasiado, cariño.#$e#Asegúrate de tomar un descanso de vez en cuando, o comer algo.$h" #!String
+    Outdoor_4: "No trabajes demasiado cariño.#$e#Asegúrate de tomar un descanso de vez en cuando, o comer algo.$h" #!String
     Outdoor_Haley: "Parece un buen día para trabajar en mi bronceado, ¿no crees cariño?" #!String
     funLeave_Haley: "Hoy voy al pueblo, a relacionarme un poco." #!String
     funReturn_Haley: "Fue genial ver a todos en el pueblo. ¿Tuviste un buen día, mi amor?" #!String
@@ -55,7 +55,7 @@ content:  #!Dictionary<String,String>
     fall_1: "Otoño es un poco triste... todo se muere.$5" #!String
     winter_14: "Mi piel se pone tan seca con este tiempo." #!String
     winter_2: "Por alguna razón, la nieve me da antojos de pastel rosa..." #!String
-    spring_Haley: "¿No te alegras de que el invierno haya acabado, cariño? Las cosas parecen más prometedoras ahora." #!String
+    spring_Haley: "¿No te alegra que haya acabado el invierno, cariño? Ahora todo parece más prometedor." #!String
     summer_Haley: "Me encanta mirar las luciérnagas las noches calurosas de verano. Es lo más cerca que voy a estar de visitar las estrellas." #!String
     fall_Haley: "Aunque prefiero el verano, el otoño es, posiblemente, la mejor estación para hacer fotos. Esas sombras largas, bajas..." #!String
-    winter_Haley: "Estaba pensando en la vez que me ayudaste a abrir el tarro de pepinillos. ¿Te acuerdas?$h#$e#Hemos pasado mucho desde entonces.$l" #!String
+    winter_Haley: "Estaba pensando en aquella vez que me ayudaste a abrir un tarro de pepinillos.$h#$e#Hemos recorrido un largo camino desde entonces.$l" #!String
