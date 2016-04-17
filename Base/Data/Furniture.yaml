@@ -1,0 +1,190 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.Int32Reader"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<Int32,String>
+    0: "Silla de roble/chair/-1/-1/4/350" #!String
+    3: "Silla de nogal/chair/-1/-1/4/350" #!String
+    6: "Silla de abedul/chair/-1/-1/4/350" #!String
+    9: "Silla de caoba/chair/-1/-1/4/1000" #!String
+    12: "Silla de comedor roja/chair/-1/-1/4/750" #!String
+    15: "Silla de comedor azul/chair/-1/-1/4/750" #!String
+    18: "Silla country/chair/-1/-1/4/750" #!String
+    21: "Silla de desayunar/chair/-1/-1/4/750" #!String
+    24: "Silla de escritorio rosa/chair/-1/-1/4/500" #!String
+    27: "Silla de escritorio roja/chair/-1/-1/4/500" #!String
+    30: "Banquito de escritorio verde/chair/-1/-1/4/350" #!String
+    31: "Banquito de escritorio naranja/chair/-1/-1/4/350" #!String
+    64: "Trono sombrío/chair/-1/-1/4/2000" #!String
+    67: "Silla de comedor/chair/-1/-1/4/1200" #!String
+    70: "Silla de comedor/chair/-1/-1/4/1200" #!String
+    73: "Asiento de felpa verde/chair/-1/-1/4/750" #!String
+    76: "Asiento de felpa rosa/chair/-1/-1/4/750" #!String
+    79: "Silla de inverno/chair/-1/-1/4/750" #!String
+    82: "Silla fashion/chair/-1/-1/4/750" #!String
+    85: "Silla bonita/chair/-1/-1/4/1200" #!String
+    88: "Tocón/chair/-1/-1/4/2000" #!String
+    91: "Silla de metal/chair/-1/-1/4/800" #!String
+    94: "Banquito verde/chair/-1/-1/4/350" #!String
+    95: "Banquito azul/chair/-1/-1/4/350" #!String
+    128: "Silla del rey/chair/-1/-1/4/3000" #!String
+    131: "Silla de cristal/chair/-1/-1/4/3000" #!String
+    192: "Banco de roble/bench/-1/-1/4/750" #!String
+    197: "Banco de nogal/bench/-1/-1/4/750" #!String
+    202: "Banco de abedul/bench/-1/-1/4/750" #!String
+    207: "Banco de caoba/bench/-1/-1/4/2000" #!String
+    212: "Banco moderno/bench/-1/-1/4/2000" #!String
+    288: "Sillón azul/armchair/-1/-1/4/1000" #!String
+    294: "Sillón rojo/armchair/-1/-1/4/1000" #!String
+    300: "Sillón verde/armchair/-1/-1/4/1000" #!String
+    306: "Sillón amarillo/armchair/-1/-1/4/1000" #!String
+    312: "Sillón marrón/armchair/-1/-1/4/1000" #!String
+    416: "Sofá azul/couch/-1/-1/4/1750" #!String
+    424: "Sofá rojo/couch/-1/-1/4/1750" #!String
+    432: "Sofá verde/couch/-1/-1/4/1750" #!String
+    440: "Sofá amarillo/couch/-1/-1/4/1750" #!String
+    512: "Sofá marrón/couch/-1/-1/4/1750" #!String
+    520: "Sofá sombrío/couch/-1/-1/4/2500" #!String
+    528: "Sofá de mago/couch/-1/-1/4/4000" #!String
+    536: "Sofá de madera/couch/-1/-1/4/3000" #!String
+    704: "Cómoda de roble/dresser/-1/-1/4/1000" #!String
+    709: "Cómoda de nogal/dresser/-1/-1/4/1000" #!String
+    714: "Cómoda de abedul/dresser/-1/-1/4/1000" #!String
+    719: "Cómoda de caoba/dresser/-1/-1/4/2000" #!String
+    724: "Mesa de Café/table/2 2/2 1/2/1250" #!String
+    727: "Losa de piedra/table/2 2/2 1/2/1000" #!String
+    800: "Mesa de comedor invernal/long table/-1/-1/2/3500" #!String
+    807: "Mesa de comedor festiva/long table/-1/-1/2/3500" #!String
+    814: "Mesa de comedor de caoba/long table/-1/-1/2/3000" #!String
+    821: "Mesa de comedor moderna/long table/-1/-1/2/2700" #!String
+    1120: "Mesa de roble/table/-1/-1/1/750" #!String
+    1122: "Mesa de nogal/table/-1/-1/1/750" #!String
+    1124: "Mesa de abedul/table/-1/-1/1/750" #!String
+    1126: "Mesa de caoba/table/-1/-1/1/1500" #!String
+    1128: "Mesa Sol/table/-1/-1/1/2500" #!String
+    1130: "Mesa Luna/table/-1/-1/1/2500" #!String
+    1132: "Mesa moderna/table/-1/-1/1/1250" #!String
+    1134: "Mesa de bar/table/-1/-1/1/800" #!String
+    1136: "Mesa Lujosa/table/-1/-1/1/2000" #!String
+    1138: "Mesa divina/table/-1/-1/1/2250" #!String
+    1140: "Mesa neolítica/table/-1/-1/1/1800" #!String
+    1142: "Mesa puzle/table/-1/-1/1/1500" #!String
+    1144: "Mesa invernal/table/-1/-1/1/1250" #!String
+    1146: "Mesa caramelo/table/-1/-1/1/1000" #!String
+    1148: "Mesa Luau/table/-1/-1/1/1000" #!String
+    1150: "Mesa oscura/table/-1/-1/1/2000" #!String
+    1216: "Mesa de té de roble/table/2 2/-1/1/750" #!String
+    1218: "Mesa de té de nogal/table/2 2/-1/1/750" #!String
+    1220: "Mesa de té de abedul/table/2 2/-1/1/750" #!String
+    1222: "Mesa de té caoba/table/2 2/-1/1/1500" #!String
+    1224: "Mesa de té moderna/table/2 2/-1/1/1000" #!String
+    1280: "Gabinete chino/other/3 3/3 1/1/6000" #!String
+    1283: "Estantería de artista/bookcase/-1/-1/1/1200" #!String
+    1285: "Estantería lujosa/bookcase/-1/-1/1/2000" #!String
+    1287: "Estantería moderna/bookcase/-1/-1/1/1600" #!String
+    1289: "Estantería oscura/bookcase/-1/-1/1/2000" #!String
+    1291: "Pilar de Cerámica/decor/1 3/1 1/1/250" #!String
+    1292: "Pilar dorado/decor/1 3/1 1/1/450" #!String
+    1293: "Tubería industrial/decor/1 3/1 1/1/300" #!String
+    1294: "Palmera/decor/1 3/1 1/1/600" #!String
+    1295: "Totem/decor/1 3/1 1/1/750" #!String
+    1296: "Bonsai/decor/1 3/1 1/1/500" #!String
+    1297: "Árbol podado/decor/1 3/1 1/1/500" #!String
+    1298: "Geoda de muestra/decor/1 2/1 1/1/500" #!String
+    1299: "Vaso de Obsidiana/decor/1 2/1 1/1/500" #!String
+    1300: "Piedra cantante/decor/1 2/1 1/1/500" #!String
+    1301: "Esqueleto de perezoso I/decor/1 2/1 1/1/500" #!String
+    1302: "Esqueleto de perezoso C/decor/1 2/1 1/1/500" #!String
+    1303: "Esqueleto de perezoso D/decor/1 2/1 1/1/500" #!String
+    1304: "Esqueleto/decor/1 2/1 1/1/500" #!String
+    1305: "Estátua de Gallina/decor/1 2/1 1/1/500" #!String
+    1306: "Escultura de Leah/decor/1 2/1 1/1/500" #!String
+    1307: "Girasoles secos/decor/1 2/1 1/1/500" #!String
+    1362: "Planta pequeña/decor/1 1/1 1/1/250" #!String
+    1363: "Planta de mesa/decor/1 1/1 1/1/250" #!String
+    1364: "TBol decorativo/decor/1 1/1 1/1/250" #!String
+    1365: "Oso de peluche/decor/1 1/1 1/1/1500" #!String
+    1366: "Globo terráqueo/decor/1 1/1 1/1/750" #!String
+    1367: "Modelo de navío/decor/1 1/1 1/1/750" #!String
+    1376: "Planta Caseira/decor/1 2/1 1/1/250" #!String
+    1377: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1378: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1379: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1380: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1381: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1382: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1383: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1384: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1385: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1386: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1387: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1388: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1389: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1390: "Planta Casera/decor/1 2/1 1/1/250" #!String
+    1391: "Mesita de roble/table/1 2/1 1/2/500" #!String
+    1393: "Mesita de nogal/table/1 2/1 1/2/500" #!String
+    1395: "Mesita de abedul/table/1 2/1 1/2/500" #!String
+    1397: "Mesita de caoba/table/1 2/1 1/2/1000" #!String
+    1399: "Mesita moderna/table/1 2/1 1/1/800" #!String
+    1400: "Mesita de la abuela/table/1 2/1 1/1/1000" #!String
+    1401: "Mesita invernal"/table/1 2/1 1/1/800" #!String
+    1402: "Calendario/painting/1 2/1 2/1/2000" #!String
+    1440: "Árbol de navidad/decor/3 5/3 2/1/5000" #!String
+    1443: "Lámpara Country/lamp/-1/-1/1/500" #!String
+    1445: "Lámpara rectangular/lamp/-1/-1/1/750" #!String
+    1447: "Lámpara moderna/lamp/-1/-1/1/750" #!String
+    1449: "Lámpara clásica/lamp/-1/-1/1/1000" #!String
+    1451: "Alfombra roja/rug/-1/-1/2/1000" #!String
+    1456: "Alfombra de patchwork/rug/-1/-1/2/800" #!String
+    1461: "Alfombra oscura/rug/-1/-1/2/2000" #!String
+    1466: "TV barata/decor/2 3/2 2/1/750" #!String
+    1468: "TV de plasma/decor/3 3/3 1/1/4500" #!String
+    1539: "'El Muzzamaroo'/painting/-1/-1/1/1000" #!String
+    1541: "'Una Noche en la colina del Eco'/painting/-1/-1/1/1000" #!String
+    1543: "'Caminos'/painting/-1/-1/1/750" #!String
+    1545: "'Ofrenda quemada'/painting/-1/-1/1/1000" #!String
+    1547: "'Reina del Mar de Joyas'/painting/3 2/3 2/1/1200" #!String
+    1550: "'Villa Vainilla'/painting/-1/-1/1/500" #!String
+    1552: "'Movimento Primario'/painting/-1/-1/1/1500" #!String
+    1554: "'Las Colinas de Jade'/painting/3 2/3 2/1/1750" #!String
+    1557: "'Sol #44'/painting/-1/-1/1/800" #!String
+    1559: "Amigo Invisible/painting/-1/-1/1/500" #!String
+    1561: "'Torres'/painting/-1/-1/1/800" #!String
+    1563: "'Autopista 89'/painting/-1/-1/1/800" #!String
+    1565: "Colinas de Cálico/painting/-1/-1/1/750" #!String
+    1567: "Bordado de Flores/painting/1 2/1 2/1/500" #!String
+    1600: "Poster de Calavera/painting/1 2/1 2/1/500" #!String
+    1601: "'Sol #45'/painting/1 2/1 2/1/350" #!String
+    1602: "'Arbolito'/painting/1 2/1 2/1/350" #!String
+    1603: "'Arándanos'/painting/1 2/1 2/1/250" #!String
+    1604: "'Ciudad Azul'/painting/1 2/1 2/1/250" #!String
+    1605: "Pequeñas Fotos/painting/1 2/1 2/1/250" #!String
+    1606: "'Hierva Danzante'/painting/1 2/1 2/1/400" #!String
+    1607: "'Paraíso VGA'/painting/2 2/2 2/1/1200" #!String
+    1609: "Luz Joja Cola/painting/3 2/3 2/1/1000" #!String
+    1612: "'Kitemaster '95'/painting/-1/-1/1/600" #!String
+    1614: "Ventana Básica/window/-1/-1/1/300" #!String
+    1616: "Ventana Pequeña/window/-1/-1/1/300" #!String
+    1618: "Alfombra roja de cabaña/rug/-1/-1/2/750" #!String
+    1623: "Alfombra verde de cabaña/rug/-1/-1/2/750" #!String
+    1664: "Alfombra mística/rug/-1/-1/2/1250" #!String
+    1669: "Oso de peluche grande/decor/2 2/2 1/1/4000" #!String
+    1671: "Estátua de oso/decor/2 4/2 1/1/4000" #!String
+

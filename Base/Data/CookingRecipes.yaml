@@ -1,0 +1,90 @@
+
+xnbData: 
+    target: "w"
+    compressed: true
+    hiDef: true
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+            version: 0
+
+        - 
+            type: "Microsoft.Xna.Framework.Content.StringReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Dictionary<String,String>
+    Huevo frito: "-5 1/10 10/194/default" #!String
+    Tortilla francesa: "-5 1 -6 1/1 10/195/l 10" #!String
+    Ensalada: "20 1 22 1 419 1/25 5/196/f Emily 3" #!String
+    Coliflor con queso: "190 1 424 1/5 5/197/f Pam 3" #!String
+    Pescado asado: "145 1 132 1 246 1/6 5/198/l 12" #!String
+    Sopa de Chirívia: "24 1 -6 1 419 1/1 8/199/f Caroline 3" #!String
+    Estofado de legumbres: "256 1 284 1/1 8/200/f Caroline 7" #!String
+    Desayuno completo: "194 1 -6 1 210 1 211 1/2 2/201/l 26" #!String
+    Calamares fritos: "151 1 246 1 247 1/3 3/202/f Jodi 3" #!String
+    Bollo extraño: "246 1 722 1 725 1/1 1/203/f Shane 3" #!String
+    Almuerzo del afortunado: "154 1 229 1 597 1/20 1/204/s Luck 8" #!String
+    Setas fritas: "404 1 257 1 247 1/22 3/205/f Demetrius 3" #!String
+    Pizza: "246 1 256 1 424 1/6 4/206/l 20" #!String
+    Guiso de judías: "188 2/1 8/207/f Clint 7" #!String
+    Boniato caramelizado: "280 1 245 1/1 10/208/l 22" #!String
+    Carpa sorpresa: "142 4/1 6/209/l 16" #!String
+    Ñoquis: "192 1 247 1/1 9/210/l 14" #!String
+    Creps: "246 1 -5 1/5 5/211/l 18" #!String
+    Banquete de salmón: "139 1 300 1 250 1/3 3/212/f Gus 3" #!String
+    Taco de pescado: "130 1 229 1 266 1 306 1/1 4/213/f Linus 7" #!String
+    Perca crujiente: "136 1 246 1 247 1/1 5/214/f Kent 3" #!String
+    Pimentos rellenos: "260 1 424 1/10 3/215/f Shane 3" #!String
+    Pan: "246 1/50 2/216/l 11" #!String
+    Sopa Tom Kha: "88 1 720 1 404 1/15 2/218/f Sandy 7" #!String
+    Sopa de trucha: "138 1 153 1/5 4/219/l 19" #!String
+    Pastel de chocolate: "246 1 245 1 -5 1/5 5/220/l 23" #!String
+    Pastel Rosa: "254 1 246 1 245 1 -5 1/6 5/221/l 25" #!String
+    Torta de ruibarbo: "252 1 246 1 245 1/2 4/222/f Marnie 7" #!String
+    Galletas: "246 1 245 1 -5 1/3 7/223/null" #!String
+    Espaguetis: "246 1 256 1/5 5/224/f Lewis 3" #!String
+    Anguila frita: "148 1 247 1/3 4/225/f George 3" #!String
+    Anguila picante: "148 1 260 1/10 3/226/f George 7" #!String
+    Sashimi: "-4 1/20 1/227/f Linus 3" #!String
+    Sushi: "-4 1 152 1 423 1/10 3/228/l 15" #!String
+    Torta de maíz: "270 1/5 4/229/l 13" #!String
+    RFrutos rojos: "266 1 264 1/15 3/230/f Emily 7" #!String
+    Berenjena a la parmesana: "272 1 256 1/30 2/231/f Lewis 7" #!String
+    Arroz con leche: "-6 1 245 1 423 1/9 3/232/f Evelyn 7" #!String
+    Helado: "-6 1 245 1/2 4/233/f Jodi 7" #!String
+    Torta de arándanos: "258 1 246 1 245 1 -5 1/10 3/234/f Pierre 3" #!String
+    Recompensa de otoño: "280 1 276 1/50 1/235/f Demetrius 7" #!String
+    Sopa de calabaza: "276 1 -6 1/2 4/236/f Robin 7" #!String
+    Super comida: "278 1 282 1 274 1/1 7/237/f Kent 7" #!String
+    Salsa de arándanos: "282 1 245 1/9 3/238/f Gus 7" #!String
+    Relleno: "216 1 282 1 408 1/2 4/239/f Pam 7" #!String
+    Almuerzo de granjero: "195 1 24 1/60 1/240/s Farming 3" #!String
+    Hamburguesa de supervivencia: "216 1 78 1 272 1/70 1/241/s Foraging 2" #!String
+    Exquisitez de mar: "131 2 210 1/38 2/242/s Fishing 3" #!String
+    Dulce de minero: "78 2 245 1 -6 1/60 1/243/s Mining 3" #!String
+    Bandeja de raíces: "78 1 412 1/1 10/244/s Combat 3" #!String
+    Sopa de algas: "153 4/1 5/456/f Clint 3" #!String
+    Caldo pálido: "157 2/1 4/457/f Marnie 3" #!String
+    Pudin de ciruela: "406 2 246 1 245 1/1 10/604/l 100" #!String
+    Salsa de alcachofa: "274 1 184 1/1 10/605/l 100" #!String
+    Salteado de verduras: "78 1 404 1 250 1 247 1/1 10/606/l 100" #!String
+    Avellanas tostadas: "408 3/1 10/607/l 100" #!String
+    Tarta de calabaza: "276 1 246 1 184 1 245 1/1 10/608/l 100" #!String
+    Ensalada de rábano: "247 1 419 1 264 1/1 10/609/l 100" #!String
+    Ensalada de frutas: "258 1 254 1 634 1/1 10/610/l 100" #!String
+    Torta de moras: "410 2 245 1 246 1/1 10/611/l 100" #!String
+    Caramelo de arándanos: "282 1 613 1 245 1/1 10/612/l 100" #!String
+    Tostada de tomate: "216 1 247 1 256 1/1 10/618/l 100" #!String
+    Ensalada de col: "266 1 419 1 306 1/1 10/648/l 100" #!String
+    FRisotto de brotes: "247 1 259 1 248 1/1 10/649/l 100" #!String
+    Muffin de semilla de amapola: "376 1 246 1 245 1/1 10/651/l 100" #!String
+    Sopa de pescado: "372 1 184 1/1 10/727/f Willy 3" #!String
+    Caldo de lagosta: "715 1 184 1/1 10/730/f Willy 9" #!String
+    Escargot: "721 1 248 1/1 10/729/f Willy 5" #!String
+    Guiso de pescado: "716 1 719 1 722 1 256 1/1 10/728/f Willy 7" #!String
+    Donut con crema: "724 1 245 1 246 1/1 10/731/l 100" #!String
+    Croquetas de cangrejo: "717 1 246 1 -5 1 247 1/1 10/732/l 100" #!String
+
