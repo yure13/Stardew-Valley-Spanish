@@ -44,7 +44,7 @@ content:  #!Dictionary<String,String>
     Clint: "Me quejo a veces de mi trabajo, pero en realidad estoy muy orgulloso.#$b# Estas son algunas de mis mejores piezas. Espero que te gusten." #!String
     Emily: "¿Sabes? Habría hecho bien de payaso. Creo que perdí la vocación." #!String
     Penny: "He ganado diez veces seguidas en la ruleta, y ahora el hombre no me deja seguir jugando...$s" #!String
-    Pam: "Date prisa... ¡Antes de que la vieja Pam pesque hasta el ultimo grano de arena de la carpa! Jeje.$h" #!String
+    Pam: "Date prisa... ¡Antes de que la vieja Pam pesque hasta el último grano de arena de la carpa! Jeje.$h" #!String
     Haley: "¿Has visitado a la adivina? Puso su puesto en el cementerio.#$e#Yo ya la he visto... Me ha dicho algo... Interesante. *risita nerviosa*$h" #!String
     Jodi: "No parece muy feliz... Creo que el alcalde Lewis tuvo que bajar el presupuesto del payaso de este año." #!String
     Kent: "Estoy esperando a que el payaso empiece a hacer algo divertido.#$e#Muy decepcionante." #!String
@@ -56,7 +56,7 @@ content:  #!Dictionary<String,String>
     Gus: "¡Come tanto como quieras! Hoy todo es gratis... Cortesía del alcalde Lewis.$h#$e#¡Ah! Asegúrate de probar mi salsa secreta." #!String
     Dwarf: "¿Dices que llueve arriba? *soplido*#$e#Lluvia... Es algo casi mítico para nosotros. Algunos de nosotros viven toda su vida sin haberla experimentado." #!String
     Wizard: "Welwick y yo nos conocemos desde hace mucho... Ella es una adivina notable y una muy buena amiga.#$e#...#$e#Ese payaso... Le conozco de algo.#$e#¿Fue en la escuela de ilusión?¿O quizás en el carnaval de los secretos? Hmm..." #!String
-    Harvey: "Y por allí, Gus esta asando unas costillas de cerdo en la parrilla... Uf.$zs#$e#Tengo que repasar mi conciencia...$11" #!String
+    Harvey: "Y por allí, Gus está asando unas costillas de cerdo en la parrilla... Uff.$zs#$e#Tengo que repasar mi conciencia...$11" #!String
     Sandy: "He oído que la lluvia ha vuelto. ¿Has venido por eso?$h#$e#En realidad echo de menos la lluvia... $s" #!String
     Jas: "¡Auch! ¡Una gallina me ha picado en el dedo meñique!$u" #!String
     Vincent: "Moooo!" #!String
