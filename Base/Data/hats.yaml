@@ -20,39 +20,39 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<Int32,String>
-    0: "Sombrero de vaquero/El cuero está viejo y agrietado, pero es sorprendentemente flexible. Huele a rancio. (Logro: Colección completa)/false/true" #!String
-    1: "Bombín/Hecho de suave fieltro. (Logro: 1M)/false/true" #!String
-    2: "Sombrero de Copa /Un clásico entre caballeros./false/true" #!String
-    3: "Sombrero/Sombrero alegremente decorado, hecho de paja tejida. (Achievement: 10Ml)/false/true" #!String
+    0: "Sombrero de vaquero/El cuero está viejo y agrietado, pero es sorprendentemente flexible. Huele a rancio. (Logro: Una colección completa)/false/true" #!String
+    1: "Bombín/Hecho de suave fieltro. (Logro: 1 millón)/false/true" #!String
+    2: "Sombrero de Copa/Un clásico entre caballeros./false/true" #!String
+    3: "Sombrero/Sombrero alegremente decorado, hecho de paja tejida. (Achievement: 10 millones)/false/true" #!String
     4: "Sombrero de paja/Ligero y fresco. El placer del granjero./false/true" #!String
     5: "Gorra de oficial/Parece que perteneció a un cartero o a un policía. De todos modos, todavía está suave y huele bien. (Logro: Marinero Experimentado)/false/true" #!String
-    6: "Cofia azul/Remóntate a tiempos más simples con esta cofia de las praderas. (Logro: Tesoro)/false/true" #!String
+    6: "Cofia azul/Remóntate a tiempos más simples con esta cofia de las praderas. (Logro: Tesoro escondido)/false/true" #!String
     7: "Chapeau Ciruela/Se ve bien. (Logro: Chef)/false/true" #!String
     8: "Máscara de esqueleto/Los ojos rojos brillan misteriosamente./true/true" #!String
-    9: "Máscara de goblin/Asusta al vecindario con esta espeluznante máscara. Orejas de goma unidas para lograr un buen efecto. (Logro: Envío completo)/true/true" #!String
-    10: "Máscara de gallina/Sacarás unas buenas sonrisas con esta máscara. (Logro: Gran ayuda)/true/true" #!String
+    9: "Máscara de goblin/Asusta al vecindario con esta espeluznante máscara. Orejas de goma unidas para lograr un buen efecto. (Logro: Envío completado)/true/true" #!String
+    10: "Máscara de gallina/Sacarás unas buenas sonrisas con esta máscara. (Logro: Una gran ayuda)/true/true" #!String
     11: "Orejeras/Mantienen tus orejas calentitas. Forradas de terciopelo artesanal de Villa Castillo. (Logro: Popular)/true/false" #!String
     12: "Lazo delicado/Pequeñas joyas de color rosa brillan cuando lo miras. (Logro: Cocinero)/true/false" #!String
     13: "Hebilla/Tiene la forma de una pequeña palmera. (Logro: Haciendo sitio)/true/false" #!String
     14: "Hebilla mariposa/Es muy suave. (Logro: Un nuevo amigo)/true/false" #!String
-    15: "Gorra de Cazador/El forraje de lana te calentará cuando te adentres en el bosque.(Logro Viviendo a lo grande)/false/true" #!String
+    15: "Gorra de Cazador/El forraje de lana te calentará cuando te adentres en el bosque.(Logro: Viviendo a lo grande)/false/true" #!String
     16: "Sombrero de camionero/Con una malla para mantener tu cabeza fría. (Logro: Artesano)/false/true" #!String
     17: "Gorro de marinero/Fresco y tieso./false/true" #!String
-    18: "Sombrero viejo/Un sombrero antiguo un poco arrugado. Parece que ha pasado por mucho. (Logro: Rookie 15m)/false/true" #!String
+    18: "Sombrero viejo/Un sombrero antiguo un poco arrugado. Parece que ha pasado por mucho. (Logro: 15 mil)/false/true" #!String
     19: "Fedora/Un estándar en la ciudad./false/true" #!String
-    20: "Gorra cool/Está muy descolorida, pero solía ser azul vibrante. (Logro: Autosuficiente 250m)/false/true" #!String
-    21: "Lazo de la suerte/El centro está hecho de oro macizo. (Logro: Vaquero 50m)/true/false" #!String
+    20: "Gorra cool/Está muy descolorida, pero solía ser azul vibrante. (Logro: 250 mil)/false/true" #!String
+    21: "Lazo de la suerte/El centro está hecho de oro macizo. (Logro: 50 mil)/true/false" #!String
     22: "Lazo de lunares/Seguro que te hace girar la cabeza. (Logro: Recadero)/true/false" #!String
-    23: "Gorro de gnomo/Este gnomo tenía una cabeza muy grande. (Logro: Maestro creador)/false/true" #!String
+    23: "Gorro de gnomo/Este gnomo tenía una cabeza muy grande. (Logro: Maestro Artesano)/false/true" #!String
     24: "Parche para el ojo/No se puede saber si es real o es de una tienda de disfraces. (Logro: Maestro pescador)/true/true" #!String
-    25: "Gorro de Santa/Celebra esa época mágica. (Logro: Red)/false/true" #!String
+    25: "Gorro de Santa/Celebra esa época mágica. (Logro: Redes)/false/true" #!String
     26: "Tiara/Tiene una gran amatista rodeada de oro. (Logro: Pandilla)/true/true" #!String
     27: "Casco de seguridad/Manten tu cabeza de una sola pieza./false/true" #!String
     28: "Sueste/Su forma ayuda a mantener secos a los marineros durante las tormentas. (Logro: Pescador)/false/true" #!String
     29: "Margarita/Una margarita fresca de primavera para ponerla en tu pelo. (Logro: Hazlo tu mismo)/true/false" #!String
     30: "Cinta sandía/La combinación de colores está inspirada en ese delicioso melón de verano. (Logro: Captura madre)/true/false" #!String
     31: "Orejas de ratón/Hechas de fibra sintética. (Logro: Mejores amigos)/true/true" #!String
-    32: "Orejas de gato/Bigotes incluidos. (Logro: Granjero amado)/true/true" #!String
+    32: "Orejas de gato/Bigotes incluidos. (Logro: El amado granjero)/true/true" #!String
     33: "Sombrero de vaquera/La banda está salpicada de diamantes falsos. (Logro: Monocultivo)/false/true" #!String
     34: "Sombrero de vaquero/Para los expertos en leche. (Logro: Policultivo)/false/true" #!String
     35: "Gorra de arquero/De moda, seas arquero o no. (Logro: Chef Gourmet)/false/true" #!String
