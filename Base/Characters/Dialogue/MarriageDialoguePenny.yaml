@@ -18,11 +18,11 @@ xnbData:
 content:  #!Dictionary<String,String>
     Rainy_Day_0: "En los días de lluvia siempre me vienen a la mente la canela y las galletas." #!String
     Rainy_Day_1: "Me pregunto si Maru y el Dr. Harvey acabarán juntos... Estoy segura de que a Harvey le gusta ella...#$e#Pero creo que será Maru quien tenga que dar el primer paso.$h" #!String
-    Rainy_Day_2: "¡Hola, cielo! He ido de compras esta mañana y te compré esto.[186 180 770 535]#$e#Creo que podrías necesitar algo de esto." #!String
+    Rainy_Day_2: "¡Hola cielo! He ido de compras esta mañana y te he comprado esto.[186 180 770 535]#$e#Creo que te podría ser muy útil." #!String
     Rainy_Day_3: "Um... Quizás debería experimentar con una nueva receta. Te gustó la última receta que te cociné, ¿verdad cielo?#$e#¿Cómo se llamaba... 'Chile de @'?" #!String
     Rainy_Day_4: "En días así me encanta acurrucarme y leer un buen libro." #!String
     Rainy_Night_0: "¿Cómo te ha ido el día, cielo? Yo estuve leyendo una novela." #!String
-    Rainy_Night_1: "Estoy segura de que mamá está en el salón ahora mismo... Pero no ya no me siento mal por ello, no puedo hacer nada." #!String
+    Rainy_Night_1: "Estoy segura de que mamá está en el Salón ahora mismo... Pero no ya no me siento mal por ello, no puedo hacer nada." #!String
     Rainy_Night_2: "Estaba pensando en la noche que quedamos en las termas.$l#$e#Nunca olvidaré esa noche...$l" #!String
     Rainy_Night_3: "El sonido de la lluvia solía molestarme cuando vivía en la vieja caravana. Pero aquí es bastante relajante." #!String
     Rainy_Night_4: "Tenía ganas de hacer una buena cena. Espero que te guste. [212 214 225 209 200]$h" #!String
@@ -34,7 +34,7 @@ content:  #!Dictionary<String,String>
     Indoor_Night_0: "Buenas noches cielo. ¿Has hecho todo lo que tenías pensado hoy?#$e#Si no, no pasa nada. ¡Tenemos todo el tiempo del mundo!" #!String
     Indoor_Night_1: "Um... ¿Qué me pongo mañana, falda o pantalón? Bah, a quién pretendo engañar, siempre llevo falda." #!String
     Indoor_Night_2: "A nosotros nos va bien, pero deberíamos pensar en los menos afortunados.#$e#Estoy verdaderamente agradecida por lo que tenemos." #!String
-    Indoor_Night_3: "Mamá seguramente se sentirá sola ahora que me he ido. Sólo espero que para poder superarlo no visite el salón más de lo normal.#$e#¡No deberías sentirte mal! Mamá tiene que resolver sus problemas ella sola." #!String
+    Indoor_Night_3: "Mamá seguramente se sentirá sola ahora que me he ido. Sólo espero que para poder superarlo no visite el Salón más de lo normal.#$e#¡No deberías sentirte mal! Mamá tiene que resolver sus problemas ella sola." #!String
     Indoor_Night_4: "¿Listo para acostarte? Hice la cama y todo...^¿Lista para acostarte? Hice la cama y todo..." #!String
     Outdoor_0: "Siempre soñé vivir en un lugar tan hermoso como este, y ahora se ha vuelto realidad.#$e#Estaba tan triste en casa.$s" #!String
     Outdoor_1: "¿No es un lugar perfecto para criar hijos?#$e#Podría haber sido tan feliz si hubiera crecido en una granja." #!String
@@ -45,7 +45,7 @@ content:  #!Dictionary<String,String>
     OneKid_1: "%kid1 va a tener una infancia estupenda aquí." #!String
     OneKid_3: "Me siento mucho mayor ahora que somos padres. Quizás sólo es el peso por la nueva responsabilidad.^Me siento mucho mayor ahora que somos madres. Quizá sólo es el peso por la nueva responsabilidad.#$e#¡No es malo! He querido esto por mucho tiempo." #!String
     TwoKids_0: "Ya les di a %kid1 y %kid2 la comida. ¡Tenían mucha hambre!" #!String
-    TwoKids_1: "Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos que haya celos entre ellos." #!String
+    TwoKids_1: "Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos que se tengan envidia." #!String
     TwoKids_2: "He tenido un sueño en el que a %kid2 le crecían alas y volaba por el cielo nocturno. ¿Qué significará?" #!String
     TwoKids_3: "Una casa bonita, dos hijos maravillosos y un hermoso terreno. Somos tan afortunados." #!String
     Good_0: "@... Aún no me creo que nos hayamos casado...$l" #!String
@@ -56,9 +56,9 @@ content:  #!Dictionary<String,String>
     Good_6: "¡Ten cuidado ahí fuera! A veces me preocupa que no estés comiendo lo suficientemente sano." #!String
     funLeave_Penny: "Hoy voy a ir al pueblo a divertirme un poco. ¡Volveré en un rato!" #!String
     funReturn_Penny: "Lo he pasado bien... es bueno estar en contacto con todos. Cuéntame tu día." #!String
-    spring_8: "Seguramente la primavera sea mi estación favorita. Hay cierta frescura en el aire que me llena de esperanza." #!String
+    spring_8: "La primavera es mi estación favorita. Hay cierta frescura en el aire que me llena de esperanza." #!String
     spring_1: "Tenemos un largo y cálido año por delante. Hagamos que sea productivo." #!String
-    spring_15: "Ah, la 'limpieza de primavera'... En realidad me encanta." #!String
+    spring_15: "Ah, la \"limpieza de primavera\"... En realidad me encanta." #!String
     summer_16: "*uff*... ¡Con este calor voy a necesitar un melón para refrescarme!" #!String
     summer_1: "Puede que en verano haga mucho calor, pero la humedad es buena para la piel." #!String
     summer_2: "En verano, las hormigas se vuelven muy activas. Podría observarlas durante horas... ¡Parece que tienen una civilización bastante compleja!" #!String
