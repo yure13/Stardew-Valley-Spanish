@@ -189,7 +189,7 @@ content:  #!Dictionary<String,String>
     winter_Elliott: "Creo que voy a escribir algo este invierno. De todos modos, no hay mucho que hacer." #!String
     winter_Alex: "Espero que a mis abuelos les vaya bien. Necesitaban un poco mi ayuda. Ya sabes, para levantar objetos pesados y esas cosas." #!String
     winter_Sam: "He abandonado lo de ser músico. ¡Ahora soy un hombre de familia!" #!String
-    spouseRoom_Maru: "#$c .5#Me he levantado temprano para ver las estrellas.#$e#Espero que no te importe si paso algo de mi tiempo con mis proyectos, cariño." #!String
+    spouseRoom_Maru: "#$c .5#Me levanté temprano para observar un poco las estrellas.#$e#Espero que no te importe si hoy me tomo un rato para mis proyectos cariño." #!String
     spouseRoom_Abigail: "#$c .5#Me he levantado antes que tú y he dado de comer a David Jr. Está muy activo por las mañanas.#$e#Espero que no te importe el olor a cobaya." #!String
     spouseRoom_Haley: "#$c .5#Ve y empieza tu día cariño. Me estoy maquillando.#$e#¿Tienes algún plan para hoy?" #!String
     spouseRoom_Leah: "#$c .5#Uno de estos días te haré un retrato.#$e#Las vistas desde esta ventana son inspiradoras, ¿no crees?" #!String
