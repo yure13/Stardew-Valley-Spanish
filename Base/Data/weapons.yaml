@@ -48,7 +48,7 @@ content:  #!Dictionary<Int32,String>
     25: "Bate de Alex/El punto clave esta abollado por el famoso Gran Golpe de Alex./1/3/1/-8/0/0/2/-1/-1/0/.02/3" #!String
     26: "Vara de plomo/Es increíblemente pesada./18/27/1.5/-16/0/0/2/56/50/1/.02/3" #!String
     27: "Mazo de madera/Su sólida cabeza sirve para pegar. Relativamente ligero para ser un mazo./15/24/1.3/-4/1/0/2/68/50/0/.02/3" #!String
-    28: "The Slammer/An extremely heavy gavel that'll send foes flying./40/55/1.5/-12/0/0/2/128/100/2/.02/3" #!String
+    28: "El talego/Un martillo extramadamente pesado para mandarlos lejos./40/55/1.5/-12/0/0/2/128/100/2/.02/3" #!String
     29: "Martillo galáctico/Hecho de un material ultraligero que no has visto antes./70/90/1/-4/0/0/2/-1/-1/0/.02/3" #!String
     30: "Antigua Guitarra de Sam/Ha tenido tiempos mejores./1/3/1/-6/0/0/2/-1/-1/0/.02/3" #!String
     31: "Fémur/Un antiguo y pesado hueso cubierto de mugre de hace siglos./6/11/1.5/-4/0/0/2/10/-1/0/.02/3" #!String
@@ -65,9 +65,9 @@ content:  #!Dictionary<Int32,String>
     42: "Plancha de Haley/Desprende calor y huele como el pelo de Haley./1/3/1/308/0/0/0/-1/-1/0/.02/3" #!String
     43: "Espada Pirata/En algún momento perteneció a un pirata./8/14/1/4/0/0/3/40/-1/0/.02/3" #!String
     44: "Alfanje/Una hoja creada con elegancia./9/17/1/4/0/0/0/-1/-1/0/.02/3" #!String
-    45: "Kris Malvado/La hoja está fabricada con una aleación de iridio./24/30/.5/0/8/0/1/-1/-1/2/.06/3" #!String
+    45: "Kris perversa/La hoja está fabricada con una aleación de iridio./24/30/.5/0/8/0/1/-1/-1/2/.06/3" #!String
     46: "Garrote/El compañero de un bruto./27/40/1.6/-10/0/0/2/107/100/0/.02/3.1" #!String
-    47: "Scythe/Puede cortar hierba para conseguir heno, si has construido un silo./1/3/1/0/0/0/0/-1/-1/0/.02/3" #!String
+    47: "Hoz/Puede cortar hierba para conseguir heno, si has construido un silo./1/3/1/0/0/0/0/-1/-1/0/.02/3" #!String
     48: "Diente de Yeti/Está congelado al tacto./26/42/1/0/0/4/0/-1/-1/0/.02/3.2" #!String
     49: "Florete/Una espada elegante./15/25/1/4/0/0/0/100/95/2/.02/3" #!String
     50: "Bracamante de acero/Ligero y poderoso./26/38/1/8/5/0/0/142/100/0/.02/3.4" #!String
