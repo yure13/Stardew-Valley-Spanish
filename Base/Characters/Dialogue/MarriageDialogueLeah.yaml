@@ -24,9 +24,9 @@ content:  #!Dictionary<String,String>
     Rainy_Night_0: "¿Cómo te fue el día? ¿Viste algún animal ahí fuera?" #!String
     Rainy_Night_1: "Suelo tomar ensalada... pero en noches húmedas como estas me entran ganas de sopa caliente.$h" #!String
     Rainy_Night_2: "Va a ser relajante dormirse en una noche así...$l" #!String
-    Rainy_Night_3: "He hecho una pequeña escultura de madera, pero era tan fea que la tiré al fuego.$u#$e#Creo que para convertirte en una gran artista, tienes que ser crítico contigo mismo." #!String
+    Rainy_Night_3: "Hice una pequeña escultura de madera, pero era tan fea que la tiré al fuego.$u#$e#Creo que para convertirte en una gran artista, tienes que ser crítica contigo misma." #!String
     Rainy_Night_4: "Me alegro de que estés en casa... Es una buena noche para meterse bajo las sábanas y mantenerse caliente." #!String
-    Rainy_Night_Leah: "¿Cómo te ha ido el día, cariño? ¿Embarrado?" #!String
+    Rainy_Night_Leah: "¿Cómo te ha ido el día, cariño? ¿Mucho barro?" #!String
     Indoor_Day_0: "¡Esta casa es mucho más bonita que mi vieja cabaña! No la echo de menos." #!String
     Indoor_Day_1: "Buenos días @. He plantado estas en una pequeña maceta atrás... [16 18 20 22 90 259 396 402]#$e#Han crecido con mucho amor y mucha atención. Disfrútalas." #!String
     Indoor_Day_2: "¡Recuerda estar atento por si hay alimentos! Hay muchos por ahí.^¡Recuerda estar atenta por si hay alimentos! Hay muchos por ahí." #!String
@@ -47,8 +47,8 @@ content:  #!Dictionary<String,String>
     OneKid_3: "Es divertido ser madre. Quiero asegurarme de que %kid1 crece amando la naturaleza." #!String
     TwoKids_3: "Tenemos una granja maravillosa y una familia completa. Nuestra nueva vida ha salido genial, ¿verdad?" #!String
     Good_0: "Siento como si estuviera en la cima de una gran montaña viviendo aquí." #!String
-    Good_1: "¿Te he contado alguna vez que... cuando te mudaste aquí soñaba con que algún día estuviéramos juntos?" #!String
-    Good_2: "Decidí mudarme aquí y entonces nos encontramos el uno al otro... A veces es difícil no creer en el destino.#$b#Podría haber sido totalmente diferente." #!String
+    Good_1: "¿Te he contado alguna vez que... cuando te mudaste aquí soñaba con que algún día estuviéramos juntos?^¿Te he contado alguna vez que... cuando te mudaste aquí soñaba con que algún día estuviéramos juntas?" #!String
+    Good_2: "Decidí mudarme aquí y entonces nos encontramos... A veces es difícil no creer en el destino.#$b#Podría haber sido totalmente diferente." #!String
     Good_3: "¡Vaya, hoy pareces lleno de energía!$l^Hoy estás hermosa.$l" #!String
     Good_4: "Mm... Hueles bien." #!String
     Good_5: "Sólo estaba admirando mi amuleto de la boda... Amaré este tesoro por el resto de mi vida.$l" #!String
@@ -72,13 +72,13 @@ content:  #!Dictionary<String,String>
     Bad_3: "¿He hecho algo mal? Has estado diferente últimamente.$s" #!String
     Bad_4: "¿Alguna vez te preguntas que más hay ahí fuera?$s" #!String
     Bad_5: "Antes eras romántico... ¿qué ha pasado?$s^Antes eras romántica... ¿qué ha pasado?$s#$e#Sé que no soy tan joven como antes, ¿por eso te casaste conmigo?$a" #!String
-    Bad_6: "Solo tenemos una vida, y es corta... ¿lo estamos haciendo mal?$s" #!String
-    Bad_7: "Solía ser tu 'amorcito'... ahora solo parece que me quieres cuando te hago una cena caliente.$s" #!String
+    Bad_6: "Sólo tenemos una vida, y es corta... ¿lo estamos haciendo mal?$s" #!String
+    Bad_7: "Solía ser tu \"amorcito\"... ahora solo parece que me quieres cuando te hago una cena caliente.$s" #!String
     Bad_8: "Has estado tan frío últimamente...$s^Has estado tan fría últimamente...$s" #!String
     Bad_9: "Me pregunto si podría haberlo hecho mejor...$s" #!String
     spring_2: "Bueno, ¿qué plantamos esta temporada?" #!String
     spring_1: "Anoche celebramos bien el año nuevo...$l" #!String
-    spring_15: "*suspiro*...supongo que ya es hora de hacer la 'limpieza de primavera' de nuevo.$s" #!String
+    spring_15: "*suspiro*...supongo que ya es hora de hacer la \"limpieza de primavera\" de nuevo.$s" #!String
     summer_1: "Ah, el verano... Ya puedo oler las bayas picantes.$h" #!String
     summer_9: "Perdona si me notas sudorosa... He estado sudando toda la noche por el calor." #!String
     summer_2: "Es verano... eso significa que la casa se llenará de moscas#$e#No te preocupes, yo me ocupo." #!String
@@ -87,5 +87,4 @@ content:  #!Dictionary<String,String>
     fall_2: "Sé que la temporada de cosecha te ocupa mucho tiempo. Intentaré ayudarte tanto como pueda." #!String
     winter_1: "Ya llegó el invierno y eso significa que es la temporada de la fruta de cristal. Su sabor es único, ¿no crees?" #!String
     winter_7: "Estoy pensando en esculpir hielo mañana. Sólo puede hacerlo una vez al año, ¡pero es muy divertido!" #!String
-    winter_28: "Bueno, ¡otro gran año para la granja %farm! ¡Divirtámonos esta noche! [348]$h#$e#El año que viene va a ser genial, puedo sentirlo." #!String
-
+    winter_28: "Bueno, ¡otro gran año para la Granja %farm! ¡Divirtámonos esta noche! [348]$h#$e#El año que viene va a ser genial, puedo sentirlo." #!String
