@@ -23,28 +23,28 @@ content:  #!Dictionary<String,String>
     mainEvent: "globalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis \"Estupendo, atención. Que comience la competición de pesca sobre hielo.\"/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis \"Concursantes, su objetivo será capturar tantos peces como les sea posible en dos minutos, usando las cañas de pescar que hemos facilitado.#$b#Tienen que pescar sus peces aquí, de estos agujeros en el hielo.\"/pause 600/speak Lewis \"Bien. ¿Todo el mundo esta listo?\"/pause 500/waitForOtherPlayers/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis \"¡Empienzen!\"/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 -1 0 0 2 1 8000 0 -1 1 6000 0 -1 1 0/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing" #!String
     afterIceFishing: "pause 100/playSound whistle/pause 1000/globalFade/viewport -1000 -1000/extendSourceRect Pam reset/extendSourceRect Willy reset/extendSourceRect Elliott reset/specificTemporarySprite iceFishingCatch/faceDirection Pam 0/faceDirection Willy 0/faceDirection Elliott 0/playMusic event1/loadActors MainEvent/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/pause 1000/viewport 71 35 true/pause 2000/move Lewis 0 4 2/speak Lewis \"¡Guau, hay un montón de peces!$h\"/pause 300/showFrame Lewis 18/shake Lewis 1000/speak Lewis \"*puaj*... ese olor...$s\"/pause 500/showFrame Lewis 0/pause 600/move Lewis 0 1 2/speak Lewis \"Ahora, para el ganador de la competición de pesca sobre hielo de este año...\"/pause 800/playMusic none/pause 3000/cutscene iceFishingWinner/null/playMusic event1/pause 500/fork DickWin/move Lewis 0 1 2/speak Lewis \"¡Aquí tienes tu premio! Disfrútalo.\"/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis \"Pues ya está, esto ha sido el Festival del Hielo de este año. ¡Gracias a todos por venir! #$b#Ya pueden soltar a esos pobres peces...$s\"/move Lewis -3 0 0/move Lewis 0 -1 0/advancedMove Willy true 0 3 -2 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/message \"¡No me puedo creer que haya ganado! Ahora toca volver a casa.\"/end" #!String
     DickWin: "pause 100/jump Willy/faceDirection Elliott 3/pause 800/move Willy 0 -1 0/faceDirection Elliott 0/speak Lewis \"Aquí está tu premio, Willy. Disfrútalo\"/pause 500/move Willy 0 -2 0/move Lewis -1 0 2/move Lewis 0 1 2/playSound coin/pause 400/move Lewis 0 -1 0/pause 500/speak Lewis \"Pues ya está, esto ha sido el Festival del Hielo de este año. ¡Gracias a todos por venir!#$b#Ya pueden soltar a esos pobres peces...$s\"/move Lewis -2 0 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/message \"No he ganado la competición, ¡pero me he divertido mucho! Hora de volver a casa.\"/end" #!String
-    Abigail_spouse: "Hey, honey... look, it's you!$h" #!String
-    Penny_spouse: "Are you entering the fishing contest this year, @? My mom's pretty serious about winning." #!String
-    Haley_spouse: "Brr... my hands are freezing from making this snowman.$l" #!String
-    Sebastian_spouse: "Don't worry about me, I never get cold..." #!String
-    Sam_spouse: "Aren't you cold? Are you sure you don't want my jacket?" #!String
-    Alex_spouse: "I'll be rooting for you in the fishing competition." #!String
-    Harvey_spouse: "I'm dreaming of our warm fire back home...$l" #!String
-    Elliott_spouse: "I know you'll beat me in the fishing competition, but I don't mind. I'm just here for the fun of it.$h" #!String
+    Abigail_spouse: "Ey, cariño... ¡mira, eres tú!$h" #!String
+    Penny_spouse: "¿Vas a participar en el torneo de este año, @? Mi madre se toma muy en serio lo de ganar." #!String
+    Haley_spouse: "Brr... Tengo las manos congeladas de hacer el muñeco de nieve.$l" #!String
+    Sebastian_spouse: "No te preocupes por mí, nunca tengo frío..." #!String
+    Sam_spouse: "¿No tienes frío? ¿Seguro que no quieres mi chaqueta?" #!String
+    Alex_spouse: "Te apoyaré en la competición de pesca." #!String
+    Harvey_spouse: "Estoy soñando despierto con la chimenea que tenemos en casa...$l" #!String
+    Elliott_spouse: "Sé que me ganará en la competición de pesca, pero no me importa. Solo estoy aquí para divertirme.$h" #!String
     Abigail: "¿Qué opinas sobre mi guardaespaldas de nieve?" #!String
     Robin: "¡Lo siento, pero las esculturas de hielo requieren toda mi atención!" #!String
     Demetrius: "¿Sabes qué? Debería haberme puesto una chaqueta." #!String
     Maru: "No soy muy creativa cuando se trata de muñecos de nieve.$s" #!String
     Sebastian: "¿Frío? Nah, yo nunca tengo frío.." #!String
     Pierre: "Esta nieve está tan fría que ya no siento mis dedos...$s" #!String
-    Shane: "If it was up to me, I'd probably have a pizza festival at the saloon, instead..." #!String
+    Shane: "Si fuese por mí, haría un festival de pizzas en el bar en vez de esto..." #!String
     Caroline: "¿Cómo te ha tratado este invierno, @?$h" #!String
     Linus: "Aprendí el arte de construir iglús gracias a los habitantes de la tundra, más allá del mar congelado. #$e#Eso fue hace muchos años. $h#$e#Un iglú es un hogar agradable, pero es mejor usar un tienda de campaña durante todo el año." #!String
     Alex: "Supongo que los muñecos de nieve están bien. Pero yo estoy esperando la primavera." #!String
     George: "Hmmph... ¿Mi esposa me ha traído hasta aquí fuera para esto?" #!String
     Evelyn: "¿Alguna vez te he contado cómo nos conocimos George y yo? Me golpeó con una bola de nieve en este mismo festival.#$e#Era un caballero por aquel entonces, y vino a ver si me encontraba bien.$h" #!String
     Lewis: "Bienvenido al festival del hielo!#$e#Lo más llamativo del día de hoy es la competición de pesca en el hielo. Usamos este lago congelado y lo llenamos de peces.#$b#Cuando estés listo para competir, dímelo." #!String
-    Clint: "Emily started helping me without any provocation... does that mean something? *gulp*$4" #!String
+    Clint: "Emily ha empezado ha a ayudarme sin que se lo pidiese... ¿Significa algo? *traga saliva*$4" #!String
     Emily: "Wow, este muñeco de nieve necesita un cambio de imagen. ¿Quién lo ha hecho?$s" #!String
     Penny: "$y 'Hmm... ¿Qué tipo de muñeco de nieve debemos hacer?_Uno clásico. Con una zanahoria por nariz, sombrero de copa y bufanda._Supongo que quizá es mejor quedarse con lo clásico, ¿no?$h_Algo moderno. Antenas con estalacticas y ojos con piñas._¡Vale! Suena divertido.$h_Los muñecos de nieve son aburridos. ¡Piensa en otra cosa!_Um, vale... Creo que podría conformarme con algo más convencional.'" #!String
     Pam: "¡Pienso ganar el concurso de pesca en el hielo!#$e#Aunque será difícil superar a Willy... Él hace este tipo de cosas noche y día.$s" #!String
