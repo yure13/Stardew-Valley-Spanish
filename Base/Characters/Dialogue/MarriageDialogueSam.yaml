@@ -16,54 +16,54 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    Rainy_Day_0: "Hoy es un buen día para relajarme y tocar la guitarra... #$e# Hey, tú también puedes relajarte." #!String
+    Rainy_Day_0: "Hoy es un buen día para relajarme y tocar la guitarra...#$e#Oye, tú también puedes relajarte." #!String
     Rainy_Day_1: "¿Crees que Abigail y Sebastian saldrán juntos algún día?#$e#Je... Ahora que estoy casado intento que todos se casen también." #!String
-    Rainy_Day_2: "Hey, he encontrado esto en uno de los cajones. [90 88 86 535]#$e#He pensado que podrías usarlo." #!String
-    Rainy_Day_3: "Ah, tio. Los días nublados son un coñazo.$7" #!String
+    Rainy_Day_2: "Hola, he encontrado esto en uno de los cajones. [90 88 86 535]#$e#He pensado que podrías usarlo." #!String
+    Rainy_Day_3: "Puff... Los días nublados son una molestia.$7" #!String
     Rainy_Day_4: "¿Cómo has dormido? El sonido de la lluvia me relaja." #!String
-    Rainy_Night_0: "Hey, ¿qué tal tu día? Yo he estado tumbado y leyendo cómics casi todo el día... Ha estado bien.$h" #!String
+    Rainy_Night_0: "Hola, ¿qué tal tu día? Yo he estado tumbado y leyendo cómics casi todo el día... Ha estado bien.$h" #!String
     Rainy_Night_1: "Ha sido un día bastante relajado para mí... Cola, pizza congelada, unas cuantas horas de trastear con la guitarra... Estoy relajado." #!String
-    Rainy_Night_2: "Antes escuché la grabación del directo del show que hicimos. ¿Te acuerdas? Menudos fallos.#$b#¡Al estar tu allí me puse nervioso, no quería hacerme un lío y que pensases que era un perdedor!$l" #!String
-    Rainy_Night_3: "Espero que Vincent no se sienta solo ahora que me he ido... Me siento responsable por el chico.$s#$e#Pero la vida cambia... ¿verdad? Los niños tienen que aprenderlo pronto... Si no, la adultez los destruirá.$7" #!String
-    Rainy_Night_4: "Hey, he metido un par de pizzas congeladas en el horno. Aquí tienes la tuya. [206]$h" #!String
+    Rainy_Night_2: "Antes escuché la grabación del directo del concierto que hicimos. ¿Te acuerdas? Menudos fallos.#$b#¡Al estar tu allí me puse nervioso, no quería hacerme un lío y que pensases que era un perdedor!$l" #!String
+    Rainy_Night_3: "Espero que Vincent no se sienta solo ahora que me he ido... Me siento responsable por el chico.$s#$e#Pero la vida cambia... ¿verdad? Los niños tienen que aprenderlo pronto... Si no, la edad adulta los destruirá.$7" #!String
+    Rainy_Night_4: "Oye, he metido un par de pizzas congeladas en el horno. Aquí tienes la tuya. [206]$h" #!String
     Indoor_Day_0: "Uf... Te diré algo que no echo de menos de mi antigua vida... Trabajar en JojaMart." #!String
-    Indoor_Day_1: "Hey, he hecho tortitas instantáneas. Disfrútalas. [211]$h#$e#¿Qué? Nunca aprendí a cocinar... Siempre lo hizo mi madre." #!String
+    Indoor_Day_1: "Hola, he hecho tortitas instantáneas. Disfrútalas. [211]$h#$e#¿Qué? Nunca aprendí a cocinar... Siempre lo hizo mi madre." #!String
     Indoor_Day_2: "Sé que bromeo mucho, pero quiero que sepas que te quiero muchísimo...$l" #!String
-    Indoor_Day_3: "¿Tienes planes para el día?#$e#Oh, yo no... Normalmente decido que hacer un poco antes..." #!String
+    Indoor_Day_3: "¿Tienes planes para el día?#$e#Oh, yo no... Normalmente decido qué hacer sobre la marcha..." #!String
     Indoor_Day_4: "Um... Quizás deba ayudarte con la granja algún día. Hoy estoy algo perezoso.$s#$e#¿No te molesta, no?" #!String
-    Indoor_Night_0: "Hey, parece que hoy has trabajado duro. Déjame ayudarte a relajarte esta noche, ¿vale? Puede que luego te de un masaje." #!String
+    Indoor_Night_0: "Hola, parece que hoy has trabajado duro. Déjame ayudarte a relajarte esta noche, ¿vale? Puede que luego te de un masaje." #!String
     Indoor_Night_1: "¿Mi día? Oh... Lo recuerdo a duras penas. No he hecho nada importante. Solo relajarme y pasar un buen rato." #!String
     Indoor_Night_2: "Lo siento, no he hecho la cama. Sabes que soy descuidado... es por eso que me quieres, ¿verdad?$h" #!String
-    Indoor_Night_3: "Lo único que echo de menos de mi antigua casa es la cacerola de pescado de mi madre." #!String
+    Indoor_Night_3: "Lo único que echo de menos de mi antigua casa es el guiso de pescado de mi madre." #!String
     Indoor_Night_4: "¿Vamos a dormir? He hecho la cama por una vez..." #!String
     Outdoor_0: "Quizás deba conseguir unas ruedas todo terreno para mi skate. El alcalde Lewis no me puede decir nada aquí fuera.$h" #!String
     Outdoor_1: "Siempre tengo un ojo puesto en el cielo... Nunca sabes cuando pasará un OVNI por ahí." #!String
-    Outdoor_2: "¡Hola, @! Si supiese más sobre la granja te ayudaría más. ¡Lo siento!#$e#Lo intentaré y te ayudaré con pensamientos alentadores.$h" #!String
+    Outdoor_2: "¡Hola @! Si supiese más sobre la granja te ayudaría más. ¡Lo siento!#$e#Lo intentaré y te ayudaré con pensamientos alentadores.$h" #!String
     Outdoor_3: "Hay algo en el aire que me hace sentir bien... Quizás sea ese débil olor a pizza que sale de los hornos de Gus." #!String
-    Outdoor_4: "Wow... Hoy estás genial y las manchas de barro te dan un encanto extra.$l" #!String
+    Outdoor_4: "Vaya... Hoy estás genial y las manchas de barro te dan un encanto extra.$l" #!String
     OneKid_0: "Voy a cambiar los pañales de %kid1.... no te preocupes. Ya tienes bastante con tu faena." #!String
     OneKid_1: "¡Me gusta ser padre!$h" #!String
     OneKid_3: "Creo que deberíamos tener otro hijo. ¿Por qué parar ahora?" #!String
     TwoKids_0: "¡Me he levantado pronto, alimentado a los niños y cambiado sus pañales! Estamos listos. Puedes centrarte en conseguir dinero.$h#$e#Estoy de broma... No me casé por el dinero." #!String
-    TwoKids_1: "Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos que haya celos entre ellos." #!String
+    TwoKids_1: "Tenemos que asegurarnos de estar atentos de %kid1 ahora que está %kid2. No queremos se envidien." #!String
     TwoKids_2: "Es divertido ver a los bebés jugando entre sí. Se harán muy amigos." #!String
     TwoKids_3: "Nunca pensé que convertiría en un hombre de familia, pero estoy satisfecho de lo que hemos logrado. La vida va genial. $l" #!String
     Good_1: "¿Te acuerdas de la vez que nos colamos en mi cuarto? Lo hago a menudo...$l" #!String
     Good_2: "¿Sabes? Tuve la sensación de que estaríamos juntos desde el principio. Hay algo especial entre nosotros.$l" #!String
     Good_3: "¡Vaya! Estás muy guapo hoy, ¿te has afeitado?$l^Vaya, estás preciosa hoy. ¿Te has hecho algo diferente en el pelo?$l" #!String
     Good_6: "¡Ten cuidado fuera! Sé que sueles ir a las cuevas... ¡Podrían comerte!" #!String
-    Good_4: "Cielo, justo iba a escribirte una canción con la guitarra. Pero ahora estás aquí y estoy relajado.#$e#Solo me dan ganas de tocar cuando estoy solo." #!String
-    Good_5: "Cielo, ¡habla conmigo! Siempre me intereso por saber como te ha ido el día." #!String
+    Good_4: "Cielo, iba a escribirte una canción con la guitarra. Pero ahora estás aquí y estoy relajado.#$e#Solo me dan ganas de tocar cuando estoy solo." #!String
+    Good_5: "Cielo, ¡habla conmigo! Siempre me intereso por saber cómo te ha ido el día." #!String
     funLeave_Sam: "Voy a visitar a mi familia hoy, ¿vale? Volveré al atardecer." #!String
     funReturn_Sam: "Ver a la familia es bueno, pero un poco depresivo... Ya sabes, nuestras vidas están totalmente separadas ahora y todo parece más formal de lo que solía ser.$7" #!String
     spring_1: "Uf... primaveda... mi nadiz... aledgias.$s" #!String
     spring_12: "Estoy emocionado por el festival de mañana, ¿y tú? Estará bien ver a Sebastian de nuevo." #!String
-    spring_23: "Mañana es el Festival de las Flores, ¿verdad? Pensé que podría librarme de él ahora que estamos casados.#$e#Como sea, supongo que será divertido, aunque de una extraña manera." #!String
-    summer_1: "El polen será menor en verano, y mi nariz lo agradecerá.$h" #!String
-    summer_10: "¿Has pensado que echarás en la sopa del Luau?#$e#Sería gracioso poner algo asqueroso. Ya sabes, ¡para gastarle una broma al gobernador!#h#$e#Perdón..." #!String
-    summer_27: "El verano es bueno, pero estoy listo para el otoño.#$e# ¿Vamos a ver las medusas mañana por la noche? Siempre es divertido." #!String
+    spring_23: "Mañana es el Baile de las Flores, ¿verdad? Pensé que podría librarme de él ahora que estamos casados.#$e#Como sea, supongo que será divertido, aunque de una extraña manera." #!String
+    summer_1: "El nivel polen es menor en verano, y mi nariz lo agradece.$h" #!String
+    summer_10: "¿Has pensado qué echarás en la sopa del Luau?#$e#Sería gracioso poner algo asqueroso. Ya sabes, ¡para gastarle una broma al gobernador!#h#$e#Perdón..." #!String
+    summer_27: "El verano es bueno, pero estoy listo para el otoño.#$e#¿Vamos a ver las medusas mañana por la noche? Siempre es divertido." #!String
     fall_1: "Parece como si todo el valle hubiese cambiado de la noche a la mañana... Supongo que el otoño ya está aquí." #!String
-    fall_15: "Hey, mañana es la feria. Necesito tener en forma mi antigua muñeca de tirachinas..." #!String
+    fall_15: "Oye, mañana es la feria. Necesito tener en forma mi vieja muñeca de tirachinas..." #!String
     fall_26: "Me pregunto si mamá dejará entrar a Vincent al laberinto encantado este año. Lo más seguro es que no...$h#$e#Pobre niño, algún día crecerá..." #!String
     winter_1: "El viento frío hace que se congele mi gomina. No es muy agradable.$s" #!String
     winter_7: "¿Pasaremos por el festival del hielo mañana? Sería divertido volver a verlos a todos..." #!String
