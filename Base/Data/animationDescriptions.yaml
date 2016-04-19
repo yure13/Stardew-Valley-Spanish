@@ -16,7 +16,7 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<String,String>
-    abigail_videogames: "22 21 20/20/20 21 22/Urghh... I still can't beat the first level of 'Journey of the Prairie King'!$u" #!String
+    abigail_videogames: "22 21 20/20/20 21 22/Urghh... ¡Sigo sin poder pasarme el primer nivel de 'Journey of the Prairie King'!$u" #!String
     abigail_sit_down: "23/23/23" #!String
     abigail_flute: "0/16 16 17 17 18 18 19 19/0/silent" #!String
     penny_dishes: "24 25/24 25/24 25" #!String
@@ -28,15 +28,15 @@ content:  #!Dictionary<String,String>
     elliott_drink: "16/16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 18 18 19 19 18 18 19 19 18 17 16 16 16 16 16 16 16 16 16 16 16 16/16" #!String
     evelyn_sit_left: "16/16/16" #!String
     evelyn_garden: "17/17 17 18 18 17 17 18 18 17 17 17 19 19 19 19 19 19 19 19 19 19 19/17" #!String
-    haley_photo: "30/30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 24 24 24 24 24 24 31 30 30 30 30 30 30 30 30 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 32 25 25 25 25 25 25 25 25 25 25 32 33 33 33 33 33 33 33 32 25 25 25 25 25 25 25 25 25 32 33 33 33 33 33 33/30/%Haley's too involved with her camera to notice you." #!String
-    harvey_radio: "23/23/23/%Harvey looks busy right now." #!String
+    haley_photo: "30/30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 31 24 24 24 24 24 24 31 30 30 30 30 30 30 30 30 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 32 25 25 25 25 25 25 25 25 25 25 32 33 33 33 33 33 33 33 32 25 25 25 25 25 25 25 25 25 32 33 33 33 33 33 33/30/%Haley está demasiado ocupada con la cámara para fijarse en ti." #!String
+    harvey_radio: "23/23/23/%Parece que Harvey está ocupado ahora." #!String
     harvey_eat: "36 36 37 38 38 37/36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 37 38 38 37/36" #!String
     harvey_read: "16/16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 17/16" #!String
-    harvey_examine_left: "34 34 34/35/34 34 34/Now just hold still... Take a deep breath for me.$u" #!String
+    harvey_examine_left: "34 34 34/35/34 34 34/Ahora no te muevas... Respira profundo.$u" #!String
     jodi_dishes: "16/16 17/16" #!String
     pam_sit_down: "24/24/24" #!String
     alex_football: "23/23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 16 16 16 17 18 19 19 20 21 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23/23" #!String
-    alex_lift_weights: "34/34 34 34 34 34 34 34 34 34 33 28 29 30 31 32 32 31 30 29 28 33 34 34 34/34/Unghh... Can't talk." #!String
+    alex_lift_weights: "34/34 34 34 34 34 34 34 34 34 33 28 29 30 31 32 32 31 30 29 28 33 34 34 34/34/Unghh... No puedo hablar." #!String
     alex_sit_left: "39/39/39" #!String
     maru_sit_down: "31/31/31" #!String
     leah_sculpt: "19/16 17 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19/19" #!String
@@ -44,35 +44,35 @@ content:  #!Dictionary<String,String>
     maru_tinker: "24 25/16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 19 20 20 19 19 20 20 21 21 22 23/25 24" #!String
     lewis_garden: "25/16 16 17 17 16 16 16 16 17 17 16 16 17 17 16 16/25" #!String
     lewis_drink: "19/19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 22 23 23 23 23 23 22 22 22 23 23 23 23 23 23 23 23 23 23 2/19" #!String
-    robin_dance: "20/20 20 21 21 22 22/20/%Robin is busy." #!String
-    demetrius_dance: "24/24 24 25 25 26 26/24/%Demetrius is busy." #!String
-    demetrius_read: "16/16/16/We're insulated from the rest of the world here in Stardew Valley. Maybe that's a good thing." #!String
+    robin_dance: "20/20 20 21 21 22 22/20/%Robin está ocupada." #!String
+    demetrius_dance: "24/24 24 25 25 26 26/24/%Demetrius está ocupado." #!String
+    demetrius_read: "16/16/16/Estámos aislados del resto del mundo aquí en Stardew Valley. Quizá eso sea algo bueno." #!String
     demetrius_notes: "27/27 27 27 27 27 27 27 27 27 27 27 27 27 27 30 30 30 31 30 31 30 31 30 31 30 31 30 31 30 31 30 31 27 27 27 27 27 27 27 27 30 31 30 31 30 31 30 31 30 31/27" #!String
-    emily_exercise: "16/16 16 17 17 16 16 17 17 20 20 21 21 20 20 21 21 16 16 17 17 16 16 17 17 22 22 23 23 22 22 23 23/16/Exercising can be fun!" #!String
+    emily_exercise: "16/16 16 17 17 16 16 17 17 20 20 21 21 20 20 21 21 16 16 17 17 16 16 17 17 22 22 23 23 22 22 23 23/16/¡Hacer ejercicio puede ser divertido!" #!String
     gus_clean: "18/18 18 19 19 20 20 19 19/18" #!String
-    robin_exercise: "28/28 28 29 30 30 31/28/My arms are strong... *pant*... but my legs need work... *gasp*" #!String
+    robin_exercise: "28/28 28 29 30 30 31/28/Mis brazos son fuertes... *jadeo*... pero mis piernas necesitan más ejercicio... *jadeo*" #!String
     gus_sit_down: "21/21/21" #!String
-    caroline_exercise: "16/16 16 17 17 16 16 18 18/16/Don't look! I'm all red and sweaty.$s" #!String
+    caroline_exercise: "16/16 16 17 17 16 16 18 18/16/¡No mires! Estoy toda roja y sudorosa.$s" #!String
     caroline_read: "19/19/19" #!String
     shane_drink: "20/20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 24 24 24 24 24 24 24 23 22 21/20" #!String
-    shane_work: "16/16 17 18 19 20 21 22 23 24 25 26 27/16/%Shane's hard at work. He doesn't seem interested in talking." #!String
-    marnie_exercise: "24/24 25 26 27/24/%Marnie smiles at you through a mist of sweat." #!String
+    shane_work: "16/16 17 18 19 20 21 22 23 24 25 26 27/16/%Shane está trabajando duro. No parece interesarle hablar." #!String
+    marnie_exercise: "24/24 25 26 27/24/%Marnie te sonríe a través de una nube de sudor." #!String
     marnie_drink: "20/20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 21 22 23 23 23 23 23 23 23 23 22 21/20" #!String
-    jodi_exercise: "19/19 19 19 19 20 21 22 23 23 23 23 22 21 20 19 19 20 21 22 23 23 23 23 22 21 20 21 22 23 22 21 20 22 23 22 21 20/19/Ungh... Breathe in.... Ungh.... Breathe out.$4" #!String
+    jodi_exercise: "19/19 19 19 19 20 21 22 23 23 23 23 22 21 20 19 19 20 21 22 23 23 23 23 22 21 20 21 22 23 22 21 20 22 23 22 21 20/19/Ungh... Inspira.... Ungh.... Espira.$4" #!String
     jodi_sit_down: "18/18/18" #!String
-    vincent_read_right: "24/24/24/Ms. Penny says I have to read this book before I can go play.$s" #!String
+    vincent_read_right: "24/24/24/La señorita Penny dice que tengo que leer este libro antes de ir a jugar.$s" #!String
     vincent_play: "22/22 22 22 22 22 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23/22" #!String
     vincent_beach: "18/18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19/18" #!String
     penny_sit_down: "34/34/34" #!String
     jas_read: "22/22/22" #!String
     jas_jumprope: "0/16 17 18 19/0" #!String
-    penny_wave_left: "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20/12/12/This town's safe, but I always walk the children home anyway." #!String
+    penny_wave_left: "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20/12/12/Este pueblo es seguro, pero siempre acompaño a los niños a casa igualmente." #!String
     sebastian_computer: "24/24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24 24/24" #!String
     sebastian_cardsLeft: "28/28/28/silent" #!String
     sebastian_smoking: "16/16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 21 21 21 21 21 22 23 16 16 16 16 16 16 16 16 16 16 16/16" #!String
-    sam_guitar: "20/20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 22 22 22 23 23 23 22 22 22 23 23 23/20/%Sam is busy practicing the guitar." #!String
-    sam_gameboy: "16/16 17 18 19/16/One sec... I gotta beat this level.$7" #!String
-    sam_skateboarding: "25/25 25 25 25 25 25 25 27 27 25 25 25 25 27 27 27 27 25 25 25 25 25 25 25 25 25 25 25 27 27 27 27 27 25 26 29 30 31 32 32 32 31 31 31 31 31 31 31 31 31 32 32 32 32 31 30 29 26 25 27 27 27 27 27 27/25/%Sam's trying to do a kickflip." #!String
-    sam_pool: "4/4 4 4 4 4 4 4 4 4 34 34 34 34 34 4 4 4 4 4 4 34 34 34 34 34 34 38 34 34 34 34 34/4/$c .5#Hmm... If I give the cue ball a bit of a top spin, maybe I could...$7#$e#*Sigh*... I'm not very good.$s" #!String
-    sam_work: "40/40 40 41 41 42 42 41 41/40/%Sam's on the clock... better not get him in trouble." #!String
+    sam_guitar: "20/20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 20 20 20 21 21 21 22 22 22 23 23 23 22 22 22 23 23 23/20/%Sam está ocupado practicando con la guitarra." #!String
+    sam_gameboy: "16/16 17 18 19/16/Un momento... Tengo que pasarme este nivel.$7" #!String
+    sam_skateboarding: "25/25 25 25 25 25 25 25 27 27 25 25 25 25 27 27 27 27 25 25 25 25 25 25 25 25 25 25 25 27 27 27 27 27 25 26 29 30 31 32 32 32 31 31 31 31 31 31 31 31 31 32 32 32 32 31 30 29 26 25 27 27 27 27 27 27/25/%Sam está intentando hacer un kickflip." #!String
+    sam_pool: "4/4 4 4 4 4 4 4 4 4 34 34 34 34 34 4 4 4 4 4 4 34 34 34 34 34 34 38 34 34 34 34 34/4/$c .5#Mmm... Si le doy a la bola blanca un poco de efecto, quizá podría...$7#$e#*suspiro*... No soy muy bueno en esto.$s" #!String
+    sam_work: "40/40 40 41 41 42 42 41 41/40/%Sam está trabajando... será mejor no meterle en un lío." #!String
 
