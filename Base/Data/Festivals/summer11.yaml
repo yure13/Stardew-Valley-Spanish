@@ -40,7 +40,7 @@ content:  #!Dictionary<String,String>
     Abigail: "Es agotador hablar con todo el mundo... Preferiría contemplar el mar." #!String
     Emily: "%Ella es insensible." #!String
     Robin: "Ouch... Me has pisado el pie." #!String
-    Demetrius: "Esto es agotador, cariño. ¿Estás preparado para visitar el buffet pronto?*resoplido*" #!String
+    Demetrius: "Esto es agotador, cariño. ¿Estás preparado para visitar el buffet pronto? *resoplido*" #!String
     Maru: "Sea lo que sea lo que Linus está asando, huele extremadamente bien... *sorbe*" #!String
     Sebastian: "Un año, Sam puso medio kilo de anchoas en la sopa.#$e#¿No te has preguntado nunca por qué Sam hace tantas horas de servicios comunitarios?$h" #!String
     Linus: "Darle la vuelta de forma lenta y continua es la clave para conseguir el tostado ideal." #!String
