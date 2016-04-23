@@ -20,9 +20,9 @@ xnbData:
     numSharedResources: 0
 
 content:  #!Dictionary<Int32,String>
-    0: "Weeds/0/-1/Basic/Un montón de malas hierbas." #!String
-    2: "Stone/0/-300/Basic/Un material útil cuando se rompe con el pico." #!String
-    4: "Stone/0/-300/Basic/Un material útil cuando se corta con un hacha." #!String
+    0: "Malas hierbas/0/-1/Basic/Un montón de malas hierbas." #!String
+    2: "Piedra/0/-300/Basic/Un material útil cuando se rompe con el pico." #!String
+    4: "Piedra/0/-300/Basic/Un material útil cuando se corta con un hacha." #!String
     16: "Wild Horseradish/50/5/Basic -81/Una raíz picante de primavera." #!String
     18: "Daffodil/30/0/Basic -81/Una flor típica de primavera. Es un buen regalo." #!String
     20: "Leek/60/16/Basic -81/Un sabroso pariente de la cebolla." #!String
@@ -210,7 +210,7 @@ content:  #!Dictionary<Int32,String>
     286: "Cerezas bomba/50/-300/Crafting -8/Genera una pequeña explosión. ¡Atrás!" #!String
     287: "Bomba/50/-300/Crafting -8/Genera una explosión. ¡Cuidado!" #!String
     288: "Mega bomba/50/-300/Crafting -8/Genera una explosión muy poderosa. Utilizar con extrema precaución." #!String
-    290: "Stone/50/-300/Basic/..." #!String
+    290: "Piedra/50/-300/Basic/..." #!String
     294: "Twig/1/-300/Crafting/..." #!String
     295: "Twig/1/-300/Crafting/..." #!String
     296: "Frambuesa/5/10/Basic -79/Una baya de primavera con el sabor del bosque." #!String
@@ -228,25 +228,25 @@ content:  #!Dictionary<Int32,String>
     309: "Bellota/20/-300/Crafting -74/Coloca esto en tu granja para plantar un roble." #!String
     310: "Semillas de arce/5/-300/Crafting -74/Coloca esto en tu granja para plantar un arce rojo." #!String
     311: "Piña de pino/5/-300/Crafting -74/Colócala en un granja para que crezca un pino." #!String
-    313: "Weeds/50/-300/Crafting/..." #!String
-    314: "Weeds/50/-300/Crafting/..." #!String
-    315: "Weeds/50/-300/Crafting/..." #!String
-    316: "Weeds/50/-300/Crafting/..." #!String
-    317: "Weeds/50/-300/Crafting/..." #!String
-    318: "Weeds/50/-300/Crafting/..." #!String
-    319: "Weeds/50/-300/Crafting/..." #!String
-    320: "Weeds/50/-300/Crafting/..." #!String
-    321: "Weeds/50/-300/Crafting/..." #!String
+    313: "Malas hierbas/50/-300/Crafting/..." #!String
+    314: "Malas hierbas/50/-300/Crafting/..." #!String
+    315: "Malas hierbas/50/-300/Crafting/..." #!String
+    316: "Malas hierbas/50/-300/Crafting/..." #!String
+    317: "Malas hierbas/50/-300/Crafting/..." #!String
+    318: "Malas hierbas/50/-300/Crafting/..." #!String
+    319: "Malas hierbas/50/-300/Crafting/..." #!String
+    320: "Malas hierbas/50/-300/Crafting/..." #!String
+    321: "Malas hierbas/50/-300/Crafting/..." #!String
     322: "Valla de madera/1/-300/Crafting -8/¡Mantiene la hierba y a los animales a raya!" #!String
     323: "Valla de piedra/2/-300/Crafting -8/Dura mas que una valla de madera." #!String
     324: "Valla de hierro/6/-300/Crafting -8/Dura mas que una valla de piedra." #!String
     325: "Puerta/4/-300/Crafting -8/Permite pasar a través de una valla." #!String
     326: "Diccionario enano/50/-300/Crafting -8/Te enseña el idioma de los enanos." #!String
-    328: "Wood Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
-    329: "Stone Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    328: "Suelo de madera/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    329: "Suelo de piedra/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     330: "Arcilla/20/-300/Basic -16/Usada para fabricar objetos y en construcción." #!String
-    331: "Weathered Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
-    333: "Crystal Floor/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    331: "Suelo aislante/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
+    333: "Suelo de cristal/1/-300/Crafting -24/Colócalo en el suelo para crear caminos o para decorar tu casa." #!String
     334: "Lingote de cobre/60/-300/Basic -15/Una barra de cobre puro." #!String
     335: "Lingote de hierro/120/-300/Basic -15/Una barra de hierro puro." #!String
     336: "Lingote de Oro/250/-300/Basic -15/Una barra de oro puro." #!String
@@ -255,7 +255,7 @@ content:  #!Dictionary<Int32,String>
     340: "Miel/100/-300/Basic -26/Un jarabe dulce, producido por abejas." #!String
     341: "Juego de té/200/-300/Basic -24/Porcelana fina." #!String
     342: "Encurtidos/100/-300/Basic -26/Un tarro de encurtidos caseros." #!String
-    343: "Stone/100/-300/Basic/Piedra." #!String
+    343: "Piedra/100/-300/Basic/Piedra." #!String
     344: "Mermelada/160/-300/Basic -26/Pegajosa." #!String
     346: "Cerveza/200/20/Basic -26/Beber con moderación./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     347: "Semilla extraña/200/-300/Seeds -74/Se planta en otoño. Tarda toda una estación en crecer." #!String
@@ -276,7 +276,7 @@ content:  #!Dictionary<Int32,String>
     384: "Gold Ore/25/-300/Basic -15/Un mineral precioso que puede ser fundido en lingotes." #!String
     386: "Iridium Ore/100/-300/Basic -15/Un mineral exótico, con muchas propiedades curiosas. Puede ser fundido en lingotes." #!String
     388: "Wood/2/-300/Basic -16/Un material fuerte, a la vez que flexible, con una gran variedad de usos." #!String
-    390: "Stone/2/-300/Basic -16/Un material común, con usos variados en la construcción y en la elaboración de objetos." #!String
+    390: "Piedra/2/-300/Basic -16/Un material común, con usos variados en la construcción y en la elaboración de objetos." #!String
     392: "Nautilus Shell/120/-300/Basic -23/Una antigua concha." #!String
     393: "Coral/80/-300/Basic -23/Una colonia de criaturas diminutas que se agrupan formando preciosas estructuras." #!String
     394: "Rainbow Shell/300/-300/Basic -23/Una concha muy hermosa." #!String
@@ -328,9 +328,9 @@ content:  #!Dictionary<Int32,String>
     442: "Huevo de pato/75/15/Basic -5/Aún esta caliente." #!String
     444: "Pluma de pato/100/-300/Basic -18/Muy colorida." #!String
     446: "Pie de conejo/450/-300/Basic -18/Algunos dicen que trae suerte." #!String
-    449: "Stone Base/0/-300/asdf/Un simple bloque de piedra." #!String
-    450: "Stone/0/-300/asdf/Piedra." #!String
-    452: "Weeds/0/-300/asdf/Un manojo de hierbas secas." #!String
+    449: "Base de piedra/0/-300/asdf/Un simple bloque de piedra." #!String
+    450: "Piedra/0/-300/asdf/Piedra." #!String
+    452: "Malas hierbas/0/-300/asdf/Un manojo de hierbas secas." #!String
     453: "Semillas de amapola/50/-300/Seeds -74/Se planta en verano. Produce una brillante flor roja en 7 días." #!String
     454: "Fruta ancestral/750/-300/Basic -79/Ha estado inactiva durante eones." #!String
     455: "Semillas de lentejuela/25/-300/Seeds -74/Se plantan en verano. Tarda 8 días en producir una vibrante planta tropical. Colores variados." #!String
@@ -478,14 +478,14 @@ content:  #!Dictionary<Int32,String>
     648: "Coleslaw/345/85/Cooking -7/Es ligera, fresca y muy saludable./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     649: "Fiddlehead Risotto/350/90/Cooking -7/Un cremoso plato de arroz, servido con cabezas de helecho salteadas. Esta un poco soso./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     651: "Poppyseed Muffin/250/60/Cooking -7/Tiene un efecto relajante./food/0 0 0 0 0 0 0 0 0 0 0/0" #!String
-    668: "Stone/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
-    670: "Stone/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
-    674: "Weeds/0/15/Basic/Malas hierbas." #!String
-    675: "Weeds/0/15/Basic/Malas hierbas." #!String
-    676: "Weeds/0/15/Basic/Malas hierbas." #!String
-    677: "Weeds/0/15/Basic/Malas hierbas." #!String
-    678: "Weeds/0/15/Basic/Malas hierbas." #!String
-    679: "Weeds/0/15/Basic/Malas hierbas." #!String
+    668: "Piedra/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
+    670: "Piedra/0/15/Basic/Hay mineral de piedra en esta piedra." #!String
+    674: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
+    675: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
+    676: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
+    677: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
+    678: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
+    679: "Malas hierbas/0/15/Basic/Malas hierbas." #!String
     680: "Green Slime Egg/5/-300/Basic/Puede ser incubado en una incubadora de slimes." #!String
     681: "Rain Totem/20/-300/Crafting/Actívalo para aumentar de forma considerable las posibilidades de que llueva mañana. Se consume al usarlo." #!String
     682: "Mutant Carp/1000/10/Fish -4/Las extrañas aguas de las cloacas han convertido esta carpa en una monstruosidad./Day^Spring Summer" #!String
@@ -538,12 +538,12 @@ content:  #!Dictionary<Int32,String>
     747: "Rotten Plant/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
     748: "Rotten Plant/0/-300/Basic -20/Material orgánico en descomposición. Es viscoso y desagradable." #!String
     749: "Omni Geode/0/-300/Basic/Un herrero puede abrirla para ti. Estas geodas contienen una gran variedad de minerales./538 542 548 549 552 555 556 557 558 566 568 569 571 574 576 541 544 545 546 550 551 559 560 561 564 567 572 573 577 539 540 543 547 553 554 562 563 565 570 575 578 121 122 123" #!String
-    750: "Weeds/0/15/Basic/Maleza horripilante." #!String
-    751: "Stone/0/15/Basic/Hay mineral de cobre en esta piedra." #!String
-    760: "Stone/0/15/Basic/.." #!String
-    762: "Stone/0/15/Basic/.." #!String
-    764: "Stone/0/15/Basic/Mineral de oro." #!String
-    765: "Stone/0/15/Basic/Mineral de iridio." #!String
+    750: "Malas hierbas/0/15/Basic/Maleza horripilante." #!String
+    751: "Piedra/0/15/Basic/Hay mineral de cobre en esta piedra." #!String
+    760: "Piedra/0/15/Basic/.." #!String
+    762: "Piedra/0/15/Basic/.." #!String
+    764: "Piedra/0/15/Basic/Mineral de oro." #!String
+    765: "Piedra/0/15/Basic/Mineral de iridio." #!String
     766: "Slime/5/-300/Basic -28/Un brillante pegote gelatinoso sin olor." #!String
     767: "Bat Wing/15/-300/Basic -28/Es sorprendentemente delicada." #!String
     768: "Solar Essence/40/-300/Basic -28/La cara que brilla es cálida al tacto." #!String
@@ -553,12 +553,12 @@ content:  #!Dictionary<Int32,String>
     772: "Oil of Garlic/1000/80/Cooking -7/Al beberlo los monstruos más débiles te evitarán./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     773: "Life Elixir/500/80/Cooking -7/Recupera la salud completamente./drink/0 0 0 0 0 0 0 0 0 0 0/0" #!String
     774: "Wild Bait/15/-300/Basic -21/Una receta única de Linus. Atrae a todos los peces." #!String
-    775: "Glacierfish/1000/10/Fish -4/Construye nidos bajo los glaciares./Day^Winter" #!String
-    784: "Weeds/0/15/Basic/Maleza horripilante." #!String
-    785: "Weeds/0/15/Basic/Maleza horripilante." #!String
-    786: "Weeds/0/15/Basic/Maleza horripilante." #!String
-    787: "Battery Pack/500/-300/Basic -16/Está completamente cargada de energía." #!String
-    788: "Lost Axe/0/-300/Quest/Robin la ha estado buscando por todas partes." #!String
-    789: "Lucky Purple Shorts/0/-300/Quest/Mejor no inspeccionarlos muy de cerca." #!String
-    790: "Berry Basket/0/-300/Quest/Está manchada del jugo de las bayas." #!String
+    775: "Pez glaciar/1000/10/Fish -4/Construye nidos bajo los glaciares./Day^Winter" #!String
+    784: "Malas hierbas/0/15/Basic/Maleza horripilante." #!String
+    785: "Malas hierbas/0/15/Basic/Maleza horripilante." #!String
+    786: "Malas hierbas/0/15/Basic/Maleza horripilante." #!String
+    787: "Batería/500/-300/Basic -16/Está completamente cargada de energía." #!String
+    788: "Hacha perdida/0/-300/Quest/Robin la ha estado buscando por todas partes." #!String
+    789: "Pantalones púrpuras de la suerte/0/-300/Quest/Mejor no inspeccionarlos muy de cerca." #!String
+    790: "Cesta de bayas/0/-300/Quest/Está manchada del jugo de las bayas." #!String
 
