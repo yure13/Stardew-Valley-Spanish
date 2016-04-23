@@ -757,10 +757,10 @@
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"You brought the ores I requested! \"": "¡Has traido las menas que pedí! ",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"These ores look to be of good quality... You can keep them, of course. I just wanted to see how the local geology is doing.\"": "Estes minérios parecem ser de boa qualidade... Voce pode mante-los, é claro. Eu só queria ver como a geologia local está indo.",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"I like to inspect local ores from time to time, to keep track of quality and abundance.#$b#Let me just take a look at these... Hmm... I see.#$b#Thank you. You can keep these ores. They're of \"": "Gosto de inspecionar minérios locais de tempos em tempos, para manter o controle de qualidade e abundância.#$b#Deixe eu só dar uma olhada nesses... Hmm... Entendo.#$b#Obrigado.Voce pode manter esses minérios.Eles sao de ",
-        "StardewValley.Quests.ResourceCollectionQuest..ctor#\"good\"": "boa",
+        "StardewValley.Quests.ResourceCollectionQuest..ctor#\"good\"": "bien",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"decent\"": "decente",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"excellent\"": "excelente",
-        "StardewValley.Quests.ResourceCollectionQuest..ctor#\" quality.\"": " qualidade.",
+        "StardewValley.Quests.ResourceCollectionQuest..ctor#\" quality.\"": " calidad.",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"#$b#...And here's your payment, as promised.\"": "#$b#...E aqui está o seu pagamento, como prometido.",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\"Hello! It's Robin. Could someone bring me \"": "Olá! É Robin. Alguém poderia me trazer ",
         "StardewValley.Quests.ResourceCollectionQuest..ctor#\" pieces of \"": " pedacos de ",
@@ -1356,8 +1356,8 @@
         "StardewValley.Menus.IClickableMenu.drawHoverText#\" Weight\"": " Peso",
         "StardewValley.Menus.IClickableMenu.drawHoverText#\" Energy\"": " Energía",
         "StardewValley.Menus.IClickableMenu.drawHoverText#\" Health\"": " Vida",
-        "StardewValley.Menus.IClickableMenu.drawHoverText#\"Farming\"": "Cultivar",
-        "StardewValley.Menus.IClickableMenu.drawHoverText#\"Fishing\"": "Pescar",
+        "StardewValley.Menus.IClickableMenu.drawHoverText#\"Farming\"": "Cultivo",
+        "StardewValley.Menus.IClickableMenu.drawHoverText#\"Fishing\"": "Pesca",
         "StardewValley.Menus.IClickableMenu.drawHoverText#\"Mining\"": "Minería",
         "StardewValley.Menus.IClickableMenu.drawHoverText#\"Combat\"": "Combate",
         "StardewValley.Menus.IClickableMenu.drawHoverText#\"Luck\"": "Suerte",
@@ -1520,10 +1520,10 @@
         "StardewValley.Menus.SkillsPage..ctor#\" Fishing Rod Efficiency\"": " Eficiencia con Caña de Pescar",
         "StardewValley.Menus.SkillsPage..ctor#\" Pickaxe Efficiency\"": " Eficiencia con Pico",
         "StardewValley.Menus.SkillsPage..ctor#\" Health\"": " Vida",
-        "StardewValley.Menus.SkillsPage.draw#\"Farming\"": "Cultivar",
+        "StardewValley.Menus.SkillsPage.draw#\"Farming\"": "Cultivo",
         "StardewValley.Menus.SkillsPage.draw#\"Mining\"": "Minería",
-        "StardewValley.Menus.SkillsPage.draw#\"Foraging\"": "Recolectar",
-        "StardewValley.Menus.SkillsPage.draw#\"Fishing\"": "Pescar",
+        "StardewValley.Menus.SkillsPage.draw#\"Foraging\"": "Recolección",
+        "StardewValley.Menus.SkillsPage.draw#\"Fishing\"": "Pesca",
         "StardewValley.Menus.SkillsPage.draw#\"Combat\"": "Combate",
         "StardewValley.Menus.SkillsPage.draw#\"Luck\"": "Suerte",
         "StardewValley.Menus.SkillsPage.draw#\"Wallet\"": "Bolso",
@@ -1656,6 +1656,7 @@
         "StardewValley.Minigames.Intro.draw#\"Loading...\"": "Cargando...",
         "StardewValley.SaveGame.Load#\"Loading...\"": "Cargando...",
         "StardewValley.Game1.Draw#\"Loading\"": "Cargando",
+		"StardewValley.Game1.Draw#\"Loading...\"": "Cargando...",
         "StardewValley.Menus.DayTimeMoneyBox.draw#\"Paused\"": "Pausa",
         "StardewValley.Menus.DayTimeMoneyBox.performHoverAction#\"Zoom In\"": "Acercar",
         "StardewValley.Menus.DayTimeMoneyBox.performHoverAction#\"Zoom Out\"": "Alejar",
@@ -1664,6 +1665,7 @@
         "StardewValley.Menus.OptionsPage..ctor#\"Show Merchant Portraits\"": "Mostrar retratos de vendedores",
         "StardewValley.Menus.OptionsPage..ctor#\"Always Show Tool Hit Location\"": "Mostrar objetivo de herramienta",
         "StardewValley.Menus.OptionsPage..ctor#\"Hide Tool Hit Location When Moving\"": "Ocultar objetivo de herramienta al andar",
+		"StardewValley.Menus.OptionsPage..ctor#\"Gamepad Placement Tile Indicator\"": "Indicador de bloco para controle",
         "StardewValley.Menus.OptionsPage..ctor#\"Pause When Game Window Is Inactive\"": "Pausa cuando la pantalla esté inactiva",
         "StardewValley.Menus.OptionsPage..ctor#\"Sound:\"": "Sonido:",
         "StardewValley.Menus.OptionsPage..ctor#\"Music Volume\"": "Volumen de la música",
@@ -1784,12 +1786,16 @@
         "StardewValley.Menus.AboutMenu..ctor#\"ConcernedApe on Twitter\"": "ConcernedApe en Twitter",
         "StardewValley.Menus.AboutMenu.draw#\"^= Created by ConcernedApe^< Published by Chucklefish^\"": "^= Creado por ConcernedApe^< Publicado por Chucklefish^",
         "StardewValley.Game1.updateActiveMenu#\"Gamepad mode activated\"": "Mando conectado",
+		"StardewValley.Game1.UpdateControlInput#\"Gamepad mode activated\"": "Mando conectado",
         "StardewValley.Game1.updateActiveMenu#\"Gamepad disconnected\"": "Mando desconectado",
+		"StardewValley.Game1.UpdateControlInput#\"Gamepad disconnected\"": "Mando desconectado",
         "StardewValley.Menus.JunimoNoteMenu.checkForRewards#\"Rewards\"": "Recompensas",
         "StardewValley.Object.get_Name#\" Recipe\"": " %Receita%",
         "StardewValley.Object.getDescription#\"A recipe to make \"": "Una receta para hacer ",
         "StardewValley.Menus.CarpenterMenu.draw#\"Choose a location\"": "Escoge un lugar",
         "StardewValley.Menus.CarpenterMenu.draw#\"Choose a structure to demolish\"": "Escoja una construccion para demoler",
+		"StardewValley.Menus.CarpenterMenu.draw#\"Select a \"": "Selecione um ",
+        "StardewValley.Menus.CarpenterMenu.draw#\" to upgrade.\"": " para melhorar.",
         "StardewValley.Menus.CarpenterMenu.performHoverAction#\"Demolish Buildings\"": "Demoler construccion",
         "StardewValley.Menus.CarpenterMenu.performHoverAction#\"Build\"": "Construir",
         "StardewValley.HUDMessage..ctor#\"New Achievement: \"": "Nuevo logro: ",
@@ -2082,6 +2088,11 @@
         "StardewValley.Buildings.Building.getNameOfNextUpgrade#\"well\"": "pozo",
         "StardewValley.Object.checkForAction#\"Wild\"": "Silvestre",
         "StardewValley.Object.checkForAction#\" Honey\"": " Miel de",
+		"StardewValley.Object.performObjectDropInAction#\"Pickled \"": "Conserva de ",
+        "StardewValley.Object.performObjectDropInAction#\" Jelly\"": " %Geleia%",
+        "StardewValley.Object.performObjectDropInAction#\" Juice\"": " %Suco%",
+        "StardewValley.Object.performObjectDropInAction#\" Wine\"": " %Vinho%",
+        "StardewValley.Object.performObjectDropInAction#\"Cheese (=)\"": "Queijo (=)",
         "StardewValley.Menus.ShopMenu.tryToPurchaseItem#\"Recipe\"": "%Receita%",
         "StardewValley.Menus.ItemGrabMenu.receiveLeftClick#\"Recipe\"": "%Receita%",
         "StardewValley.GameLocation.loadLights#\"Door \"": "Puerta ",
@@ -3156,15 +3167,22 @@
         "Festival of Ice": "Festival del Hielo",
         "Feast of the Winter Star": " Fiesta de la Estrella Invernal"
     },
-    "DrawTranslationTable": {
-        "StardewValley.Utility.drawTextWithShadow": {
-            "^Fazenda\\s+Nome$": "Nome da\nFazenda",
-            "^Nível (\\d+) - (.*)$": "$2 Nivel $1",
+	"DrawTranslationTable": {
+        "StardewValley.BellsAndWhistles.SpriteText.drawStringWithScrollCenteredAt": {
             "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Día $1 %$2%, Año $3",
             "%Spring%": "de Primavera",
             "%Summer%": "de Verano",
             "%Fall%": "de Otoño",
             "%Winter%": "de Invierno"
+        },
+        "StardewValley.Utility.drawTextWithShadow": {
+            "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Día $1 %$2%, Año $3",
+            "%Spring%": "de Primavera",
+            "%Summer%": "de Verano",
+            "%Fall%": "de Otoño",
+            "%Winter%": "de Invierno",
+			"^Fazenda\\s+Nome$": "Nome da\nFazenda",
+            "^Nível (\\d+) - (.*)$": "$2 Nivel $1"
         },
         "StardewValley.Menus.DayTimeMoneyBox.draw": {
             "Sun\\.": "Dom.",
@@ -3183,6 +3201,10 @@
             "Year": "Año"
         },
         "Global": {
+		    "de spring": "de primavera",
+            "de summer": "de verano",
+            "de fall": "de otoño",
+            "de winter": "de invierno",
             "\\bRailroad\\b": "Ferrocarril",
             "\\bBackwoods\\b": "Bosque",
             "\\bBus Stop\\b": "Parada de autobús",
@@ -3191,10 +3213,13 @@
             "\\bSewer\\b": "Esgoto",
             "\\bTent\\b": "Tienda",
             "\\bSaloon\\b": "Bar",
+			"Silvestre %Mel%": "Mel Silvestre",
+			"(Papoula|Ervilha-de-cheiro|Crocus|Girassol|Tulipa|Lantejoula do Verão|Rosa das Fadas|Jazz Azul) %Mel%": "Mel de $1",
+            "(Coco|Pitaia|Ruibarbo|Melão|Mirtilo|Pimenta|Carambola|Oxicocos|Framboesa|Ardísia|Uva|Morango|Amora|Fruta de Cristal|Fruta Antiga|Maçã|Damasco|Laranja|Pêssego|Romã|Cereja) %Geleia%": "Geleia de $1",
+            "(Chirívia|Vagem|Couve-flor|Batata|Alho|Couve|Tomate|Broto de Samambaia|Trigo|Rabanete|Couve Roxa|Milho|Berinjela|Alcachofra|Abóbora|Repolho Chinês|Inhame|Beterraba|Amaranto|Lúpulo) %Suco%": "Suco de $1",
+            "(Coco|Pitaia|Ruibarbo|Melão|Mirtilo|Pimenta|Carambola|Oxicocos|Framboesa|Ardísia|Uva|Morango|Amora|Fruta de Cristal|Fruta Antiga|Maçã|Damasco|Laranja|Pêssego|Romã|Cereja) %Vinho%": "Vinho de $1",
             "(.+)%Fazen%": "Granja $1",
             "(Irídio|Ouro|Aco|Cobre) de (Picareta|Machado|Enxada|Regador)": "$2 de $1",
-            "Silvestre Mel de": "Mel Silvestre",
-            "(Tulipa|Jazz Azul|Lantejoula do Verao|Papoula|Rosa das Fadas) Mel de": "Mel de $1",
             "(Marrom|Branca|do Vazio) (Vaca|Galinha)": "$2 $1",
             "Grande (Celeiro|Viveiro)": "$1 Grande",
             "Luxo de (Celeiro|Viveiro)": "$1 de Luxo",
@@ -3202,52 +3227,53 @@
             "\\b(M|m)eu (mother|mom)\\b": "$1inha mae",
             "\\b(M|m)eu sister\\b": "$1inha irma",
             "\\b(M|m)eu little brother\\b": "$1eu irmaozinho",
-            "%umadj%(\\w+)% (\\w*[aA]|Raiz|TV|Jade)\\b": "uma $1a $2",
+			"\\b(M|m)eu little baby-girl\\b": "$1inha filinha",
+            "(.*) %Modo%": "Modo $1",
+            "Wizard": "Mago",
+			"Dwarf": "Dwarf",
+            "Bouncer": "Bouncer",
+            "Mr. Qwee": "Sr. Qwee",
+            "Mr. Qi": "Sr. Qi",
+            "Governor": "Gobernador",
+            "Boiler Room": "Caldeira",
+            "Bulletin Board": "Quadro de Avisos",
+            "Crafts Room": "Sala de Creaciones",
+            "Fish Tank": "Aquario",
+            "Pantry": "Despensa",
+            "Vault": "Cofre",
+			"%umadj%(\\w+)% (\\w*[aA]|Raiz|TV|Jade)\\b": "uma $1a $2",
             "%umadj%(\\w+)%": "um $1o",
             "%um% (\\w*[aA]|Raiz|TV|Jade)\\b": "uma $1",
             "%um%": "um",
             "%esse% (\\w*[aA]|Raiz|TV|Jade)\\b": "essa $1",
             "%esse%": "esse",
             "%noseu% (\\w*[aA]|Raiz|TV|Jade)\\b": "na sua $1",
-            "%noseu%": "no seu",
-            "^Wizard$": "Mago",
-            "Boiler Room": "Caldeira",
-            "Bulletin Board": "Quadro de Avisos",
-            "Crafts Room": "Sala de Creaciones",
-            "Fish Tank": "Aquario",
-            "Pantry": "Despensa",
-            "Vault": "Cofre"
+            "%noseu%": "no seu"
         },
         "StardewValley.Menus.IClickableMenu.drawHoverText": {
             "\\nBarra de (\\w+)s$": "\n$1(Barra)",
             "para a sua (Porco|Pato|Coelho)": "para o seu $1",
             "^(.*) Bundle$": "Colección $1",
+			"(.*) %Receita%": "Receta de $1",
             "^O (Feira|Danca)": "A $1",
-            "(.*) %Receita%": "Receta de $1"
+			"^Baiacu$": "Baiacu      "
         },
         "StardewValley.Menus.JunimoNoteMenu.draw": {
             "^(.*) Bundle$": "Colección $1"
         },
-        "StardewValley.Menus.LevelUpMenu.draw": {
-            "^Level (\\d+) Farming$": "Cultivo Nível $1",
-            "^Level (\\d+) Fishing$": "Pesca Nível $1",
-            "^Level (\\d+) Foraging$": "Coleta Nível $1",
-            "^Level (\\d+) Mining$": "Mineracao Nível $1",
-            "^Level (\\d+) Combat$": "Combate Nível $1",
-            "^Level (\\d+) Luck$": "Sorte Nível $1"
-        },
-        "StardewValley.Menus.ConfirmationDialog.draw": {
-            "^Sair do (Danca|Feira)": "Salir de $1"
-        },
-        "StardewValley.BellsAndWhistles.SpriteText.drawStringWithScrollCenteredAt": {
-            "^(\\d+)(?:st|nd|rd|th) of (\\w+), Year (\\d+)$": "Día $1 %$2%, Año $3",
-            "%Spring%": "de Primavera",
-            "%Summer%": "de Verano",
-            "%Fall%": "de Otoño",
-            "%Winter%": "de Invierno"
+		"StardewValley.Menus.LevelUpMenu.draw": {
+            "^Level (\\d+) Farming$": "Cultivo Nivel $1",
+            "^Level (\\d+) Fishing$": "Pesca Nivel $1",
+            "^Level (\\d+) Foraging$": "Recolección Nivel $1",
+            "^Level (\\d+) Mining$": "Minería Nivel $1",
+            "^Level (\\d+) Combat$": "Combate Nivel $1",
+            "^Level (\\d+) Luck$": "Suerte Nivel $1"
         },
         "StardewValley.Menus.ShopMenu.draw": {
             "(.*) %Receita%": "Receta de $1"
-        }
+        },
+        "StardewValley.Menus.ConfirmationDialog.draw": {
+            "^Sair do (Danca|Feira)": "Salir de $1"
+		}
     }
 }
